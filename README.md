@@ -1,11 +1,27 @@
-# 🚀 SonyLIV Live Events Auto-Sync by Sayan
+# 🚀 SonyLIV Events Auto-Sync by Sayan
 
 [![GitHub Workflow Status](https://github.com/kajju027/SonyLiv-Events/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/kajju027/SonyLiv-Events/actions) 
 [![GitHub last commit](https://img.shields.io/github/last-commit/kajju027/SonyLiv-Events)](https://github.com/kajju027/SonyLiv-Events/commits/main)
 
 > ✨ **A high-availability, fully automated data synchronization project ensuring the SonyLIV live events list is always fresh and reliable.**
 
-This repository is maintained by a dedicated GitHub Action bot and built by **Sayan**. It automatically mirrors the latest event data from the original source.
+### 📈 Repository Metrics & Visitor Count
+
+| Metric | Status |
+| :---: | :--- |
+| **Workflow Status** | [![GitHub Workflow Status](https://github.com/kajju027/SonyLiv-Events/actions/workflows/update_sonyliv_json.yml/badge.svg)](https://github.com/kajju027/SonyLiv-Events/actions) |
+| **Total Stars** | [![GitHub stars](https://img.shields.io/github/stars/kajju027/SonyLiv-Events?style=social)](https://github.com/kajju027/SonyLiv-Events/stargazers) |
+| **Total Forks** | [![GitHub forks](https://img.shields.io/github/forks/kajju027/SonyLiv-Events?style=social)](https://github.com/kajju027/SonyLiv-Events/network/members) |
+| **Total Visitors** | ![](https://komarev.com/ghpvc/?username=kajju027&repo=SonyLiv-Events&color=blueviolet&style=flat) |
+| **Repo Size** | [![GitHub repo size](https://img.shields.io/github/repo-size/kajju027/SonyLiv-Events)](https://github.com/kajju027/SonyLiv-Events) |
+
+---
+
+## 🔗 Quick Attribution (Credit)
+
+This automated service is based on data collected and maintained by others. We provide full credit to the original source:
+
+* **Original Source Repository:** [drmlive/sliv-live-events](https://github.com/drmlive/sliv-live-events)
 
 ---
 
@@ -14,40 +30,28 @@ This repository is maintained by a dedicated GitHub Action bot and built by **Sa
 | Component | Detail | Setting |
 | :--- | :--- | :--- |
 | **Data File** | `sonyliv.json` | JSON Format |
-| **Sync Frequency** | **Every Moments** | `*/10 * * * *` Cron |
-| **Action Name** | `Automated SonyLIV JSON Updater` | **[Check Status Above]** |
-
-## 🔥 Key Features & Reliability
-
-* **Ultra-Reliable Sync:** Uses a dedicated GitHub Action to ensure maximum uptime.
-* **🔬 Robust Change Detection:** Utilizes the advanced `git status --porcelain` method to guarantee that even the smallest change (a single character or whitespace) is immediately detected, committed, and pushed.
-* **Zero Maintenance:** Once set up, the repository requires no manual intervention.
-* **Source Integrity:** Data is downloaded directly from the raw upstream source URL.
+| **Sync Frequency** | **Every Moments** | `Now Live` |
 
 ---
 
-## 💖 Formal Attribution and Credit
+## 📢 Call to Action: Use and Enjoy!
 
-As per open-source best practices, this repository acknowledges and credits the original source responsible for the data collection and maintenance.
+This repository is designed to be a highly reliable, zero-maintenance source for SonyLIV event data.
 
-### Source Repository Details:
+We encourage developers, data enthusiasts, and SonyLIV fans to **Clone this repository**, integrate the `sonyliv.json` file into your own projects, and enjoy the latest content seamlessly!
 
-| Detail | Value |
-| :--- | :--- |
-| **Original Source Repo** | **drmlive/sliv-live-events** |
-| **Source URL** | `https://github.com/drmlive/sliv-live-events` |
-| **Source File** | `sonyliv.json` |
-
-We extend our sincere thanks to the creator of **drmlive/sliv-live-events** for their valuable contribution to the community. This automated project is made possible by their consistent effort.
-
-### 🙏 Show Your Support!
-
-If you use this data, please consider giving a **Star ⭐** to the original source repository to encourage the creator:
-
-👉 **[Star the Original Repository Here!](https://github.com/drmlive/sliv-live-events)**
+> **Hit the Star ⭐ button to show your appreciation and help Sayan keep this project running!**
 
 ---
 
-## 👤 Project Maintainer
+## 💖 Formal Acknowledgment
 
-This auto-sync project is developed and maintained by **Sayan**.
+We extend our sincere thanks to the creator of **drmlive/sliv-live-events** for their valuable contribution to the open-source community. This project would not be possible without their consistent effort.
+
+👉 **Please support the original source by giving them a Star: [drmlive/sliv-live-events](https://github.com/drmlive/sliv-live-events)**
+
+---
+
+## 👤 Project Developed by
+
+This advanced auto-sync project is developed and maintained by **Sayan**.
