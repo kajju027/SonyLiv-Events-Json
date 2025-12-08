@@ -1,0 +1,43 @@
+name: Automated SonyLIV JSON Updater
+
+on:
+  schedule:
+    - cron: '*/10 * * * *' 
+  workflow_dispatch:
+
+jobs:
+  update-file:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Download JSON
+        run: |
+          curl -sS -o sonyliv.json "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
+
+      - name: Configure Git User
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+
+      - name: Check for Changes
+        id: git_status
+        run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+        shell: bash
+
+      - name: Commit and Push
+        if: steps.git_status.outputs.has_changes == 'true'
+        run: |
+          git add sonyliv.json
+          git commit -m "SonyLIV Letest Update Now Live ✅🔥"
+          git push
+          
