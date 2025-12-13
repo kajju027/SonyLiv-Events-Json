@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:18:49 13-12-2025",
+    "last update time": "22:39:05 13-12-2025",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090497314_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000011876/1764308901692124_Bundesliga_MD14_BayerLeverkusen_vs_FC_Koln_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Bundesliga 2025-26",
+            "match_name": "Bayer Leverkusen vs FC Koln - MD 14 - 13 Dec 2025 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765688945~acl=/*~id=80219930929147121580866305370679~hmac=6fc17686c61e29126fe44a3ddcb012b79c5441ec3bfe476354a55ae45706814b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765688945~acl=/*~id=80219930929147121580866305370679~hmac=6fc17686c61e29126fe44a3ddcb012b79c5441ec3bfe476354a55ae45706814b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1765688945~acl=/*~id=80219930929147121580866305370679~hmac=6fc17686c61e29126fe44a3ddcb012b79c5441ec3bfe476354a55ae45706814b"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
