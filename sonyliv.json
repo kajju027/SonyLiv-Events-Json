@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:43:54 05-01-2026",
+    "last update time": "11:14:17 05-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "USA vs Spain - 5 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767633233~acl=/*~id=83713617027518989953821016776707~hmac=3856e9c9f34b607c55872fb8e2510cadfc5ba3fd176dea7c4439927d1927253c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767633233~acl=/*~id=83713617027518989953821016776707~hmac=3856e9c9f34b607c55872fb8e2510cadfc5ba3fd176dea7c4439927d1927253c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767633233~acl=/*~id=83713617027518989953821016776707~hmac=3856e9c9f34b607c55872fb8e2510cadfc5ba3fd176dea7c4439927d1927253c"
-        },
-        {
-            "event_category": "Tennis",
-            "isLive": true,
-            "contentId": "1090498865_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012908/1767419222028311_UC26_Czechia_vs_Norway_3jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "United Cup 2026 ",
-            "match_name": "Czechia vs Norway - 5 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767633233~acl=/*~id=83713617027518989953821016776707~hmac=3856e9c9f34b607c55872fb8e2510cadfc5ba3fd176dea7c4439927d1927253c",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767633233~acl=/*~id=83713617027518989953821016776707~hmac=3856e9c9f34b607c55872fb8e2510cadfc5ba3fd176dea7c4439927d1927253c",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767633233~acl=/*~id=83713617027518989953821016776707~hmac=3856e9c9f34b607c55872fb8e2510cadfc5ba3fd176dea7c4439927d1927253c"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767635057~acl=/*~id=82589280593577831724087878637729~hmac=2418ca74bf70c5a04ead34edbba395d2d5cfffb01c6e00db8292b2d331f58b9b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767635057~acl=/*~id=82589280593577831724087878637729~hmac=2418ca74bf70c5a04ead34edbba395d2d5cfffb01c6e00db8292b2d331f58b9b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767635057~acl=/*~id=82589280593577831724087878637729~hmac=2418ca74bf70c5a04ead34edbba395d2d5cfffb01c6e00db8292b2d331f58b9b"
         },
         {
             "event_category": "Tennis",
