@@ -2,7 +2,7 @@ name: Automated SonyLIV JSON Updater
 
 on:
   schedule:
-    - cron: '*/10 * * * *' 
+    - cron: '*/7 * * * *' 
   workflow_dispatch:
 
 jobs:
@@ -17,10 +17,11 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download JSON
+      - name: Download JSON and Update Log
         run: |
           curl -sS -o sonyliv.json "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
-          echo "Last sync: $(date)" > sliv.txt
+          export TZ="Asia/Kolkata"
+          echo "🚀 System Synced Successfully | IST: $(date +'%Y-%m-%d %H:%M:%S') | ID: $RANDOM" >> sliv.txt
 
       - name: Configure Git User
         run: |
@@ -29,7 +30,8 @@ jobs:
 
       - name: Commit and Push
         run: |
+          export TZ="Asia/Kolkata"
           git add sonyliv.json sliv.txt
-          git commit -m "System Sync: SonyLIV Update ✅ $(date)" || exit 0
+          git commit -m "SonyLIV Database Updated ✅ [$(date +'%d-%m-%Y %H:%M')] #$RANDOM" --allow-empty
           git push
           
