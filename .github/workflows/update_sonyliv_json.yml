@@ -8,6 +8,8 @@ on:
 jobs:
   update-file:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     steps:
       - name: Checkout repository
@@ -18,26 +20,16 @@ jobs:
       - name: Download JSON
         run: |
           curl -sS -o sonyliv.json "https://raw.githubusercontent.com/drmlive/sliv-live-events/refs/heads/main/sonyliv.json"
+          echo "Last sync: $(date)" > sliv.txt
 
       - name: Configure Git User
         run: |
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git config --global user.name "github-actions[bot]"
-
-      - name: Check for Changes
-        id: git_status
-        run: |
-          if [ -z "$(git status --porcelain)" ]; then
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
-            echo "has_changes=true" >> $GITHUB_OUTPUT
-          fi
-        shell: bash
+          git config --global user.email "kajju3864@gmail.com"
+          git config --global user.name "kajju027"
 
       - name: Commit and Push
-        if: steps.git_status.outputs.has_changes == 'true'
         run: |
-          git add sonyliv.json
-          git commit -m "SonyLIV Letest Update Now Live ✅🔥"
+          git add sonyliv.json sliv.txt
+          git commit -m "System Sync: SonyLIV Update ✅ $(date)" || exit 0
           git push
           
