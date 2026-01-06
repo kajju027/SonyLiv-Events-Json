@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:20:19 06-01-2026",
+    "last update time": "07:52:44 06-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Auckland Aces vs Otago Volts - 6 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767700218~acl=/*~id=20029750195471804925896314387512~hmac=cf6e79f2db686f5b59147ce86ada1cda2fd4e91aff4ea81ba6cd7487516aae5b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767700218~acl=/*~id=20029750195471804925896314387512~hmac=cf6e79f2db686f5b59147ce86ada1cda2fd4e91aff4ea81ba6cd7487516aae5b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767700218~acl=/*~id=20029750195471804925896314387512~hmac=cf6e79f2db686f5b59147ce86ada1cda2fd4e91aff4ea81ba6cd7487516aae5b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": true,
+            "contentId": "1090498904_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012911/1767426438011632_UnitedCup26_Italy_vs_France_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "United Cup 2026 ",
+            "match_name": "Italy vs France - 6 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173"
         },
         {
             "event_category": "Tennis",
@@ -25,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Canada vs Belgium - 6 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767700218~acl=/*~id=20029750195471804925896314387512~hmac=cf6e79f2db686f5b59147ce86ada1cda2fd4e91aff4ea81ba6cd7487516aae5b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767700218~acl=/*~id=20029750195471804925896314387512~hmac=cf6e79f2db686f5b59147ce86ada1cda2fd4e91aff4ea81ba6cd7487516aae5b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767700218~acl=/*~id=20029750195471804925896314387512~hmac=cf6e79f2db686f5b59147ce86ada1cda2fd4e91aff4ea81ba6cd7487516aae5b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767709363~acl=/*~id=23323489022688975871007794047526~hmac=6c621d377f13cc3db540e733a2a15f8fa9d1f1ba0b206fd43614ff8ad54e9173"
         },
         {
             "event_category": "Tennis",
