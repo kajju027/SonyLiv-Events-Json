@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "10:17:24 08-01-2026",
+    "last update time": "10:47:54 08-01-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090498844_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012825/1766989413323768_SuperSmash2526_womens_Northern-Brave-vs-Canterbury-Magicians_29dec_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": " Super Smash 2025/26 Women's",
+            "match_name": "Northern Brave vs Canterbury Magicians- 8 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767892673~acl=/*~id=28561961919909414195206271730921~hmac=c9206d8b4239ad2de31ff8ffd81cbfbf024ea1ee2c49e625e499ee4814addcde",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767892673~acl=/*~id=28561961919909414195206271730921~hmac=c9206d8b4239ad2de31ff8ffd81cbfbf024ea1ee2c49e625e499ee4814addcde",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767892673~acl=/*~id=28561961919909414195206271730921~hmac=c9206d8b4239ad2de31ff8ffd81cbfbf024ea1ee2c49e625e499ee4814addcde"
+        },
         {
             "event_category": "Tennis",
             "isLive": false,
