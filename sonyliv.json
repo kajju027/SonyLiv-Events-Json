@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:21:40 10-01-2026",
+    "last update time": "04:52:07 10-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "United Cup 2026 ",
             "match_name": "Switzerland vs Belgium - Semi-final - 10 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768042300~acl=/*~id=70182017264590681543299624953324~hmac=650e109e071372ee3fd710c0acdfc69166a374f7bbc1f7580c832666e1475118",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768042300~acl=/*~id=70182017264590681543299624953324~hmac=650e109e071372ee3fd710c0acdfc69166a374f7bbc1f7580c832666e1475118",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768042300~acl=/*~id=70182017264590681543299624953324~hmac=650e109e071372ee3fd710c0acdfc69166a374f7bbc1f7580c832666e1475118"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768044127~acl=/*~id=95368723447444820923623152415119~hmac=7161c04147876a39071e4230b992ff12f8e39ce3648cc0cccd7a3db7c86b91c2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768044127~acl=/*~id=95368723447444820923623152415119~hmac=7161c04147876a39071e4230b992ff12f8e39ce3648cc0cccd7a3db7c86b91c2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768044127~acl=/*~id=95368723447444820923623152415119~hmac=7161c04147876a39071e4230b992ff12f8e39ce3648cc0cccd7a3db7c86b91c2"
         },
         {
             "event_category": "Football",
