@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:14:59 09-01-2026",
+    "last update time": "08:46:09 09-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
-            "contentId": "1090498847_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012825/1766992956294768_SuperSmash2526_womens_Wellington-Blaze-vs-Otago-Sparks_29dec_landscape_thumb.jpg",
+            "contentId": "1090498845_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000012825/1766993127014768_SuperSmash2526_mens_Wellington-Firebirds-vs-Otago-Volts_29dec_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Super Smash 2025/26 Women's",
-            "match_name": "Wellington Blaze vs Otago Sparks - 9 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767966299~acl=/*~id=79679144235941769144733175989267~hmac=2bbb44bac07a2b8115b558f0a8a93ce78cfa7505d4e4a4c065b73609c6b727a7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767966299~acl=/*~id=79679144235941769144733175989267~hmac=2bbb44bac07a2b8115b558f0a8a93ce78cfa7505d4e4a4c065b73609c6b727a7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767966299~acl=/*~id=79679144235941769144733175989267~hmac=2bbb44bac07a2b8115b558f0a8a93ce78cfa7505d4e4a4c065b73609c6b727a7"
+            "event_name": "Super Smash 2025/26 Men's",
+            "match_name": "Wellington Firebirds vs Otago Volts - 9 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767971769~acl=/*~id=70135762771401786710190829861416~hmac=64f96af7b681a944d96a79208f8c56613c9f115b456b83d68dff7d56015401f1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767971769~acl=/*~id=70135762771401786710190829861416~hmac=64f96af7b681a944d96a79208f8c56613c9f115b456b83d68dff7d56015401f1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1767971769~acl=/*~id=70135762771401786710190829861416~hmac=64f96af7b681a944d96a79208f8c56613c9f115b456b83d68dff7d56015401f1"
         },
         {
             "event_category": "Football",
@@ -29,7 +29,7 @@
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090498875,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698513902522_SLvsPAK26_2t20i_dated_6jan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013031/1767698525112522_SLvsPAK26_2t20i_tonight_6jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Pakistan Tour of Sri Lanka 2026"
