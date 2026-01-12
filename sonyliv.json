@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:51:10 12-01-2026",
+    "last update time": "10:02:03 12-01-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Super Smash 2025/26 Men's",
             "match_name": "Otago Volts vs Auckland Aces - 12 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768231269~acl=/*~id=92695842063391463500517710077808~hmac=98309dcf2d91aed4cb24aeeed1b8590895faea5d954e7871250c6af81ab39a11",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768231269~acl=/*~id=92695842063391463500517710077808~hmac=98309dcf2d91aed4cb24aeeed1b8590895faea5d954e7871250c6af81ab39a11",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768231269~acl=/*~id=92695842063391463500517710077808~hmac=98309dcf2d91aed4cb24aeeed1b8590895faea5d954e7871250c6af81ab39a11"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768235523~acl=/*~id=77780915085154813289501672334084~hmac=ff56b7a495db0f49942048300c7b788db491daa11e42d576035752f00522213d",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768235523~acl=/*~id=77780915085154813289501672334084~hmac=ff56b7a495db0f49942048300c7b788db491daa11e42d576035752f00522213d",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768235523~acl=/*~id=77780915085154813289501672334084~hmac=ff56b7a495db0f49942048300c7b788db491daa11e42d576035752f00522213d"
         },
         {
             "event_category": "Football",
@@ -51,24 +51,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499079,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013076/1767785016471119_FA_CUP_3rdRD_Landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Round 3"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499230,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013163/1767950286474880_FA-CUP_Round-3-promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - Round 3"
         }
     ]
 }
