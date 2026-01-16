@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:22:45 16-01-2026",
+    "last update time": "23:53:10 16-01-2026",
     "matches": [
-        {
-            "event_category": "Wrestling",
-            "isLive": true,
-            "contentId": "1090499624_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pro Wrestling League 2026",
-            "match_name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/DAI16ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859"
-        },
-        {
-            "event_category": "Wrestling",
-            "isLive": true,
-            "contentId": "1090499624_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013429/176847408542089_PWL_26_Punjab-Royals-vs-Haryana-Thunders_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Pro Wrestling League 2026",
-            "match_name": "Punjab Royals vs Haryana Thunders - 16 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/DAI19ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768629164~acl=/*~id=96572073312253383349813745058481~hmac=594880193e3dcd1dafb7f97f49d9c31bf9959fafa3cfd6bbbd136f2c9f532859"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
@@ -46,33 +20,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499594,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499589,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090499591,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Wrestling",
@@ -131,6 +78,15 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090499594,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Inter vs Arsenal - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090499595,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013353/1768334030707146_UCL26_MD7_benfica_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
@@ -140,11 +96,29 @@
         {
             "event_category": "Football",
             "isLive": false,
+            "contentId": 1090499589,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331535063720_UCL26_MD7_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Matchday 7 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
             "contentId": 1090499590,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013352/1768331646662720_UCL26_MD7_ATM_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Galatasaray vs Atletico - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090499591,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768490378094434_UCL26_Marseille_vs_Liverpool_dated_15jan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
