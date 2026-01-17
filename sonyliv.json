@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:21:46 17-01-2026",
+    "last update time": "14:02:14 17-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
@@ -12,9 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Opening Ceremony - 17 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768679506~acl=/*~id=04359271374460894649891796108697~hmac=939d0414a559d3249ec6be54567b9ca5eb20a0f4a1c1f533f2d069e66d7a0c74",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768679506~acl=/*~id=04359271374460894649891796108697~hmac=939d0414a559d3249ec6be54567b9ca5eb20a0f4a1c1f533f2d069e66d7a0c74",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768679506~acl=/*~id=04359271374460894649891796108697~hmac=939d0414a559d3249ec6be54567b9ca5eb20a0f4a1c1f533f2d069e66d7a0c74"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768681934~acl=/*~id=91038307160537104029820372688988~hmac=a4f2fe221e38552b10c1dd2c5580016f42c64ebd8eb439d7b615f7e7e9aad2f9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768681934~acl=/*~id=91038307160537104029820372688988~hmac=a4f2fe221e38552b10c1dd2c5580016f42c64ebd8eb439d7b615f7e7e9aad2f9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/DAI12ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768681934~acl=/*~id=91038307160537104029820372688988~hmac=a4f2fe221e38552b10c1dd2c5580016f42c64ebd8eb439d7b615f7e7e9aad2f9"
+        },
+        {
+            "event_category": "Wrestling",
+            "isLive": false,
+            "contentId": 1090499518,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013303/1768211442000465_PWL2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Pro Wrestling League 2026"
         },
         {
             "event_category": "Tennis",
@@ -60,15 +69,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Wrestling",
-            "isLive": false,
-            "contentId": 1090499518,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013303/1768211442000465_PWL2026_GOB_Landscape_Thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Pro Wrestling League 2026"
         },
         {
             "event_category": "Football",
