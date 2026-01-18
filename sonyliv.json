@@ -1,26 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:47:22 18-01-2026",
+    "last update time": "00:17:44 19-01-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090499869_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013455/1768497130413550_bliga26_MD18_Augsburg_vs_SC_Freiburg_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "FC Augsburg vs SC Freiburg - MD 18 - 18 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768803442~acl=/*~id=51703666393986339778278573539065~hmac=465285f5bf505c790c64e95d768cfc3b8dccaa5f3ac9d0b15fb4876fec5b0dc0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768803442~acl=/*~id=51703666393986339778278573539065~hmac=465285f5bf505c790c64e95d768cfc3b8dccaa5f3ac9d0b15fb4876fec5b0dc0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1768803442~acl=/*~id=51703666393986339778278573539065~hmac=465285f5bf505c790c64e95d768cfc3b8dccaa5f3ac9d0b15fb4876fec5b0dc0"
-        },
         {
             "event_category": "Tennis",
             "isLive": false,
             "contentId": 1090498827,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013583/1768721626461866_AO_schedule_tomorrow_day2_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013583/1768721578247866_AO_schedule_today_day2_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Australian Open 2026"
@@ -60,6 +47,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Marseille vs Liverpool - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090500045,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013622/176876107007673_AO26_round1_Martinez_vs_Djokovic_18jan_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Novak Djokovic vs Pedro Martinez - Australian Open 2026"
         },
         {
             "event_category": "Cricket",
