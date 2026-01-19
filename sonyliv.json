@@ -1,59 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "13:06:27 19-01-2026",
+    "last update time": "13:26:41 19-01-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Djere vs Wawrinka - Round 1 - 19 Jan 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d"
+            "match_name": "Stream 1 - 19 Jan 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Djere vs Wawrinka - Round 1 - 19 Jan 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d"
+            "match_name": "Stream 1 - 19 Jan 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Djere vs Wawrinka - Round 1 - 19 Jan 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d"
+            "match_name": "Stream 1 - 19 Jan 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013518/1768638133540535_AO26_stream1_R1_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013574/1768705392270787_AO26_studio_show_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Djere vs Wawrinka - Round 1 - 19 Jan 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d"
+            "match_name": "Stream 1 - 19 Jan 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e"
         },
         {
             "event_category": "Tennis",
@@ -64,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Vekic vs Andreeva - Round 1 - 19 Jan 2026\t [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768851385~acl=/*~id=41610026361600306799948610709998~hmac=708c6d53726b3d386b86184490448f4505c5f25c384acd0e6f3b3b912044aa7d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1768852600~acl=/*~id=89450971568269416353581712140652~hmac=fe7c341d7e07eaf503860e5c2b432f6f20a9353ebc0e625f0309f3887486fe4e"
         },
         {
             "event_category": "Football",
@@ -91,4 +91,6 @@
             "isLive": false,
             "contentId": 1090499594,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000013453/1768488992379434_UCL26_inter_vs_arsenal_dated_15jan_landscape_thumb.jpg",
-            "broadcast_channel": "Sony
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event
