@@ -1,59 +1,59 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:12:52 01-02-2026",
+    "last update time": "18:03:31 01-02-2026",
     "matches": [
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "match_name": "Stream 1 - 1 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "match_name": "Stream 1 - 1 Feb 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "match_name": "Stream 1 - 1 Feb 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Tennis",
             "isLive": true,
             "contentId": "1090499148_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014705/176989270767948_AO_alcaraz_vs_djokovic_final_31jan_landscape_thumb_Live.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014561/1769771393202979_studio_show_30jan_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
-            "match_name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "match_name": "Stream 1 - 1 Feb 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Cricket",
@@ -64,9 +64,9 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/DAI14ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Cricket",
@@ -77,9 +77,22 @@
             "audioLanguageName": "ENG",
             "event_name": "World Legends Pro T20 League 2026",
             "match_name": "Pune Panthers vs Maharashtra Tycoons - 1 Feb 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI37ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
+        },
+        {
+            "event_category": "Pickleball",
+            "isLive": true,
+            "contentId": "1090502886_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014355/1769593445439675_WPL26_Hyderabad-vs-Delhi_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "World Pickleball League 2026",
+            "match_name": "Hyderabad Superstars vs Dilli Dillwale - 1 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Tennis",
@@ -90,9 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Australian Open 2026",
             "match_name": "Carlos Alcaraz vs Novak Djokovic - Final - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-AO/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Golf",
@@ -103,9 +116,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Bahrain Championship Day 4 - 1 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769989370~acl=/*~id=24356050559737715744288596952142~hmac=bc88e2bdf9f3af9b38de2ae52c8f13845c96c63e3d776d801e7cea4565bcb65b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1769992409~acl=/*~id=55772226435834741648021742504015~hmac=f18867bf10f48bb77ef54f88b28537f4c962ce530f43c9c89ed6eea7209104fd"
         },
         {
             "event_category": "Cricket",
