@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:21:06 13-02-2026",
+    "last update time": "18:51:59 13-02-2026",
     "matches": [
+        {
+            "event_category": "Racing",
+            "isLive": true,
+            "contentId": "1090503621_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000014909/1770322651023886_ABBFIAFormulaE_WC26_Round4_JeddahEPrix_Qualifying_Race_6feb_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "ABB FIA Formula E World Championship",
+            "match_name": "Round 4 - Jeddah E-Prix - Qualifying Race - 13 Feb 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771032119~acl=/*~id=93490574921234729342591182786732~hmac=327b3e37509114c9dfe31bc0ec0b6a9bbead83351792f7aa6fc8c65a74b980a6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771032119~acl=/*~id=93490574921234729342591182786732~hmac=327b3e37509114c9dfe31bc0ec0b6a9bbead83351792f7aa6fc8c65a74b980a6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771032119~acl=/*~id=93490574921234729342591182786732~hmac=327b3e37509114c9dfe31bc0ec0b6a9bbead83351792f7aa6fc8c65a74b980a6"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -11,6 +24,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503788,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
