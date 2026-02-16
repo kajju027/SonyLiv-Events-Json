@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:39:30 16-02-2026",
+    "last update time": "20:30:03 16-02-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -14,15 +14,6 @@
             "match_name": "Cricket Blockbusters 24x7 [ENG]"
         },
         {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090503788,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
-        },
-        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504206,
@@ -30,6 +21,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India A Women vs Nepal Women - ACC Women\u2019s Rising Stars 2026"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090503788,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015140/1770986101953271_UCL-promo_landscape.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -86,6 +86,15 @@
             "event_name": "Upcoming - Club Brugge vs Atletico - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090504149,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015251/1771226281698592_UCL_18FEB_COMBO_40SEC_HOR_DATED_APP_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090503537,
@@ -95,13 +104,13 @@
             "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
         },
         {
-            "event_category": "Football",
+            "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090504149,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015251/1771226281698592_UCL_18FEB_COMBO_40SEC_HOR_DATED_APP_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
+            "contentId": 1090504215,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015275/1771252715417113_New_Zealand_Blockbuster_Promo_Thumbs_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Play-offs - Leg 1 - UEFA Champions League 2025-26"
+            "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
         }
     ]
 }
