@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:25:13 21-02-2026",
+    "last update time": "00:15:38 22-02-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,15 +12,15 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "RB Leipzig vs Borussia Dortmund - MD 23 - 21 Feb 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771739713~acl=/*~id=84403858431503915398906727666493~hmac=b95942196eac16436ddf67589f8acbb38977eed48f2bcf95ccea64175914ac3b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771739713~acl=/*~id=84403858431503915398906727666493~hmac=b95942196eac16436ddf67589f8acbb38977eed48f2bcf95ccea64175914ac3b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771739713~acl=/*~id=84403858431503915398906727666493~hmac=b95942196eac16436ddf67589f8acbb38977eed48f2bcf95ccea64175914ac3b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771742737~acl=/*~id=66739927320883618236853224087249~hmac=871400843234ea38260921f95840696ff2c33f16628d4a7bf50d9a3b108a1447",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771742737~acl=/*~id=66739927320883618236853224087249~hmac=871400843234ea38260921f95840696ff2c33f16628d4a7bf50d9a3b108a1447",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1771742737~acl=/*~id=66739927320883618236853224087249~hmac=871400843234ea38260921f95840696ff2c33f16628d4a7bf50d9a3b108a1447"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090503537,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611553341291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_dated_Landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015470/1771611571877291_AsiaCup_RisingStar_Womens2026_final_india_A_vs_ban_A_20feb_today_Landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - ACC Women\u2019s Rising Stars 2026"
