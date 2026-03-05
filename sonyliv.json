@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:55:41 05-03-2026",
+    "last update time": "19:06:19 05-03-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Joburg Open Day 1 - 5 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772756741~acl=/*~id=14327713817415149483071616855837~hmac=85e11cba67b8e5e13206814b059af2a5bb9f6a13465f67fa3b95d42b7c187f09",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772756741~acl=/*~id=14327713817415149483071616855837~hmac=85e11cba67b8e5e13206814b059af2a5bb9f6a13465f67fa3b95d42b7c187f09",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772756741~acl=/*~id=14327713817415149483071616855837~hmac=85e11cba67b8e5e13206814b059af2a5bb9f6a13465f67fa3b95d42b7c187f09"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772760979~acl=/*~id=57354280534230301289054862285585~hmac=f08bd63b5bb84ac58009e01df0abaff2fa9c0a03aa516cd895e71a598ac80a6c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772760979~acl=/*~id=57354280534230301289054862285585~hmac=f08bd63b5bb84ac58009e01df0abaff2fa9c0a03aa516cd895e71a598ac80a6c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/DAI25ME-DPW/std_lrh-800300010.m3u8?hdnea=exp=1772760979~acl=/*~id=57354280534230301289054862285585~hmac=f08bd63b5bb84ac58009e01df0abaff2fa9c0a03aa516cd895e71a598ac80a6c"
         },
         {
             "event_category": "Football",
