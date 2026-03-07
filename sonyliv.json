@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:19:55 07-03-2026",
+    "last update time": "18:30:38 07-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,22 +12,22 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Mansfield Town vs Arsenal - Round 5 - 7 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c"
         },
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090505707_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015830/1772733105740234_IFL26_GKFC_vs_NAM_5mar_landscape_thumb.jpg",
+            "contentId": "1090505708_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772734775864842_IFL26_Chanmari_FC_vs_Sreenidi_Deccan_FC_5mar_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
-            "match_name": "Gokulam Kerala FC vs Namdhari FC - 7 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b"
+            "match_name": "Chanmari FC vs Sreenidi Deccan FC - 7 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c"
         },
         {
             "event_category": "Golf",
@@ -38,15 +38,15 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Joburg Open Day 3 - 7 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772927393~acl=/*~id=14438448749603552465027046184355~hmac=0a7d09d11127018857d22c7f0007378dbab3a51fae509cb2bb8eaa171ebdae7b"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772931636~acl=/*~id=69456616641729558764177199403512~hmac=18caf57e452435f863a54acb575ce4f2af65086c9cf8257cf40533968539200c"
         },
         {
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090505459,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015735/1772452976768126_FACUP_RD5_2march_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015893/177287108771021_FACUP_RD5_2march_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Round 5 - Emirates FA Cup "
