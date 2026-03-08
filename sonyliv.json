@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "17:44:39 08-03-2026",
+    "last update time": "18:45:15 08-03-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090505795_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735877577842_IFL26_Diamond_Harbour_FC_vs_Dempo_Sports_Club_5mar_landscape_thumb.jpg",
+            "contentId": "1090505793_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015831/1772735592424842_IFL26_Shillong_Lajong_FC_vs_Real_Kashmir_FC_5mar_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
-            "match_name": "Diamond Harbour FC vs Dempo Sports Club - 8 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/DAI23ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54"
+            "match_name": "Shillong Lajong FC vs Real Kashmir FC - 8 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0"
         },
         {
             "event_category": "Football",
@@ -25,9 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "The Emirates FA Cup 2025-26",
             "match_name": "Fulham vs Southampton - Round 5 - 8 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505801_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015900/1772888531861337_FC_Cup_26_RD5_Port-Vale-vs-Sunderland_Landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "Port Vale vs Sunderland - Round 5 - 8 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0"
         },
         {
             "event_category": "Golf",
@@ -38,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Joburg Open Day 4 - 8 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773015278~acl=/*~id=47896295838765965686523524868683~hmac=73cb208914c35291f04cd0526274ab03b2e9fd01af30be700be6842527f52f54"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773018877~acl=/*~id=37702433009739070336766776683272~hmac=5e536eace6d530e6413d6d8b3cfec8b260d809c4f3f129fa4786e9d014c8a6e0"
         },
         {
             "event_category": "Football",
