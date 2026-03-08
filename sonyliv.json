@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:18:21 08-03-2026",
+    "last update time": "00:18:52 09-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090505802_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772090514000579_FC_Cup_26_RD5_Leeds-United-vs-Norwich-City_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "The Emirates FA Cup 2025-26",
-            "match_name": "Leeds United vs Norwich City - Round 5 - 8 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773035300~acl=/*~id=41878452611615889235731917226775~hmac=52790ac2fece446a080bad0c3f13074543a110e537c29ad2e460a5b05e0876cc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773035300~acl=/*~id=41878452611615889235731917226775~hmac=52790ac2fece446a080bad0c3f13074543a110e537c29ad2e460a5b05e0876cc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773035300~acl=/*~id=41878452611615889235731917226775~hmac=52790ac2fece446a080bad0c3f13074543a110e537c29ad2e460a5b05e0876cc"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090505797_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015704/1772306769192158_bliga26_MD25_Union_Berlin_vs_Werder_Bremen_28feb_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Union Berlin vs Werder Bremen - MD 25 - 8 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773035300~acl=/*~id=41878452611615889235731917226775~hmac=52790ac2fece446a080bad0c3f13074543a110e537c29ad2e460a5b05e0876cc",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773035300~acl=/*~id=41878452611615889235731917226775~hmac=52790ac2fece446a080bad0c3f13074543a110e537c29ad2e460a5b05e0876cc",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/DAI05ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773035300~acl=/*~id=41878452611615889235731917226775~hmac=52790ac2fece446a080bad0c3f13074543a110e537c29ad2e460a5b05e0876cc"
-        },
         {
             "event_category": "Football",
             "isLive": false,
