@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:00:05 10-03-2026",
+    "last update time": "00:50:33 10-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505907_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015701/1772107094000579_FC_Cup_26_RD5_West-Ham-United-vs-Brentford_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "The Emirates FA Cup 2025-26",
+            "match_name": "West Ham United vs Brentford - Round 5 - 10 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773127233~acl=/*~id=52328792505115420935327701913620~hmac=6946903dd993ce9e0944071959e9a3079e93f2c8eac15d2df5f5d6b0a202b269",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773127233~acl=/*~id=52328792505115420935327701913620~hmac=6946903dd993ce9e0944071959e9a3079e93f2c8eac15d2df5f5d6b0a202b269",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/DAI18ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773127233~acl=/*~id=52328792505115420935327701913620~hmac=6946903dd993ce9e0944071959e9a3079e93f2c8eac15d2df5f5d6b0a202b269"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -29,15 +42,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Newcastle United vs Barcelona - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090505481,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015748/177246970120497_West-Ham-vs-Brentford-10th-Mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Emirates FA Cup - West Ham United vs Brentford"
         },
         {
             "event_category": "Cricket",
