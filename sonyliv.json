@@ -1,60 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:05:21 11-03-2026",
+    "last update time": "04:35:33 11-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090505919_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010335908551_UCL26_R16_leg1_Newcastle_vs_Barcelona_8mar_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Newcastle vs Barcelona - Round Of 16 - Leg 1 - 11 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090505919_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010335908551_UCL26_R16_leg1_Newcastle_vs_Barcelona_8mar_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Newcastle vs Barcelona - Round Of 16 - Leg 1 - 11 Mar 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090505919_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010335908551_UCL26_R16_leg1_Newcastle_vs_Barcelona_8mar_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Newcastle vs Barcelona - Round Of 16 - Leg 1 - 11 Mar 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090505919_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015939/1773010335908551_UCL26_R16_leg1_Newcastle_vs_Barcelona_8mar_eng_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_name": "Newcastle vs Barcelona - Round Of 16 - Leg 1 - 11 Mar 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -64,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Zimbabwe Women's Tour of New Zealand 2026",
             "match_name": "3rd ODI - 11 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773225319~acl=/*~id=51171008488014619337622922953555~hmac=bf0a5073b1b6e809ed9daf5b575bbbf2523294691b1546457a68e6708bfd836d"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773227133~acl=/*~id=57652994999594928626118943480821~hmac=ba2aa3e421f381182d5171ffa2adb11a88f3b42967579068b7bea7a1a5e8e8a9",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773227133~acl=/*~id=57652994999594928626118943480821~hmac=ba2aa3e421f381182d5171ffa2adb11a88f3b42967579068b7bea7a1a5e8e8a9",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773227133~acl=/*~id=57652994999594928626118943480821~hmac=ba2aa3e421f381182d5171ffa2adb11a88f3b42967579068b7bea7a1a5e8e8a9"
         },
         {
             "event_category": "Football",
