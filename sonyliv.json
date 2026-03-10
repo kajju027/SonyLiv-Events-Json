@@ -1,8 +1,60 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:10:55 10-03-2026",
+    "last update time": "22:11:32 10-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505917_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016013/1773152786295832_ucl_champions_pe_charcha_10mar1_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505917_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016013/1773152786295832_ucl_champions_pe_charcha_10mar1_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505917_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016013/1773152786295832_ucl_champions_pe_charcha_10mar1_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090505917_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016013/1773152786295832_ucl_champions_pe_charcha_10mar1_landcape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Galatasaray vs Liverpool - Round Of 16 - Leg 1 - 10 Mar 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773204091~acl=/*~id=43160562443095610860354063662427~hmac=363f6399df2df8a80aee29d4b52cc4c659715eee81aa7d945d5bdc96b197b3d1"
+        },
         {
             "event_category": "Football",
             "isLive": false,
@@ -20,15 +72,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RO 16 - 1st Leg - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090505702,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015833/1772738259236689_UCL26_R16_leg1_Galatasaray_vs_Liverpool_6mar_tonight_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Galatasaray vs Liverpool - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
