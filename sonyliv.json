@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:13:52 14-03-2026",
+    "last update time": "19:04:21 14-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Shillong Lajong FC vs Diamond Harbour FC - 14 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773535432~acl=/*~id=06198465389432228772642057998702~hmac=19dc7c9d6862cd324384069d0d78a6b9f66d08081333cb545faecd8fe4bdda9f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773535432~acl=/*~id=06198465389432228772642057998702~hmac=19dc7c9d6862cd324384069d0d78a6b9f66d08081333cb545faecd8fe4bdda9f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773535432~acl=/*~id=06198465389432228772642057998702~hmac=19dc7c9d6862cd324384069d0d78a6b9f66d08081333cb545faecd8fe4bdda9f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773538460~acl=/*~id=99160498619136787347637316412697~hmac=91794a61e79969e8aa666d4e39e95693fbe67ac8029eb9dceba081b6ec14bea2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773538460~acl=/*~id=99160498619136787347637316412697~hmac=91794a61e79969e8aa666d4e39e95693fbe67ac8029eb9dceba081b6ec14bea2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773538460~acl=/*~id=99160498619136787347637316412697~hmac=91794a61e79969e8aa666d4e39e95693fbe67ac8029eb9dceba081b6ec14bea2"
         },
         {
             "event_category": "Cricket",
