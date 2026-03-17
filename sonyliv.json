@@ -1,8 +1,86 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:09:42 18-03-2026",
+    "last update time": "01:10:25 18-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506813_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Man City vs Real Madrid - Round Of 16 - Leg 2 - 18 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/DAI21ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506813_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Man City vs Real Madrid - Round Of 16 - Leg 2 - 18 Mar 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506813_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Man City vs Real Madrid - Round Of 16 - Leg 2 - 18 Mar 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/DAI06ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506813_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016276/1773680124436111_UCL_26_RD16_L2_Man_city_vs_Rreal_madrid_landscape_thumb_sponsor.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Man City vs Real Madrid - Round Of 16 - Leg 2 - 18 Mar 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/DAI13ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506859_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016257/177366291600012_UCL_26_RD16_L2_Chelsea-vs-PSG_landscape_thumb_sponsor.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Chelsea vs PSG - Round Of 16 - Leg 2 - 18 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI09ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090506863_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016259/1773663564501758_UCL_26_RD16_L2_Arsenal-vs-Bayer-Leverkusen_landscape_thumb_sponsor.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA Champions League 2025-26",
+            "match_name": "Arsenal vs Leverkusen - Round Of 16 - Leg 2 - 18 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/DAI11ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
+        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -12,9 +90,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Sporting CP vs Bodo/Glimt - Round Of 16 - Leg 2 - 17 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/DAI10ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
         },
         {
             "event_category": "Football",
@@ -25,9 +103,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Sporting CP vs Bodo/Glimt - Round Of 16 - Leg 2 - 17 Mar 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/DAI08ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
         },
         {
             "event_category": "Football",
@@ -38,9 +116,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Sporting CP vs Bodo/Glimt - Round Of 16 - Leg 2 - 17 Mar 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/DAI04ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
         },
         {
             "event_category": "Football",
@@ -51,27 +129,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA Champions League 2025-26",
             "match_name": "Sporting CP vs Bodo/Glimt - Round Of 16 - Leg 2 - 17 Mar 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773815981~acl=/*~id=90524612727689442786293171785533~hmac=ef029b93cb78a15fbd018f9e7d9bdf79684acc41f6585a4d3c9a94e909c6856f"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506759,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016181/1773477758167763_Man-City-vs-Real-Madrid_landscape.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - RO 16 - L2 - Day 1 - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506620,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773312245489173_UCL_RD16_Leg2_Arsenal_vs_Bayer_Leverkusen_tonight_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Bayer Leverkusen - UEFA Champions League 2025-26"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/DAI15ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773819623~acl=/*~id=99983853910299397225803437164867~hmac=36cd0c31a3499164cc6837353ff42c78cc6e2729abd7b99e1a9d22ad6885f515"
         },
         {
             "event_category": "Football",
@@ -117,24 +177,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - South Africa Women's Tour of New Zealand 2026"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506622,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773304079844173_UCL_RD16_Leg2_Manchester-City_vs_Real-Madrid_tonight_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Man City vs Real Madrid - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506621,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773306579020173_UCL_RD16_Leg2_Chelsea_vs_PSG_tonight_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming -  Chelsea vs Paris - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
