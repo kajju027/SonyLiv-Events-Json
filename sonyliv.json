@@ -1,8 +1,21 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:18:11 17-03-2026",
+    "last update time": "08:20:02 17-03-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090506773_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016272/1773672934242157_NZw_vs_SAw_2nd_T20I_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "South Africa Women's Tour of New Zealand 2026",
+            "match_name": "2nd T20I - 17 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773759002~acl=/*~id=50419370087214017647056331581330~hmac=f942a737267ecdc40b247778392d44e55d8120998d23408bc8cddedef581a33b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773759002~acl=/*~id=50419370087214017647056331581330~hmac=f942a737267ecdc40b247778392d44e55d8120998d23408bc8cddedef581a33b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/DAI35-criclive/std_lrh-800300010.m3u8?hdnea=exp=1773759002~acl=/*~id=50419370087214017647056331581330~hmac=f942a737267ecdc40b247778392d44e55d8120998d23408bc8cddedef581a33b"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -20,6 +33,15 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - RO 16 - L2 - Day 1 - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506620,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773312245489173_UCL_RD16_Leg2_Arsenal_vs_Bayer_Leverkusen_tonight_with_sponsors_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Arsenal vs Bayer Leverkusen - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -51,17 +73,8 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090506621,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773306608360173_UCL_RD16_Leg2_Chelsea_vs_PSG_dated_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming -  Chelsea vs Paris - UEFA Champions League 2025-26"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
             "contentId": 1090506622,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773304059086173_UCL_RD16_Leg2_Manchester-City_vs_Real-Madrid_dated_with_sponsors_promo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773304079844173_UCL_RD16_Leg2_Manchester-City_vs_Real-Madrid_tonight_with_sponsors_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Man City vs Real Madrid - UEFA Champions League 2025-26"
@@ -69,11 +82,20 @@
         {
             "event_category": "Football",
             "isLive": false,
-            "contentId": 1090506620,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773312231684173_UCL_RD16_Leg2_Arsenal_vs_Bayer_Leverkusen_dated_with_sponsors_promo_landscape_thumb.jpg",
+            "contentId": 1090506621,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773306579020173_UCL_RD16_Leg2_Chelsea_vs_PSG_tonight_with_sponsors_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Arsenal vs Bayer Leverkusen - UEFA Champions League 2025-26"
+            "event_name": "Upcoming -  Chelsea vs Paris - UEFA Champions League 2025-26"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506624,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773310146130173_UCL_RD16_Leg2_Barcelona_vs_Newcastle_United_dated_with_sponsors_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
         },
         {
             "event_category": "Football",
@@ -103,6 +125,24 @@
             "event_name": "Upcoming - Bayern vs Atalanta - UEFA Champions League 2025-26"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506825,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016275/1773678707375747_UEL_Midtjylland_vs_nottm_dated_promo1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - FC Midtjylland vs Nottingham Forest - UEFA Europa League "
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090506823,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016275/1773678756759747_UEL_aston_villa_vs_LOSC_dated_promo1_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Aston Villa vs Lille - UEFA Europa League "
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090504215,
@@ -110,15 +150,6 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - New Zealand's Blockbuster Home Season"
-        },
-        {
-            "event_category": "Football",
-            "isLive": false,
-            "contentId": 1090506624,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016112/1773310146130173_UCL_RD16_Leg2_Barcelona_vs_Newcastle_United_dated_with_sponsors_promo_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - Barcelona vs Newcastle United - UEFA Champions League 2025-26"
         }
     ]
 }
