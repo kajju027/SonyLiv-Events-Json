@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:57:33 19-03-2026",
+    "last update time": "20:58:22 19-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090506966_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016248/1773648806296805_IFC_Sreenidi_Deccan_FC_vs_Namdhari_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Sreenidi Deccan FC vs Namdhari FC - 19 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773973652~acl=/*~id=68776844543728421226470057577138~hmac=66634ae6fa764bc9e665585411fe79d97276fcd4a58488389345716a1f37ba75",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773973652~acl=/*~id=68776844543728421226470057577138~hmac=66634ae6fa764bc9e665585411fe79d97276fcd4a58488389345716a1f37ba75",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/DAI24ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1773973652~acl=/*~id=68776844543728421226470057577138~hmac=66634ae6fa764bc9e665585411fe79d97276fcd4a58488389345716a1f37ba75"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
