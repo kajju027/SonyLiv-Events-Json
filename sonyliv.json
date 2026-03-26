@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:01:54 26-03-2026",
+    "last update time": "19:33:05 26-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090507517_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741598426996_IFC_Rajasthan_United_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Rajasthan United FC vs Diamond Harbour FC - 26 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000099/Rajastha2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,22 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Indian Football League 2026",
             "match_name": "Gokulam Kerala FC vs Shillong Lajong FC - 26 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Gokulam_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Gokulam_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Gokulam_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9"
-        },
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090507374_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435943318137_DP_World_Tour26_Hero_Indian_Open_day1_24mar_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Hero Indian Open Day 1 - 26 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Hero_Ind2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774571512~acl=/*~id=11285012924434541023224336302464~hmac=ffc8845806d428e8b668a0e2f6b0da005da219de56fbd525862ae1b6b206d3d9"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Gokulam_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774576985~acl=/*~id=90269474369681737471097559069915~hmac=4feb8e9320a72bdc6a97d43206fcf716d445622f294c83763723830e5710e86e",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Gokulam_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774576985~acl=/*~id=90269474369681737471097559069915~hmac=4feb8e9320a72bdc6a97d43206fcf716d445622f294c83763723830e5710e86e",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Gokulam_2603/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774576985~acl=/*~id=90269474369681737471097559069915~hmac=4feb8e9320a72bdc6a97d43206fcf716d445622f294c83763723830e5710e86e"
         },
         {
             "event_category": "Football",
