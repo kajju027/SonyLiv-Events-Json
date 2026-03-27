@@ -1,8 +1,30 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "11:24:00 27-03-2026",
+    "last update time": "12:44:45 27-03-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090507671_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435942628837_DP_World_Tour26_Hero_Indian_Open_day2_24mar_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Hero Indian Open Day 2 - 27 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774638885~acl=/*~id=51341287532655098676216655542913~hmac=61a365cd7eb6201e68b8d0b567855f399be5a2628ceced5b8645a5e5046220da",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774638885~acl=/*~id=51341287532655098676216655542913~hmac=61a365cd7eb6201e68b8d0b567855f399be5a2628ceced5b8645a5e5046220da",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/IndiaOpe2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774638885~acl=/*~id=51341287532655098676216655542913~hmac=61a365cd7eb6201e68b8d0b567855f399be5a2628ceced5b8645a5e5046220da"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507734,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774515431160108_International-Friendlies_England-vs-Uruguay_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - England vs Uruguay"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -13,6 +35,15 @@
             "event_name": "Upcoming - India\u2019s Cricketing Mayhem"
         },
         {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507738,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774514204506108_International-Friendlies_Switzerland-vs-Germany_Tonight_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - Switzerland vs Germany"
+        },
+        {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090507596,
@@ -20,6 +51,42 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - Indian Cricket Blockbusters"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507737,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016627/1774588546157469_EQ_spain-vs-serbia_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - Spain vs Serbia"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507735,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016627/1774588485167469_EQ_germ-vs-ghana_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - Germany vs Ghana"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507733,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016627/1774588396037469_EQ_eng-vs-japan_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - England vs Japan"
+        },
+        {
+            "event_category": "Football",
+            "isLive": false,
+            "contentId": 1090507736,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016627/1774588617050469_EQ_spain-vs-egypt_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UEFA International Friendlies - Spain vs Egypt"
         },
         {
             "event_category": "Cricket",
