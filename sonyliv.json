@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "21:50:05 27-03-2026",
+    "last update time": "22:50:46 27-03-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Austria vs Ghana - 27 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Austria_2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Austria_2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Austria_2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Austria_2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774675245~acl=/*~id=99675928581273492350255060113579~hmac=cf9c46db8663f7cf8108e6ec848f4c200c84404d372f4e3c3e96027b89e88747",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Austria_2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774675245~acl=/*~id=99675928581273492350255060113579~hmac=cf9c46db8663f7cf8108e6ec848f4c200c84404d372f4e3c3e96027b89e88747",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Austria_2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774675245~acl=/*~id=99675928581273492350255060113579~hmac=cf9c46db8663f7cf8108e6ec848f4c200c84404d372f4e3c3e96027b89e88747"
         },
         {
             "event_category": "Football",
@@ -25,22 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Montenegro vs Andorra - 27 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Monteneg2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Monteneg2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Monteneg2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090507703_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774568589035686_INT_Friendlies26_Azerbaijan_vs_St_Lucia_27mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Azerbaijan vs St. Lucia - 27 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Azerbaij2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Azerbaij2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Azerbaij2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774671604~acl=/*~id=41721091326524966049361272733434~hmac=7d8cec43c70a2db21f6fdff220b8b5b01d172eae35d12f27ae519e6650c149b5"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Monteneg2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774675245~acl=/*~id=99675928581273492350255060113579~hmac=cf9c46db8663f7cf8108e6ec848f4c200c84404d372f4e3c3e96027b89e88747",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Monteneg2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774675245~acl=/*~id=99675928581273492350255060113579~hmac=cf9c46db8663f7cf8108e6ec848f4c200c84404d372f4e3c3e96027b89e88747",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Monteneg2703/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774675245~acl=/*~id=99675928581273492350255060113579~hmac=cf9c46db8663f7cf8108e6ec848f4c200c84404d372f4e3c3e96027b89e88747"
         },
         {
             "event_category": "Football",
