@@ -1,34 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "00:16:12 29-03-2026",
+    "last update time": "00:56:34 29-03-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090507712_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774043102526959_INT_Friendlies26_Hungary_vs_Slovenia_20mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Hungary vs Slovenia - 28 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Hungary_2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774766772~acl=/*~id=60945165817046768935667537349559~hmac=06f40177b6b8c2b76a451313737e1f9c4423b51ce3f2fba1f3dd22308217a9e2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Hungary_2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774766772~acl=/*~id=60945165817046768935667537349559~hmac=06f40177b6b8c2b76a451313737e1f9c4423b51ce3f2fba1f3dd22308217a9e2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Hungary_2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774766772~acl=/*~id=60945165817046768935667537349559~hmac=06f40177b6b8c2b76a451313737e1f9c4423b51ce3f2fba1f3dd22308217a9e2"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090507713_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016472/1774043272289488_INT_Friendlies26_Scotland_vs_Japan_20mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Scotland vs Japan - 28 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/Scotland2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774766772~acl=/*~id=60945165817046768935667537349559~hmac=06f40177b6b8c2b76a451313737e1f9c4423b51ce3f2fba1f3dd22308217a9e2",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/Scotland2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774766772~acl=/*~id=60945165817046768935667537349559~hmac=06f40177b6b8c2b76a451313737e1f9c4423b51ce3f2fba1f3dd22308217a9e2",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022321/Scotland2803/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774766772~acl=/*~id=60945165817046768935667537349559~hmac=06f40177b6b8c2b76a451313737e1f9c4423b51ce3f2fba1f3dd22308217a9e2"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -51,7 +25,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090507735,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016627/1774588485167469_EQ_germ-vs-ghana_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016684/1774718982736774_International_Friendlies_Germany_vs_Ghana_28mar_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA International Friendlies - Germany vs Ghana"
@@ -60,7 +34,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090507733,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016627/1774588396037469_EQ_eng-vs-japan_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016684/1774718471847774_International_Friendlies_England_vs_Japan_28mar_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA International Friendlies - England vs Japan"
@@ -69,7 +43,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090507736,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016627/1774588617050469_EQ_spain-vs-egypt_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016684/1774719377842774_International_Friendlies_Spain_vs_Egypt_28mar_dated_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - UEFA International Friendlies - Spain vs Egypt"
