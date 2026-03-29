@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:25:12 29-03-2026",
+    "last update time": "15:15:38 29-03-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090507726_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435941241137_DP_World_Tour26_Hero_Indian_Open_day4_24mar_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Hero Indian Open Day 4 - 29 Mar 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DP_World2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774817711~acl=/*~id=81770668192941470400689650859201~hmac=2c07d9a0d5658a3de114e6b45f6a5527018eda95f1222eb5c6d98d97e9751957",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DP_World2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774817711~acl=/*~id=81770668192941470400689650859201~hmac=2c07d9a0d5658a3de114e6b45f6a5527018eda95f1222eb5c6d98d97e9751957",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/DP_World2903/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774817711~acl=/*~id=81770668192941470400689650859201~hmac=2c07d9a0d5658a3de114e6b45f6a5527018eda95f1222eb5c6d98d97e9751957"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
