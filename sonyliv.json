@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:31:19 30-03-2026",
+    "last update time": "21:02:24 30-03-2026",
     "matches": [
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090507774_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569315401686_INT_Friendlies26_Azerbaijan_vs_Sierra_Leone_27mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Azerbaijan vs Sierra Leone - 30 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Azerbaij3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774927944~acl=/*~id=99605613954952231729148385971806~hmac=21d7ce3fe12c1dd8a4b4b3694304c1c337cd7b08e2c164319f942c9f1d2bead7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Azerbaij3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774927944~acl=/*~id=99605613954952231729148385971806~hmac=21d7ce3fe12c1dd8a4b4b3694304c1c337cd7b08e2c164319f942c9f1d2bead7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Azerbaij3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774927944~acl=/*~id=99605613954952231729148385971806~hmac=21d7ce3fe12c1dd8a4b4b3694304c1c337cd7b08e2c164319f942c9f1d2bead7"
+        },
+        {
+            "event_category": "Football",
+            "isLive": true,
+            "contentId": "1090507790_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774105349406735_INT_Friendlies26_Cyprus_vs_Moldova_20mar_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Cyprus vs Moldova - 30 Mar 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/CyprusVs3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774927944~acl=/*~id=99605613954952231729148385971806~hmac=21d7ce3fe12c1dd8a4b4b3694304c1c337cd7b08e2c164319f942c9f1d2bead7",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/CyprusVs3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774927944~acl=/*~id=99605613954952231729148385971806~hmac=21d7ce3fe12c1dd8a4b4b3694304c1c337cd7b08e2c164319f942c9f1d2bead7",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/CyprusVs3003/ENG/std_lrh-800300010.m3u8?hdnea=exp=1774927944~acl=/*~id=99605613954952231729148385971806~hmac=21d7ce3fe12c1dd8a4b4b3694304c1c337cd7b08e2c164319f942c9f1d2bead7"
+        },
         {
             "event_category": "Football",
             "isLive": false,
