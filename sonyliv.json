@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:59:13 04-04-2026",
+    "last update time": "10:40:13 04-04-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "South Africa Women's Tour of New Zealand 2026",
             "match_name": "3rd ODI - 4 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/NZW_vs_S0304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775316552~acl=/*~id=29754153750723400356003181326090~hmac=c3977c17d3bf7fcea35d239e5d9910cbca154b7f9953a00c5c8d42cb4e2583f6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/NZW_vs_S0304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775316552~acl=/*~id=29754153750723400356003181326090~hmac=c3977c17d3bf7fcea35d239e5d9910cbca154b7f9953a00c5c8d42cb4e2583f6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/NZW_vs_S0304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775316552~acl=/*~id=29754153750723400356003181326090~hmac=c3977c17d3bf7fcea35d239e5d9910cbca154b7f9953a00c5c8d42cb4e2583f6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/NZW_vs_S0304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775322612~acl=/*~id=90856193647055436612760382975891~hmac=39c56f6bb588095948803e622e333b9b122f16760fd410274a434dd97b8524b5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/NZW_vs_S0304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775322612~acl=/*~id=90856193647055436612760382975891~hmac=39c56f6bb588095948803e622e333b9b122f16760fd410274a434dd97b8524b5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/NZW_vs_S0304/ENG/std_lrh-800300010.m3u8?hdnea=exp=1775322612~acl=/*~id=90856193647055436612760382975891~hmac=39c56f6bb588095948803e622e333b9b122f16760fd410274a434dd97b8524b5"
         },
         {
             "event_category": "Cricket",
@@ -29,7 +29,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090507743,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774854754685308_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016877/1775276201494182_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Today.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup Quarterfinals"
@@ -74,7 +74,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090507960,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774854765614308_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Tonight.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016877/1775276201494182_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Today.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup - Manchester City vs Liverpool"
