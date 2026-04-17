@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:10:56 17-04-2026",
+    "last update time": "06:31:47 17-04-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090528100_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624298415552_Golf_Mexico_Day1_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "LIV Golf",
-            "match_name": "Mexico City - Day 1 - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776426056~acl=/*~id=39196167638200729754205300590985~hmac=dab78b8fc8b4ce295b025971b8077ae28c3f3352ca423595a2ed0c4cd6f52e66",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776426056~acl=/*~id=39196167638200729754205300590985~hmac=dab78b8fc8b4ce295b025971b8077ae28c3f3352ca423595a2ed0c4cd6f52e66",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/LIV_Golf1604/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776426056~acl=/*~id=39196167638200729754205300590985~hmac=dab78b8fc8b4ce295b025971b8077ae28c3f3352ca423595a2ed0c4cd6f52e66"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
@@ -29,7 +16,7 @@
             "event_category": "Football",
             "isLive": false,
             "contentId": 1090528194,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017273/1776323960128429_FA_Cup_Semi-Final_Manchester_City_vs_Southampton_landscape_bg.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Emirates FA Cup Semifinals"
