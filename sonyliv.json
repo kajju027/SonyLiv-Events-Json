@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:52:15 17-04-2026",
+    "last update time": "01:03:06 18-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528112_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Real Madrid vs PSG - Semi-Final - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UYL_Real1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "St. Pauli vs FC Koln - MD 30 - 18 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776497586~acl=/*~id=50214669112999592905365347621814~hmac=7392927e7d59940cac7ba57abef0446897a77a53b305b5cc69cdc7445257dbd2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776497586~acl=/*~id=50214669112999592905365347621814~hmac=7392927e7d59940cac7ba57abef0446897a77a53b305b5cc69cdc7445257dbd2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/StPauli_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776497586~acl=/*~id=50214669112999592905365347621814~hmac=7392927e7d59940cac7ba57abef0446897a77a53b305b5cc69cdc7445257dbd2"
         },
         {
             "event_category": "Golf",
@@ -38,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "Mexico City - Day 2 - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776493334~acl=/*~id=90377403032336436357739579487164~hmac=2f89155340d858d0502cead1a9010481642f696d403fe08e0a709d44a30a71f7"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776497586~acl=/*~id=50214669112999592905365347621814~hmac=7392927e7d59940cac7ba57abef0446897a77a53b305b5cc69cdc7445257dbd2",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776497586~acl=/*~id=50214669112999592905365347621814~hmac=7392927e7d59940cac7ba57abef0446897a77a53b305b5cc69cdc7445257dbd2",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/LIV_Golf1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776497586~acl=/*~id=50214669112999592905365347621814~hmac=7392927e7d59940cac7ba57abef0446897a77a53b305b5cc69cdc7445257dbd2"
         },
         {
             "event_category": "Football",
