@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "16:58:00 17-04-2026",
+    "last update time": "18:08:48 17-04-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090528208_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788152081263_IFC_Namdhari_FC_vs_Chanmari_FC_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Indian Football League 2026",
-            "match_name": "Namdhari FC vs Chanmari FC - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776468479~acl=/*~id=21158781117743245568659391908058~hmac=346cb82a49f6cbc8612283186c57007806111d103d32e094ff55e99425694d1e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776468479~acl=/*~id=21158781117743245568659391908058~hmac=346cb82a49f6cbc8612283186c57007806111d103d32e094ff55e99425694d1e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Namdhari1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776468479~acl=/*~id=21158781117743245568659391908058~hmac=346cb82a49f6cbc8612283186c57007806111d103d32e094ff55e99425694d1e"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -24,10 +11,10 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA Youth League 2025-26",
-            "match_name": "Benfica vs Club Brugge - Semi-Final - Leg 1 - 17 Apr 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Benfica_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776468479~acl=/*~id=21158781117743245568659391908058~hmac=346cb82a49f6cbc8612283186c57007806111d103d32e094ff55e99425694d1e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Benfica_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776468479~acl=/*~id=21158781117743245568659391908058~hmac=346cb82a49f6cbc8612283186c57007806111d103d32e094ff55e99425694d1e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Benfica_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776468479~acl=/*~id=21158781117743245568659391908058~hmac=346cb82a49f6cbc8612283186c57007806111d103d32e094ff55e99425694d1e"
+            "match_name": "Benfica vs Club Brugge - Semi-Final - 17 Apr 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Benfica_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776472727~acl=/*~id=77720165079801768680021945894007~hmac=81c6806b87e105ca904fa286d4bca164cbf93813040800318e38e087aa7a480c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Benfica_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776472727~acl=/*~id=77720165079801768680021945894007~hmac=81c6806b87e105ca904fa286d4bca164cbf93813040800318e38e087aa7a480c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Benfica_1704/ENG/std_lrh-800300010.m3u8?hdnea=exp=1776472727~acl=/*~id=77720165079801768680021945894007~hmac=81c6806b87e105ca904fa286d4bca164cbf93813040800318e38e087aa7a480c"
         },
         {
             "event_category": "Football",
