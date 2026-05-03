@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:48:14 03-05-2026",
+    "last update time": "23:58:58 03-05-2026",
     "matches": [
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090529621_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777372816364475_Bundesliga_2025-26_MD-32_Borussia-Mgladbach-vs-Dortmund_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "Bundesliga 2025-26",
-            "match_name": "Borussia Monchengladbach vs Borussia Dortmund - MD 32 - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777871893~acl=/*~id=28527706909905776949174540219837~hmac=225060434afcfb944f0ca30cfec4660667852d37b451afeb9f6b01cace15c4f0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777871893~acl=/*~id=28527706909905776949174540219837~hmac=225060434afcfb944f0ca30cfec4660667852d37b451afeb9f6b01cace15c4f0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/BLIGA_Bo0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777871893~acl=/*~id=28527706909905776949174540219837~hmac=225060434afcfb944f0ca30cfec4660667852d37b451afeb9f6b01cace15c4f0"
-        },
         {
             "event_category": "Football",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Bundesliga 2025-26",
             "match_name": "SC Freiburg vs VfL Wolfsburg - MD 32 - 3 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777871893~acl=/*~id=28527706909905776949174540219837~hmac=225060434afcfb944f0ca30cfec4660667852d37b451afeb9f6b01cace15c4f0",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777871893~acl=/*~id=28527706909905776949174540219837~hmac=225060434afcfb944f0ca30cfec4660667852d37b451afeb9f6b01cace15c4f0",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777871893~acl=/*~id=28527706909905776949174540219837~hmac=225060434afcfb944f0ca30cfec4660667852d37b451afeb9f6b01cace15c4f0"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777876138~acl=/*~id=29232910458039642523510341640277~hmac=7bdf81ef491cc7dd052ca5ffe491cf64fa4ab366be453dc915f14b5158f02dac",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777876138~acl=/*~id=29232910458039642523510341640277~hmac=7bdf81ef491cc7dd052ca5ffe491cf64fa4ab366be453dc915f14b5158f02dac",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/BLIGA_Fr0305/ENG/std_lrh-800300010.m3u8?hdnea=exp=1777876138~acl=/*~id=29232910458039642523510341640277~hmac=7bdf81ef491cc7dd052ca5ffe491cf64fa4ab366be453dc915f14b5158f02dac"
         },
         {
             "event_category": "Football",
