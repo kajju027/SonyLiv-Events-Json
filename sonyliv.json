@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:48:13 22-05-2026",
+    "last update time": "00:39:23 23-05-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2026",
             "match_name": "Somerset vs Hampshire - 22 May 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Somerset2205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779513493~acl=/*~id=09032167698127422363698210387139~hmac=fb53cbaa29d19b1f7b0795a25048777138b5ce4351565f2db57cb2377ca98254",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Somerset2205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779513493~acl=/*~id=09032167698127422363698210387139~hmac=fb53cbaa29d19b1f7b0795a25048777138b5ce4351565f2db57cb2377ca98254",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Somerset2205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779513493~acl=/*~id=09032167698127422363698210387139~hmac=fb53cbaa29d19b1f7b0795a25048777138b5ce4351565f2db57cb2377ca98254"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Somerset2205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779520163~acl=/*~id=41027470049483128296389660440895~hmac=a254530510b4ee9a18eef094433b7ec906a8d998d7490f99767257056730b21b",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Somerset2205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779520163~acl=/*~id=41027470049483128296389660440895~hmac=a254530510b4ee9a18eef094433b7ec906a8d998d7490f99767257056730b21b",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Somerset2205/ENG/std_lrh-800300010.m3u8?hdnea=exp=1779520163~acl=/*~id=41027470049483128296389660440895~hmac=a254530510b4ee9a18eef094433b7ec906a8d998d7490f99767257056730b21b"
         },
         {
             "event_category": "Tennis",
