@@ -1,8 +1,34 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "07:14:52 31-05-2026",
+    "last update time": "11:47:59 31-05-2026",
     "matches": [
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090531802_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778072097682681_LIV_Golf_South_Korea_2026_DAY-4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "LIV Golf",
+            "match_name": "South Korea - Day 4 - 31 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780251479~acl=/*~id=02773049572807068359701674919990~hmac=e4a7598093db03bb9599206d85f7b0c53d6d96abe67f9bb720acc3fe859fea95",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780251479~acl=/*~id=02773049572807068359701674919990~hmac=e4a7598093db03bb9599206d85f7b0c53d6d96abe67f9bb720acc3fe859fea95",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/LIVGolf_3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780251479~acl=/*~id=02773049572807068359701674919990~hmac=e4a7598093db03bb9599206d85f7b0c53d6d96abe67f9bb720acc3fe859fea95"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090531792_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774843370739_DP_World_Austrian_Alpine_Open_Day4_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Austrian Alpine Open - Day 4 - 31 May 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Austrian3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780251479~acl=/*~id=02773049572807068359701674919990~hmac=e4a7598093db03bb9599206d85f7b0c53d6d96abe67f9bb720acc3fe859fea95",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Austrian3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780251479~acl=/*~id=02773049572807068359701674919990~hmac=e4a7598093db03bb9599206d85f7b0c53d6d96abe67f9bb720acc3fe859fea95",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Austrian3105/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780251479~acl=/*~id=02773049572807068359701674919990~hmac=e4a7598093db03bb9599206d85f7b0c53d6d96abe67f9bb720acc3fe859fea95"
+        },
         {
             "event_category": "Cricket",
             "isLive": false,
