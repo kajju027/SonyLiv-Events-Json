@@ -1,33 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "02:47:47 07-06-2026",
+    "last update time": "03:58:34 07-06-2026",
     "matches": [
         {
             "event_category": "Football",
             "isLive": true,
-            "contentId": "1090534119_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780626457324941_INT_Friendlies26_England_VS_New_Zealand_4jun_landscape_thumb.jpg",
+            "contentId": "1090534235_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627099108940_INT_Friendlies26_Turkiye_vs_Venezuela_4jun_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
-            "match_name": "England vs New Zealand - 7 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534066_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Vitality Blast 2026",
-            "match_name": "Durham vs Northampton - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f"
+            "match_name": "Turkiye vs Venezuela - 7 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780828113~acl=/*~id=09775564592375868881426036961535~hmac=a722af7b282e9fc7f1be3b64ca9bddf369e0d92816355fb290bf0552b9afca9a",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780828113~acl=/*~id=09775564592375868881426036961535~hmac=a722af7b282e9fc7f1be3b64ca9bddf369e0d92816355fb290bf0552b9afca9a",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UEFA_Tur0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780828113~acl=/*~id=09775564592375868881426036961535~hmac=a722af7b282e9fc7f1be3b64ca9bddf369e0d92816355fb290bf0552b9afca9a"
         },
         {
             "event_category": "Cricket",
