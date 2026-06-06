@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "01:37:03 07-06-2026",
+    "last update time": "02:47:47 07-06-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "England vs New Zealand - 7 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f"
         },
         {
             "event_category": "Cricket",
@@ -25,22 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2026",
             "match_name": "Durham vs Northampton - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154"
-        },
-        {
-            "event_category": "Football",
-            "isLive": true,
-            "contentId": "1090534118_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625947353940_INT_Friendlies26_Switzerland_vs_Australia_4jun_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 2",
-            "audioLanguageName": "ENG",
-            "event_name": "UEFA International Friendlies",
-            "match_name": "Switzerland vs Australia - 7 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780819622~acl=/*~id=47830196680817321078489740704652~hmac=d80144c43df95c7375a637825cedb8b25b2f4f2d3d5c23c0174771c172a3d154"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780823867~acl=/*~id=19993626617969683526135961868908~hmac=9be5963728944533232d0fbbe19e06e12766188960eeb96d22f630731ff4d13f"
         },
         {
             "event_category": "Cricket",
@@ -50,6 +37,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Talent TV Cup"
+        },
+        {
+            "event_category": "Tennis",
+            "isLive": false,
+            "contentId": 1090534292,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019381/1780773342401913_RG26_final_mens_cobolli_vs_zverev_6jun_today_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - Cobolli vs Zverev - Final - Roland-Garros 2026"
         },
         {
             "event_category": "Cricket",
