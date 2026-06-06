@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:04:59 06-06-2026",
+    "last update time": "00:16:04 07-06-2026",
     "matches": [
         {
             "event_category": "Football",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Portugal vs Chile - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UEFA_Por0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UEFA_Por0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UEFA_Por0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UEFA_Por0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UEFA_Por0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/UEFA_Por0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6"
         },
         {
             "event_category": "Cricket",
@@ -25,22 +25,22 @@
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2026",
             "match_name": "Durham vs Northampton - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Vitality0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6"
         },
         {
-            "event_category": "Cricket",
+            "event_category": "Football",
             "isLive": true,
-            "contentId": "1090534018_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 3",
-            "audioLanguageName": "HIN",
-            "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_name": "Bastar Bisons vs Raipur Rhinos - 6 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CCPL_Bas0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CCPL_Bas0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CCPL_Bas0606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce"
+            "contentId": "1090534118_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625947353940_INT_Friendlies26_Switzerland_vs_Australia_4jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 2",
+            "audioLanguageName": "ENG",
+            "event_name": "UEFA International Friendlies",
+            "match_name": "Switzerland vs Australia - 7 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6"
         },
         {
             "event_category": "Football",
@@ -51,22 +51,19 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Romania vs Wales - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Rom0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Rom0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Rom0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Rom0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Rom0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/UEFA_Rom0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6"
         },
         {
             "event_category": "Rugby",
             "isLive": true,
-            "contentId": "1090534017_ENG",
+            "contentId": 1090534017,
             "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "HSBC SVNS Bordeaux 2026",
-            "match_name": "Session 4 - Men's & Women's  Match - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/HSBC_SVN0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce"
+            "match_name": "Session 4 - Men's & Women's  Match - 6 Jun 2026"
         },
         {
             "event_category": "Football",
@@ -77,9 +74,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Albania vs Luxembourg - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/UEFA_Alb0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/UEFA_Alb0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/UEFA_Alb0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/UEFA_Alb0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/UEFA_Alb0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/UEFA_Alb0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6"
         },
         {
             "event_category": "Football",
@@ -90,15 +87,15 @@
             "audioLanguageName": "ENG",
             "event_name": "UEFA International Friendlies",
             "match_name": "Gibraltar vs Cayman Islands - 6 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780810495~acl=/*~id=47834796736691208704159769906226~hmac=f7c902e20f59de3248848b98b85e4beabb604c0d4151aeb95ba081afac51c5ce"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/UEFA_Gib0606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1780814761~acl=/*~id=10716906999619506316881247284106~hmac=2646f78ca6e1867435f342095cf7b873e2dd664711735a4ffcd90b35a6f5a4d6"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090533925,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019297/1780680506046446_Tri_Series_3days_togo_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019346/1780744081470972_Tri_Series_2days_togo_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Talent TV Cup"
