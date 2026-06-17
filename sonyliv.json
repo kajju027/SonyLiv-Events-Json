@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:29:40 17-06-2026",
+    "last update time": "19:22:15 17-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534875_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "India A vs Afghanistan A - 17 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534875_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "India A vs Afghanistan A - 17 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534875_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "India A vs Afghanistan A - 17 Jun 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534875_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "India A vs Afghanistan A - 17 Jun 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi1706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534875_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "India A vs Afghanistan A - 17 Jun 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383"
-        },
         {
             "event_category": "Cricket",
             "isLive": true,
@@ -77,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "2nd Test - Day 1 - 17 Jun 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781733578~acl=/*~id=20252674339056701824596435116153~hmac=000340ec68301304258f6bef474168ee9add4a5586e452c456dc1a4cb3b12383"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781747535~acl=/*~id=71509857787719948568144732487843~hmac=967b023831aca3f4bc693918f8f55b0eff85533b373b4766930d362c575df910",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781747535~acl=/*~id=71509857787719948568144732487843~hmac=967b023831aca3f4bc693918f8f55b0eff85533b373b4766930d362c575df910",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_1706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781747535~acl=/*~id=71509857787719948568144732487843~hmac=967b023831aca3f4bc693918f8f55b0eff85533b373b4766930d362c575df910"
         },
         {
             "event_category": "Cricket",
