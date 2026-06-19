@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "15:17:57 19-06-2026",
+    "last update time": "19:00:52 19-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -12,74 +12,18 @@
             "audioLanguageName": "ENG",
             "event_name": "New Zealand Tour of England 2026",
             "match_name": "2nd Test - Day 3 - 19 Jun 2026  [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Cricket_1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Cricket_1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Cricket_1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Cricket_1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781919051~acl=/*~id=54437916800561516589022871142227~hmac=ef493c4e60181aed50989b7bde3b1e8398be27b383039e5f7d375d5d599c4c9c",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Cricket_1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781919051~acl=/*~id=54437916800561516589022871142227~hmac=ef493c4e60181aed50989b7bde3b1e8398be27b383039e5f7d375d5d599c4c9c",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Cricket_1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781919051~acl=/*~id=54437916800561516589022871142227~hmac=ef493c4e60181aed50989b7bde3b1e8398be27b383039e5f7d375d5d599c4c9c"
         },
         {
             "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534984_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "Sri Lanka A vs Afghanistan A - 19 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/ENG/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534984_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "Sri Lanka A vs Afghanistan A - 19 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/HIN/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534984_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "Sri Lanka A vs Afghanistan A - 19 Jun 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TAM/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534984_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "Sri Lanka A vs Afghanistan A - 19 Jun 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/TEL/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac"
-        },
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090534984_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 1",
-            "audioLanguageName": "ENG",
-            "event_name": "Talent TV Cup",
-            "match_name": "Sri Lanka A vs Afghanistan A - 19 Jun 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/cricodi1906/KAN/std_lrh-800300010.m3u8?hdnea=exp=1781905675~acl=/*~id=99142003434686538815486169553163~hmac=f21c52d8736e294665c08dbce1911a177d58c67aaa7382fe042b5bd8bc9112ac"
+            "isLive": false,
+            "contentId": 1090535103,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019737/1781864634792552_tri_series_final_19jun_promo_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Talent TV Cup - Final - Sri Lanka A vs India A"
         },
         {
             "event_category": "Cricket",
