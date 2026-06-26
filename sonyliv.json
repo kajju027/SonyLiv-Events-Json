@@ -1,25 +1,98 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "14:50:38 26-06-2026",
+    "last update time": "17:22:54 26-06-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090535438,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019996/1782405178858583_coc_IREvsIND_1st_t20i_25jun_today_landscape_thumb.jpg",
+            "isLive": true,
+            "contentId": "1090535487_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020006/1782418328366353_IREvsIND_1st_t20i_25jun_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - India Tour of Ireland"
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour Of Ireland 2026",
+            "match_name": "1st T20I - 26 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5"
         },
         {
             "event_category": "Cricket",
-            "isLive": false,
-            "contentId": 1090533556,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019182/1780577613293570_England_vs_New_Zealand_2026_GOB_Landscape_Thumb.jpg",
+            "isLive": true,
+            "contentId": "1090535487_HIN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020006/1782418328366353_IREvsIND_1st_t20i_25jun_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - New Zealand Tour of England"
+            "event_name": "India Tour Of Ireland 2026",
+            "match_name": "1st T20I - 26 Jun 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2606/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535487_TAM",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020006/1782418328366353_IREvsIND_1st_t20i_25jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour Of Ireland 2026",
+            "match_name": "1st T20I - 26 Jun 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi2606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi2606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/cricodi2606/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535487_TEL",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020006/1782418328366353_IREvsIND_1st_t20i_25jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour Of Ireland 2026",
+            "match_name": "1st T20I - 26 Jun 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi2606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi2606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi2606/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535487_KAN",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020006/1782418328366353_IREvsIND_1st_t20i_25jun_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "India Tour Of Ireland 2026",
+            "match_name": "1st T20I - 26 Jun 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2606/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5"
+        },
+        {
+            "event_category": "Cricket",
+            "isLive": true,
+            "contentId": "1090535522_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323534216153_ENGvsNZ_3rd_test_day2_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "New Zealand Tour of England 2026",
+            "match_name": "3rd Test - Day 2 - 26 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/England_2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5"
+        },
+        {
+            "event_category": "Golf",
+            "isLive": true,
+            "contentId": "1090535523_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272168408972_DP_World_Tour_Open_dItalia_day2_landscape_thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "DP World Tour",
+            "match_name": "Open d'Italia - Day 2 - 26 Jun 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Open_dIt2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Open_dIt2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Open_dIt2606/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782517971~acl=/*~id=20489944531765319466557661148725~hmac=c6f8caa9915b7c5341a50b6b258e9b667befa6ed578ef5b2bd281c42a02f9cf5"
         },
         {
             "event_category": "Cricket",
@@ -42,11 +115,11 @@
         {
             "event_category": "Cricket",
             "isLive": false,
-            "contentId": 1090535010,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019962/1782381628360332_India_tour_of_Ireland_2026_GOB_Landscape_Thumb_1.jpg",
+            "contentId": 1090533556,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019182/1780577613293570_England_vs_New_Zealand_2026_GOB_Landscape_Thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
-            "event_name": "Upcoming - India Tour Of Ireland"
+            "event_name": "Upcoming - New Zealand Tour of England"
         },
         {
             "event_category": "Cricket",
