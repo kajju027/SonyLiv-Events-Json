@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:05:43 27-06-2026",
+    "last update time": "00:16:39 28-06-2026",
     "matches": [
-        {
-            "event_category": "Cricket",
-            "isLive": true,
-            "contentId": "1090535664_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323541511153_ENGvsNZ_3rd_test_day3_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "New Zealand Tour of England 2026",
-            "match_name": "3rd Test - Day 3 - 27 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/England_2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e"
-        },
         {
             "event_category": "Fight Sports",
             "isLive": true,
@@ -25,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Fiziev vs Torres",
             "match_name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/ENG/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0"
         },
         {
             "event_category": "Fight Sports",
@@ -38,9 +25,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Fiziev vs Torres",
             "match_name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0"
         },
         {
             "event_category": "Fight Sports",
@@ -51,9 +38,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Fiziev vs Torres",
             "match_name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TAM/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0"
         },
         {
             "event_category": "Fight Sports",
@@ -64,9 +51,9 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Fiziev vs Torres",
             "match_name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/TEL/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0"
         },
         {
             "event_category": "Fight Sports",
@@ -77,15 +64,15 @@
             "audioLanguageName": "ENG",
             "event_name": "UFC Fight Night - Fiziev vs Torres",
             "match_name": "UFC Fight Night - Fiziev vs Torres - 27 Jun 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782624941~acl=/*~id=44981214553121144066766793943703~hmac=ce9f49a2064979126a1c6af5199f4e6395e7b122b862f5d1001eab7ff972291e"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/UFCFight2706/KAN/std_lrh-800300010.m3u8?hdnea=exp=1782629197~acl=/*~id=66261432985780230951554597069222~hmac=979c58acad8c51ba985f0c51739354a7fd0ef8ed9650ecd87a38cf5737b199a0"
         },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090535482,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020093/1782556221162604_IRE_vs_IND_2nd_T20i_promo_landscape_thumb_dated.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020093/1782556429137604_IRE_vs_IND_2nd_T20i_promo_landscape_thumb_today.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "HIN",
             "event_name": "Upcoming - India Tour of Ireland - 2nd T20I"
