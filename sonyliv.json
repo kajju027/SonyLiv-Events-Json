@@ -1,35 +1,13 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "22:55:58 09-07-2026",
+    "last update time": "00:36:54 10-07-2026",
     "matches": [
-        {
-            "event_category": "Golf",
-            "isLive": true,
-            "contentId": "1090535930_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290184826701_DP_World_Tour_GENESIS_SCOTTISH_Open_day1_24jun_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "DP World Tour",
-            "match_name": "Genesis Scottish Open - Day 1 - 9 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414"
-        },
-        {
-            "event_category": "Fight Sports",
-            "isLive": false,
-            "contentId": 1090535863,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020338/1783151562409857_UFC_329_DDT_rev_landscape_thumb.jpg",
-            "broadcast_channel": "Sony Sports Ten 5",
-            "audioLanguageName": "ENG",
-            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
             "contentId": 1090536125,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020335/1783103939129964_Eng_W_vs_Ind_W_one_off_test_day1_dated_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020335/1783103950673964_Eng_W_vs_Ind_W_one_off_test_day1_today_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - England W vs India W - Only Test "
@@ -51,6 +29,15 @@
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - India Tour of Sri Lanka"
+        },
+        {
+            "event_category": "Fight Sports",
+            "isLive": false,
+            "contentId": 1090535863,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020338/1783151562409857_UFC_329_DDT_rev_landscape_thumb.jpg",
+            "broadcast_channel": "Sony Sports Ten 5",
+            "audioLanguageName": "ENG",
+            "event_name": "Upcoming - UFC 329 - McGregor vs Holloway 2"
         },
         {
             "event_category": "Sports",
