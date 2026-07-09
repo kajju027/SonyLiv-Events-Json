@@ -1,7 +1,7 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "20:34:22 09-07-2026",
+    "last update time": "22:55:58 09-07-2026",
     "matches": [
         {
             "event_category": "Golf",
@@ -12,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "DP World Tour",
             "match_name": "Genesis Scottish Open - Day 1 - 9 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783652662~acl=/*~id=47655249500451416688825708165386~hmac=ff870b91492e729b25d26082e09f3ddfd942eaed39beea16713d8040e2a7f550",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783652662~acl=/*~id=47655249500451416688825708165386~hmac=ff870b91492e729b25d26082e09f3ddfd942eaed39beea16713d8040e2a7f550",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783652662~acl=/*~id=47655249500451416688825708165386~hmac=ff870b91492e729b25d26082e09f3ddfd942eaed39beea16713d8040e2a7f550"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_DP_0907/ENG/std_lrh-800300010.m3u8?hdnea=exp=1783661104~acl=/*~id=60904216331103474528963231236024~hmac=a006b0c918e28116e896fc610b1ec351dbc6a3fda4b8965b474858c4f8b45414"
         },
         {
             "event_category": "Fight Sports",
