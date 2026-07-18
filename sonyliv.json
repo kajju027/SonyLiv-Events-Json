@@ -1,20 +1,20 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "18:06:11 18-07-2026",
+    "last update time": "19:37:08 18-07-2026",
     "matches": [
         {
             "event_category": "Cricket",
             "isLive": true,
             "contentId": "1090536700_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020654/1784224983801454_VB26_SF_mens_Northampton_vs_Somerset_landscape_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020653/1784221900280186_VB26_SF_mens_Hampshire_vs_Nottinghamshire_landscape_thumb.jpg",
             "broadcast_channel": "Sony Sports Ten 5",
             "audioLanguageName": "ENG",
             "event_name": "Vitality Blast 2026",
-            "match_name": "Northamptonshire vs Somerset - Semi-final - 18 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784421370~acl=/*~id=93378167922106952633195099399231~hmac=0315162a9d88eed0a09cbe8f54984c25a6a9dab0c18d78d6b07536f062fbdc4e",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784421370~acl=/*~id=93378167922106952633195099399231~hmac=0315162a9d88eed0a09cbe8f54984c25a6a9dab0c18d78d6b07536f062fbdc4e",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784421370~acl=/*~id=93378167922106952633195099399231~hmac=0315162a9d88eed0a09cbe8f54984c25a6a9dab0c18d78d6b07536f062fbdc4e"
+            "match_name": "Hampshire vs Nottinghamshire - Semi-final - 18 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784426828~acl=/*~id=90330583544698900844779165734761~hmac=db26ffde3e85623fb5d3ba2844f6fff7407e2c67a7ef0941c8727a5d276e1465",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784426828~acl=/*~id=90330583544698900844779165734761~hmac=db26ffde3e85623fb5d3ba2844f6fff7407e2c67a7ef0941c8727a5d276e1465",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/criclive1807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784426828~acl=/*~id=90330583544698900844779165734761~hmac=db26ffde3e85623fb5d3ba2844f6fff7407e2c67a7ef0941c8727a5d276e1465"
         },
         {
             "event_category": "Sports",
