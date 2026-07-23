@@ -1,73 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "19:48:26 23-07-2026",
+    "last update time": "21:29:49 23-07-2026",
     "matches": [
-        {
-            "event_category": "Bowls and Para Bowls",
-            "isLive": true,
-            "contentId": "1090536267_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Bowls and Para Bowls - 23 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Pre_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46"
-        },
-        {
-            "event_category": "Bowls and Para Bowls",
-            "isLive": true,
-            "contentId": "1090536267_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Bowls and Para Bowls - 23 Jul 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Pre_2307/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46"
-        },
-        {
-            "event_category": "Bowls and Para Bowls",
-            "isLive": true,
-            "contentId": "1090536267_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Bowls and Para Bowls - 23 Jul 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Pre_2307/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46"
-        },
-        {
-            "event_category": "Bowls and Para Bowls",
-            "isLive": true,
-            "contentId": "1090536267_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Bowls and Para Bowls - 23 Jul 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Pre_2307/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46"
-        },
-        {
-            "event_category": "Bowls and Para Bowls",
-            "isLive": true,
-            "contentId": "1090536267_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Bowls and Para Bowls - 23 Jul 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Pre_2307/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46"
-        },
         {
             "event_category": "Golf",
             "isLive": true,
@@ -77,9 +12,9 @@
             "audioLanguageName": "ENG",
             "event_name": "LIV Golf",
             "match_name": "UK - Day 1 - 23 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784859504~acl=/*~id=98568553680413282567434859224947~hmac=9155055fda30720a162793dd3791696ed369c69b0c2aaaebc8abfa40f1ff9e46"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784865589~acl=/*~id=40343700500884354174536820227087~hmac=0ad49aedb309e98842ffab025d4e8a58ce66fbf49daed85a1aafcb6a66d19d50",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784865589~acl=/*~id=40343700500884354174536820227087~hmac=0ad49aedb309e98842ffab025d4e8a58ce66fbf49daed85a1aafcb6a66d19d50",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784865589~acl=/*~id=40343700500884354174536820227087~hmac=0ad49aedb309e98842ffab025d4e8a58ce66fbf49daed85a1aafcb6a66d19d50"
         },
         {
             "event_category": "Football",
