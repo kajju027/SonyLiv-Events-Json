@@ -1,72 +1,85 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "23:40:53 24-07-2026",
+    "last update time": "01:12:15 25-07-2026",
     "matches": [
         {
             "event_category": "Sports",
             "isLive": true,
             "contentId": "1090536267_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784885390545453_POWERLIFTING_Kasthuri_Rajamani_live_landsacpe_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784886279909453_POWERLIFTING_Sudhir_Jhandu_Kumari_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Women's Heavyweight - Para Powerlifting - 24 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
+            "match_name": " Men's Heavyweight - Para Powerlifting - 24 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
         },
         {
             "event_category": "Sports",
             "isLive": true,
             "contentId": "1090536267_HIN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784885390545453_POWERLIFTING_Kasthuri_Rajamani_live_landsacpe_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784886279909453_POWERLIFTING_Sudhir_Jhandu_Kumari_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Women's Heavyweight - Para Powerlifting - 24 Jul 2026 [HIN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
+            "match_name": " Men's Heavyweight - Para Powerlifting - 24 Jul 2026 [HIN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre2407/HIN/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
         },
         {
             "event_category": "Sports",
             "isLive": true,
             "contentId": "1090536267_TAM",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784885390545453_POWERLIFTING_Kasthuri_Rajamani_live_landsacpe_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784886279909453_POWERLIFTING_Sudhir_Jhandu_Kumari_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Women's Heavyweight - Para Powerlifting - 24 Jul 2026 [TAM]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
+            "match_name": " Men's Heavyweight - Para Powerlifting - 24 Jul 2026 [TAM]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre2407/TAM/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
         },
         {
             "event_category": "Sports",
             "isLive": true,
             "contentId": "1090536267_TEL",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784885390545453_POWERLIFTING_Kasthuri_Rajamani_live_landsacpe_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784886279909453_POWERLIFTING_Sudhir_Jhandu_Kumari_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Women's Heavyweight - Para Powerlifting - 24 Jul 2026 [TEL]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
+            "match_name": " Men's Heavyweight - Para Powerlifting - 24 Jul 2026 [TEL]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2407/TEL/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
         },
         {
             "event_category": "Sports",
             "isLive": true,
             "contentId": "1090536267_KAN",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784885390545453_POWERLIFTING_Kasthuri_Rajamani_live_landsacpe_thumb.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020891/1784886279909453_POWERLIFTING_Sudhir_Jhandu_Kumari_live_landscape_thumb.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Women's Heavyweight - Para Powerlifting - 24 Jul 2026 [KAN]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
+            "match_name": " Men's Heavyweight - Para Powerlifting - 24 Jul 2026 [KAN]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2407/KAN/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
+        },
+        {
+            "event_category": "Aquatics",
+            "isLive": true,
+            "contentId": "1090536385_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784920799308_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Women's 50m Butterfly - Aquatics - 24 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
         },
         {
             "event_category": "Bowls and Para Bowls",
@@ -77,35 +90,44 @@
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
             "match_name": "Putul Sonowal vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
         },
         {
-            "event_category": "Bowls and Para Bowls",
-            "isLive": true,
-            "contentId": "1090536385_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784911458136_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Sam Tolchard vs Ross Owen - Men's Singles - Bowls and Para Bowls - 24 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
-        },
-        {
-            "event_category": "Boxing",
+            "event_category": "Basketball",
             "isLive": true,
             "contentId": "1090536387_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784916154003_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784921933138_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg",
             "broadcast_channel": "LIV",
             "audioLanguageName": "ENG",
             "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Marvelous-Marvin Canon vs Fabrice Karl Valerie - Men's 55kg - Boxing - 24 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784959850~acl=/*~id=03768801865436099038697659412199~hmac=4c38cd40fc75ef786e98453d7e5ea01784f0e01ab135d04aef458bde69c433d6"
+            "match_name": "Scotland vs Australia - Men - Basketball - 24 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
+        },
+        {
+            "event_category": "Para Powerlifting",
+            "isLive": true,
+            "contentId": "1090536268_ENG",
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784922020877_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "ENG",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_name": "Men's Heavyweight - Para Powerlifting - 24 Jul 2026 [ENG]",
+            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45",
+            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/std_lrh-800300010.m3u8?hdnea=exp=1784965332~acl=/*~id=13295461139305079719616767976479~hmac=f177fbf56a007cb9cf2699aa6a249bd5c88e9cbd86e670217483c1df061f8b45"
+        },
+        {
+            "event_category": "Sports",
+            "isLive": false,
+            "contentId": 1090536900,
+            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020536/1783933139419971_Commonwealth_Games_2026_GOB_Landscape_Thumb.jpg",
+            "broadcast_channel": "LIV",
+            "audioLanguageName": "HIN",
+            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Football",
@@ -187,15 +209,6 @@
             "broadcast_channel": "Sony Sports Ten 2",
             "audioLanguageName": "ENG",
             "event_name": "Upcoming - Durand Cup 2026"
-        },
-        {
-            "event_category": "Sports",
-            "isLive": false,
-            "contentId": 1090536900,
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020888/1784881759721377_CWG_upcoming_Para_Powerlifting_Sudhir_landscape_thumb.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "HIN",
-            "event_name": "Upcoming - Glasgow 2026 Commonwealth Games"
         },
         {
             "event_category": "Cricket",
