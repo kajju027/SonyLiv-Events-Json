@@ -1,21 +1,8 @@
 {
     "name": "Sonyliv Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "03:17:10 29-07-2026",
+    "last update time": "04:17:44 29-07-2026",
     "matches": [
-        {
-            "event_category": "Athletics",
-            "isLive": true,
-            "contentId": "1090536268_ENG",
-            "src": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785271224892_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
-            "broadcast_channel": "LIV",
-            "audioLanguageName": "ENG",
-            "event_name": "Glasgow 2026 Commonwealth Games",
-            "match_name": "Athletics - 28 Jul 2026 [ENG]",
-            "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785318430~acl=/*~id=57641086455188189555682317903211~hmac=4577f17373271da795a19917e4504a6fae14246b19472d3e9d9dd32074e30387",
-            "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785318430~acl=/*~id=57641086455188189555682317903211~hmac=4577f17373271da795a19917e4504a6fae14246b19472d3e9d9dd32074e30387",
-            "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2807/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785318430~acl=/*~id=57641086455188189555682317903211~hmac=4577f17373271da795a19917e4504a6fae14246b19472d3e9d9dd32074e30387"
-        },
         {
             "event_category": "Cricket",
             "isLive": false,
