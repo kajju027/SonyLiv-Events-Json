@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/7/2026, 5:12:32 pm",
+  "updatedAt": "30/7/2026, 5:30:25 pm",
   "total_matches": 20,
   "live_matches": 10,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021425/1785409162117349_india_in_action_cycling_athletics_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536267_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021425/1785409162117349_india_in_action_cycling_athletics_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000384/CWG_Stre3007/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536267_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021425/1785409162117349_india_in_action_cycling_athletics_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre3007/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536267_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021425/1785409162117349_india_in_action_cycling_athletics_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000382/CWG_Stre3007/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536267_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021425/1785409162117349_india_in_action_cycling_athletics_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre3007/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090537860_ENG",
@@ -79,35 +79,35 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785285015370595_DC26_FC_Raengdai_vs_Indian_Navy_FT_landscape.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536387_ENG",
       "event_name": "Glasgow 2026 Commonwealth Games",
-      "match_name": "Women's Team Sprint - Cycling - 30 Jul 2026 [ENG]",
+      "match_name": "Tayla Bruce vs Boikhutso Mooketsi - Women's Singles - Bowls and Para Bowls - 30 Jul 2026 [ENG]",
       "status": "Live",
-      "category": "Cycling",
+      "category": "Bowls and Para Bowls",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785410915085_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785411954612_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536268_ENG",
       "event_name": "Glasgow 2026 Commonwealth Games",
-      "match_name": "Women's One Mile - Athletics - 30 Jul 2026 [ENG]",
+      "match_name": "Women's 400m - Athletics - 30 Jul 2026 [ENG]",
       "status": "Live",
       "category": "Athletics",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785410118626_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785411925860_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536386_ENG",
@@ -118,22 +118,22 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785410308887_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": "1090536385_ENG",
       "event_name": "Glasgow 2026 Commonwealth Games",
-      "match_name": "Bowls and Para Bowls - 30 Jul 2026 [ENG]",
+      "match_name": "Malaysia vs Niue - Men's Pairs - Bowls and Para Bowls - 30 Jul 2026 [ENG]",
       "status": "Live",
       "category": "Bowls and Para Bowls",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785454459~acl=/*~id=91320212528923502489920438946159~hmac=9d1e6063c4b307f3c2fc6ce37743856d9903bb70275e1286d1b0e4554d21a6df"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785411903485_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785455677~acl=/*~id=56146080884592896590865337339702~hmac=ac779b57801a2ab24f7f2cc21cec31f2e836a6481fd5a16f024a639981f5494f"
     },
     {
       "match_id": 1090536992,
