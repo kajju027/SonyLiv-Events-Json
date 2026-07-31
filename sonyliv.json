@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/7/2026, 5:03:50 pm",
+  "updatedAt": "31/7/2026, 5:14:02 pm",
   "total_matches": 20,
   "live_matches": 10,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021500/1785496823184292_CWG_live_version3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000297/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536267_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021500/1785496823184292_CWG_live_version3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre3107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre3107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre3107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre3107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre3107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre3107/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536267_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021500/1785496823184292_CWG_live_version3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre3107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre3107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre3107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre3107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre3107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre3107/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536267_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021500/1785496823184292_CWG_live_version3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre3107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre3107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre3107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre3107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre3107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre3107/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536267_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021500/1785496823184292_CWG_live_version3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre3107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre3107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre3107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre3107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre3107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre3107/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090537988_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785285459561595_DC26_Shillong_Lajong_FC_vs_Nongkseh_SS_and_CC_landscape.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536385_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785496548166_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536386_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536268_ENG",
@@ -118,22 +118,22 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785496965681_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": "1090536387_ENG",
       "event_name": "Glasgow 2026 Commonwealth Games",
-      "match_name": "Rhianna Parris-Smith vs Nurul Izzah Izzati Mohd Asri - Women's Sprint - Cycling - 31 Jul 2026 [ENG]",
+      "match_name": "Men's 4000m Ind. Pursuit - Cycling - 31 Jul 2026 [ENG]",
       "status": "Live",
       "category": "Cycling",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785497388056_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785540819~acl=/*~id=29495261444634130954764897122313~hmac=1c135b385934419cd868168c94a7b7c9f2140e4e4b1d98e64b7a9e618416ddf8"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785497919523_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785541430~acl=/*~id=35187503060156925331104012238906~hmac=bec92762e44efba0d7702156dada64f650337f750d7d6b1ce74bd6eaf49f5bb2"
     },
     {
       "match_id": 1090536279,
