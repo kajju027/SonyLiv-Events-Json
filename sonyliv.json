@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/8/2026, 1:11:05 pm",
+  "updatedAt": "1/8/2026, 1:21:17 pm",
   "total_matches": 11,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613132~acl=/*~id=39871117035012641361559636227191~hmac=1702a811b8f382981790af5f0da8eed01c1edeb565ab966396fb97c0d8130e02",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613132~acl=/*~id=39871117035012641361559636227191~hmac=1702a811b8f382981790af5f0da8eed01c1edeb565ab966396fb97c0d8130e02",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613132~acl=/*~id=39871117035012641361559636227191~hmac=1702a811b8f382981790af5f0da8eed01c1edeb565ab966396fb97c0d8130e02"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613739~acl=/*~id=40979243339818159709945164892885~hmac=e01d46f69e8c49a818d8b01b9f680621fc670386e132b35d570c6868091c832c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613739~acl=/*~id=40979243339818159709945164892885~hmac=e01d46f69e8c49a818d8b01b9f680621fc670386e132b35d570c6868091c832c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613739~acl=/*~id=40979243339818159709945164892885~hmac=e01d46f69e8c49a818d8b01b9f680621fc670386e132b35d570c6868091c832c"
     },
     {
       "match_id": "1090536387_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613132~acl=/*~id=39871117035012641361559636227191~hmac=1702a811b8f382981790af5f0da8eed01c1edeb565ab966396fb97c0d8130e02",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613132~acl=/*~id=39871117035012641361559636227191~hmac=1702a811b8f382981790af5f0da8eed01c1edeb565ab966396fb97c0d8130e02",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613132~acl=/*~id=39871117035012641361559636227191~hmac=1702a811b8f382981790af5f0da8eed01c1edeb565ab966396fb97c0d8130e02"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613739~acl=/*~id=40979243339818159709945164892885~hmac=e01d46f69e8c49a818d8b01b9f680621fc670386e132b35d570c6868091c832c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613739~acl=/*~id=40979243339818159709945164892885~hmac=e01d46f69e8c49a818d8b01b9f680621fc670386e132b35d570c6868091c832c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785613739~acl=/*~id=40979243339818159709945164892885~hmac=e01d46f69e8c49a818d8b01b9f680621fc670386e132b35d570c6868091c832c"
     },
     {
       "match_id": 1090536992,
