@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/8/2026, 9:31:12 pm",
+  "updatedAt": "1/8/2026, 9:41:25 pm",
   "total_matches": 18,
   "live_matches": 9,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785540950585298_CWG_Boxing_Final_Marie_Bathoul_vs_Priya_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000397/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536267_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785540950585298_CWG_Boxing_Final_Marie_Bathoul_vs_Priya_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre0108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536267_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785540950585298_CWG_Boxing_Final_Marie_Bathoul_vs_Priya_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre0108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536267_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785540950585298_CWG_Boxing_Final_Marie_Bathoul_vs_Priya_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre0108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536267_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785540950585298_CWG_Boxing_Final_Marie_Bathoul_vs_Priya_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre0108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536385_ENG",
@@ -79,22 +79,22 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785599578096_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536387_ENG",
       "event_name": "Glasgow 2026 Commonwealth Games",
-      "match_name": "Laurence Biron vs Saya Middleton - Women -63 kg - Judo - 1 Aug 2026 [ENG]",
+      "match_name": "Fernand Nkero vs Odysseas Georgakis - Men -81 kg - Judo - 1 Aug 2026 [ENG]",
       "status": "Live",
       "category": "Judo",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785598965571_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785600261191_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536386_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": "1090536268_ENG",
@@ -118,9 +118,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785598206201_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643010~acl=/*~id=68524241539335330670636244824207~hmac=8fa25d31d4653de5abaf33712a0aa0e39799a43faf391d43a617d091c3e35c7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785643621~acl=/*~id=55660115527897794296017076519918~hmac=dd9d99a4c276de0696a25d6e15d2022fba115f0c8fd9f59547e33e0e47b03c61"
     },
     {
       "match_id": 1090536992,
