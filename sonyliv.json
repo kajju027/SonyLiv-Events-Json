@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/8/2026, 3:05:26 am",
-  "total_matches": 9,
-  "live_matches": 0,
+  "updatedAt": "1/8/2026, 12:30:17 pm",
+  "total_matches": 11,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090536386_ENG",
+      "event_name": "Glasgow 2026 Commonwealth Games",
+      "match_name": "Australia vs New Zealand - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Bowls and Para Bowls",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641"
+    },
+    {
+      "match_id": "1090536387_ENG",
+      "event_name": "Glasgow 2026 Commonwealth Games",
+      "match_name": "Scotland vs South Africa - Men's Pairs - Bowls And Para Bowls - 1 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Bowls and Para Bowls",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785610702~acl=/*~id=64258011678224585869242993538912~hmac=ea21906f177cbaef273b05c45b0658ab205d358a4043ac97e0eeb1c3b41f4641"
+    },
     {
       "match_id": 1090536992,
       "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
