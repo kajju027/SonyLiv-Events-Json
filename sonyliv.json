@@ -1,10 +1,49 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/8/2026, 5:47:38 am",
-  "total_matches": 7,
-  "live_matches": 0,
+  "updatedAt": "2/8/2026, 1:00:51 pm",
+  "total_matches": 10,
+  "live_matches": 3,
   "matches": [
+    {
+      "match_id": "1090536385_ENG",
+      "event_name": "Glasgow 2026 Commonwealth Games",
+      "match_name": "Netball - 2 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Netball",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379"
+    },
+    {
+      "match_id": "1090536386_ENG",
+      "event_name": "Glasgow 2026 Commonwealth Games",
+      "match_name": "Bowls And Para Bowls - 2 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Bowls and Para Bowls",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379"
+    },
+    {
+      "match_id": "1090536387_ENG",
+      "event_name": "Glasgow 2026 Commonwealth Games",
+      "match_name": "Cycling - 2 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Cycling",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre0208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785698839~acl=/*~id=51938906291962218715255139814373~hmac=18973dfa11d506f865ad1fd3e2fdc2ca445106bf48a9c7d399d53d973de34379"
+    },
     {
       "match_id": 1090536992,
       "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
