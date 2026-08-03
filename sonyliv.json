@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/8/2026, 6:22:00 pm",
+  "updatedAt": "3/8/2026, 6:32:19 pm",
   "total_matches": 7,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021699/1785655952244561_DURAND_CUP_2026_Langsning-FC-vs-Mumbay-FC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785805250~acl=/*~id=91284173867582684377044643104791~hmac=6195e656b9727b6a3e7697b269d548fb5e46960ca9ddb8d4c20bab36361f6ee8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785805250~acl=/*~id=91284173867582684377044643104791~hmac=6195e656b9727b6a3e7697b269d548fb5e46960ca9ddb8d4c20bab36361f6ee8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785805250~acl=/*~id=91284173867582684377044643104791~hmac=6195e656b9727b6a3e7697b269d548fb5e46960ca9ddb8d4c20bab36361f6ee8"
     },
     {
       "match_id": 1090536992,
