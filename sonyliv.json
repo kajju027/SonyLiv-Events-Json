@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/8/2026, 6:11:31 pm",
-  "total_matches": 6,
-  "live_matches": 0,
+  "updatedAt": "3/8/2026, 6:22:00 pm",
+  "total_matches": 7,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090538486_ENG",
+      "event_name": "IndianOil Durand Cup 2026",
+      "match_name": "Langsning FC vs Mumbay FC - 3 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021699/1785655952244561_DURAND_CUP_2026_Langsning-FC-vs-Mumbay-FC_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Football0308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1785804643~acl=/*~id=43066143494206625324545938698522~hmac=a5e79df143bffca486a2d76ae9f4decdbb1e9c504f482ba619d755fc56060a2d"
+    },
     {
       "match_id": 1090536992,
       "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
