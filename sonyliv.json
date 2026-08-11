@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/8/2026, 3:58:29 pm",
+  "updatedAt": "11/8/2026, 4:08:40 pm",
   "total_matches": 11,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708821155385_DC26_North_East_United_FC_vs_FC1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786487177~acl=/*~id=86866283775318711215997161856543~hmac=7545fb6b0654991d0fd5d2f96da16a5dd20494a24019d5d7f1ccbdc46bd40dee",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786487177~acl=/*~id=86866283775318711215997161856543~hmac=7545fb6b0654991d0fd5d2f96da16a5dd20494a24019d5d7f1ccbdc46bd40dee",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786487177~acl=/*~id=86866283775318711215997161856543~hmac=7545fb6b0654991d0fd5d2f96da16a5dd20494a24019d5d7f1ccbdc46bd40dee"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786487784~acl=/*~id=29498566129445917872494390452244~hmac=977d58cf88ecd0ecc8087f4b84c12c5575fae9bcec5b0946b5ce6ac2e51b2cd4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786487784~acl=/*~id=29498566129445917872494390452244~hmac=977d58cf88ecd0ecc8087f4b84c12c5575fae9bcec5b0946b5ce6ac2e51b2cd4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786487784~acl=/*~id=29498566129445917872494390452244~hmac=977d58cf88ecd0ecc8087f4b84c12c5575fae9bcec5b0946b5ce6ac2e51b2cd4"
     },
     {
       "match_id": 1090536992,
