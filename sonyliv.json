@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/8/2026, 1:25:52 pm",
-  "total_matches": 10,
-  "live_matches": 0,
+  "updatedAt": "11/8/2026, 3:27:56 pm",
+  "total_matches": 11,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090538903_ENG",
+      "event_name": "IndianOil Durand Cup 2026",
+      "match_name": "North East United FC vs FC 1 - 11 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708821155385_DC26_North_East_United_FC_vs_FC1_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786485355~acl=/*~id=50712827186152437961053558136402~hmac=a83f57284e936d6e44ad17701701fece1ffc6217e01b368c3937049ccd9faeb3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786485355~acl=/*~id=50712827186152437961053558136402~hmac=a83f57284e936d6e44ad17701701fece1ffc6217e01b368c3937049ccd9faeb3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786485355~acl=/*~id=50712827186152437961053558136402~hmac=a83f57284e936d6e44ad17701701fece1ffc6217e01b368c3937049ccd9faeb3"
+    },
     {
       "match_id": 1090536992,
       "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
