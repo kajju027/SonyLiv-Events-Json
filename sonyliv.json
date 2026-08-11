@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/8/2026, 6:11:00 pm",
-  "total_matches": 10,
-  "live_matches": 0,
+  "updatedAt": "11/8/2026, 6:31:24 pm",
+  "total_matches": 11,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090538904_ENG",
+      "event_name": "IndianOil Durand Cup 2026",
+      "match_name": "Nongkseh SS&CC vs Mumbay FC - 11 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709090428385_DC26_Nongkseh_SSCC_vs_Mumbay_FC_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786496282~acl=/*~id=96883971235416863210526093377017~hmac=a331227a0719fe29f99a6c9fdf012e9b64818f2066f2efa3de372f7f98dba8f9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786496282~acl=/*~id=96883971235416863210526093377017~hmac=a331227a0719fe29f99a6c9fdf012e9b64818f2066f2efa3de372f7f98dba8f9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786496282~acl=/*~id=96883971235416863210526093377017~hmac=a331227a0719fe29f99a6c9fdf012e9b64818f2066f2efa3de372f7f98dba8f9"
+    },
     {
       "match_id": 1090536992,
       "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
