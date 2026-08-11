@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/8/2026, 8:03:08 pm",
+  "updatedAt": "11/8/2026, 8:13:19 pm",
   "total_matches": 11,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709090428385_DC26_Nongkseh_SSCC_vs_Mumbay_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786501755~acl=/*~id=82585701868810912922087800074791~hmac=d93ded73d1d299734153c502dab8819cb2dfde0ad2d69245722ab48c7b28bb5d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786501755~acl=/*~id=82585701868810912922087800074791~hmac=d93ded73d1d299734153c502dab8819cb2dfde0ad2d69245722ab48c7b28bb5d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786501755~acl=/*~id=82585701868810912922087800074791~hmac=d93ded73d1d299734153c502dab8819cb2dfde0ad2d69245722ab48c7b28bb5d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786502367~acl=/*~id=02364435962883447976800318746939~hmac=42d349f589fdd806e1cc5c2955ba1524391bf34e93bbd145c83f7a83740f193b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786502367~acl=/*~id=02364435962883447976800318746939~hmac=42d349f589fdd806e1cc5c2955ba1524391bf34e93bbd145c83f7a83740f193b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786502367~acl=/*~id=02364435962883447976800318746939~hmac=42d349f589fdd806e1cc5c2955ba1524391bf34e93bbd145c83f7a83740f193b"
     },
     {
       "match_id": 1090536992,
@@ -71,19 +71,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090538916,
-      "event_name": "Upcoming - India Tour of New Zealand ",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090538884,
       "event_name": "Upcoming - ACC Women's Asia Cup 2026",
       "match_name": "",
@@ -92,6 +79,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021930/1786196201785386_asia_cup_w26_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090538916,
+      "event_name": "Upcoming - India Tour of New Zealand ",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
