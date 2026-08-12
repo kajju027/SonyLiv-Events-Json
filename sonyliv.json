@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/8/2026, 4:48:48 pm",
+  "updatedAt": "12/8/2026, 4:53:54 pm",
   "total_matches": 11,
   "live_matches": 1,
   "matches": [
@@ -14,22 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786576394~acl=/*~id=08792115672463878391803347185035~hmac=851a02e8a4b2f5a56343c3795325a9edaf752d27d582ee7c7a15b2ea31f86995",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786576394~acl=/*~id=08792115672463878391803347185035~hmac=851a02e8a4b2f5a56343c3795325a9edaf752d27d582ee7c7a15b2ea31f86995",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786576394~acl=/*~id=08792115672463878391803347185035~hmac=851a02e8a4b2f5a56343c3795325a9edaf752d27d582ee7c7a15b2ea31f86995"
-    },
-    {
-      "match_id": 1090536992,
-      "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786577002~acl=/*~id=95070049504773921647311545293999~hmac=ea2f8340926fd35f015ae1a3b373754f565299dad3e9316b0e1aac9b6a65f43a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786577002~acl=/*~id=95070049504773921647311545293999~hmac=ea2f8340926fd35f015ae1a3b373754f565299dad3e9316b0e1aac9b6a65f43a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786577002~acl=/*~id=95070049504773921647311545293999~hmac=ea2f8340926fd35f015ae1a3b373754f565299dad3e9316b0e1aac9b6a65f43a"
     },
     {
       "match_id": 1090538616,
@@ -40,6 +27,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021805/1785914974320356_UEFA-Super-Cup_Tonight_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090536992,
+      "event_name": "Upcoming - India Tour of Sri Lanka - Tough Test",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022068/1786459595694531_ind_vs_sl_tests_11aug_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
