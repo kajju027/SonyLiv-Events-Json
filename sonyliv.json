@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/8/2026, 5:14:16 pm",
+  "updatedAt": "12/8/2026, 5:24:27 pm",
   "total_matches": 11,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709204517385_DC26_Neroca_FC_vs_FC_Raengdai_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578219~acl=/*~id=95414687137634490510250486452725~hmac=4351c786775c70b5f5084930af9145dd4f94ccd8b5cc2916bdb53f3f20b7835c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578219~acl=/*~id=95414687137634490510250486452725~hmac=4351c786775c70b5f5084930af9145dd4f94ccd8b5cc2916bdb53f3f20b7835c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578219~acl=/*~id=95414687137634490510250486452725~hmac=4351c786775c70b5f5084930af9145dd4f94ccd8b5cc2916bdb53f3f20b7835c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578826~acl=/*~id=24070019018478847620359887015524~hmac=971544e79a5daf205cff832e95ab8aef8a90758f53e2d0ab7b54c63a948ae69b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578826~acl=/*~id=24070019018478847620359887015524~hmac=971544e79a5daf205cff832e95ab8aef8a90758f53e2d0ab7b54c63a948ae69b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Football1208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786578826~acl=/*~id=24070019018478847620359887015524~hmac=971544e79a5daf205cff832e95ab8aef8a90758f53e2d0ab7b54c63a948ae69b"
     },
     {
       "match_id": 1090538616,
