@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/8/2026, 8:05:44 pm",
+  "updatedAt": "13/8/2026, 8:16:02 pm",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785709689118385_DC26_Shillong_Lajong_FC_vs_Langsning_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786674808~acl=/*~id=97738140693887685853454061670754~hmac=cfbd752a4a5433a8c476a391d82445ff71e6d40add289f2f4215ff376d4fb2e3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786674808~acl=/*~id=97738140693887685853454061670754~hmac=cfbd752a4a5433a8c476a391d82445ff71e6d40add289f2f4215ff376d4fb2e3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786674808~acl=/*~id=97738140693887685853454061670754~hmac=cfbd752a4a5433a8c476a391d82445ff71e6d40add289f2f4215ff376d4fb2e3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90"
     },
     {
       "match_id": "1090539134_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703344075390_DP_World_Tour_Danish_Golf_Championship_day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786674808~acl=/*~id=97738140693887685853454061670754~hmac=cfbd752a4a5433a8c476a391d82445ff71e6d40add289f2f4215ff376d4fb2e3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786674808~acl=/*~id=97738140693887685853454061670754~hmac=cfbd752a4a5433a8c476a391d82445ff71e6d40add289f2f4215ff376d4fb2e3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786674808~acl=/*~id=97738140693887685853454061670754~hmac=cfbd752a4a5433a8c476a391d82445ff71e6d40add289f2f4215ff376d4fb2e3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_DP_1308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786675425~acl=/*~id=93877185516339751222959542555743~hmac=d5b6e832b67e3b04be131a10b5a4c03e7a1807cc5ef0175b50f4bdfb10091b90"
     },
     {
       "match_id": 1090539152,
