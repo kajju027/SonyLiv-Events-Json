@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/8/2026, 4:12:25 pm",
+  "updatedAt": "14/8/2026, 4:20:19 pm",
   "total_matches": 14,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703350892390_DP_World_Tour_Danish_Golf_Championship_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786747101~acl=/*~id=27310150222597809340296292053961~hmac=f6f560bb561feddec50a1d41035bbc092adadadedd4f3b716fb555620d94b1f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786747101~acl=/*~id=27310150222597809340296292053961~hmac=f6f560bb561feddec50a1d41035bbc092adadadedd4f3b716fb555620d94b1f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786747101~acl=/*~id=27310150222597809340296292053961~hmac=f6f560bb561feddec50a1d41035bbc092adadadedd4f3b716fb555620d94b1f2"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786747708~acl=/*~id=77154590083424004131960404896822~hmac=4dc3ae40a64088f2ff92226556e5651f62ffa89b80d5be71674293382db7fdbf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786747708~acl=/*~id=77154590083424004131960404896822~hmac=4dc3ae40a64088f2ff92226556e5651f62ffa89b80d5be71674293382db7fdbf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/Danish_G1408/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786747708~acl=/*~id=77154590083424004131960404896822~hmac=4dc3ae40a64088f2ff92226556e5651f62ffa89b80d5be71674293382db7fdbf"
     },
     {
       "match_id": 1090539152,
