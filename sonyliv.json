@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/8/2026, 10:24:02 pm",
-  "total_matches": 13,
-  "live_matches": 1,
+  "updatedAt": "15/8/2026, 10:35:20 pm",
+  "total_matches": 12,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090539251_ENG",
-      "event_name": "Vitality Mixed Disability IT20 series",
-      "match_name": "England vs India - 5th T20I - 15 Aug 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182953294520_Vitality_Mixed_Disability_5th_T20i_England_vs_India_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786855910~acl=/*~id=07914104500695967835090757109317~hmac=20e922b57574e26d1190e3e6f46a7e0d40d4278b3a1446752b353ea4bcb60d96",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786855910~acl=/*~id=07914104500695967835090757109317~hmac=20e922b57574e26d1190e3e6f46a7e0d40d4278b3a1446752b353ea4bcb60d96",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786855910~acl=/*~id=07914104500695967835090757109317~hmac=20e922b57574e26d1190e3e6f46a7e0d40d4278b3a1446752b353ea4bcb60d96"
-    },
     {
       "match_id": 1090538996,
       "event_name": "Upcoming - UFC 330 - Makhachev vs Machado Garry ",
