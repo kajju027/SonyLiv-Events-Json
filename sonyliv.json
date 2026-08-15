@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/8/2026, 4:06:56 am",
-  "total_matches": 12,
+  "updatedAt": "16/8/2026, 4:10:15 am",
+  "total_matches": 11,
   "live_matches": 0,
   "matches": [
-    {
-      "match_id": 1090538996,
-      "event_name": "Upcoming - UFC 330 - Makhachev vs Machado Garry ",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022122/1786561945685722_UFC_330_countdown_Makhachev_vs_Garry_today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
     {
       "match_id": 1090538649,
       "event_name": "Upcoming - Arsenal vs Manchester City - FA Community Shield 2026",
