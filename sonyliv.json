@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/8/2026, 6:43:44 pm",
+  "updatedAt": "15/8/2026, 6:51:12 pm",
   "total_matches": 16,
   "live_matches": 4,
   "matches": [
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182953294520_Vitality_Mixed_Disability_5th_T20i_England_vs_India_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e"
     },
     {
       "match_id": "1090539217_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e"
     },
     {
       "match_id": "1090539270_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786842517~acl=/*~id=57824996918487098065676832291385~hmac=d7fc09778cf008bae8c509bcf776bac1d78b1281e9d3f92fbca156e85ca502a1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1786843127~acl=/*~id=91111900798058390557337016649649~hmac=db6ad8ed51dd2299c69a4f4764ac1a6a21cf57f64af9c84a5a0336f9649fea1e"
     },
     {
       "match_id": 1090538996,
