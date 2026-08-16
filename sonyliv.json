@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/8/2026, 6:08:18 am",
-  "total_matches": 13,
-  "live_matches": 2,
+  "updatedAt": "16/8/2026, 6:49:02 am",
+  "total_matches": 12,
+  "live_matches": 1,
   "matches": [
     {
       "match_id": 1090539297,
@@ -14,19 +14,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022181/1786691707375354_UFC_330_live_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090539292,
-      "event_name": "UFC 330 - Prelims",
-      "match_name": "UFC 330 - Prelims - Chidi Njokuani v Joel Álvarez - 16 Aug 2026",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022240/1786782677452289_UFC330_prelims_Njokuani_vs_alvarez_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
