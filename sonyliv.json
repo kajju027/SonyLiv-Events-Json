@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "17/8/2026, 6:27:03 pm",
-  "total_matches": 12,
-  "live_matches": 2,
+  "updatedAt": "17/8/2026, 6:34:55 pm",
+  "total_matches": 11,
+  "live_matches": 1,
   "matches": [
-    {
-      "match_id": 1090539441,
-      "event_name": "IndianOil Durand Cup 2026",
-      "match_name": "Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022296/1786877925170364_DurandCup_QF_Mohun_Bagan_vs_Jamshedpur_FC_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
     {
       "match_id": 1090539452,
       "event_name": "IndianOil Durand Cup 2026",
