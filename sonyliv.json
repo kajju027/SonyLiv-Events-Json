@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/8/2026, 8:31:52 am",
-  "total_matches": 16,
-  "live_matches": 1,
+  "updatedAt": "19/8/2026, 8:32:21 am",
+  "total_matches": 15,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": 1090539706,
-      "event_name": "India Tour of Sri Lanka 2026",
-      "match_name": "Day 5 - 1st Test - 19 Aug 2026",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964145469306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
     {
       "match_id": 1090539554,
       "event_name": "Upcoming - Pakistan Tour of England 2026",
