@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/8/2026, 12:58:59 pm",
+  "updatedAt": "19/8/2026, 1:17:25 pm",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -13,10 +13,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787123524196_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2"
+      "poster": "https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787124633572_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d"
     },
     {
       "match_id": "1090539706_Telugu",
@@ -26,23 +26,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
-      "poster": "https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787123524269_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2"
-    },
-    {
-      "match_id": "1090539706_Tamil",
-      "event_name": "India Tour of Sri Lanka 2026",
-      "match_name": "Day 5 - 1st Test - 19 Aug 2026 [Tamil]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787123524245_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2"
+      "poster": "https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787124633424_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d"
     },
     {
       "match_id": "1090539706_Hindi",
@@ -52,10 +39,23 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787123524257_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2"
+      "poster": "https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787124633452_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d"
+    },
+    {
+      "match_id": "1090539706_Tamil",
+      "event_name": "India Tour of Sri Lanka 2026",
+      "match_name": "Day 5 - 1st Test - 19 Aug 2026 [Tamil]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787124633440_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d"
     },
     {
       "match_id": "1090539706_Kannada",
@@ -65,10 +65,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
-      "poster": "https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787123524228_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787167480~acl=/*~id=35378994508059084585740691185474~hmac=bd89ddd70a72a1937f7e984348be4477dba894776b0d4766d136f6fc4714f1f2"
+      "poster": "https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787124633397_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787168698~acl=/*~id=80917419686720389717921107234375~hmac=7e696cdf9382307c5490fb06c15adc2f569493439e3f4257cd98597cfe1a852d"
     },
     {
       "match_id": 1090539554,
@@ -130,7 +130,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022435/1787049136098526_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_DDT_Promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022494/178712338135837_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
