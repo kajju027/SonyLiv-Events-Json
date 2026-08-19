@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/8/2026, 10:07:57 pm",
+  "updatedAt": "19/8/2026, 10:27:46 pm",
   "total_matches": 14,
   "live_matches": 2,
   "matches": [
@@ -13,10 +13,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787156283237_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787200387~acl=/*~id=01677709273631506310052689421105~hmac=251f332530840ad46f7d48f2f49dbd0c6f81a6baaa93c7ca4eb187cb796cd3f1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787200387~acl=/*~id=01677709273631506310052689421105~hmac=251f332530840ad46f7d48f2f49dbd0c6f81a6baaa93c7ca4eb187cb796cd3f1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787200387~acl=/*~id=01677709273631506310052689421105~hmac=251f332530840ad46f7d48f2f49dbd0c6f81a6baaa93c7ca4eb187cb796cd3f1"
+      "poster": "https://img.media.jio.com/tvpimages/26/82/3351927cebe858f996dcc48366ad739a_1787157723290_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787201605~acl=/*~id=02847836766902056328857020124596~hmac=f5b1980e3338c7b30b05dac29747bd71dd263ff3faf96bd12a666a881adaf0ce",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787201605~acl=/*~id=02847836766902056328857020124596~hmac=f5b1980e3338c7b30b05dac29747bd71dd263ff3faf96bd12a666a881adaf0ce",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787201605~acl=/*~id=02847836766902056328857020124596~hmac=f5b1980e3338c7b30b05dac29747bd71dd263ff3faf96bd12a666a881adaf0ce"
     },
     {
       "match_id": "1090539717_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182966623520_Vitality_Mixed_Disability_7th_T20i_England_vs_India_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787200387~acl=/*~id=01677709273631506310052689421105~hmac=251f332530840ad46f7d48f2f49dbd0c6f81a6baaa93c7ca4eb187cb796cd3f1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787200387~acl=/*~id=01677709273631506310052689421105~hmac=251f332530840ad46f7d48f2f49dbd0c6f81a6baaa93c7ca4eb187cb796cd3f1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787200387~acl=/*~id=01677709273631506310052689421105~hmac=251f332530840ad46f7d48f2f49dbd0c6f81a6baaa93c7ca4eb187cb796cd3f1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787201605~acl=/*~id=02847836766902056328857020124596~hmac=f5b1980e3338c7b30b05dac29747bd71dd263ff3faf96bd12a666a881adaf0ce",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787201605~acl=/*~id=02847836766902056328857020124596~hmac=f5b1980e3338c7b30b05dac29747bd71dd263ff3faf96bd12a666a881adaf0ce",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787201605~acl=/*~id=02847836766902056328857020124596~hmac=f5b1980e3338c7b30b05dac29747bd71dd263ff3faf96bd12a666a881adaf0ce"
     },
     {
       "match_id": 1090539152,
