@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/8/2026, 1:59:23 pm",
+  "updatedAt": "19/8/2026, 2:09:33 pm",
   "total_matches": 18,
   "live_matches": 5,
   "matches": [
@@ -13,10 +13,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787127309898_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6"
+      "poster": "https://img.media.jio.com/tvpimages/17/30/c99e220e2dad5b9699dd2a42959cd0ed_1787128221063_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000383/cricodi1908/ENG/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a"
     },
     {
       "match_id": "1090539706_Telugu",
@@ -26,10 +26,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
-      "poster": "https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787127309909_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6"
+      "poster": "https://img.media.jio.com/tvpimages/57/29/5af84c1b01b654c4a2d44f17fc44c610_1787128220996_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000377/cricodi1908/TEL/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a"
     },
     {
       "match_id": "1090539706_Hindi",
@@ -39,10 +39,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787127309882_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6"
+      "poster": "https://img.media.jio.com/tvpimages/37/77/05f60773a033594593a350ad4d4ed5bf_1787128221041_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000300/cricodi1908/HIN/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a"
     },
     {
       "match_id": "1090539706_Tamil",
@@ -52,10 +52,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
-      "poster": "https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787127309921_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6"
+      "poster": "https://img.media.jio.com/tvpimages/54/5/0667249aeb315c3ca189f5a4bbada909_1787128221024_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000380/cricodi1908/TAM/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a"
     },
     {
       "match_id": "1090539706_Kannada",
@@ -65,10 +65,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
-      "poster": "https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787127309854_l_medium.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787171127~acl=/*~id=76370124217247460161472009373419~hmac=a75e0b0ef334d66bcfb933f140fe45099614cef97ba830f8245e33a4b418b6a6"
+      "poster": "https://img.media.jio.com/tvpimages/88/4/0c82a1f8a9f0574fab8af0495c14040f_1787128221053_l_medium.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000379/cricodi1908/KAN/master.m3u8?hdnea=exp=1787171738~acl=/*~id=62678221296380612077362034928243~hmac=435b928d9747377b1bcbd1ce35542276c38d15f9c4aae26a43655e39bcd4013a"
     },
     {
       "match_id": 1090539554,
