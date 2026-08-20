@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/8/2026, 12:53:33 am",
+  "updatedAt": "21/8/2026, 12:55:03 am",
   "total_matches": 11,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702519612697_LIV_Golf_Indianapolis_day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296365~acl=/*~id=84283896717786759815260797192850~hmac=51dcf58a719a107e46013e1c42b879bcb9676340e076d9dc4e0c721ba822b997",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296365~acl=/*~id=84283896717786759815260797192850~hmac=51dcf58a719a107e46013e1c42b879bcb9676340e076d9dc4e0c721ba822b997",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296365~acl=/*~id=84283896717786759815260797192850~hmac=51dcf58a719a107e46013e1c42b879bcb9676340e076d9dc4e0c721ba822b997"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296974~acl=/*~id=32081794378576153463147558464299~hmac=009926423832a816705abd083b35b12e512aebb2d89ebca0175ff75c2720db54",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296974~acl=/*~id=32081794378576153463147558464299~hmac=009926423832a816705abd083b35b12e512aebb2d89ebca0175ff75c2720db54",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787296974~acl=/*~id=32081794378576153463147558464299~hmac=009926423832a816705abd083b35b12e512aebb2d89ebca0175ff75c2720db54"
     },
     {
       "match_id": 1090539595,
@@ -40,19 +40,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178704318120860_asia_cup_w26_dated_rev_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090539152,
-      "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -144,6 +131,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020779/1784718981413823_DC26_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539152,
+      "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
