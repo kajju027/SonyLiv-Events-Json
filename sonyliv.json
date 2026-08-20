@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/8/2026, 6:18:55 pm",
+  "updatedAt": "20/8/2026, 6:29:10 pm",
   "total_matches": 13,
-  "live_matches": 2,
+  "live_matches": 3,
   "matches": [
+    {
+      "match_id": 1090539811,
+      "event_name": "IndianOil Durand Cup 2026",
+      "match_name": "Mohun Bagan SG vs NorthEast United FC - Semi-Final - 20 Aug 2026",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022424/178704685129153_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_live_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
     {
       "match_id": "1090539798_ENG",
       "event_name": "Pakistan Tour of England 2026",
@@ -14,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787273225~acl=/*~id=85957557024053059910200787508504~hmac=1ed4f48e72c1e558a9cedec62e7714e577b6b2689769f34bfec75fa5ad109137",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787273225~acl=/*~id=85957557024053059910200787508504~hmac=1ed4f48e72c1e558a9cedec62e7714e577b6b2689769f34bfec75fa5ad109137",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787273225~acl=/*~id=85957557024053059910200787508504~hmac=1ed4f48e72c1e558a9cedec62e7714e577b6b2689769f34bfec75fa5ad109137"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337"
     },
     {
       "match_id": "1090539821_ENG",
@@ -27,22 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787273225~acl=/*~id=85957557024053059910200787508504~hmac=1ed4f48e72c1e558a9cedec62e7714e577b6b2689769f34bfec75fa5ad109137",
-      "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787273225~acl=/*~id=85957557024053059910200787508504~hmac=1ed4f48e72c1e558a9cedec62e7714e577b6b2689769f34bfec75fa5ad109137",
-      "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787273225~acl=/*~id=85957557024053059910200787508504~hmac=1ed4f48e72c1e558a9cedec62e7714e577b6b2689769f34bfec75fa5ad109137"
-    },
-    {
-      "match_id": 1090539665,
-      "event_name": "Upcoming - Durand Cup 2026 - Semi-Final - Mohun Bagan SG vs NorthEast United FC",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022582/1787205671255295_Durand_cup_S-F_Mohun-Bagan-Super-Giants-vs-Northeast-United-FC_Promo_Tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337",
+      "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337",
+      "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787273835~acl=/*~id=27705402289855562995067314427204~hmac=9b2fb67e2014552b0ab17e9f2cac0f3f6b4a3bce4a4ddb00709b8eac5a477337"
     },
     {
       "match_id": 1090539595,
