@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/8/2026, 3:38:46 am",
-  "total_matches": 11,
-  "live_matches": 1,
+  "updatedAt": "21/8/2026, 3:46:27 am",
+  "total_matches": 10,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090539824_ENG",
-      "event_name": "LIV Golf",
-      "match_name": "Indianapolis - Day 1 - 20 Aug 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702519612697_LIV_Golf_Indianapolis_day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787306703~acl=/*~id=32777220192832243918287142257235~hmac=05197fe26d1c69452f9c5dbfbd8e51bfa6a727d606fb0649fcacebda5b2cf3b7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787306703~acl=/*~id=32777220192832243918287142257235~hmac=05197fe26d1c69452f9c5dbfbd8e51bfa6a727d606fb0649fcacebda5b2cf3b7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000388/LIV_Golf2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787306703~acl=/*~id=32777220192832243918287142257235~hmac=05197fe26d1c69452f9c5dbfbd8e51bfa6a727d606fb0649fcacebda5b2cf3b7"
-    },
     {
       "match_id": 1090539595,
       "event_name": "Upcoming - India Tour of Sri Lanka 2nd Test",
