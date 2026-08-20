@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/8/2026, 4:26:21 pm",
-  "total_matches": 12,
-  "live_matches": 1,
+  "updatedAt": "20/8/2026, 4:36:33 pm",
+  "total_matches": 13,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090539798_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787266523~acl=/*~id=22747531563797827333386705984447~hmac=d09e9bdeb92d5fdb09a88b09cf9c04d5cb32b1d19d2033ee505ec6408b133869",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787266523~acl=/*~id=22747531563797827333386705984447~hmac=d09e9bdeb92d5fdb09a88b09cf9c04d5cb32b1d19d2033ee505ec6408b133869",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787266523~acl=/*~id=22747531563797827333386705984447~hmac=d09e9bdeb92d5fdb09a88b09cf9c04d5cb32b1d19d2033ee505ec6408b133869"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787267133~acl=/*~id=63879846510393188707534365048356~hmac=8323ae5086029ae289bf2842664997c3a45db23b8f3c9912449cbeff6065a793",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787267133~acl=/*~id=63879846510393188707534365048356~hmac=8323ae5086029ae289bf2842664997c3a45db23b8f3c9912449cbeff6065a793",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787267133~acl=/*~id=63879846510393188707534365048356~hmac=8323ae5086029ae289bf2842664997c3a45db23b8f3c9912449cbeff6065a793"
+    },
+    {
+      "match_id": 1090539821,
+      "event_name": "DP World Tour",
+      "match_name": "Nexo Championship - Day 1 - 20 Aug 2026",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
       "match_id": 1090539665,
