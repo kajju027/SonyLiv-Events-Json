@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/8/2026, 10:54:51 pm",
+  "updatedAt": "20/8/2026, 11:05:04 pm",
   "total_matches": 12,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787289676~acl=/*~id=29933722995113412744546951831703~hmac=95fbf0e8fa35dad517af4d2c7d12dc1481b5368e4b9a8ce9839152febfcbcc6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787289676~acl=/*~id=29933722995113412744546951831703~hmac=95fbf0e8fa35dad517af4d2c7d12dc1481b5368e4b9a8ce9839152febfcbcc6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787289676~acl=/*~id=29933722995113412744546951831703~hmac=95fbf0e8fa35dad517af4d2c7d12dc1481b5368e4b9a8ce9839152febfcbcc6b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787290284~acl=/*~id=86929964652898570891405461598799~hmac=431d1d4c0c2805043a83469daf3a94c82997a587deebb93a0d2ea969ca727637",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787290284~acl=/*~id=86929964652898570891405461598799~hmac=431d1d4c0c2805043a83469daf3a94c82997a587deebb93a0d2ea969ca727637",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787290284~acl=/*~id=86929964652898570891405461598799~hmac=431d1d4c0c2805043a83469daf3a94c82997a587deebb93a0d2ea969ca727637"
     },
     {
       "match_id": 1090539824,
@@ -53,19 +53,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022418/178704318120860_asia_cup_w26_dated_rev_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090539152,
-      "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -157,6 +144,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020779/1784718981413823_DC26_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539152,
+      "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
