@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/8/2026, 7:00:02 pm",
+  "updatedAt": "20/8/2026, 7:01:17 pm",
   "total_matches": 13,
   "live_matches": 3,
   "matches": [
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714229833818_eng_vs_pak_live_1Test_day2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787275661~acl=/*~id=61520027750056292263843943934815~hmac=d13c6ba7ac0fe8e2a4eea80ca388d3dc67d0ad9954de7cee9af419d6c5cc13a2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787275661~acl=/*~id=61520027750056292263843943934815~hmac=d13c6ba7ac0fe8e2a4eea80ca388d3dc67d0ad9954de7cee9af419d6c5cc13a2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787275661~acl=/*~id=61520027750056292263843943934815~hmac=d13c6ba7ac0fe8e2a4eea80ca388d3dc67d0ad9954de7cee9af419d6c5cc13a2"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787275053~acl=/*~id=73372553609182827152008455335001~hmac=d8a439243d28f09286c93e27e61997362b64ce261786435e9c3eafa541203545",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787275053~acl=/*~id=73372553609182827152008455335001~hmac=d8a439243d28f09286c93e27e61997362b64ce261786435e9c3eafa541203545",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787275053~acl=/*~id=73372553609182827152008455335001~hmac=d8a439243d28f09286c93e27e61997362b64ce261786435e9c3eafa541203545"
     },
     {
       "match_id": "1090539821_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703763082390_DP_World_Tour_Nexo_Championship_day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787275661~acl=/*~id=61520027750056292263843943934815~hmac=d13c6ba7ac0fe8e2a4eea80ca388d3dc67d0ad9954de7cee9af419d6c5cc13a2",
-      "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787275661~acl=/*~id=61520027750056292263843943934815~hmac=d13c6ba7ac0fe8e2a4eea80ca388d3dc67d0ad9954de7cee9af419d6c5cc13a2",
-      "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787275661~acl=/*~id=61520027750056292263843943934815~hmac=d13c6ba7ac0fe8e2a4eea80ca388d3dc67d0ad9954de7cee9af419d6c5cc13a2"
+      "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787275053~acl=/*~id=73372553609182827152008455335001~hmac=d8a439243d28f09286c93e27e61997362b64ce261786435e9c3eafa541203545",
+      "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787275053~acl=/*~id=73372553609182827152008455335001~hmac=d8a439243d28f09286c93e27e61997362b64ce261786435e9c3eafa541203545",
+      "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpchc77b/dp_world2008-eng-ts-hls/master.m3u8?hdnea=exp=1787275053~acl=/*~id=73372553609182827152008455335001~hmac=d8a439243d28f09286c93e27e61997362b64ce261786435e9c3eafa541203545"
     },
     {
       "match_id": 1090539595,
