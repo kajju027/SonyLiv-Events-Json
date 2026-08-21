@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/8/2026, 6:37:56 pm",
+  "updatedAt": "21/8/2026, 6:46:52 pm",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed"
     },
     {
       "match_id": "1090539908_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787360694~acl=/*~id=62859802599721966675126377839051~hmac=163243e36b2be892b18aeaf088ca67476819d6460c06b1957619b1eb8103b45e"
+      "dai_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+      "pub_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed",
+      "video_url": "https://sonydaimenew.akamaized.net/out/v1/mpchgp431f/mpcha075/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787361303~acl=/*~id=54544466238479743290479580854131~hmac=680586b36f848e56d42fa848456b8343e4eb6bef77fa0ea1171b9c5468229bed"
     },
     {
       "match_id": 1090539595,
@@ -130,7 +130,7 @@
       "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022659/1787315010873577_AsianGames26_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
