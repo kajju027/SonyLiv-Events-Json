@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/8/2026, 3:02:44 pm",
-  "total_matches": 11,
-  "live_matches": 1,
+  "updatedAt": "21/8/2026, 3:03:11 pm",
+  "total_matches": 10,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": 1090539891,
-      "event_name": "Pakistan Tour of England 2026",
-      "match_name": "Day 3 - 1st Test - 21 Aug 2026",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
     {
       "match_id": 1090539595,
       "event_name": "Upcoming - India Tour of Sri Lanka 2nd Test",
