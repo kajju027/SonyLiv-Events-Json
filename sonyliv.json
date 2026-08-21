@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/8/2026, 11:45:01 pm",
+  "updatedAt": "21/8/2026, 11:50:10 pm",
   "total_matches": 12,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702513096697_LIV_Golf_Indianapolis_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787378961~acl=/*~id=83881833959774133605106422253675~hmac=07d06693bb1ea4d37980b1afc1b64fc4c24c4546c13533ad401bfe3481cedac6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787378961~acl=/*~id=83881833959774133605106422253675~hmac=07d06693bb1ea4d37980b1afc1b64fc4c24c4546c13533ad401bfe3481cedac6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787378961~acl=/*~id=83881833959774133605106422253675~hmac=07d06693bb1ea4d37980b1afc1b64fc4c24c4546c13533ad401bfe3481cedac6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787379570~acl=/*~id=54709822516185678872827270153287~hmac=0a8751bc7193cdfb9c66906145a7244dfd4cc282d90302c55e6d6f001b78ab4f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787379570~acl=/*~id=54709822516185678872827270153287~hmac=0a8751bc7193cdfb9c66906145a7244dfd4cc282d90302c55e6d6f001b78ab4f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000293/LIV_Golf2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787379570~acl=/*~id=54709822516185678872827270153287~hmac=0a8751bc7193cdfb9c66906145a7244dfd4cc282d90302c55e6d6f001b78ab4f"
     },
     {
       "match_id": 1090539595,
