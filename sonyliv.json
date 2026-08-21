@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/8/2026, 7:17:25 pm",
+  "updatedAt": "21/8/2026, 7:18:08 pm",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787363124~acl=/*~id=22254126970982551573255509291420~hmac=4c2e0e490bb23bc12658a48335dfaf12dfe8a7ed9e64110ac4deb6906c8ff264",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787363124~acl=/*~id=22254126970982551573255509291420~hmac=4c2e0e490bb23bc12658a48335dfaf12dfe8a7ed9e64110ac4deb6906c8ff264",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787363124~acl=/*~id=22254126970982551573255509291420~hmac=4c2e0e490bb23bc12658a48335dfaf12dfe8a7ed9e64110ac4deb6906c8ff264"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787362515~acl=/*~id=88862016390631582569968434569930~hmac=2625cfacad719da2a8639c231b494706507d925dd6614e6da3c8eb814c13cf53",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787362515~acl=/*~id=88862016390631582569968434569930~hmac=2625cfacad719da2a8639c231b494706507d925dd6614e6da3c8eb814c13cf53",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787362515~acl=/*~id=88862016390631582569968434569930~hmac=2625cfacad719da2a8639c231b494706507d925dd6614e6da3c8eb814c13cf53"
     },
     {
       "match_id": "1090539908_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703756799390_DP_World_Tour_Nexo_Championship_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787363124~acl=/*~id=22254126970982551573255509291420~hmac=4c2e0e490bb23bc12658a48335dfaf12dfe8a7ed9e64110ac4deb6906c8ff264",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787363124~acl=/*~id=22254126970982551573255509291420~hmac=4c2e0e490bb23bc12658a48335dfaf12dfe8a7ed9e64110ac4deb6906c8ff264",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787363124~acl=/*~id=22254126970982551573255509291420~hmac=4c2e0e490bb23bc12658a48335dfaf12dfe8a7ed9e64110ac4deb6906c8ff264"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787362515~acl=/*~id=88862016390631582569968434569930~hmac=2625cfacad719da2a8639c231b494706507d925dd6614e6da3c8eb814c13cf53",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787362515~acl=/*~id=88862016390631582569968434569930~hmac=2625cfacad719da2a8639c231b494706507d925dd6614e6da3c8eb814c13cf53",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/dp_world2108-eng-ts-hls/master.m3u8?hdnea=exp=1787362515~acl=/*~id=88862016390631582569968434569930~hmac=2625cfacad719da2a8639c231b494706507d925dd6614e6da3c8eb814c13cf53"
     },
     {
       "match_id": 1090539595,
@@ -66,6 +66,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022642/1787294349221332_Durand_Cup_26_Final_East-Bengal-vs-Mohun-Bagan-Super-Giant_Promo_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539080,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022659/1787315010873577_AsianGames26_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -118,19 +131,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022185/1786698001324453_nz_Vs_ind_promo_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090539080,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022659/1787315010873577_AsianGames26_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
