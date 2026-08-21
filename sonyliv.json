@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/8/2026, 3:48:06 pm",
+  "updatedAt": "21/8/2026, 3:53:41 pm",
   "total_matches": 12,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022536/178714233084718_eng_vs_pak_live_1Test_day3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787350353~acl=/*~id=99044900092386879030624914725686~hmac=56e88deba82acb0938a62ae78ee4b345dd2fb903a1cb90bf4fbd49cfad902579",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787350353~acl=/*~id=99044900092386879030624914725686~hmac=56e88deba82acb0938a62ae78ee4b345dd2fb903a1cb90bf4fbd49cfad902579",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787350353~acl=/*~id=99044900092386879030624914725686~hmac=56e88deba82acb0938a62ae78ee4b345dd2fb903a1cb90bf4fbd49cfad902579"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787350961~acl=/*~id=35691410494685588874048525072551~hmac=823dd9d3dd42813afcedac327feb34e542db6cb6c45041445a7d19ce53bb97db",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787350961~acl=/*~id=35691410494685588874048525072551~hmac=823dd9d3dd42813afcedac327feb34e542db6cb6c45041445a7d19ce53bb97db",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/England_2108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787350961~acl=/*~id=35691410494685588874048525072551~hmac=823dd9d3dd42813afcedac327feb34e542db6cb6c45041445a7d19ce53bb97db"
     },
     {
       "match_id": 1090539595,
