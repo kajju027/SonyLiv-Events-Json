@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/8/2026, 11:58:48 pm",
+  "updatedAt": "23/8/2026, 12:07:40 am",
   "total_matches": 15,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702505513697_LIV_Golf_Indianapolis_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787466361~acl=/*~id=33353619751095280255581471053692~hmac=ac65ed32993f3edddada7f0172cc4ea24f8a80771ce9682d575032b63360139d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787466361~acl=/*~id=33353619751095280255581471053692~hmac=ac65ed32993f3edddada7f0172cc4ea24f8a80771ce9682d575032b63360139d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787466361~acl=/*~id=33353619751095280255581471053692~hmac=ac65ed32993f3edddada7f0172cc4ea24f8a80771ce9682d575032b63360139d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787466969~acl=/*~id=10808412070782896012412390179718~hmac=d35f32248ac237e7a0edf769fd5dbe6b4d7c1b1bb172f0c969fb64b8dc973aed",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787466969~acl=/*~id=10808412070782896012412390179718~hmac=d35f32248ac237e7a0edf769fd5dbe6b4d7c1b1bb172f0c969fb64b8dc973aed",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/LIVGolf_2208/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787466969~acl=/*~id=10808412070782896012412390179718~hmac=d35f32248ac237e7a0edf769fd5dbe6b4d7c1b1bb172f0c969fb64b8dc973aed"
     },
     {
       "match_id": 1090536986,
@@ -39,7 +39,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022564/178715365712926_SL_vs_IND_2nd_Test_landscape_thumb_Dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022564/178715366838926_SL_vs_IND_2nd_Test_landscape_thumb_Today.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
