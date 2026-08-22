@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/8/2026, 2:42:46 am",
-  "total_matches": 14,
-  "live_matches": 0,
+  "updatedAt": "23/8/2026, 5:13:26 am",
+  "total_matches": 15,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": 1090540101,
+      "event_name": "UFC Fight Night - Hernandez vs Rodrigues ",
+      "match_name": "UFC Fight Night - Hernandez vs Rodrigues - 23 Aug 2026",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022592/1787223000581357_UFC-Hernandez-vs-Rodriguez_live_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
     {
       "match_id": 1090536986,
       "event_name": "Upcoming - Durand Cup 2026",
