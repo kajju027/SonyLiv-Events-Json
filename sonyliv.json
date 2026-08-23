@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/8/2026, 3:07:47 am",
+  "updatedAt": "24/8/2026, 3:07:51 am",
   "total_matches": 12,
   "live_matches": 1,
   "matches": [
     {
-      "match_id": "1090540054_ENG",
+      "match_id": 1090540054,
       "event_name": "LIV Golf",
-      "match_name": "Indianapolis - Day 4 - 23 Aug 2026 [ENG]",
+      "match_name": "Indianapolis - Day 4 - 23 Aug 2026",
       "status": "Live",
       "category": "Golf",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021741/1785702497412697_LIV_Golf_Indianapolis_day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787564235~acl=/*~id=14176883835131686343916769486708~hmac=f177a9b70f7e048cbc61283643291983b1e3ad573c121b761fa14ac086990296",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787564235~acl=/*~id=14176883835131686343916769486708~hmac=f177a9b70f7e048cbc61283643291983b1e3ad573c121b761fa14ac086990296",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/LIVGolf_2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787564235~acl=/*~id=14176883835131686343916769486708~hmac=f177a9b70f7e048cbc61283643291983b1e3ad573c121b761fa14ac086990296"
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
       "match_id": 1090538884,
