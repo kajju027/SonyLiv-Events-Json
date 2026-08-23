@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/8/2026, 3:22:39 pm",
-  "total_matches": 18,
-  "live_matches": 5,
+  "updatedAt": "23/8/2026, 3:37:54 pm",
+  "total_matches": 23,
+  "live_matches": 10,
   "matches": [
     {
       "match_id": "1090540028_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
     },
     {
       "match_id": "1090540028_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
     },
     {
       "match_id": "1090540028_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
     },
     {
       "match_id": "1090540028_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
     },
     {
       "match_id": "1090540028_KAN",
@@ -66,9 +66,74 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022671/1787325684640960_SL_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787521652~acl=/*~id=34521970919371788891851115302077~hmac=ef07cb47ed69c80e3bcfd952a05643aca8b2d63d52e33f8fd3eb3ea442dc5b57"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
+    },
+    {
+      "match_id": "1090540053_HIN",
+      "event_name": "DP World Tour",
+      "match_name": "Nexo Championship - Day 4 - 23 Aug 2026 [HIN]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2308/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
+    },
+    {
+      "match_id": "1090540053_TEL",
+      "event_name": "DP World Tour",
+      "match_name": "Nexo Championship - Day 4 - 23 Aug 2026 [TEL]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2308/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
+    },
+    {
+      "match_id": "1090540053_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Nexo Championship - Day 4 - 23 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2308/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
+    },
+    {
+      "match_id": "1090540053_TAM",
+      "event_name": "DP World Tour",
+      "match_name": "Nexo Championship - Day 4 - 23 Aug 2026 [TAM]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2308/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
+    },
+    {
+      "match_id": "1090540053_KAN",
+      "event_name": "DP World Tour",
+      "match_name": "Nexo Championship - Day 4 - 23 Aug 2026 [KAN]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703743999390_DP_World_Tour_Nexo_Championship_day4_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2308/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787522864~acl=/*~id=49196151375726443759162238137831~hmac=c97d44b7c70ad9c5cb2ff32094858523452881700297e8d95f669140112cc702"
     },
     {
       "match_id": 1090536986,
