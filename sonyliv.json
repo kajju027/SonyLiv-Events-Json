@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/8/2026, 1:10:28 am",
+  "updatedAt": "26/8/2026, 1:51:50 am",
   "total_matches": 14,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787037914304926_UCL_26_Play-offs-Leg2_Lask-vs-Celtic_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787732450~acl=/*~id=12918403579411052732018961072455~hmac=f901ae0e1427edba82974ec641f23dac10085fde934b2da7a1666f4d0e8f2d89",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787732450~acl=/*~id=12918403579411052732018961072455~hmac=f901ae0e1427edba82974ec641f23dac10085fde934b2da7a1666f4d0e8f2d89",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787732450~acl=/*~id=12918403579411052732018961072455~hmac=f901ae0e1427edba82974ec641f23dac10085fde934b2da7a1666f4d0e8f2d89"
     },
     {
       "match_id": "1090540292_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022855/1787636422132922_UCL_26_Play-offs-Leg2_Bodo-Glimt-vs-NEC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787730008~acl=/*~id=24881640884276659751061983667984~hmac=561140a9c4a344be211fa6e39e5917a9b6542fc81f94d74585d4744194dfb5d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787732450~acl=/*~id=12918403579411052732018961072455~hmac=f901ae0e1427edba82974ec641f23dac10085fde934b2da7a1666f4d0e8f2d89",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787732450~acl=/*~id=12918403579411052732018961072455~hmac=f901ae0e1427edba82974ec641f23dac10085fde934b2da7a1666f4d0e8f2d89",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787732450~acl=/*~id=12918403579411052732018961072455~hmac=f901ae0e1427edba82974ec641f23dac10085fde934b2da7a1666f4d0e8f2d89"
     },
     {
       "match_id": 1090540021,
