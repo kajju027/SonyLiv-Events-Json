@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/8/2026, 3:04:48 am",
-  "total_matches": 13,
-  "live_matches": 1,
+  "updatedAt": "26/8/2026, 3:13:40 am",
+  "total_matches": 12,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090540291_ENG",
-      "event_name": "UEFA Champions League 2026-27",
-      "match_name": "LASK vs Celtic- Play-offs - Leg 2 - 26 Aug 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787037914304926_UCL_26_Play-offs-Leg2_Lask-vs-Celtic_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787736713~acl=/*~id=23673003671180507188972235902846~hmac=cb29dd12698ab0921ad756c3f1694e78485c42d1ecfa422d51fcdaa7edf74fc3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787736713~acl=/*~id=23673003671180507188972235902846~hmac=cb29dd12698ab0921ad756c3f1694e78485c42d1ecfa422d51fcdaa7edf74fc3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2508/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787736713~acl=/*~id=23673003671180507188972235902846~hmac=cb29dd12698ab0921ad756c3f1694e78485c42d1ecfa422d51fcdaa7edf74fc3"
-    },
     {
       "match_id": 1090540021,
       "event_name": "Upcoming - ACC Women's Asia Cup 2026",
