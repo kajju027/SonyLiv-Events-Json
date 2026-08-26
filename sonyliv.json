@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/8/2026, 2:13:39 am",
-  "total_matches": 17,
-  "live_matches": 4,
+  "updatedAt": "27/8/2026, 2:32:12 am",
+  "total_matches": 15,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090540471_ENG",
@@ -14,35 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787231595649447_UCL_26_Play-offs-Leg2_Lyon-vs-Fenerbahce_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
-    },
-    {
-      "match_id": "1090540475_ENG",
-      "event_name": "UEFA Champions League 2026-27",
-      "match_name": "Viking FK vs GNK Dinamo - Play-offs - Leg 2 - 27 Aug 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228710390447_UCL_26_Play-offs-Leg2_Viking-vs-GNK-Dinamo_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
-    },
-    {
-      "match_id": "1090540466_ENG",
-      "event_name": "UEFA Champions League 2026-27",
-      "match_name": "AEK vs Levski Sofia - Play-offs - Leg 2 - 27 Aug 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228338758447_UCL_26_Play-offs-Leg2_AEK-Athens-vs-Levski-Sofia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787821186~acl=/*~id=98985321098470677666719036272538~hmac=ebe952e42efe632f1bf464139bd8bf08ee7b3a4e91d686e21282f105fa9ac5ac",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787821186~acl=/*~id=98985321098470677666719036272538~hmac=ebe952e42efe632f1bf464139bd8bf08ee7b3a4e91d686e21282f105fa9ac5ac",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787821186~acl=/*~id=98985321098470677666719036272538~hmac=ebe952e42efe632f1bf464139bd8bf08ee7b3a4e91d686e21282f105fa9ac5ac"
     },
     {
       "match_id": "1090540476_ENG",
@@ -53,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787227719504447_UCL_26_Play-offs-Leg2_Celje-vs-SBratislava_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787821186~acl=/*~id=98985321098470677666719036272538~hmac=ebe952e42efe632f1bf464139bd8bf08ee7b3a4e91d686e21282f105fa9ac5ac",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787821186~acl=/*~id=98985321098470677666719036272538~hmac=ebe952e42efe632f1bf464139bd8bf08ee7b3a4e91d686e21282f105fa9ac5ac",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787821186~acl=/*~id=98985321098470677666719036272538~hmac=ebe952e42efe632f1bf464139bd8bf08ee7b3a4e91d686e21282f105fa9ac5ac"
     },
     {
       "match_id": 1090540021,
