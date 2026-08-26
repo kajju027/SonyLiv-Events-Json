@@ -1,61 +1,61 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/8/2026, 2:11:21 am",
-  "total_matches": 17,
+  "updatedAt": "27/8/2026, 2:11:43 am",
+  "total_matches": 16,
   "live_matches": 4,
   "matches": [
     {
-      "match_id": "1090540471_ENG",
+      "match_id": 1090540471,
       "event_name": "UEFA Champions League 2026-27",
-      "match_name": "Lyon vs Fenerbahce - Play-offs - Leg 2 - 27 Aug 2026 [ENG]",
+      "match_name": "Lyon vs Fenerbahce - Play-offs - Leg 2 - 27 Aug 2026",
       "status": "Live",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787231595649447_UCL_26_Play-offs-Leg2_Lyon-vs-Fenerbahce_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
-      "match_id": "1090540475_ENG",
+      "match_id": 1090540475,
       "event_name": "UEFA Champions League 2026-27",
-      "match_name": "Viking FK vs GNK Dinamo - Play-offs - Leg 2 - 27 Aug 2026 [ENG]",
+      "match_name": "Viking FK vs GNK Dinamo - Play-offs - Leg 2 - 27 Aug 2026",
       "status": "Live",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228710390447_UCL_26_Play-offs-Leg2_Viking-vs-GNK-Dinamo_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
-      "match_id": "1090540466_ENG",
+      "match_id": 1090540466,
       "event_name": "UEFA Champions League 2026-27",
-      "match_name": "AEK vs Levski Sofia - Play-offs - Leg 2 - 27 Aug 2026 [ENG]",
+      "match_name": "AEK vs Levski Sofia - Play-offs - Leg 2 - 27 Aug 2026",
       "status": "Live",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787228338758447_UCL_26_Play-offs-Leg2_AEK-Athens-vs-Levski-Sofia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
-      "match_id": "1090540476_ENG",
+      "match_id": 1090540476,
       "event_name": "UEFA Champions League 2026-27",
-      "match_name": "Celje vs Slovan Bratislava - Play-offs - Leg 2 - 27 Aug 2026 [ENG]",
+      "match_name": "Celje vs Slovan Bratislava - Play-offs - Leg 2 - 27 Aug 2026",
       "status": "Live",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022608/1787227719504447_UCL_26_Play-offs-Leg2_Celje-vs-SBratislava_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2608/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787819971~acl=/*~id=40381945668365494306236555320789~hmac=9865b5b3effa8bedf7ab8a16c236069e2997aaa891fb01313735ab52895ddb34"
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
       "match_id": 1090540021,
@@ -209,19 +209,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090540517,
-      "event_name": "Upcoming - India vs Thailand | Women's Asia Cup 2026 | 30 Aug 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022995/1787775332431736_AsiaCup_IND_vs_THAILAND_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
