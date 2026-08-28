@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/8/2026, 3:54:33 pm",
-  "total_matches": 19,
-  "live_matches": 7,
+  "updatedAt": "28/8/2026, 4:03:06 pm",
+  "total_matches": 20,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090540725_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
+    },
+    {
+      "match_id": "1090540683_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "League Phase Draw - UEFA Europa & Conference League - 28 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023085/1787864511179299_UEL_UECL_League_Phase_Draw_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
     },
     {
       "match_id": "1090540680_ENG",
@@ -27,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
     },
     {
       "match_id": "1090540680_HIN",
@@ -40,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ufclive_2808/HIN/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
     },
     {
       "match_id": "1090540680_TAM",
@@ -53,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ufclive_2808/TAM/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
     },
     {
       "match_id": "1090540680_TEL",
@@ -66,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ufclive_2808/TEL/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
     },
     {
       "match_id": "1090540680_KAN",
@@ -79,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ufclive_2808/KAN/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
     },
     {
       "match_id": "1090540652_ENG",
@@ -92,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664967865164_JPL_26_Rajasthan-Rajvansh-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787955653~acl=/*~id=99859918590068352040392398932141~hmac=2fa0b653741576b41bac32132dba2874ea9973c25018502f9116b9437835c7c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787956262~acl=/*~id=93224641478951259703709883678968~hmac=8b4e01902f7c58473d72bedf0fbcea75eef928be7593c669f3313501cb7e6a23"
     },
     {
       "match_id": 1090538884,
