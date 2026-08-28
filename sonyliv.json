@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/8/2026, 11:58:17 am",
+  "updatedAt": "28/8/2026, 12:08:39 pm",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809857848573_JPL_26_Pagariya-Strikers-vs-Mumbai-Sobo-Stars_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787941630~acl=/*~id=78378832005208494048901092678592~hmac=7dac4cbff5871f675fb2eea798df6fdad32198db789f87d070b5cc1e7ee5fafe",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787941630~acl=/*~id=78378832005208494048901092678592~hmac=7dac4cbff5871f675fb2eea798df6fdad32198db789f87d070b5cc1e7ee5fafe",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787941630~acl=/*~id=78378832005208494048901092678592~hmac=7dac4cbff5871f675fb2eea798df6fdad32198db789f87d070b5cc1e7ee5fafe"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787942238~acl=/*~id=93745743957271436813243336063309~hmac=64b3c02b875f985a214ca398959535947ccdd8c187b9d2b70540bafceb5c461b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787942238~acl=/*~id=93745743957271436813243336063309~hmac=64b3c02b875f985a214ca398959535947ccdd8c187b9d2b70540bafceb5c461b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787942238~acl=/*~id=93745743957271436813243336063309~hmac=64b3c02b875f985a214ca398959535947ccdd8c187b9d2b70540bafceb5c461b"
     },
     {
       "match_id": 1090538884,
@@ -26,20 +26,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023063/1787843485769542_asia_cup_w26_tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090540021,
-      "event_name": "Upcoming - ACC Women's Asia Cup 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022658/1787312709559403_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023089/178789765321584_womens_AsiaCup26_Thailand_vs_HongKong_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -66,6 +53,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022603/1787230188057421_womens_AC26_IND_vs_PAK_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090540021,
+      "event_name": "Upcoming - ACC Women's Asia Cup 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022658/1787312709559403_AsiaCup26_Harmanpreet_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
