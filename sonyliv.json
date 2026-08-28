@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/8/2026, 7:15:28 pm",
+  "updatedAt": "28/8/2026, 7:25:46 pm",
   "total_matches": 15,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023057/1787840589436647_ENGvsPAK_2nd_test_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011"
     },
     {
       "match_id": "1090540652_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809885352573_JPL_26_Royals-Hyderabad-vs-Bangalore-Blasters_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011"
     },
     {
       "match_id": "1090540708_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808406069204_DP_World_Tour_Husqvarna_British_Masters_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787967854~acl=/*~id=50221341155803192176750772545593~hmac=8f0cd1ede3e9e1e512b7b92fb282c35423aefc063e82fb82f74e4e30a33a99f1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/std_lrh-800300010.m3u8?hdnea=exp=1787968467~acl=/*~id=54871852013955039745109374204624~hmac=b5901adf066a1e5bbc1fce1f31fef801586466e7903de8aef71c2f82fc6d3011"
     },
     {
       "match_id": 1090540517,
