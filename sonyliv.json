@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "29/8/2026, 5:44:09 pm",
+  "updatedAt": "29/8/2026, 5:45:34 pm",
   "total_matches": 20,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918548169954_ENGvsPAK_2nd_test_day3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": "1090540822_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": "1090540822_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/109054082908/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": "1090540822_TAM",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054082908/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": "1090540822_TEL",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/109054082908/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": "1090540822_KAN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/109054082908/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": "1090540806_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": "1090540811_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808412785204_DP_World_Tour_Husqvarna_British_Masters_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048144~acl=/*~id=14440299552725432299034931084669~hmac=26b012023a49ddc4485dcd7323a7ecc42338711b2b9abf43019b2758b8f44cf8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788048753~acl=/*~id=36116807166010842718465686486807~hmac=462e7eb7c917ca63d195d96864c707ffcbb10c7b939cd3d2041abd684b186e1f"
     },
     {
       "match_id": 1090540517,
