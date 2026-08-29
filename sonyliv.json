@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "29/8/2026, 9:40:06 am",
+  "updatedAt": "29/8/2026, 9:47:04 am",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815121565770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788019513~acl=/*~id=01213020286491876680139026614979~hmac=4f51e3d4133862d64cae8df01d7acbec478c9831c5a17a07eccd86fa5a189676",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788019513~acl=/*~id=01213020286491876680139026614979~hmac=4f51e3d4133862d64cae8df01d7acbec478c9831c5a17a07eccd86fa5a189676",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788019513~acl=/*~id=01213020286491876680139026614979~hmac=4f51e3d4133862d64cae8df01d7acbec478c9831c5a17a07eccd86fa5a189676"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788020120~acl=/*~id=66284918379943402723027765932450~hmac=00b17772e5f4040ccdad18e32c4ac023405325a8acf2543572dd98a064f0db54",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788020120~acl=/*~id=66284918379943402723027765932450~hmac=00b17772e5f4040ccdad18e32c4ac023405325a8acf2543572dd98a064f0db54",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788020120~acl=/*~id=66284918379943402723027765932450~hmac=00b17772e5f4040ccdad18e32c4ac023405325a8acf2543572dd98a064f0db54"
     },
     {
       "match_id": 1090540517,
@@ -52,7 +52,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023119/1787925501330343_Asia_Cup_Womens_2026_sri_lanka_vs_UAE_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023119/1787925029608343_Asia_Cup_Womens_2026_sri_lanka_vs_UAE_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
