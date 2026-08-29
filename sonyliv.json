@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "29/8/2026, 9:09:25 am",
-  "total_matches": 12,
-  "live_matches": 0,
+  "updatedAt": "29/8/2026, 9:09:57 am",
+  "total_matches": 13,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090540806_ENG",
+      "event_name": "JITO Premier League 2026",
+      "match_name": "Chennai Striker Kings vs Bengal Indians - 29 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815121565770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788017692~acl=/*~id=83164839399064725490467071650682~hmac=4e8e90e2d92b94894042faab6f1a42416f930522011ad1ae4eb3054edb1a1089",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788017692~acl=/*~id=83164839399064725490467071650682~hmac=4e8e90e2d92b94894042faab6f1a42416f930522011ad1ae4eb3054edb1a1089",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788017692~acl=/*~id=83164839399064725490467071650682~hmac=4e8e90e2d92b94894042faab6f1a42416f930522011ad1ae4eb3054edb1a1089"
+    },
     {
       "match_id": 1090540517,
       "event_name": "Upcoming - India vs Thailand | Women's Asia Cup 2026 | 30 Aug 2026",
