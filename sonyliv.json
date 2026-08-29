@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "29/8/2026, 10:49:42 pm",
+  "updatedAt": "29/8/2026, 10:59:54 pm",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918548169954_ENGvsPAK_2nd_test_day3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788067065~acl=/*~id=29574007259153678802145616666864~hmac=458efe7244acfdec019906ce05364bf5f871c8a71501e230acccb64414be9ffd",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788067065~acl=/*~id=29574007259153678802145616666864~hmac=458efe7244acfdec019906ce05364bf5f871c8a71501e230acccb64414be9ffd",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788067065~acl=/*~id=29574007259153678802145616666864~hmac=458efe7244acfdec019906ce05364bf5f871c8a71501e230acccb64414be9ffd"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788067674~acl=/*~id=68273628886711166220413511221934~hmac=cf5bc6deda6f9286628fd71a245bcea90484783411a67766a85bb5fece722c5f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788067674~acl=/*~id=68273628886711166220413511221934~hmac=cf5bc6deda6f9286628fd71a245bcea90484783411a67766a85bb5fece722c5f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788067674~acl=/*~id=68273628886711166220413511221934~hmac=cf5bc6deda6f9286628fd71a245bcea90484783411a67766a85bb5fece722c5f"
     },
     {
       "match_id": 1090540517,
