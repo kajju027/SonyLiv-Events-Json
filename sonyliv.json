@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/8/2026, 11:38:06 am",
+  "updatedAt": "30/8/2026, 11:48:18 am",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787816196769770_JPL_26_Mumbai-Sobo-Stars-vs-Bangalore-Blasters_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788113159~acl=/*~id=82265723435905926792852713527473~hmac=64a766649e48a2b7aa6fc32a4b05089361ba42ab212c1af5955ec785b6ab3bd0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788113159~acl=/*~id=82265723435905926792852713527473~hmac=64a766649e48a2b7aa6fc32a4b05089361ba42ab212c1af5955ec785b6ab3bd0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788113159~acl=/*~id=82265723435905926792852713527473~hmac=64a766649e48a2b7aa6fc32a4b05089361ba42ab212c1af5955ec785b6ab3bd0"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788113765~acl=/*~id=95659930887888687371779042871515~hmac=bbed299f019204ddf1aa110a10e6ef4bc81167c37438cc2cc88e2f68d6557bef",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788113765~acl=/*~id=95659930887888687371779042871515~hmac=bbed299f019204ddf1aa110a10e6ef4bc81167c37438cc2cc88e2f68d6557bef",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Cricket_3008/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788113765~acl=/*~id=95659930887888687371779042871515~hmac=bbed299f019204ddf1aa110a10e6ef4bc81167c37438cc2cc88e2f68d6557bef"
     },
     {
       "match_id": 1090540517,
