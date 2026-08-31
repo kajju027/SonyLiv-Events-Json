@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/8/2026, 6:52:41 pm",
+  "updatedAt": "31/8/2026, 6:54:41 pm",
   "total_matches": 14,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e"
     },
     {
       "match_id": "1090540967_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e"
     },
     {
       "match_id": "1090540966_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817924978770_JPL_26_Chennai-Striker-Kings-vs-Gujarat-Gladiators_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788225073~acl=/*~id=69992407228868448228063361130808~hmac=29ff6c7923caff368afb074fa09f13ccf15e8ecc00ca1c52f37da2b084041854"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788225680~acl=/*~id=79460203204424795606667817398492~hmac=17c725a5e136c23cdb17de8d1b72f61d5be31f37a4c2b0f2883992e5c141786e"
     },
     {
       "match_id": 1090538884,
