@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/8/2026, 7:52:24 pm",
+  "updatedAt": "31/8/2026, 7:54:19 pm",
   "total_matches": 20,
   "live_matches": 8,
   "matches": [
@@ -13,10 +13,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540973_HIN",
@@ -26,10 +26,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540973_TAM",
@@ -39,10 +39,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540973_TEL",
@@ -52,10 +52,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540973_KAN",
@@ -65,10 +65,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023258/1788185329576635_ACW26_Bangladesh_vs_Indonesia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540967_HIN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540967_PAN",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540966_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817924978770_JPL_26_Chennai-Striker-Kings-vs-Gujarat-Gladiators_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788229330~acl=/*~id=21189759217532906694919902216809~hmac=8f3a8de1cc92e6d8ea9c2f68d5c3e52819452a4dd28251874d51464ddd5c826a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": 1090541101,
