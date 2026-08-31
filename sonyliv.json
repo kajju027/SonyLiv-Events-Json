@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/8/2026, 4:21:56 pm",
+  "updatedAt": "31/8/2026, 4:22:05 pm",
   "total_matches": 14,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15"
     },
     {
       "match_id": "1090540967_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15"
     },
     {
       "match_id": "1090540966_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817583100770_JPL_26_Mumbai-Kings-Xl-vs-Bengal-Indians_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788215952~acl=/*~id=68400965464062492745240082868760~hmac=9337aad8f906c678f18ed0ffa31d6d3fdb4ac4251b7d36bebdb075b2c5466d5b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788216561~acl=/*~id=24150862422166419426216114784966~hmac=d3657a0cd52487e7fafe2a23fd4039d0de5a017fd7c4b6bd759d096c79b50d15"
     },
     {
       "match_id": 1090538884,
