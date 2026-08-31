@@ -1,10 +1,75 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/8/2026, 7:03:01 pm",
-  "total_matches": 15,
-  "live_matches": 3,
+  "updatedAt": "31/8/2026, 7:44:06 pm",
+  "total_matches": 20,
+  "live_matches": 8,
   "matches": [
+    {
+      "match_id": "1090540973_ENG",
+      "event_name": "DP World Women's Asia Cup 2026",
+      "match_name": "Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
+    },
+    {
+      "match_id": "1090540973_HIN",
+      "event_name": "DP World Women's Asia Cup 2026",
+      "match_name": "Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
+    },
+    {
+      "match_id": "1090540973_TAM",
+      "event_name": "DP World Women's Asia Cup 2026",
+      "match_name": "Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [TAM]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi3108/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
+    },
+    {
+      "match_id": "1090540973_TEL",
+      "event_name": "DP World Women's Asia Cup 2026",
+      "match_name": "Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [TEL]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi3108/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
+    },
+    {
+      "match_id": "1090540973_KAN",
+      "event_name": "DP World Women's Asia Cup 2026",
+      "match_name": "Bangaldesh Women vs Indonesia Women - 31 Aug 2026 [KAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023181/1788031545964268_ACC26_Bangladesh_vs_Indonesia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi3108/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
+    },
     {
       "match_id": "1090540967_HIN",
       "event_name": "Sher-E-Punjab T20 League",
@@ -14,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540967_PAN",
@@ -27,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
       "match_id": "1090540966_ENG",
@@ -40,19 +105,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817924978770_JPL_26_Chennai-Striker-Kings-vs-Gujarat-Gladiators_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788226287~acl=/*~id=66095585816428865535205491066470~hmac=4c18bb964b3e3adeae6976fdbabb01bd7237cba99825d4996aabfbd0f556e446"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Cricket_3108/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788228718~acl=/*~id=15253590240220906403021361595910~hmac=5cd73d37a5a8a8b1115570a4118c2c9645c6ed12f6c53f17d889809025e4923c"
     },
     {
-      "match_id": 1090538884,
+      "match_id": 1090541101,
       "event_name": "Upcoming - DP World Women's Asia Cup 2026",
       "match_name": "",
       "status": "Upcoming",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023166/1788020751666199_AsiaCup26_India_vs_HongKong_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -84,19 +149,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090541101,
-      "event_name": "Upcoming - DP World Women's Asia Cup 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023166/1788020751666199_AsiaCup26_India_vs_HongKong_Promo_landscape_thumb_dated.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090539554,
       "event_name": "Upcoming - Pakistan Tour of England 2026",
       "match_name": "",
@@ -105,6 +157,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090538884,
+      "event_name": "Upcoming - DP World Women's Asia Cup 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022390/178698244305456_Asia_Cup_Womens_2026_GOB_Landscape_Thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
