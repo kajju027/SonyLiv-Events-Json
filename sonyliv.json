@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/9/2026, 12:46:16 pm",
+  "updatedAt": "1/9/2026, 12:47:25 pm",
   "total_matches": 15,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb"
     },
     {
       "match_id": "1090541059_PAN",
@@ -27,22 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb"
     },
     {
       "match_id": "1090541057_ENG",
       "event_name": "JITO Premier League 2026",
-      "match_name": "Chennai Strikers vs Indore Hawks - 1 Sep 2026 [ENG]",
+      "match_name": "Golden Eagles Delhi vs Royals Hyderabad - 1 Sep 2026 [ENG]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023158/1787991155507882_JPL_26_Chennai-Strikers-vs-Indore-Hawks_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788289432~acl=/*~id=88050771989399883685501574525387~hmac=441b83af1990e790c58910227ab2b4c978ea418752966e83747f90fb82debfc1"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023295/1788245765949942_JPL_26_Golden-Eagles-Delhi-vs-Royals-Hyderabad_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788290041~acl=/*~id=75321507948321637472164368929333~hmac=3dbb00569ff499122b03efbf26976b80df880680660330d6db3d3d5b117c98bb"
     },
     {
       "match_id": 1090541101,
