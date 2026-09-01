@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/9/2026, 7:03:22 pm",
+  "updatedAt": "1/9/2026, 7:04:20 pm",
   "total_matches": 16,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023241/1788175002932237_PunjabT20_League26_Jalandhar_Warriors_vs_Amritsar_Soormas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf"
     },
     {
       "match_id": "1090541059_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023241/1788175002932237_PunjabT20_League26_Jalandhar_Warriors_vs_Amritsar_Soormas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf"
     },
     {
       "match_id": "1090541157_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023294/1788245104544595_ENGW_vs_IREW_1odi_landscape.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf"
     },
     {
       "match_id": "1090541057_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022847/1787590096868696_JPL_Mumbai_SoBo_Stars_vs_Rajasthan_Rajvansh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788311990~acl=/*~id=25467612414057026907025286341576~hmac=c881fce7b8800d377c6f8b6ee509ecb7366de88dfa45e5a769274a08d837a7d5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788312599~acl=/*~id=68515503306041388538539970263568~hmac=2909cf1a108d98a8626ac5035dc1a1ff944d396b68029b002b157e3ffbb857cf"
     },
     {
       "match_id": 1090541101,
