@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/9/2026, 5:48:19 pm",
+  "updatedAt": "2/9/2026, 5:49:35 pm",
   "total_matches": 15,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563"
     },
     {
       "match_id": "1090541196_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023363/1788338226315960_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Criclive0209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563"
     },
     {
       "match_id": "1090541190_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023297/178824727602054_JPL_26_Indore-Hawks-vs-Chennai-Strikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788394683~acl=/*~id=20779827120285343027800711028933~hmac=423ee9d4324e3ddc278f80613581cc9333d163b0d96ac821c790100b7366bdbd"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788394075~acl=/*~id=30326609429365186285160441244530~hmac=452b9cfc539e4822df4b93e201ec315266eee8b877ae97765d26e5a0727eb563"
     },
     {
       "match_id": 1090541101,
