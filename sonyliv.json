@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/9/2026, 11:55:26 am",
-  "total_matches": 15,
-  "live_matches": 1,
+  "updatedAt": "3/9/2026, 12:00:57 pm",
+  "total_matches": 17,
+  "live_matches": 3,
   "matches": [
+    {
+      "match_id": "1090541268_HIN",
+      "event_name": "Sher-E-Punjab T20 League",
+      "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1"
+    },
+    {
+      "match_id": "1090541268_PAN",
+      "event_name": "Sher-E-Punjab T20 League",
+      "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HIN",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1"
+    },
     {
       "match_id": "1090541267_ENG",
       "event_name": "JITO Premier League 2026",
@@ -14,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459619~acl=/*~id=65047890321975839371889856567746~hmac=f05b886c5008e56783ed0ffa17e8fb10ee56321eed076c7c00550d1a8862531a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459619~acl=/*~id=65047890321975839371889856567746~hmac=f05b886c5008e56783ed0ffa17e8fb10ee56321eed076c7c00550d1a8862531a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459619~acl=/*~id=65047890321975839371889856567746~hmac=f05b886c5008e56783ed0ffa17e8fb10ee56321eed076c7c00550d1a8862531a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788460226~acl=/*~id=15919899134843383291466670756519~hmac=b665c37c889a6e4ae4fc3997b304f54838f05edd7eab2ad0ba4408fe7d2b3da1"
     },
     {
       "match_id": 1090541101,
