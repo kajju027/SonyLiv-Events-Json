@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/9/2026, 3:15:40 pm",
+  "updatedAt": "3/9/2026, 3:16:11 pm",
   "total_matches": 17,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b"
     },
     {
       "match_id": "1090541268_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b"
     },
     {
       "match_id": "1090541267_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256657160994_JPL_26_Golden-Eagles-Delhi-vs-Mumbai-Sobo-Stars_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788471168~acl=/*~id=67357638120176654856582716052187~hmac=3028cee3e86aee38ff5a1cf3a8974d95d2dd2062f29198433ffc6c5949e1ca32"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788471778~acl=/*~id=41631878314899508950797240777982~hmac=7e5aea679ff2ecdb02aabf78247fc78d61794f2d38d4dce855d4b68088e0e93b"
     },
     {
       "match_id": 1090541101,
