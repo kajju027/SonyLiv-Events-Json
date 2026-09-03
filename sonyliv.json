@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/9/2026, 5:28:24 pm",
+  "updatedAt": "3/9/2026, 5:36:55 pm",
   "total_matches": 19,
   "live_matches": 5,
   "matches": [
@@ -14,35 +14,35 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333179261860_ENGW_vs_IREW_2odi_landscape.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba"
     },
     {
       "match_id": "1090541268_HIN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [HIN]",
+      "match_name": "Fazilka Falcons vs Mohali Kings - 3 Sep 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351046356870_PT20_Fazilka-Falcons-vs-Mohali-Kings_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba"
     },
     {
       "match_id": "1090541268_PAN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 [PAN]",
+      "match_name": "Fazilka Falcons vs Mohali Kings - 3 Sep 2026 [PAN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351046356870_PT20_Fazilka-Falcons-vs-Mohali-Kings_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba"
     },
     {
       "match_id": "1090541267_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256657160994_JPL_26_Golden-Eagles-Delhi-vs-Mumbai-Sobo-Stars_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba"
     },
     {
       "match_id": "1090541269_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341837266287_DP-World-2026-Omega-European-Masters_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788479711~acl=/*~id=20903028552265193496816575163559~hmac=62b12978c0ca2f38e02ea35ce57a3c1984fd38f60832304383dfa7678a9c6bbf"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788480319~acl=/*~id=45309929784624699239049591203099~hmac=f70c021541059639b34f4cbe6413312d159fdceb5db61e870a2c70e9cb9a4eba"
     },
     {
       "match_id": 1090541101,
