@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/9/2026, 11:35:04 am",
-  "total_matches": 13,
+  "updatedAt": "3/9/2026, 11:42:55 am",
+  "total_matches": 15,
   "live_matches": 1,
   "matches": [
     {
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788458401~acl=/*~id=87860992873613178009780031578915~hmac=28cc24043e26063239d8db1817d8959da14be6792340df9f42d5a816661d7eb3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788458401~acl=/*~id=87860992873613178009780031578915~hmac=28cc24043e26063239d8db1817d8959da14be6792340df9f42d5a816661d7eb3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788458401~acl=/*~id=87860992873613178009780031578915~hmac=28cc24043e26063239d8db1817d8959da14be6792340df9f42d5a816661d7eb3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459011~acl=/*~id=41170952194783230485643392107476~hmac=151fa8237ed2183d3577180fdc76c97dd3445c9f350af8f1558b9ab6604433fa",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459011~acl=/*~id=41170952194783230485643392107476~hmac=151fa8237ed2183d3577180fdc76c97dd3445c9f350af8f1558b9ab6604433fa",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788459011~acl=/*~id=41170952194783230485643392107476~hmac=151fa8237ed2183d3577180fdc76c97dd3445c9f350af8f1558b9ab6604433fa"
     },
     {
       "match_id": 1090541101,
@@ -170,6 +170,32 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090541319,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835793245835_AWC_Promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090541320,
+      "event_name": "Upcoming - India Tour of New Zealand ",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835785489135_Sunil_grover_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
