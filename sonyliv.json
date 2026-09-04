@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/9/2026, 4:44:30 pm",
+  "updatedAt": "4/9/2026, 4:44:35 pm",
   "total_matches": 18,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90"
     },
     {
       "match_id": "1090541355_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90"
     },
     {
       "match_id": "1090541356_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788563588~acl=/*~id=33201322971015565048619961739669~hmac=40d5c1134d1ea5d46eccc094e283fb7e6bac924cb54d46e6b64776a089a2eee4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788562980~acl=/*~id=87716270289843197012230374273376~hmac=4dae779c84f901fa4ec129d38b794f1025d489234c81af324b414a89d4b5dd90"
     },
     {
       "match_id": 1090540064,
