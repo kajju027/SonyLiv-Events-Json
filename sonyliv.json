@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/9/2026, 11:12:33 am",
+  "updatedAt": "4/9/2026, 11:22:08 am",
   "total_matches": 16,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788543530~acl=/*~id=34650838397629011529322999877957~hmac=44b024eb69c770ba1cb8a15d11c6543c79d47041f9df4b8b707ddc6f4fcf597e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788543530~acl=/*~id=34650838397629011529322999877957~hmac=44b024eb69c770ba1cb8a15d11c6543c79d47041f9df4b8b707ddc6f4fcf597e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788543530~acl=/*~id=34650838397629011529322999877957~hmac=44b024eb69c770ba1cb8a15d11c6543c79d47041f9df4b8b707ddc6f4fcf597e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e"
     },
     {
       "match_id": 1090539555,
@@ -45,19 +45,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090539554,
-      "event_name": "Upcoming - Pakistan Tour of England 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090538884,
       "event_name": "Upcoming - DP World Women's Asia Cup 2026",
       "match_name": "",
@@ -66,6 +53,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023423/1788440866654283_WAC26_UAE_vs_Indonesia_tonight_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539554,
+      "event_name": "Upcoming - Pakistan Tour of England 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022509/1787129959036804_England_vs_Pakistan_2026_GOB_Landscape_Thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
