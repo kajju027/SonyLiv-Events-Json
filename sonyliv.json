@@ -1,35 +1,35 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/9/2026, 5:46:45 pm",
+  "updatedAt": "4/9/2026, 5:49:48 pm",
   "total_matches": 18,
   "live_matches": 3,
   "matches": [
     {
       "match_id": "1090541355_HIN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [HIN]",
+      "match_name": "Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e"
     },
     {
       "match_id": "1090541355_PAN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Bathinda Royals vs Amritsar Soormas - 4 Sep 2026 [PAN]",
+      "match_name": "Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 [PAN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788351423482870_PT20_Bathinda-Royals-vs-Amritsar-Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e"
     },
     {
       "match_id": "1090541356_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788566631~acl=/*~id=07398206491990949764919807364075~hmac=c15aada1c750341360bfbec751d238d4e1e30d125096199fc4bc832b0c2f8ff6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788567239~acl=/*~id=16653683723054805750324454215557~hmac=23948d04d0511224bce3d843313f34f33c02ab691d8a9d3e0d7aedc6b3d0bf0e"
     },
     {
       "match_id": 1090540064,
