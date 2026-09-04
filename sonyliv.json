@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/9/2026, 11:24:53 am",
+  "updatedAt": "4/9/2026, 11:30:59 am",
   "total_matches": 16,
   "live_matches": 1,
   "matches": [
@@ -13,23 +13,10 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544138~acl=/*~id=04205920078212586658919254887168~hmac=9948dd573b69308b6ac8a5badbf8e0186c7841c832cf068a3b771d8f54d7178e"
-    },
-    {
-      "match_id": 1090539555,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544747~acl=/*~id=01385910902035275148550338549526~hmac=94337ca1d18b57e13de5ea9c2faffd351a1a897560956fe8adad82e683f300b2",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544747~acl=/*~id=01385910902035275148550338549526~hmac=94337ca1d18b57e13de5ea9c2faffd351a1a897560956fe8adad82e683f300b2",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788544747~acl=/*~id=01385910902035275148550338549526~hmac=94337ca1d18b57e13de5ea9c2faffd351a1a897560956fe8adad82e683f300b2"
     },
     {
       "match_id": 1090540064,
@@ -40,6 +27,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023104/1787914224074953_womens_AsiaCup26_india_vs_pakistan_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539555,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
