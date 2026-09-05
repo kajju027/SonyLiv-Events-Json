@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/9/2026, 2:42:42 am",
+  "updatedAt": "6/9/2026, 2:43:53 am",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/UFC_UFC_0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11"
     },
     {
       "match_id": "1090541574_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/UFC_UFC_0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11"
     },
     {
       "match_id": "1090541574_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/UFC_UFC_0509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11"
     },
     {
       "match_id": "1090541574_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/UFC_UFC_0509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11"
     },
     {
       "match_id": "1090541574_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023513/1788550821133237_UFC_Fight_Night_Hooker_vs_Parnasse_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788685874~acl=/*~id=32333868259176106845226696063956~hmac=713fa32c0b3ea62ac7b6d4682987742eee66fd57fdf5a5d37616b70a717ec784"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/UFC_UFC_0509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788685266~acl=/*~id=60910723783374427949386176500254~hmac=ef8f9db7183e56df277930414ab28db377f3071808460a33f44053750803ca11"
     },
     {
       "match_id": 1090539555,
