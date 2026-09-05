@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/9/2026, 3:21:06 pm",
+  "updatedAt": "5/9/2026, 3:22:14 pm",
   "total_matches": 17,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788644428~acl=/*~id=77434717230876853956818035989577~hmac=4e61df14b3286a408a6fb60025d63e14e9f101bf2bd43187e6966dacaa64206c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788644428~acl=/*~id=77434717230876853956818035989577~hmac=4e61df14b3286a408a6fb60025d63e14e9f101bf2bd43187e6966dacaa64206c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788644428~acl=/*~id=77434717230876853956818035989577~hmac=4e61df14b3286a408a6fb60025d63e14e9f101bf2bd43187e6966dacaa64206c"
     },
     {
       "match_id": "1090541487_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788645036~acl=/*~id=31410142942473091650429459552260~hmac=d7b217cb8bab4f17d24345d006dbcf2efb0388919d284bd66922746d166c9514"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788644428~acl=/*~id=77434717230876853956818035989577~hmac=4e61df14b3286a408a6fb60025d63e14e9f101bf2bd43187e6966dacaa64206c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788644428~acl=/*~id=77434717230876853956818035989577~hmac=4e61df14b3286a408a6fb60025d63e14e9f101bf2bd43187e6966dacaa64206c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788644428~acl=/*~id=77434717230876853956818035989577~hmac=4e61df14b3286a408a6fb60025d63e14e9f101bf2bd43187e6966dacaa64206c"
     },
     {
       "match_id": 1090540064,
@@ -208,7 +208,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859150945674_UCL_26_Real-Madrid-vs-Inter_promo_DDT_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023424/1788442172708189_ucl_real_madrid_vs_Inter_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
