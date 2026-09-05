@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/9/2026, 3:51:48 pm",
+  "updatedAt": "5/9/2026, 3:52:29 pm",
   "total_matches": 18,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc"
     },
     {
       "match_id": "1090541487_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023400/1788418071657255_PT20_Fazilka-Falcons-vs-Bathinda-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0509/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc"
     },
     {
       "match_id": "1090541489_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341899788287_DP-World-2026-Omega-European-Masters_Day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788646252~acl=/*~id=04106019333520193452403076439110~hmac=2c4c2193f05b7ff8430a912fb7dfeb8730eb59967aa7adec2e4b3b0947318556"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Golf_Ome0509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788646862~acl=/*~id=52462111040231657494299098575998~hmac=733c120c8f7f2988e3fc788116f9f88565e52fe6cd8245d83c996f8733d206fc"
     },
     {
       "match_id": 1090540064,
