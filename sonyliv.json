@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/9/2026, 5:04:57 am",
+  "updatedAt": "7/9/2026, 5:12:57 am",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630"
     },
     {
       "match_id": "1090541680_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/WWE_Sund0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630"
     },
     {
       "match_id": "1090541680_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/WWE_Sund0609/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630"
     },
     {
       "match_id": "1090541680_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/WWE_Sund0609/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630"
     },
     {
       "match_id": "1090541680_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788780671~acl=/*~id=51770969351167843086952622605083~hmac=7f74ac4fd3b0219e0171ab4b43624b7441a02db6013cc7c520305909439f0955"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/WWE_Sund0609/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788781279~acl=/*~id=62436562579229167149773882530943~hmac=7541f7dd3e10ac4b3a2839dbf4ad15b161a970e4462cdbdd121974dbd0811630"
     },
     {
       "match_id": 1090541422,
