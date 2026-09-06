@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/9/2026, 6:05:48 pm",
+  "updatedAt": "6/9/2026, 6:25:43 pm",
   "total_matches": 21,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419688654373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214"
     },
     {
       "match_id": "1090541579_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419688654373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214"
     },
     {
       "match_id": "1090541545_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214"
     },
     {
       "match_id": "1090541651_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214"
     },
     {
       "match_id": "1090541532_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341923917287_DP-World-2026-Omega-European-Masters_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788741158~acl=/*~id=20581343031910391618455563189028~hmac=c782b278e339d0455d457056d9c21513b1428c2ab09968495f0872c5e1c0d698"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788742373~acl=/*~id=04585350897137045608616736596925~hmac=4fdf37bd39c1c967343c412b51c90f6beab8d52fbbb3edb416793a4ade717214"
     },
     {
       "match_id": 1090539555,
@@ -130,7 +130,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023519/178859220175574_UCL_26_Liverpool-vs-Atletico_promo_DDT_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698153784480_UCL2627_MD1_liverpool_vs_atletico_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
