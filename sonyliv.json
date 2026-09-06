@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/9/2026, 4:35:15 pm",
+  "updatedAt": "6/9/2026, 4:41:47 pm",
   "total_matches": 21,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad"
     },
     {
       "match_id": "1090541579_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad"
     },
     {
       "match_id": "1090541545_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad"
     },
     {
       "match_id": "1090541651_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad"
     },
     {
       "match_id": "1090541532_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341923917287_DP-World-2026-Omega-European-Masters_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788735665~acl=/*~id=05354629213463385575674575643042~hmac=7ade96315096bc6df2f447ed8348dbaf4ba72a971ef54f75c06ea86e79586e59"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788736276~acl=/*~id=92398433620779744129985796174214~hmac=f133289aa2f9649fae186a8ae757e036cc68bf56ad314d263e85c4cdacd019ad"
     },
     {
       "match_id": 1090539555,
