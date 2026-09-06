@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/9/2026, 1:29:37 pm",
-  "total_matches": 17,
-  "live_matches": 2,
+  "updatedAt": "6/9/2026, 1:39:47 pm",
+  "total_matches": 18,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090541579_HIN",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788724680~acl=/*~id=27893631598473098398323331854000~hmac=a6938a94b55d9adb9ab6f6e8ba683aa5e087c144e9d30b141b161794b979e1b1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788724680~acl=/*~id=27893631598473098398323331854000~hmac=a6938a94b55d9adb9ab6f6e8ba683aa5e087c144e9d30b141b161794b979e1b1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788724680~acl=/*~id=27893631598473098398323331854000~hmac=a6938a94b55d9adb9ab6f6e8ba683aa5e087c144e9d30b141b161794b979e1b1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472"
     },
     {
       "match_id": "1090541579_PAN",
@@ -27,9 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788724680~acl=/*~id=27893631598473098398323331854000~hmac=a6938a94b55d9adb9ab6f6e8ba683aa5e087c144e9d30b141b161794b979e1b1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788724680~acl=/*~id=27893631598473098398323331854000~hmac=a6938a94b55d9adb9ab6f6e8ba683aa5e087c144e9d30b141b161794b979e1b1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788724680~acl=/*~id=27893631598473098398323331854000~hmac=a6938a94b55d9adb9ab6f6e8ba683aa5e087c144e9d30b141b161794b979e1b1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472"
+    },
+    {
+      "match_id": "1090541651_ENG",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Auction - 6 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788725289~acl=/*~id=69308096670506476630269592819633~hmac=bec74759d37cc295c9160a8f7d2a132d9540a4230ae574815e363b00dc5f4472"
     },
     {
       "match_id": 1090539555,
