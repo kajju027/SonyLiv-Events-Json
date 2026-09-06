@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/9/2026, 4:18:05 am",
-  "total_matches": 15,
-  "live_matches": 0,
+  "updatedAt": "6/9/2026, 12:07:07 pm",
+  "total_matches": 17,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090541579_HIN",
+      "event_name": "Sher-E-Punjab T20 League",
+      "match_name": "Bathinda Royals vs Jalandhar Warriors - 6 Sep 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec"
+    },
+    {
+      "match_id": "1090541579_PAN",
+      "event_name": "Sher-E-Punjab T20 League",
+      "match_name": "Bathinda Royals vs Jalandhar Warriors - 6 Sep 2026 [PAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HIN",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788719814~acl=/*~id=87096048581588602121773526768951~hmac=71d965165252dfb83fd3ddab2124fe6d89eed21a137b46188ab87991e4cdd3ec"
+    },
     {
       "match_id": 1090539555,
       "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
