@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/9/2026, 2:09:11 pm",
+  "updatedAt": "6/9/2026, 2:10:18 pm",
   "total_matches": 19,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759"
     },
     {
       "match_id": "1090541579_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023396/1788383136125768_PT20_Bathinda_Royals_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759"
     },
     {
       "match_id": "1090541651_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788727114~acl=/*~id=65542091772317356896527170964608~hmac=964b199efa4c8cae8f3217252d38eb89226b84b97e58b8e00da6f77a66a51a8f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788726505~acl=/*~id=32645656739715527110772225391886~hmac=69f5cf399ef0505521e3abbf5cc5b230fa314d4e04cdccdf775f25a6e1d16759"
     },
     {
       "match_id": 1090539555,
