@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/9/2026, 10:47:35 pm",
+  "updatedAt": "7/9/2026, 10:55:55 pm",
   "total_matches": 22,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463"
     },
     {
       "match_id": "1090541616_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463"
     },
     {
       "match_id": "1090541616_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463"
     },
     {
       "match_id": "1090541616_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463"
     },
     {
       "match_id": "1090541616_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023527/178860963277959_AWC26_PAK_vs_HKC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463"
     },
     {
       "match_id": "1090541606_HIN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463"
     },
     {
       "match_id": "1090541606_PAN",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023603/178876680905358_PT20_Fazilka-Falcons-vs-Amritsar-Soormas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788844509~acl=/*~id=45668329423859064789349775316843~hmac=b8297cc22e34ae92102a86f0eb43f988c0ee23ad44cee93ae70cf090e545f9e6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788845118~acl=/*~id=90067010944777809345676777713038~hmac=81044490b26838a99d0fbe94d90a3d5d6c277533d466e7109d6c876d2df8c463"
     },
     {
       "match_id": 1090541426,
