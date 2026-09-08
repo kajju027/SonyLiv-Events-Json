@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/9/2026, 2:28:13 am",
+  "updatedAt": "9/9/2026, 2:28:36 am",
   "total_matches": 23,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": "1090541798_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": "1090541798_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": "1090541798_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/footlive0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/footlive0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/footlive0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/footlive0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/footlive0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/footlive0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": "1090541798_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": "1090541700_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788515051391822_UCL_26_MD1_Porto-vs-Manchester-City_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": "1090541701_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788516657640822_UCL_26_MD1_Dortmund-vs-Villarreal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": "1090541699_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788514202693822_UCL_26_MD1_Lille-vs-Real-Betis_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788943477~acl=/*~id=05695409331093819357183746567309~hmac=39bf093f1f85e7546aee8fb251c5e582807639da69212c1b35d0ce903f8d337f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788944086~acl=/*~id=04239621591924377275552063431913~hmac=6972da825cf39b82607c14dae68748874491b31bb918e8f871d2399220b17769"
     },
     {
       "match_id": 1090541423,
