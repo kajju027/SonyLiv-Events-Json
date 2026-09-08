@@ -1,35 +1,35 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/9/2026, 5:29:36 pm",
+  "updatedAt": "8/9/2026, 5:49:08 pm",
   "total_matches": 18,
   "live_matches": 3,
   "matches": [
     {
       "match_id": "1090541702_HIN",
       "event_name": "Sher-E-Punjab T20 League 2026",
-      "match_name": "Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [HIN]",
+      "match_name": "Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5"
     },
     {
       "match_id": "1090541702_PAN",
       "event_name": "Sher-E-Punjab T20 League 2026",
-      "match_name": "Amritsar Soormas vs Mohali Kings - 8 Sep 2026 [PAN]",
+      "match_name": "Ludhiana Lions vs Bathinda Royals - 8 Sep 2026 [PAN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5"
     },
     {
       "match_id": "1090541752_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788911796~acl=/*~id=88414537116645484391715749175602~hmac=62b64875414ef13b81f025929111bfaf8bcbd30f33a22684c22065e703fb46a0"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788913033~acl=/*~id=28177833785906143816819326908820~hmac=ed3383477c67785a14ef081b79ddf135e9144dd833dc9ea619a4443b28dbc4a5"
     },
     {
       "match_id": 1090541426,
