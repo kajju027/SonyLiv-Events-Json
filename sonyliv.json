@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/9/2026, 5:06:29 am",
+  "updatedAt": "9/9/2026, 5:06:36 am",
   "total_matches": 15,
   "live_matches": 0,
   "matches": [
@@ -32,19 +32,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090539554,
-      "event_name": "Upcoming - Pakistan Tour of England 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023526/1788608962567948_eng_vs_pak_3rd_d1_test_promo_Today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090541419,
       "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
       "match_name": "",
@@ -53,6 +40,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788687725995563_UCL2627_MD1_Barcelona_vs_Feyenoord_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539554,
+      "event_name": "Upcoming - Pakistan Tour of England 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023526/1788608962567948_eng_vs_pak_3rd_d1_test_promo_Today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
