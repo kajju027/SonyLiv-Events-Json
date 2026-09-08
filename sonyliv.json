@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/9/2026, 11:22:57 pm",
+  "updatedAt": "8/9/2026, 11:23:34 pm",
   "total_matches": 22,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788511646779822_UCL_26_MD1_Club-Brugge-vs-Aston-Villa_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e"
     },
     {
       "match_id": "1090541726_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e"
     },
     {
       "match_id": "1090541726_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e"
     },
     {
       "match_id": "1090541726_TAM",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e"
     },
     {
       "match_id": "1090541726_TEL",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e"
     },
     {
       "match_id": "1090541726_KAN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023583/1788710381615610_AWC26_Bangladesh_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e"
     },
     {
       "match_id": "1090541697_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513038876822_UCL_26_MD1_AEK-Athens-vs-LASK_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788933131~acl=/*~id=50652225754512785697745652485549~hmac=936ba3f97a991fba5a6ad84da6dafa75adca51c00058912945fe421725e0bb98"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788932523~acl=/*~id=64853016931572444947574094146923~hmac=539c96af5874a02bc34cdce94567144495f4b9b7f48ded34461e62e8f30c1d2e"
     },
     {
       "match_id": 1090541426,
