@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/9/2026, 4:42:55 pm",
+  "updatedAt": "9/9/2026, 5:13:28 pm",
   "total_matches": 18,
   "live_matches": 3,
   "matches": [
@@ -14,35 +14,35 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193"
     },
     {
       "match_id": "1090541733_HIN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [HIN]",
+      "match_name": "Mohali Kings vs Bathinda Royals - 9 Sep 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193"
     },
     {
       "match_id": "1090541733_PAN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Ludhiana Lions vs Fazilka Falcons - 9 Sep 2026 [PAN]",
+      "match_name": "Mohali Kings vs Bathinda Royals - 9 Sep 2026 [PAN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788765442093395_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788995542~acl=/*~id=86210908049077426431595495359962~hmac=6802257e350ccc320f4c2875f8cc218a9cf365afe06d32b10e5c0ba89d6a3d87"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1788997345~acl=/*~id=30085336550771368301361422053682~hmac=29f211fa641ae98b877e38dab39f139e1a8431ab29d09e8215e2fa28dce43193"
     },
     {
       "match_id": 1090541419,
