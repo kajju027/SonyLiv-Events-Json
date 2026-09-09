@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/9/2026, 6:07:52 pm",
+  "updatedAt": "9/9/2026, 6:14:34 pm",
   "total_matches": 18,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff"
     },
     {
       "match_id": "1090541733_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff"
     },
     {
       "match_id": "1090541733_PAN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789000399~acl=/*~id=50161894018757245948285469995725~hmac=f73469f1d6c77c0ba34de85a85bd982b5fb522ee96f8c760c8b94092931e3014"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789001005~acl=/*~id=78872177763174411929661467367417~hmac=43d6f7b43cf946dd5c5659b47f7e38e57ce4c7ebaa724b76c4d44121b81eb0ff"
     },
     {
       "match_id": 1090541419,
