@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/9/2026, 9:15:38 pm",
-  "total_matches": 20,
-  "live_matches": 4,
+  "updatedAt": "9/9/2026, 9:36:48 pm",
+  "total_matches": 19,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090541741_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434893656794_eng_vs_pak_3test_D1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07"
     },
     {
       "match_id": "1090541733_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07"
     },
     {
       "match_id": "1090541733_PAN",
@@ -40,32 +40,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023610/1788772468832879_PT20_Mohali-Kings-vs-Bathinda-Royals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789013140~acl=/*~id=08361599626745151937029317904792~hmac=95dd2583a4c91cc848b6ac49d9df9606f83d4c7a8f369ef754dc6cb86cbdbe07"
     },
     {
-      "match_id": "1090541864_ENG",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "Liverpool vs Atletico - MD 1 - 8 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023592/178871940542211_UYL26_Liverpool_vs_Atletico_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789011926~acl=/*~id=69927170006506453871462707751361~hmac=5fe4c1cbb51f59aa05047fdfe0e5fb3e7f2c97559ee74dff99626f741f836c4e"
-    },
-    {
-      "match_id": 1090541419,
-      "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
+      "match_id": 1090541423,
+      "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788688066368563_UCL2627_MD1_Barcelona_vs_Feyenoord_tonight_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698125388480_UCL2627_MD1_liverpool_vs_atletico_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -97,14 +84,14 @@
       "video_url": ""
     },
     {
-      "match_id": 1090541423,
-      "event_name": "Upcoming - Liverpool vs Atletico Madrid - UEFA Champions League 2026-27 ",
+      "match_id": 1090541419,
+      "event_name": "Upcoming - Barcelona vs Feyenoord - UEFA Champions League 2026-27",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023577/1788698125388480_UCL2627_MD1_liverpool_vs_atletico_tonight_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023575/1788688066368563_UCL2627_MD1_Barcelona_vs_Feyenoord_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
