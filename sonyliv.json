@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/9/2026, 2:23:31 am",
+  "updatedAt": "10/9/2026, 2:30:46 am",
   "total_matches": 21,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518397151822_UCL_26_MD1_Liverpool-vs-Atletico-Madrid_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": "1090541856_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": "1090541856_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": "1090541856_TAM",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": "1090541856_TEL",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive0909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": "1090541856_KAN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522481751822_UCL_26_MD1_Napoli-vs-Arsenal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive0909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": "1090541839_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788517907001822_UCL_26_MD1_Paris-vs-Slavia-Bratislava_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": "1090541851_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788518938569822_UCL_26_MD1_Sporting-CP-vs-Galatasaray_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030166~acl=/*~id=76164664009250218668069077348920~hmac=ee40b2024f308a8c14358a97da9d6b65416624035983182dc8f56e53b693f3ac"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789030774~acl=/*~id=26484267804423940400996045489651~hmac=860eb60257d2bdd8987563db46c0d0335e86b9cdb739ab0e543d8471b1287522"
     },
     {
       "match_id": 1090540064,
