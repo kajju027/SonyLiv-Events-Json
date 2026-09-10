@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/9/2026, 5:43:14 pm",
+  "updatedAt": "10/9/2026, 5:59:34 pm",
   "total_matches": 19,
   "live_matches": 4,
   "matches": [
@@ -14,35 +14,35 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434935059794_eng_vs_pak_3test_D2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53"
     },
     {
       "match_id": "1090541928_HIN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [HIN]",
+      "match_name": "Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53"
     },
     {
       "match_id": "1090541928_PAN",
       "event_name": "Sher-E-Punjab T20 League",
-      "match_name": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026 [PAN]",
+      "match_name": "Fazilka Falcons vs Bathinda Royals - 10 Sep 2026 [PAN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53"
     },
     {
       "match_id": "1090541930_ENG",
@@ -53,22 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789085316~acl=/*~id=46908275077138574649184155239744~hmac=86ae7c67a7ff3f65e845c1bf79a734ee7e64e874696afe387d21d99a7cce0c91"
-    },
-    {
-      "match_id": 1090540264,
-      "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788945860124809_UCL26_Manchester-United-vs-Sabah_promo_Tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789086533~acl=/*~id=46065773738385548594951976697009~hmac=17c66d47d6411b4e9889c214c168e2925aa2d5f50be83441f6fde30ba2663f53"
     },
     {
       "match_id": 1090540064,
@@ -79,6 +66,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023694/1788931306202487_WAC26_SF_India_vs_Bangladesh_tonight_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090540264,
+      "event_name": "Upcoming - Manchester United - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023705/1788945860124809_UCL26_Manchester-United-vs-Sabah_promo_Tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
