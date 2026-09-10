@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/9/2026, 1:26:27 am",
+  "updatedAt": "11/9/2026, 1:37:37 am",
   "total_matches": 19,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788527714323822_UCL_26_MD1_Manchester-United-vs-Sabah_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": "1090542011_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788527714323822_UCL_26_MD1_Manchester-United-vs-Sabah_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Footlive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": "1090542011_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788527714323822_UCL_26_MD1_Manchester-United-vs-Sabah_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": "1090542011_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788527714323822_UCL_26_MD1_Manchester-United-vs-Sabah_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": "1090542011_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788527714323822_UCL_26_MD1_Manchester-United-vs-Sabah_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Footlive1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": "1090542008_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788525716058822_UCL_26_MD1_Bayern-Munchen-vs-Bodo-Glimt_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": "1090542013_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788528128258822_UCL_26_MD1_Como-vs-Leipziglive_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": "1090542012_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788528531995822_UCL_26_MD1_Slavia-Praha-vs-Lens_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113354~acl=/*~id=22906070009075526608141599154805~hmac=a578c0d048ff7e1417fa72a75151bf842d49de559f020dee4ba965d5ef9b0df6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789113962~acl=/*~id=58652566011747789766766251247272~hmac=2ebed8b9a146b7c5b8ccf7763747e4a5c72dde0db3e58343f14915aaecd80580"
     },
     {
       "match_id": 1090539555,
