@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/9/2026, 3:10:36 pm",
+  "updatedAt": "10/9/2026, 3:20:48 pm",
   "total_matches": 17,
   "live_matches": 3,
   "matches": [
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789076185~acl=/*~id=86784767126683499777448911909415~hmac=346e6ec34ec5587872c2be09b9527fe2e7f83d87ec12b8f032844f4cdc7021b1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789076185~acl=/*~id=86784767126683499777448911909415~hmac=346e6ec34ec5587872c2be09b9527fe2e7f83d87ec12b8f032844f4cdc7021b1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789076185~acl=/*~id=86784767126683499777448911909415~hmac=346e6ec34ec5587872c2be09b9527fe2e7f83d87ec12b8f032844f4cdc7021b1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789076794~acl=/*~id=35699959988912149744176878659501~hmac=e1815edfdec2a41e488d40c55952669b89dbd9a231d72377ae368344aaa5c934",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789076794~acl=/*~id=35699959988912149744176878659501~hmac=e1815edfdec2a41e488d40c55952669b89dbd9a231d72377ae368344aaa5c934",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789076794~acl=/*~id=35699959988912149744176878659501~hmac=e1815edfdec2a41e488d40c55952669b89dbd9a231d72377ae368344aaa5c934"
     },
     {
       "match_id": "1090541928_PAN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023702/1788946397965887_PT20_Amritsar-Soormas-vs-Jalandhar-Warriors_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789076185~acl=/*~id=86784767126683499777448911909415~hmac=346e6ec34ec5587872c2be09b9527fe2e7f83d87ec12b8f032844f4cdc7021b1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789076185~acl=/*~id=86784767126683499777448911909415~hmac=346e6ec34ec5587872c2be09b9527fe2e7f83d87ec12b8f032844f4cdc7021b1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789076185~acl=/*~id=86784767126683499777448911909415~hmac=346e6ec34ec5587872c2be09b9527fe2e7f83d87ec12b8f032844f4cdc7021b1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789076794~acl=/*~id=35699959988912149744176878659501~hmac=e1815edfdec2a41e488d40c55952669b89dbd9a231d72377ae368344aaa5c934",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789076794~acl=/*~id=35699959988912149744176878659501~hmac=e1815edfdec2a41e488d40c55952669b89dbd9a231d72377ae368344aaa5c934",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789076794~acl=/*~id=35699959988912149744176878659501~hmac=e1815edfdec2a41e488d40c55952669b89dbd9a231d72377ae368344aaa5c934"
     },
     {
       "match_id": 1090540264,
