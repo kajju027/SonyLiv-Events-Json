@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/9/2026, 10:35:15 pm",
+  "updatedAt": "10/9/2026, 10:35:23 pm",
   "total_matches": 24,
   "live_matches": 10,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541953_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541953_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541953_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541953_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023692/1788907114653893_AWC26_SF_India_vs_Bangladesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541928_HIN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541928_PAN",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541967_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023703/1788946669572354_UCL_26_MD1_Fenerbahce-vs-Roma_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541965_ENG",
@@ -118,9 +118,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788522865090822_UCL_26_MD1_PSV-vs-Shakhtar_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": "1090541930_ENG",
@@ -131,9 +131,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419148422889_DP_World_Tour_Amgen_Irish_Open_day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789102412~acl=/*~id=00003320505797491103934632214098~hmac=2276d899a941a22d2a81384c5842b33f2fc4e5dd730bc12b40ad0f648853d0b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789103021~acl=/*~id=69251893084561367874022291854740~hmac=008e084fd9d06abe9157066fe531e6533198f4a05162931d8b6be7270d981c66"
     },
     {
       "match_id": 1090540264,
