@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/9/2026, 3:00:17 pm",
-  "total_matches": 14,
-  "live_matches": 2,
+  "updatedAt": "12/9/2026, 3:09:16 pm",
+  "total_matches": 15,
+  "live_matches": 3,
   "matches": [
+    {
+      "match_id": 1090542240,
+      "event_name": "Pakistan Tour of England 2026",
+      "match_name": "Day 4 - 3rd Test - 12 Sep 2026",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434990750794_eng_vs_pak_3test_D4_live_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
     {
       "match_id": "1090542233_HIN",
       "event_name": "Sher-E-Punjab T20 League 2026",
@@ -14,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e"
     },
     {
       "match_id": "1090542233_PAN",
@@ -27,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789248432~acl=/*~id=02023104596005189963223628900112~hmac=77cde0470378b3ee2d8676adc91a137eb2177c0e78074672007ce71a857fdf3e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249041~acl=/*~id=78079876756503984760850057693799~hmac=180499b70564a2420335b9e63b5a9de9f47d02ef2eb0b2f1b0b0ca9f1d3ce92e"
     },
     {
       "match_id": 1090542256,
