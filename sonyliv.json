@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/9/2026, 8:06:18 pm",
+  "updatedAt": "12/9/2026, 8:36:52 pm",
   "total_matches": 15,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d"
     },
     {
       "match_id": "1090542233_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d"
     },
     {
       "match_id": "1090542235_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789266623~acl=/*~id=80790017759799783353905595802181~hmac=73f0bff02faa0b61f807645c6554acaa12a5e94fa4b4b1d0202cbb38ca51711d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789268479~acl=/*~id=62758454963186618216421269022675~hmac=40f61a1465f67baa01b2cea0693156ddca78b40ae5ca1eeb39fcb3d4e685207d"
     },
     {
       "match_id": 1090542256,
@@ -97,7 +97,7 @@
       "video_url": ""
     },
     {
-      "match_id": 1090542130,
+      "match_id": 1090542429,
       "event_name": "Upcoming - India vs Brazil",
       "match_name": "",
       "status": "Upcoming",
