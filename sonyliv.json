@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/9/2026, 12:07:41 pm",
+  "updatedAt": "12/9/2026, 12:15:57 pm",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238737~acl=/*~id=64703546669567934430013549444063~hmac=50908348ddba6b300f93ec61a8a08c4c52621d297fcbb48c78baaa377d4e7dbf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238737~acl=/*~id=64703546669567934430013549444063~hmac=50908348ddba6b300f93ec61a8a08c4c52621d297fcbb48c78baaa377d4e7dbf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789238737~acl=/*~id=64703546669567934430013549444063~hmac=50908348ddba6b300f93ec61a8a08c4c52621d297fcbb48c78baaa377d4e7dbf"
     },
     {
       "match_id": "1090542233_PAN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238131~acl=/*~id=20115300577195906931582858945970~hmac=065025feed8e7de3fe7a031ea4d93af299b55f2cbf0c1d6889e649a5f95d61df"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238737~acl=/*~id=64703546669567934430013549444063~hmac=50908348ddba6b300f93ec61a8a08c4c52621d297fcbb48c78baaa377d4e7dbf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238737~acl=/*~id=64703546669567934430013549444063~hmac=50908348ddba6b300f93ec61a8a08c4c52621d297fcbb48c78baaa377d4e7dbf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789238737~acl=/*~id=64703546669567934430013549444063~hmac=50908348ddba6b300f93ec61a8a08c4c52621d297fcbb48c78baaa377d4e7dbf"
     },
     {
       "match_id": 1090542256,
