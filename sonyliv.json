@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/9/2026, 6:34:19 pm",
-  "total_matches": 14,
-  "live_matches": 2,
+  "updatedAt": "12/9/2026, 6:44:33 pm",
+  "total_matches": 15,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090542233_HIN",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3"
     },
     {
       "match_id": "1090542233_PAN",
@@ -27,9 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261200~acl=/*~id=35133737959458561987071546194841~hmac=a0abe14951911911b9328b6d6e2a7cc655f4b07e665c5fca526ef52dd1dbf256"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3"
+    },
+    {
+      "match_id": "1090542235_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Amgen Irish Open - Day 3 - 12 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3"
     },
     {
       "match_id": 1090542256,
