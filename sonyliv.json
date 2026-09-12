@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/9/2026, 4:36:38 am",
+  "updatedAt": "13/9/2026, 4:46:50 am",
   "total_matches": 17,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089"
     },
     {
       "match_id": "1090542394_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Ufclive_1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089"
     },
     {
       "match_id": "1090542394_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022318/Ufclive_1209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089"
     },
     {
       "match_id": "1090542394_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Ufclive_1209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089"
     },
     {
       "match_id": "1090542394_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789297595~acl=/*~id=78267769710445813363154495035521~hmac=01cbe5a73ce2750124962354de62f050e3646e05e448f96e5ac22f82e4d62061"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/Ufclive_1209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789298201~acl=/*~id=12458363424066324285021918345212~hmac=1e95374ed45419440fad174bd50ee8b94d4884133829729d05cab547170d0089"
     },
     {
       "match_id": 1090542256,
