@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/9/2026, 11:59:11 pm",
+  "updatedAt": "13/9/2026, 11:59:32 pm",
   "total_matches": 18,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": "1090542250_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": "1090542250_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": "1090542250_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": "1090542250_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": "1090542258_HIN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": "1090542258_PAN",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": "1090542287_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789852900248_Hyundai-Archery-World-Cup-Final_Recurve-Men-Elite-QFs-to-Finals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789367287~acl=/*~id=88886294237912823338970312810155~hmac=6992ad9e64e6fc7903eae41092fd9eac73740bf308d159211ec3cc08a0b069ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789366680~acl=/*~id=85641808995371667160336168768833~hmac=c853096dfbe7e4a5b71d0de80d33504cd12d9f9b25485849df5c29846f4707bc"
     },
     {
       "match_id": 1090539555,
