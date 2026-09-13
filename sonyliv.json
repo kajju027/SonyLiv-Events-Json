@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/9/2026, 1:10:41 am",
+  "updatedAt": "14/9/2026, 1:20:55 am",
   "total_matches": 12,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789371535~acl=/*~id=55134399006284321339496054869717~hmac=5b310da03628ce33a07a86b066ee1dd0b2506361b6a819a92cfecbfd4402ea56",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789371535~acl=/*~id=55134399006284321339496054869717~hmac=5b310da03628ce33a07a86b066ee1dd0b2506361b6a819a92cfecbfd4402ea56",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789371535~acl=/*~id=55134399006284321339496054869717~hmac=5b310da03628ce33a07a86b066ee1dd0b2506361b6a819a92cfecbfd4402ea56"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789372140~acl=/*~id=30071653266301137177435363477568~hmac=16ff3d84ecff01fe5ccf88ea73cfedc9d97c56e1319bf4398f761272c0ed8a9a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789372140~acl=/*~id=30071653266301137177435363477568~hmac=16ff3d84ecff01fe5ccf88ea73cfedc9d97c56e1319bf4398f761272c0ed8a9a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789372140~acl=/*~id=30071653266301137177435363477568~hmac=16ff3d84ecff01fe5ccf88ea73cfedc9d97c56e1319bf4398f761272c0ed8a9a"
     },
     {
       "match_id": 1090539555,
