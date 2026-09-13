@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/9/2026, 5:55:31 pm",
+  "updatedAt": "13/9/2026, 5:56:01 pm",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419119521889_DP_World_Tour_Amgen_Irish_Open_day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Golf_Amg1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789345416~acl=/*~id=36649402608238981651461865317662~hmac=c6b23c392c508bb43f82b597be77aeeabbe98c09039fb2566b76f2968c415df8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Golf_Amg1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789345416~acl=/*~id=36649402608238981651461865317662~hmac=c6b23c392c508bb43f82b597be77aeeabbe98c09039fb2566b76f2968c415df8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Golf_Amg1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789345416~acl=/*~id=36649402608238981651461865317662~hmac=c6b23c392c508bb43f82b597be77aeeabbe98c09039fb2566b76f2968c415df8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Golf_Amg1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789344765~acl=/*~id=42729519804026873138860045507277~hmac=eb599253425b3a0888fa32706512e6cfe742d118ee0dfc13d63ec346f74c2350",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Golf_Amg1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789344765~acl=/*~id=42729519804026873138860045507277~hmac=eb599253425b3a0888fa32706512e6cfe742d118ee0dfc13d63ec346f74c2350",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Golf_Amg1309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789344765~acl=/*~id=42729519804026873138860045507277~hmac=eb599253425b3a0888fa32706512e6cfe742d118ee0dfc13d63ec346f74c2350"
     },
     {
       "match_id": 1090542256,
