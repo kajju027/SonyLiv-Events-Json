@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/9/2026, 10:44:38 pm",
+  "updatedAt": "15/9/2026, 10:55:23 pm",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789535553~acl=/*~id=71965805240753138254699481776601~hmac=02c69c6aa5d94694b4406efa42cb5dba6ccb6590e4b072c637466a70215bbebf",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789535553~acl=/*~id=71965805240753138254699481776601~hmac=02c69c6aa5d94694b4406efa42cb5dba6ccb6590e4b072c637466a70215bbebf",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789535553~acl=/*~id=71965805240753138254699481776601~hmac=02c69c6aa5d94694b4406efa42cb5dba6ccb6590e4b072c637466a70215bbebf"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789536159~acl=/*~id=77244288632473805431779012412043~hmac=3d1a9527a18b7e2bffb348b93167c206a09efacce89fcf8fdf3ddbf3944bf198",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789536159~acl=/*~id=77244288632473805431779012412043~hmac=3d1a9527a18b7e2bffb348b93167c206a09efacce89fcf8fdf3ddbf3944bf198",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789536159~acl=/*~id=77244288632473805431779012412043~hmac=3d1a9527a18b7e2bffb348b93167c206a09efacce89fcf8fdf3ddbf3944bf198"
     },
     {
       "match_id": 1090540014,
@@ -78,7 +78,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023982/1789474039710211_ENGvsSL26_1t20i_Promo_tonight_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
