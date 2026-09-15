@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/9/2026, 2:17:51 am",
+  "updatedAt": "16/9/2026, 2:28:58 am",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789548274~acl=/*~id=24766736086310592316889852380288~hmac=e4740c7f989d86b298ef3bd6576f1717b50d31f27d41c70dfdc357cbab88b4b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789548274~acl=/*~id=24766736086310592316889852380288~hmac=e4740c7f989d86b298ef3bd6576f1717b50d31f27d41c70dfdc357cbab88b4b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789548274~acl=/*~id=24766736086310592316889852380288~hmac=e4740c7f989d86b298ef3bd6576f1717b50d31f27d41c70dfdc357cbab88b4b5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789548880~acl=/*~id=81332560962481478012295901846589~hmac=efdfdd16539bd959ffa347ab12beb810b944aa3ae53191efb17f50c546980b24",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789548880~acl=/*~id=81332560962481478012295901846589~hmac=efdfdd16539bd959ffa347ab12beb810b944aa3ae53191efb17f50c546980b24",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789548880~acl=/*~id=81332560962481478012295901846589~hmac=efdfdd16539bd959ffa347ab12beb810b944aa3ae53191efb17f50c546980b24"
     },
     {
       "match_id": 1090540014,
