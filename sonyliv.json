@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "17/9/2026, 10:04:10 am",
-  "total_matches": 14,
-  "live_matches": 1,
+  "updatedAt": "17/9/2026, 10:05:45 am",
+  "total_matches": 13,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090541369_ENG",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Pakistan Women vs Thailand Women - QF 2 - 17 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789662796~acl=/*~id=77204989980223865983902772720660~hmac=af0507808a81ce3d292a5c4717a447865f293329b3368fc59ff6392aa8ac8b97",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789662796~acl=/*~id=77204989980223865983902772720660~hmac=af0507808a81ce3d292a5c4717a447865f293329b3368fc59ff6392aa8ac8b97",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789662796~acl=/*~id=77204989980223865983902772720660~hmac=af0507808a81ce3d292a5c4717a447865f293329b3368fc59ff6392aa8ac8b97"
-    },
     {
       "match_id": 1090542750,
       "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Japan",
