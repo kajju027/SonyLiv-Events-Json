@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "17/9/2026, 1:17:36 pm",
+  "updatedAt": "17/9/2026, 1:19:31 pm",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
     {
       "match_id": "1090541369_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Pakistan Women vs Thailand Women - QF 2 - 17 Sep 2026 [ENG]",
+      "match_name": "Pakistan Women vs Thailand Women - Quarter-Final - 17 Sep 2026 [ENG]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789673699~acl=/*~id=54664552686932305025192028089107~hmac=a9783fefbe97eb31922336f89d6b5b1a489924fe57b9d60ab4771142472218ec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789673699~acl=/*~id=54664552686932305025192028089107~hmac=a9783fefbe97eb31922336f89d6b5b1a489924fe57b9d60ab4771142472218ec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789673699~acl=/*~id=54664552686932305025192028089107~hmac=a9783fefbe97eb31922336f89d6b5b1a489924fe57b9d60ab4771142472218ec"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789674304~acl=/*~id=42501584022506129773404951206406~hmac=e2c38c6bb80eca1d126f077f43d3d29b570c546edc4210270eb569712f805912",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789674304~acl=/*~id=42501584022506129773404951206406~hmac=e2c38c6bb80eca1d126f077f43d3d29b570c546edc4210270eb569712f805912",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789674304~acl=/*~id=42501584022506129773404951206406~hmac=e2c38c6bb80eca1d126f077f43d3d29b570c546edc4210270eb569712f805912"
     },
     {
       "match_id": 1090542750,
