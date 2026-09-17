@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 1:43:37 am",
+  "updatedAt": "18/9/2026, 1:44:32 am",
   "total_matches": 24,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": "1090542669_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": "1090542751_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532891246688_UEL2627_MD1_Crystal_Palace_vs_Lech_Poznan_4sep_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": "1090542749_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532535195688_UEL2627_MD1_Real_Sociedad_vs_Bournemouth_4sep_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": "1090542752_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788533233404688_UEL2627_MD1_Besiktas_vs_Marseille_4sep_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": "1090542754_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534760819688_UEL2627_MD1_Celtic_vs_Ferencvaros_4sep_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": "1090542753_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534519058688_UEL2627_MD1_Viktoria_Plzen_vs_Union_SG_4sep_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": "1090542755_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788535295410688_UEL2627_MD1_Lillestrom_vs_Torreense_4sep_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789719179~acl=/*~id=27562097833850337748800263882434~hmac=3bd5c610c90d6f7fd9d3c68bb707dfb2b0e9a90caa1c542c7cf0cd3375a64781"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789718570~acl=/*~id=73234799649844390337778157275697~hmac=c53d1f8c177a9d0123c2772093c6c6e6778403885bf2d8819249d33aec03df06"
     },
     {
       "match_id": 1090542750,
