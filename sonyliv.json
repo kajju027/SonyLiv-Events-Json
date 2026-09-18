@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 12:04:38 pm",
-  "total_matches": 20,
-  "live_matches": 5,
+  "updatedAt": "18/9/2026, 12:10:50 pm",
+  "total_matches": 21,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090541371_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5"
     },
     {
       "match_id": "1090541371_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1809/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5"
     },
     {
       "match_id": "1090541371_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi1809/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5"
     },
     {
       "match_id": "1090541371_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi1809/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5"
     },
     {
       "match_id": "1090541371_KAN",
@@ -66,9 +66,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789756130~acl=/*~id=55893908558023542491681367369563~hmac=d552ba175c89fbd85e9d3c11c0f9cd4dc19cede0628ac0db918adb33f339230f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi1809/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5"
+    },
+    {
+      "match_id": "1090541370_ENG",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Teqball - 18 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Teqball",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024016/1789521135072797_AG26_teqball_pictogram_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Teqball_1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Teqball_1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Teqball_1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789756736~acl=/*~id=98437419994785932563311042626102~hmac=d7a1e5d2e025b9873874bd6d06374bcc000847c41c6cffade98914609099a1f5"
     },
     {
       "match_id": 1090539555,
