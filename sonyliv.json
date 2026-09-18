@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 8:27:05 pm",
+  "updatedAt": "18/9/2026, 8:34:42 pm",
   "total_matches": 17,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789786365~acl=/*~id=57105054722316246361235488449691~hmac=38deb8ad32aac691d2eacfe35cf0d75f23964b832f3e9907c0e991bd39e99dd0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789786365~acl=/*~id=57105054722316246361235488449691~hmac=38deb8ad32aac691d2eacfe35cf0d75f23964b832f3e9907c0e991bd39e99dd0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789786365~acl=/*~id=57105054722316246361235488449691~hmac=38deb8ad32aac691d2eacfe35cf0d75f23964b832f3e9907c0e991bd39e99dd0"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789787024~acl=/*~id=47934237712357997552023024949348~hmac=77b523fd9d9cc30bcfc1040d6ce470f4ea39647041102fef18bd7bb045b3d924",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789787024~acl=/*~id=47934237712357997552023024949348~hmac=77b523fd9d9cc30bcfc1040d6ce470f4ea39647041102fef18bd7bb045b3d924",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789787024~acl=/*~id=47934237712357997552023024949348~hmac=77b523fd9d9cc30bcfc1040d6ce470f4ea39647041102fef18bd7bb045b3d924"
     },
     {
       "match_id": 1090540014,
@@ -40,6 +40,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023978/1789467134006271_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090541822,
+      "event_name": "Upcoming - Sri Lanka Tour of England 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -79,19 +92,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024138/1789725215020559_ag_promo_INDvsJPN_kabbadi_dated_landscape_Thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090541822,
-      "event_name": "Upcoming - Sri Lanka Tour of England 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
