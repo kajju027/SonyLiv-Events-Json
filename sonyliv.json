@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 11:58:48 pm",
+  "updatedAt": "19/9/2026, 2:18:40 am",
   "total_matches": 16,
   "live_matches": 0,
   "matches": [
@@ -123,6 +123,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090542974,
+      "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024171/1789759268704750_UFC331_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090539080,
       "event_name": "Upcoming - India vs Pakistan - 20th Asian Games Aichi-Nagoya 2026",
       "match_name": "",
@@ -196,19 +209,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090542859,
-      "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Boxing",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
