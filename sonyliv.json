@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 6:06:48 pm",
+  "updatedAt": "18/9/2026, 6:24:06 pm",
   "total_matches": 17,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789777936~acl=/*~id=93880950287104806357259960920673~hmac=cd2365a57acb16e9520c85f481e369429eda7dfe99e2eff773f016b203ae26a4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789777936~acl=/*~id=93880950287104806357259960920673~hmac=cd2365a57acb16e9520c85f481e369429eda7dfe99e2eff773f016b203ae26a4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789777936~acl=/*~id=93880950287104806357259960920673~hmac=cd2365a57acb16e9520c85f481e369429eda7dfe99e2eff773f016b203ae26a4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789779148~acl=/*~id=05353135515266236961938614283638~hmac=3fa0e91e8c8f35cf28ae5c539f6d180a0aeffd48ba39a1c82c6a2dea5cf1abd7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789779148~acl=/*~id=05353135515266236961938614283638~hmac=3fa0e91e8c8f35cf28ae5c539f6d180a0aeffd48ba39a1c82c6a2dea5cf1abd7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789779148~acl=/*~id=05353135515266236961938614283638~hmac=3fa0e91e8c8f35cf28ae5c539f6d180a0aeffd48ba39a1c82c6a2dea5cf1abd7"
     },
     {
       "match_id": 1090539555,
