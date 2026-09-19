@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/9/2026, 7:30:16 pm",
+  "updatedAt": "19/9/2026, 7:37:36 pm",
   "total_matches": 18,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789657985040480_ENGvsSL26_3t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789870006~acl=/*~id=93483392689890747915228313915007~hmac=6e944ba6c2d9878a1c72630286df1389c707891642c8fc1af193a80d652cd34b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789870006~acl=/*~id=93483392689890747915228313915007~hmac=6e944ba6c2d9878a1c72630286df1389c707891642c8fc1af193a80d652cd34b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789870006~acl=/*~id=93483392689890747915228313915007~hmac=6e944ba6c2d9878a1c72630286df1389c707891642c8fc1af193a80d652cd34b"
     },
     {
       "match_id": "1090542788_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419428341492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789869398~acl=/*~id=16475536488949456588242044675208~hmac=d682a33d17b2df4450e4495c2a3f1cf9de96270a452a4ce668773ba9bac0fcb3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789870006~acl=/*~id=93483392689890747915228313915007~hmac=6e944ba6c2d9878a1c72630286df1389c707891642c8fc1af193a80d652cd34b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789870006~acl=/*~id=93483392689890747915228313915007~hmac=6e944ba6c2d9878a1c72630286df1389c707891642c8fc1af193a80d652cd34b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789870006~acl=/*~id=93483392689890747915228313915007~hmac=6e944ba6c2d9878a1c72630286df1389c707891642c8fc1af193a80d652cd34b"
     },
     {
       "match_id": 1090542973,
@@ -53,19 +53,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775874130936_UFC_Van_vs_Pantoja_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090539555,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -118,6 +105,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539555,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
