@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/9/2026, 4:25:20 am",
+  "updatedAt": "20/9/2026, 4:33:17 am",
   "total_matches": 17,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789901475~acl=/*~id=78316663611002557861212717579240~hmac=4258204a5455330308d433579a7816462fa0aadd23b77a20bef75c034430cdbd",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789901475~acl=/*~id=78316663611002557861212717579240~hmac=4258204a5455330308d433579a7816462fa0aadd23b77a20bef75c034430cdbd",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789901475~acl=/*~id=78316663611002557861212717579240~hmac=4258204a5455330308d433579a7816462fa0aadd23b77a20bef75c034430cdbd"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789902081~acl=/*~id=37286655352097964159279227762335~hmac=3263a81940ea9c50ae2738ce07723b009444ff76f426434a6ad78df26ef8acaf",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789902081~acl=/*~id=37286655352097964159279227762335~hmac=3263a81940ea9c50ae2738ce07723b009444ff76f426434a6ad78df26ef8acaf",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789902081~acl=/*~id=37286655352097964159279227762335~hmac=3263a81940ea9c50ae2738ce07723b009444ff76f426434a6ad78df26ef8acaf"
     },
     {
       "match_id": 1090542973,
