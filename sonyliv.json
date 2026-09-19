@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/9/2026, 3:04:13 pm",
+  "updatedAt": "19/9/2026, 3:05:44 pm",
   "total_matches": 21,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda"
     },
     {
       "match_id": "1090541377_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AsianGam1909/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda"
     },
     {
       "match_id": "1090541377_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AsianGam1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda"
     },
     {
       "match_id": "1090541377_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AsianGam1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda"
     },
     {
       "match_id": "1090541377_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789853020~acl=/*~id=88718482384422613936637998337770~hmac=f8b6ddaaa43e44a22bf8b8cf39378e73dc0f3d957d91c3ff1a27a28214e04218"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AsianGam1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789853627~acl=/*~id=15403272161039485116623638550086~hmac=a47f7a3ab5ae8ab5d0c87a1bbc92e2de1dbd52293afc4d8cae1524222b706fda"
     },
     {
       "match_id": 1090542973,
