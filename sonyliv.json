@@ -1,61 +1,61 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/9/2026, 2:39:03 pm",
+  "updatedAt": "20/9/2026, 2:49:13 pm",
   "total_matches": 20,
   "live_matches": 4,
   "matches": [
     {
       "match_id": "1090541381_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Swimming - 20 Sep 2026 [ENG]",
+      "match_name": "India In Action - Swimming - 20 Sep 2026 [ENG]",
       "status": "Live",
       "category": "Swimming",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024268/1789886057768460_Swimming_final_rishabh_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76"
     },
     {
       "match_id": "1090541381_TAM",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Swimming - 20 Sep 2026 [TAM]",
+      "match_name": "India In Action - Swimming - 20 Sep 2026 [TAM]",
       "status": "Live",
       "category": "Swimming",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024268/1789886057768460_Swimming_final_rishabh_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76"
     },
     {
       "match_id": "1090541381_TEL",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Swimming - 20 Sep 2026 [TEL]",
+      "match_name": "India In Action - Swimming - 20 Sep 2026 [TEL]",
       "status": "Live",
       "category": "Swimming",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024268/1789886057768460_Swimming_final_rishabh_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76"
     },
     {
       "match_id": "1090541381_KAN",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Swimming - 20 Sep 2026 [KAN]",
+      "match_name": "India In Action - Swimming - 20 Sep 2026 [KAN]",
       "status": "Live",
       "category": "Swimming",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789938504~acl=/*~id=22286114225773222007137200257020~hmac=b2d1a4aa87115d23f8b3f1209bcdf7b02764aaa39652b81545e5a6fd991b93d8"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024268/1789886057768460_Swimming_final_rishabh_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789939110~acl=/*~id=69004848569661693349432545881251~hmac=333291e44d5b09acffa1695702a5ba8f88866617c91275adf5dbf6658beadd76"
     },
     {
       "match_id": 1090542429,
