@@ -1,75 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/9/2026, 1:48:11 pm",
-  "total_matches": 25,
-  "live_matches": 9,
+  "updatedAt": "20/9/2026, 1:58:22 pm",
+  "total_matches": 20,
+  "live_matches": 4,
   "matches": [
-    {
-      "match_id": "1090541371_ENG",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
-    },
-    {
-      "match_id": "1090541371_HIN",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
-    },
-    {
-      "match_id": "1090541371_TAM",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TAM]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
-    },
-    {
-      "match_id": "1090541371_TEL",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
-    },
-    {
-      "match_id": "1090541371_KAN",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India Women vs Bangladesh Women - Semi-Final - 20 Sep 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024213/1789823272680539_AG26_womens_SF_india_vs_bangladesh_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
-    },
     {
       "match_id": "1090541381_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
@@ -79,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e"
     },
     {
       "match_id": "1090541381_TAM",
@@ -92,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e"
     },
     {
       "match_id": "1090541381_TEL",
@@ -105,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e"
     },
     {
       "match_id": "1090541381_KAN",
@@ -118,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789935472~acl=/*~id=54260228520840174425691314492050~hmac=620a37521b3dc7269c65fb21408ff251d72cde2733f37cc2cc2d1ae386ffc2ca"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789936079~acl=/*~id=40671778001094495952272751274400~hmac=961bc76734f01ec405da9db8e5fca6b97d4cf8143fa8c7109c28e272bbf8cd8e"
     },
     {
       "match_id": 1090542429,
