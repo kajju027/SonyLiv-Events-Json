@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/9/2026, 4:10:42 pm",
+  "updatedAt": "20/9/2026, 4:13:15 pm",
   "total_matches": 20,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
     },
     {
       "match_id": "1090541381_TAM",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
     },
     {
       "match_id": "1090541381_TEL",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
     },
     {
       "match_id": "1090541381_KAN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943314~acl=/*~id=57079068689761232697221454761368~hmac=7a5963cd236a6173992d9f844827858b480c14cd1e57520c58abb12aad83528c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
     },
     {
       "match_id": 1090542429,
