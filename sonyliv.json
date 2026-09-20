@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/9/2026, 5:09:30 am",
-  "total_matches": 16,
-  "live_matches": 0,
+  "updatedAt": "21/9/2026, 5:10:50 am",
+  "total_matches": 17,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090541376_ENG",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India vs Japan - Sepaktakraw Regu - 21 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Sepaktakraw",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789990593~acl=/*~id=72841852418690094901702235461361~hmac=02efb945e429f382b64c02ef7638a41ef303f4f0d05d1d9291a228b79127ec70",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789990593~acl=/*~id=72841852418690094901702235461361~hmac=02efb945e429f382b64c02ef7638a41ef303f4f0d05d1d9291a228b79127ec70",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789990593~acl=/*~id=72841852418690094901702235461361~hmac=02efb945e429f382b64c02ef7638a41ef303f4f0d05d1d9291a228b79127ec70"
+    },
     {
       "match_id": 1090540014,
       "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
