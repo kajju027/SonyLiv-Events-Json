@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/9/2026, 9:15:11 am",
+  "updatedAt": "20/9/2026, 9:15:42 am",
   "total_matches": 22,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1"
     },
     {
       "match_id": "1090541381_TAM",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1"
     },
     {
       "match_id": "1090541381_TEL",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1"
     },
     {
       "match_id": "1090541381_KAN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024235/1789856542197275_AG26_20th_Sep_Hockey_Womens_India_vs_Uzbekistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1"
     },
     {
       "match_id": "1090541367_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024212/1789821616972902_AG26_womens_SF_pak_vs_sl_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1"
     },
     {
       "match_id": "1090542963_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789919077~acl=/*~id=24935361648094460953042149603771~hmac=1ec1100fb7031f241207141377d534c29f2eb57e3e88425ea4ad6763273734d7"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789918470~acl=/*~id=44424699720855340988790303744922~hmac=a421fb9511bab2c73f60a67469d6ab77f55043b7f29f2b5b02dd969f2153e3a1"
     },
     {
       "match_id": 1090542973,
