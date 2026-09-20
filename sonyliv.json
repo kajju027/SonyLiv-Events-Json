@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/9/2026, 4:13:15 pm",
+  "updatedAt": "20/9/2026, 4:23:31 pm",
   "total_matches": 20,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711"
     },
     {
       "match_id": "1090541381_TAM",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_Strea1909/TAM/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711"
     },
     {
       "match_id": "1090541381_TEL",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea1909/TEL/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711"
     },
     {
       "match_id": "1090541381_KAN",
@@ -53,9 +53,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024233/1789849046760928_AG26_Table_Tennis_mens_Team_India_vs_iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789943959~acl=/*~id=31482099679527757060842323803165~hmac=fa7c2c9f69fba65a0049e8c178a1c5751194fe5b01b411b0b2875857bbcfef5d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea1909/KAN/std_lrh-800300010.m3u8?hdnea=exp=1789944565~acl=/*~id=54198796363917040803539327940735~hmac=75afe885a5165e1d58df19e21b01e233da79ed147b3916b3f91d0e26b38e5711"
+    },
+    {
+      "match_id": 1090542858,
+      "event_name": "Upcoming - Hockey - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Hockey",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789668850015908_AG26_hockey_dated_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
       "match_id": 1090542429,
@@ -248,19 +261,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789670864188908_AG26_wrestling_dated_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090542860,
-      "event_name": "Upcoming - Weightlifting - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Weightlifting",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789671092809908_AG26_weightlifting_dated_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
