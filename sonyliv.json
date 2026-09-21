@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/9/2026, 12:00:09 am",
+  "updatedAt": "22/9/2026, 12:02:16 am",
   "total_matches": 15,
   "live_matches": 0,
   "matches": [
-    {
-      "match_id": 1090540014,
-      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
     {
       "match_id": 1090542857,
       "event_name": "Upcoming - Women's Cricket - 20th Asian Games Aichi-Nagoya 2026",
@@ -79,6 +66,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090540014,
+      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
