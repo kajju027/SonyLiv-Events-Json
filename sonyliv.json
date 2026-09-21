@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/9/2026, 5:04:31 am",
+  "updatedAt": "22/9/2026, 5:25:34 am",
   "total_matches": 16,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024405/1790017191370573_AG26_pakW_vs_bangW_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790076703~acl=/*~id=16074707180501898440740691919709~hmac=eccd64d1f4426a808bd55ea53d3369d01813e773ef4d2075caa54c6019be2512",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790076703~acl=/*~id=16074707180501898440740691919709~hmac=eccd64d1f4426a808bd55ea53d3369d01813e773ef4d2075caa54c6019be2512",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790076703~acl=/*~id=16074707180501898440740691919709~hmac=eccd64d1f4426a808bd55ea53d3369d01813e773ef4d2075caa54c6019be2512"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790077914~acl=/*~id=87403572906729099055544186217095~hmac=c3eb8e6b22a421433db49c0fca9a8d0a57461911445cd16d97276db20d56ab73",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790077914~acl=/*~id=87403572906729099055544186217095~hmac=c3eb8e6b22a421433db49c0fca9a8d0a57461911445cd16d97276db20d56ab73",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/AG2026_D2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790077914~acl=/*~id=87403572906729099055544186217095~hmac=c3eb8e6b22a421433db49c0fca9a8d0a57461911445cd16d97276db20d56ab73"
     },
     {
       "match_id": 1090542857,
