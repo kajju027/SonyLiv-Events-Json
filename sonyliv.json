@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/9/2026, 11:39:50 am",
-  "total_matches": 21,
-  "live_matches": 6,
+  "updatedAt": "22/9/2026, 11:40:10 am",
+  "total_matches": 24,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090541371_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024374/1789994269611612_INDvsSL_Finla_live_landscpae_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
     },
     {
       "match_id": "1090541371_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024374/1789994269611612_INDvsSL_Finla_live_landscpae_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi2209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
     },
     {
       "match_id": "1090541371_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024374/1789994269611612_INDvsSL_Finla_live_landscpae_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
     },
     {
       "match_id": "1090541371_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024374/1789994269611612_INDvsSL_Finla_live_landscpae_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
     },
     {
       "match_id": "1090541371_KAN",
@@ -66,22 +66,61 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024374/1789994269611612_INDvsSL_Finla_live_landscpae_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
     },
     {
-      "match_id": "1090541387_ENG",
+      "match_id": "1090541381_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Table Tennis - 22 Sep 2026 [ENG]",
+      "match_name": "India In Action - Badminton - 22 Sep 2026 [ENG]",
       "status": "Live",
-      "category": "Table Tennis",
+      "category": "Badminton",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024412/1790026339390518_AG26_22Sep_Table_Tennis_Mens_Republic_of_Korea_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790099796~acl=/*~id=52875581368051070020986001879917~hmac=d24d99b4bceacbae3427f88663af69b71681085e9ca584a584012fee827aada4"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024409/1790023598900439_AG26_22Sep_Badminton_Mens_QF_India_vs_Japan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
+    },
+    {
+      "match_id": "1090541381_TAM",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India In Action - Badminton - 22 Sep 2026 [TAM]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024409/1790023598900439_AG26_22Sep_Badminton_Mens_QF_India_vs_Japan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
+    },
+    {
+      "match_id": "1090541381_TEL",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India In Action - Badminton - 22 Sep 2026 [TEL]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024409/1790023598900439_AG26_22Sep_Badminton_Mens_QF_India_vs_Japan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
+    },
+    {
+      "match_id": "1090541381_KAN",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India In Action - Badminton - 22 Sep 2026 [KAN]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024409/1790023598900439_AG26_22Sep_Badminton_Mens_QF_India_vs_Japan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790100402~acl=/*~id=74843054980139513400997690829801~hmac=1fda77ef58a67e850e096e4e49719abbf3716138f4f957d70f393cfe42e4c6f7"
     },
     {
       "match_id": 1090542429,
