@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/9/2026, 12:29:19 am",
-  "total_matches": 17,
-  "live_matches": 1,
+  "updatedAt": "23/9/2026, 12:41:07 am",
+  "total_matches": 16,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090543392_ENG",
-      "event_name": "Sri Lanka Tour of England 2026",
-      "match_name": "1st ODI - 22 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790146617~acl=/*~id=26062794153933601896608330570095~hmac=ba17ac3d324174b84e54593ad404ee3b31b97bfb05f85085c0db0f7957fbf492",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790146617~acl=/*~id=26062794153933601896608330570095~hmac=ba17ac3d324174b84e54593ad404ee3b31b97bfb05f85085c0db0f7957fbf492",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790146617~acl=/*~id=26062794153933601896608330570095~hmac=ba17ac3d324174b84e54593ad404ee3b31b97bfb05f85085c0db0f7957fbf492"
-    },
     {
       "match_id": 1090542861,
       "event_name": "Upcoming - Mirabai Chanu - 20th Asian Games Aichi-Nagoya 2026",
