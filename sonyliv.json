@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/9/2026, 6:27:28 pm",
+  "updatedAt": "22/9/2026, 6:27:32 pm",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d"
     },
     {
       "match_id": "1090541381_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d"
     },
     {
       "match_id": "1090541381_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_Strea2109/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d"
     },
     {
       "match_id": "1090541381_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2109/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d"
     },
     {
       "match_id": "1090541381_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790124783~acl=/*~id=82033995671753119666802552190635~hmac=e426efcd621b5aca54ca1bb7fd5c43fb413e371e8309512eeab62a2f836bf804"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_Strea2109/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790124176~acl=/*~id=13336030796934258332033423982793~hmac=c0abb2ef90cb95b21b2c59ef1637e4f41de77f90db4f7d7f484efe4824be194d"
     },
     {
       "match_id": 1090542429,
@@ -214,19 +214,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090543661,
-      "event_name": "Upcoming - India vs Brazil - Teaser 1",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075181873558_Football-Indias-International-Friendlies-Teaser-Thumbs-4_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090543662,
       "event_name": "Upcoming - India vs Brazil - Teaser 2",
       "match_name": "",
@@ -235,6 +222,19 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075161009558_Football-Indias-International-Friendlies-Teaser-Thumbs-3_landscape.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090543661,
+      "event_name": "Upcoming - India vs Brazil - Teaser 1",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "LIV",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075181873558_Football-Indias-International-Friendlies-Teaser-Thumbs-4_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
