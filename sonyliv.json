@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/9/2026, 11:38:04 am",
+  "updatedAt": "23/9/2026, 11:39:14 am",
   "total_matches": 21,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
     },
     {
       "match_id": "1090543296_TAM",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
     },
     {
       "match_id": "1090543296_TEL",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
     },
     {
       "match_id": "1090543296_KAN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
     },
     {
       "match_id": "1090543296_HIN",
@@ -66,22 +66,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
     },
     {
-      "match_id": "1090541855_ENG",
+      "match_id": "1090541386_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": " India vs People's Republic of China - Badminton - 23 Sep 2026 [ENG]",
+      "match_name": "India In Action - Shooting - 23 Sep 2026 [ENG]",
       "status": "Live",
-      "category": "Badminton",
+      "category": "Shooting",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024512/1790119595842245_AG26_23Sep_Badminton_Mens_India_vs_China_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_AGMDS2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_AGMDS2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/AG_AGMDS2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186628~acl=/*~id=52073658058401533901985781319703~hmac=b33eaa233069f5e6ee983befce32b7acd442288f4017f49e3eb8e624e14132d1"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024521/1790135789870822_Shooting_Skeet_Women_Individual_Final_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX5_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX5_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX5_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790186020~acl=/*~id=98096294460689951199653919669641~hmac=c7b7fac30b52298128edc7f55a43064993f331bab56159711a03bea46a1cec38"
     },
     {
       "match_id": 1090543448,
