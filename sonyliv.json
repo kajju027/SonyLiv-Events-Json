@@ -1,22 +1,74 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/9/2026, 9:40:29 am",
-  "total_matches": 21,
-  "live_matches": 6,
+  "updatedAt": "25/9/2026, 9:49:49 am",
+  "total_matches": 25,
+  "live_matches": 10,
   "matches": [
     {
-      "match_id": "1090541378_ENG",
+      "match_id": "1090544375_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India In Action - Shooting - 25 Sep 2026 [ENG]",
+      "match_name": "India In Action - Squash - 25 Sep 2026 [ENG]",
       "status": "Live",
-      "category": "Shooting",
+      "category": "Squash",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024717/1790296562418842_AG26_25Sep_Shooting_10m_Air_Pistol_Mixed_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
+    },
+    {
+      "match_id": "1090544375_HIN",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India In Action - Squash - 25 Sep 2026 [HIN]",
+      "status": "Live",
+      "category": "Squash",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
+    },
+    {
+      "match_id": "1090544375_TAM",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India In Action - Squash - 25 Sep 2026 [TAM]",
+      "status": "Live",
+      "category": "Squash",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
+    },
+    {
+      "match_id": "1090544375_TEL",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India In Action - Squash - 25 Sep 2026 [TEL]",
+      "status": "Live",
+      "category": "Squash",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
+    },
+    {
+      "match_id": "1090544375_KAN",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India In Action - Squash - 25 Sep 2026 [KAN]",
+      "status": "Live",
+      "category": "Squash",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024707/1790285833621410_AG26_25Sep_Squash_Mens_Singles_QF_Tsukue_vs_Abhay_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_Strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
     },
     {
       "match_id": "1090543296_ENG",
@@ -27,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
     },
     {
       "match_id": "1090543296_HIN",
@@ -40,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
     },
     {
       "match_id": "1090543296_TAM",
@@ -53,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
     },
     {
       "match_id": "1090543296_TEL",
@@ -66,9 +118,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
     },
     {
       "match_id": "1090543296_KAN",
@@ -79,9 +131,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024722/1790301699858799_AG26_Kabaddi_Womens_Team_Semifinal_India_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790352501~acl=/*~id=78219846277228883372049567785535~hmac=5d0aeaa3f113cc41503b5e8eab5c725085545e5bbd49b72e22d4a38f0480a4c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790353108~acl=/*~id=42407370083757695168463868081544~hmac=89605240213c42b852fccd00624ccc88d42e5de8afbce8b14156e759765cfeae"
     },
     {
       "match_id": 1090540014,
