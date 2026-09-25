@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/9/2026, 4:02:20 am",
-  "total_matches": 17,
+  "updatedAt": "26/9/2026, 4:02:42 am",
+  "total_matches": 16,
   "live_matches": 1,
   "matches": [
     {
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024841/179037011151861_AG26_26Sep_Athletics_Mens_Marathon_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790418710~acl=/*~id=10848482878465952577255963906030~hmac=a082c75feb1e4056b05acff24289bbb9f92058a43c0e513f5674f89650e4b74b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790418710~acl=/*~id=10848482878465952577255963906030~hmac=a082c75feb1e4056b05acff24289bbb9f92058a43c0e513f5674f89650e4b74b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790418710~acl=/*~id=10848482878465952577255963906030~hmac=a082c75feb1e4056b05acff24289bbb9f92058a43c0e513f5674f89650e4b74b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790418105~acl=/*~id=59370700794710935880976209931642~hmac=29fe126e4bc37f852facaa2bc2a3b95d209a0516b8779fe38b1fe9adbf63d24b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790418105~acl=/*~id=59370700794710935880976209931642~hmac=29fe126e4bc37f852facaa2bc2a3b95d209a0516b8779fe38b1fe9adbf63d24b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790418105~acl=/*~id=59370700794710935880976209931642~hmac=29fe126e4bc37f852facaa2bc2a3b95d209a0516b8779fe38b1fe9adbf63d24b"
     },
     {
       "match_id": 1090540014,
@@ -27,19 +27,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090544254,
-      "event_name": "Upcoming - England vs Spain - UEFA Nations League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024844/1790371460243282_UNL2627_england_vs_spain_tonight_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
