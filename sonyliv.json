@@ -1,74 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/9/2026, 7:39:51 am",
-  "total_matches": 21,
-  "live_matches": 6,
+  "updatedAt": "25/9/2026, 7:39:55 am",
+  "total_matches": 17,
+  "live_matches": 2,
   "matches": [
     {
-      "match_id": "1090543296_ENG",
+      "match_id": "1090541378_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [ENG]",
+      "match_name": "India In Action - Swimming - 25 Sep 2026 [ENG]",
       "status": "Live",
-      "category": "Hockey",
+      "category": "Swimming",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e"
-    },
-    {
-      "match_id": "1090543296_HIN",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [HIN]",
-      "status": "Live",
-      "category": "Hockey",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e"
-    },
-    {
-      "match_id": "1090543296_TAM",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [TAM]",
-      "status": "Live",
-      "category": "Hockey",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e"
-    },
-    {
-      "match_id": "1090543296_TEL",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [TEL]",
-      "status": "Live",
-      "category": "Hockey",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e"
-    },
-    {
-      "match_id": "1090543296_KAN",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Japan vs India - Women's Hockey - 25 Sep 2026 [KAN]",
-      "status": "Live",
-      "category": "Hockey",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024701/1790280976131899_AG26_25Sep_Swimming_Mens_400m_Freestyle_Aneesh_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36"
     },
     {
       "match_id": "1090541367_ENG",
@@ -79,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024653/1790246768445288_AG26_Mens-Cricket-CHINA-vs-OMAN_LIVE_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790345218~acl=/*~id=56194315997203911901592588659342~hmac=ade693645794d65c0dcb9e271064a907b72ebbfe76f15a307335ca407128b78e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790344612~acl=/*~id=70115001618915876532794372714501~hmac=acc94904377e3e98f6e1a95c8f8910b5d717ea174ba9ae6f7e98e36ccebe2e36"
     },
     {
       "match_id": 1090540014,
