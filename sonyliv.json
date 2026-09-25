@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/9/2026, 12:20:53 am",
+  "updatedAt": "26/9/2026, 12:21:01 am",
   "total_matches": 22,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024810/1790351939736564_UNL2627_Turkiye_vs_France_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507"
     },
     {
       "match_id": "1090544524_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023596/1788702394472375_UNL26_Italy_vs_Belgium_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507"
     },
     {
       "match_id": "1090544164_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507"
     },
     {
       "match_id": "1090544527_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023598/1788732930050414_UNL26_Poland_vs_Bosnia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507"
     },
     {
       "match_id": "1090544526_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023598/1788731876033414_UNL26_Hungary_vs_Ukraine_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507"
     },
     {
       "match_id": "1090544528_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123456609737_UNL_26_Sweden-vs-Romania_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507"
     },
     {
       "match_id": "1090544529_ENG",
@@ -92,22 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123766036737_UNL_26_Montenegro-vs-Cyprus_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790405345~acl=/*~id=06188203401664039547323537563062~hmac=c4533f6fc32f9007e1965979dda604234dc4b335e2d53849340fee374b78ba6b"
-    },
-    {
-      "match_id": 1090540014,
-      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790404736~acl=/*~id=71506041230605030825148105841482~hmac=c3d9ccb0119b20d10e54809e996b5b7c6440e873f08b00f5576a43f996905507"
     },
     {
       "match_id": 1090539555,
@@ -170,6 +157,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024700/1790280780158403_Laver_cup26_day1_today_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090540014,
+      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810486957132_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
