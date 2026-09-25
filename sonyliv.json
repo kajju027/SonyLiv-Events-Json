@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/9/2026, 7:10:02 pm",
-  "total_matches": 26,
-  "live_matches": 11,
+  "updatedAt": "25/9/2026, 7:15:53 pm",
+  "total_matches": 29,
+  "live_matches": 14,
   "matches": [
     {
       "match_id": "1090544165_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090544165_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090544165_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090544165_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090544165_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090544165_BEN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENG",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2509/BEN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090541381_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090541381_TAM",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2409/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090541381_TEL",
@@ -118,9 +118,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_Strea2409/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090541381_KAN",
@@ -131,9 +131,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2409/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": "1090544164_ENG",
@@ -144,9 +144,48 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024788/1790340296721762_Laver_cup26_day1_session1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790386493~acl=/*~id=56127392438120364861302409515697~hmac=00d613bcdec5b5b266348f0b4f7162cd1401a5472d5f8b747de7055694121589"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
+    },
+    {
+      "match_id": "1090541376_ENG",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Hariharan/Arjun vs Fajar/Shohibul - Men's Doubles Badminton - 25 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024755/1790325620491914_AG26_Badminton-Mens-Doubles-RD32-Hariharan-Arjun-v-Fajar-Muh-Shohibul_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
+    },
+    {
+      "match_id": "1090541380_ENG",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Athletics - 25 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Athletics",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
+    },
+    {
+      "match_id": "1090544116_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "FedEx Open de France - Day 2 - 25 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844981232657_DP_World_Tour_FedEx_Open_de_France_Day2_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790387104~acl=/*~id=66982415547431670609187997725730~hmac=b8716538fd7db2c10e3960f4f548878def7abc08c6ffe5734d462da8a5f03506"
     },
     {
       "match_id": 1090539555,
