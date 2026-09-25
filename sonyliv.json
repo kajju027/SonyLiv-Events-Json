@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/9/2026, 8:31:01 am",
+  "updatedAt": "25/9/2026, 8:41:16 am",
   "total_matches": 21,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488"
     },
     {
       "match_id": "1090543296_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488"
     },
     {
       "match_id": "1090543296_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488"
     },
     {
       "match_id": "1090543296_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488"
     },
     {
       "match_id": "1090543296_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024709/1790287897135533_AG26_25Sep_Hockey_Womens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488"
     },
     {
       "match_id": "1090541367_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024653/1790246768445288_AG26_Mens-Cricket-CHINA-vs-OMAN_LIVE_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348252~acl=/*~id=04723324535224529056889414356572~hmac=ae03d3e1108c0c75ece42bc0b9cfa6e287ce714e3fe70d1148908c57ac2702d6"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790348859~acl=/*~id=48752824543853575440567969485887~hmac=517819a3c29044d23a71403be9181ffc676a701447d7320c7bb962258c221488"
     },
     {
       "match_id": 1090540014,
