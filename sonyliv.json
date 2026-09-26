@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/9/2026, 3:13:27 am",
+  "updatedAt": "27/9/2026, 3:21:28 am",
   "total_matches": 16,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024854/1790381189139346_Laver_cup26_Ruud_Zverev_vs_Bublik_Nakashima_day2_session2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790501923~acl=/*~id=19383907716029627071871310023129~hmac=c9d7c45ebdc0d5cc5e0dccee3f8ac9a1c2c5346458e9cec03b7951b03cb5fd36",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790501923~acl=/*~id=19383907716029627071871310023129~hmac=c9d7c45ebdc0d5cc5e0dccee3f8ac9a1c2c5346458e9cec03b7951b03cb5fd36",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790501923~acl=/*~id=19383907716029627071871310023129~hmac=c9d7c45ebdc0d5cc5e0dccee3f8ac9a1c2c5346458e9cec03b7951b03cb5fd36"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790502528~acl=/*~id=24552969356383184508059203766092~hmac=6fef5d67843ee3a1f271326f41b088746321ce35300c7d9bc9a5d1c8152a007d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790502528~acl=/*~id=24552969356383184508059203766092~hmac=6fef5d67843ee3a1f271326f41b088746321ce35300c7d9bc9a5d1c8152a007d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790502528~acl=/*~id=24552969356383184508059203766092~hmac=6fef5d67843ee3a1f271326f41b088746321ce35300c7d9bc9a5d1c8152a007d"
     },
     {
       "match_id": 1090540014,
@@ -53,6 +53,19 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024578/1790187144920418_FIFA_international_friendlies_india_vs_brazil_dated_rev_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090544924,
+      "event_name": "Upcoming - India vs Afghanistan - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024967/1790446565022364_AG26_IND_vs_AFG_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -196,19 +209,6 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024511/1790119270730848_indvsbrazil_promo3_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090543731,
-      "event_name": "Upcoming - India's International Friendlies ",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024580/1790187597972785_india_vs_brazil_promo3_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
