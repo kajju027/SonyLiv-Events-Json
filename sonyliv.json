@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/9/2026, 1:38:20 pm",
-  "total_matches": 22,
-  "live_matches": 6,
+  "updatedAt": "26/9/2026, 1:38:47 pm",
+  "total_matches": 21,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090543296_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024851/1790378714876351_AG26_25Sep_Badminton_Womens_Doubles_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708"
     },
     {
       "match_id": "1090543296_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024851/1790378714876351_AG26_25Sep_Badminton_Womens_Doubles_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708"
     },
     {
       "match_id": "1090543296_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024851/1790378714876351_AG26_25Sep_Badminton_Womens_Doubles_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708"
     },
     {
       "match_id": "1090543296_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024851/1790378714876351_AG26_25Sep_Badminton_Womens_Doubles_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708"
     },
     {
       "match_id": "1090543296_KAN",
@@ -66,22 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024851/1790378714876351_AG26_25Sep_Badminton_Womens_Doubles_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8"
-    },
-    {
-      "match_id": "1090541378_ENG",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Japan vs India - Hockey - 26 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Hockey",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024858/1790382307787481_AG26_26Sep_Hockey_Mens_Japan_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790453295~acl=/*~id=65577394222558901085473699693592~hmac=5b7cf84a2605c07cfc614299751ce56be545d87be45985e042b0990b97cd28c8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790452687~acl=/*~id=42006234206372074304583876778781~hmac=ac98230081434d0622071aeddd502c22601bb1e142d199129b977a92cc372708"
     },
     {
       "match_id": 1090544254,
@@ -156,7 +143,7 @@
       "category": "Tennis",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024895/1790409000430294_Laver_cup26_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024700/1790280780158403_Laver_cup26_day1_today_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
