@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/9/2026, 11:30:58 am",
+  "updatedAt": "26/9/2026, 11:39:53 am",
   "total_matches": 22,
   "live_matches": 6,
   "matches": [
     {
       "match_id": "1090541378_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India In Action - Squash - 26 Sep 2026 [ENG]",
+      "match_name": "Day 8 - 26 Sep 2026 [ENG]",
       "status": "Live",
-      "category": "Squash",
+      "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024867/1790386159824390_AG26_Squash_Womens_Singles_SF_Anahat_vs_Watanabe_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b"
     },
     {
       "match_id": "1090543296_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b"
     },
     {
       "match_id": "1090543296_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b"
     },
     {
       "match_id": "1090543296_TAM",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b"
     },
     {
       "match_id": "1090543296_TEL",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b"
     },
     {
       "match_id": "1090543296_KAN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790445410~acl=/*~id=78810118250520545915260489638847~hmac=8e66e8c64751595ead91865fa47f6c98c440e407ac4e2236347acc00fea5ceec"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790446017~acl=/*~id=96985051039092919705336325871631~hmac=84d12649d660bdcc9f762e1652bd35648c93a811f17880371d3b35749a8b707b"
     },
     {
       "match_id": 1090544254,
