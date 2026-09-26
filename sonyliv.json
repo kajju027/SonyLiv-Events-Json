@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/9/2026, 7:06:03 am",
-  "total_matches": 23,
-  "live_matches": 7,
+  "updatedAt": "26/9/2026, 7:16:15 am",
+  "total_matches": 18,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090541378_ENG",
@@ -14,74 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024845/1790372336608416_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372"
-    },
-    {
-      "match_id": "1090543296_ENG",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Badminton",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372"
-    },
-    {
-      "match_id": "1090543296_HIN",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [HIN]",
-      "status": "Live",
-      "category": "Badminton",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372"
-    },
-    {
-      "match_id": "1090543296_TAM",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [TAM]",
-      "status": "Live",
-      "category": "Badminton",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372"
-    },
-    {
-      "match_id": "1090543296_TEL",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [TEL]",
-      "status": "Live",
-      "category": "Badminton",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372"
-    },
-    {
-      "match_id": "1090543296_KAN",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Lakshya Sen vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 [KAN]",
-      "status": "Live",
-      "category": "Badminton",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024848/1790376261005261_AG26_25Sep_Badminton_Mens_Singles_Lakshya_Sen_vs_Kean_Yew_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790430235~acl=/*~id=57820743411794593362010736098187~hmac=c6f4a2d985ea7168977c523816d7b61d8b65191f68c61d7984570ad7f6d7c8ae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790430235~acl=/*~id=57820743411794593362010736098187~hmac=c6f4a2d985ea7168977c523816d7b61d8b65191f68c61d7984570ad7f6d7c8ae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790430235~acl=/*~id=57820743411794593362010736098187~hmac=c6f4a2d985ea7168977c523816d7b61d8b65191f68c61d7984570ad7f6d7c8ae"
     },
     {
       "match_id": "1090541367_ENG",
@@ -92,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345206713331_AG_26_JAPAN_VS_NEPAL_LIVE_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790429628~acl=/*~id=59804765278888405907616799709005~hmac=e071ed5400e8a9cfec2e3595bb57fbe140bf5807e6bd52d4771620d53ad33372"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790430235~acl=/*~id=57820743411794593362010736098187~hmac=c6f4a2d985ea7168977c523816d7b61d8b65191f68c61d7984570ad7f6d7c8ae",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790430235~acl=/*~id=57820743411794593362010736098187~hmac=c6f4a2d985ea7168977c523816d7b61d8b65191f68c61d7984570ad7f6d7c8ae",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790430235~acl=/*~id=57820743411794593362010736098187~hmac=c6f4a2d985ea7168977c523816d7b61d8b65191f68c61d7984570ad7f6d7c8ae"
     },
     {
       "match_id": 1090540014,
