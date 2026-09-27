@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/9/2026, 9:14:54 am",
+  "updatedAt": "27/9/2026, 9:14:58 am",
   "total_matches": 22,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024983/1790458706246522_AG26_27Sep_Badminton_Womens_Singles_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c"
     },
     {
       "match_id": "1090541381_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c"
     },
     {
       "match_id": "1090541381_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c"
     },
     {
       "match_id": "1090541381_TAM",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c"
     },
     {
       "match_id": "1090541381_TEL",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c"
     },
     {
       "match_id": "1090541381_KAN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024986/1790372336608218_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790523765~acl=/*~id=22203442777092633552845189410181~hmac=ec81b18293a85c5707c0f822389d29e9c0e6031f58679ac9466ce7b480cec66e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790523158~acl=/*~id=33115281361204074405649024674317~hmac=e2d72c6c36750a5a90ad9830d81708a86d916e6d6a905117c900fbffcb89466c"
     },
     {
       "match_id": 1090540014,
