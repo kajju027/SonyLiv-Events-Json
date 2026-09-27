@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/9/2026, 12:38:04 pm",
+  "updatedAt": "27/9/2026, 12:38:26 pm",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024991/1790467701643268_AG26_27Sep_Squash_Mens_Singles_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0"
     },
     {
       "match_id": "1090541381_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024991/1790467701643268_AG26_27Sep_Squash_Mens_Singles_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0"
     },
     {
       "match_id": "1090541381_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024991/1790467701643268_AG26_27Sep_Squash_Mens_Singles_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0"
     },
     {
       "match_id": "1090541381_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024991/1790467701643268_AG26_27Sep_Squash_Mens_Singles_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0"
     },
     {
       "match_id": "1090541381_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024991/1790467701643268_AG26_27Sep_Squash_Mens_Singles_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790535302~acl=/*~id=28526961201445273233585484086436~hmac=3f7e196e0d0b7d11b5907a671db87f435deb385e396b718c9da081544d9f7cb1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790535910~acl=/*~id=67682263289009050091691253442005~hmac=373e13b3e27ea2e1b41126c17866380a2347b158128b19fbf641b92d6fb7e7d0"
     },
     {
       "match_id": 1090544924,
