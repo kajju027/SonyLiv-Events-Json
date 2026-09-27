@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/9/2026, 2:16:57 am",
-  "total_matches": 15,
-  "live_matches": 2,
+  "updatedAt": "28/9/2026, 2:19:26 am",
+  "total_matches": 16,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090544916_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790585109~acl=/*~id=08190225134437222910718180646713~hmac=0ff0cb44f72fff20e69c96161d5491e904dab7251f5173a430ee5094b4b7356b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790585109~acl=/*~id=08190225134437222910718180646713~hmac=0ff0cb44f72fff20e69c96161d5491e904dab7251f5173a430ee5094b4b7356b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790585109~acl=/*~id=08190225134437222910718180646713~hmac=0ff0cb44f72fff20e69c96161d5491e904dab7251f5173a430ee5094b4b7356b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c"
     },
     {
       "match_id": "1090544915_ENG",
@@ -27,9 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790585109~acl=/*~id=08190225134437222910718180646713~hmac=0ff0cb44f72fff20e69c96161d5491e904dab7251f5173a430ee5094b4b7356b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790585109~acl=/*~id=08190225134437222910718180646713~hmac=0ff0cb44f72fff20e69c96161d5491e904dab7251f5173a430ee5094b4b7356b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790585109~acl=/*~id=08190225134437222910718180646713~hmac=0ff0cb44f72fff20e69c96161d5491e904dab7251f5173a430ee5094b4b7356b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c"
+    },
+    {
+      "match_id": "1090544917_ENG",
+      "event_name": "UEFA Nations League 2026-27",
+      "match_name": "Israel vs Republic of Ireland - 28 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790584503~acl=/*~id=30642768706092271328259669373203~hmac=1e1f91aefd132fe043ccb44c3a6329e4048e539a9abcf9a909b99f2aa9f4fb8c"
     },
     {
       "match_id": 1090544924,
