@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/9/2026, 8:32:56 pm",
+  "updatedAt": "27/9/2026, 8:41:16 pm",
   "total_matches": 17,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022736852512_ENGvsSL26_3odi_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671"
     },
     {
       "match_id": "1090544845_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025007/1790481726264282_Lavercup26_Zverev_vs_Tien_day3_S1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671"
     },
     {
       "match_id": "1090544844_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844966332657_DP_World_Tour_FedEx_Open_de_France_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790564454~acl=/*~id=40082366358322531062207735423804~hmac=527916739cdef12c55db3beddc45f1aec71362a1e9dae007a5e919bd926bb938"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790565061~acl=/*~id=01802332357356234106239833336523~hmac=c57a6efcf677e34dda90a72330248dbdc416ead04c54ae63e5de349d22c43671"
     },
     {
       "match_id": 1090544924,
