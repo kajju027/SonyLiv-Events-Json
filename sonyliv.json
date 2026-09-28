@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/9/2026, 6:08:23 pm",
+  "updatedAt": "28/9/2026, 6:09:43 pm",
   "total_matches": 14,
   "live_matches": 1,
   "matches": [
@@ -14,22 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790641461~acl=/*~id=84012137453255107277765641443420~hmac=2c1573546c2030176c7a5a40c59e7d77be51209dddb75a398e3be2fa98ca0c1f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790641461~acl=/*~id=84012137453255107277765641443420~hmac=2c1573546c2030176c7a5a40c59e7d77be51209dddb75a398e3be2fa98ca0c1f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790641461~acl=/*~id=84012137453255107277765641443420~hmac=2c1573546c2030176c7a5a40c59e7d77be51209dddb75a398e3be2fa98ca0c1f"
-    },
-    {
-      "match_id": 1090543727,
-      "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024997/1790476914887357_FIFA_international_friendlies_india_vs_brazil_rev_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790642067~acl=/*~id=08773108271724965858127269650582~hmac=dff63bf98b8867af51360b98913a294ad087e1a2a3fe8904f82dd76f456722d6",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790642067~acl=/*~id=08773108271724965858127269650582~hmac=dff63bf98b8867af51360b98913a294ad087e1a2a3fe8904f82dd76f456722d6",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790642067~acl=/*~id=08773108271724965858127269650582~hmac=dff63bf98b8867af51360b98913a294ad087e1a2a3fe8904f82dd76f456722d6"
     },
     {
       "match_id": 1090545396,
@@ -40,6 +27,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025115/1790553494255885_UNL26_belgium_vs_france_tonight_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090543727,
+      "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "LIV",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024997/1790476914887357_FIFA_international_friendlies_india_vs_brazil_rev_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
