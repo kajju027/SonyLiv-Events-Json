@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "29/9/2026, 12:08:55 pm",
+  "updatedAt": "29/9/2026, 12:16:18 pm",
   "total_matches": 14,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025244/179065632224445_Trap_men_Individual_Final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790706947~acl=/*~id=12844829321052967241896609754960~hmac=63cfb2e85b7f0ff055273382b6bea7999506c8d0f05302d8a0aa13dd35dde893",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790706947~acl=/*~id=12844829321052967241896609754960~hmac=63cfb2e85b7f0ff055273382b6bea7999506c8d0f05302d8a0aa13dd35dde893",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790706947~acl=/*~id=12844829321052967241896609754960~hmac=63cfb2e85b7f0ff055273382b6bea7999506c8d0f05302d8a0aa13dd35dde893"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790707553~acl=/*~id=43703197521906504902034990703445~hmac=0bfe91c609fadc975ac9a44e4f6375365c2101b5e578227acddac66bac7ec2de",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790707553~acl=/*~id=43703197521906504902034990703445~hmac=0bfe91c609fadc975ac9a44e4f6375365c2101b5e578227acddac66bac7ec2de",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790707553~acl=/*~id=43703197521906504902034990703445~hmac=0bfe91c609fadc975ac9a44e4f6375365c2101b5e578227acddac66bac7ec2de"
     },
     {
       "match_id": 1090545396,
@@ -65,7 +65,7 @@
       "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659986855403_AG_INDvsSL_SF_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
