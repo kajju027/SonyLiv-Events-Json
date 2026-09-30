@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/10/2026, 5:11:54 am",
+  "updatedAt": "1/10/2026, 5:18:11 am",
   "total_matches": 18,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025422/1790772771135414_AG26_pak_vs_ban_SF_live_landscpae_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790854665~acl=/*~id=57996077910402331123756506202054~hmac=b9c6df08a0a645d3cb1d8a95d6824f296fd89f4d64d02a53893e3fbbd555c3d8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790854665~acl=/*~id=57996077910402331123756506202054~hmac=b9c6df08a0a645d3cb1d8a95d6824f296fd89f4d64d02a53893e3fbbd555c3d8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790854665~acl=/*~id=57996077910402331123756506202054~hmac=b9c6df08a0a645d3cb1d8a95d6824f296fd89f4d64d02a53893e3fbbd555c3d8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790855272~acl=/*~id=47006214830675142217242239758151~hmac=bfd0cf2fc6fe62351324801511fefd1a6ef77aac34533e1086801c5e7153ef9a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790855272~acl=/*~id=47006214830675142217242239758151~hmac=bfd0cf2fc6fe62351324801511fefd1a6ef77aac34533e1086801c5e7153ef9a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790855272~acl=/*~id=47006214830675142217242239758151~hmac=bfd0cf2fc6fe62351324801511fefd1a6ef77aac34533e1086801c5e7153ef9a"
     },
     {
       "match_id": "1090541386_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790854665~acl=/*~id=57996077910402331123756506202054~hmac=b9c6df08a0a645d3cb1d8a95d6824f296fd89f4d64d02a53893e3fbbd555c3d8",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790854665~acl=/*~id=57996077910402331123756506202054~hmac=b9c6df08a0a645d3cb1d8a95d6824f296fd89f4d64d02a53893e3fbbd555c3d8",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790854665~acl=/*~id=57996077910402331123756506202054~hmac=b9c6df08a0a645d3cb1d8a95d6824f296fd89f4d64d02a53893e3fbbd555c3d8"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790855272~acl=/*~id=47006214830675142217242239758151~hmac=bfd0cf2fc6fe62351324801511fefd1a6ef77aac34533e1086801c5e7153ef9a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790855272~acl=/*~id=47006214830675142217242239758151~hmac=bfd0cf2fc6fe62351324801511fefd1a6ef77aac34533e1086801c5e7153ef9a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790855272~acl=/*~id=47006214830675142217242239758151~hmac=bfd0cf2fc6fe62351324801511fefd1a6ef77aac34533e1086801c5e7153ef9a"
     },
     {
       "match_id": 1090545635,
@@ -65,7 +65,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025418/1790769290532940_UNL_Den_vs_Por_landscape.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025459/17908103569975_UNL2627_denmark_vs_portugal_tonight_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
