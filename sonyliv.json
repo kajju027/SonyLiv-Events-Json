@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/9/2026, 8:27:06 pm",
-  "total_matches": 16,
-  "live_matches": 0,
+  "updatedAt": "30/9/2026, 9:03:33 pm",
+  "total_matches": 17,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090545705_ENG",
+      "event_name": "UEFA International Friendlies",
+      "match_name": "Lithuania vs Andorra - 30 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790029127566502_UEFA_INT_friendly_MD2_Lithuania_vs_Andorra_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790825586~acl=/*~id=70382243791479453651904790299233~hmac=605bc0491cd8ac72815a96ce4c8e4da5df350bf17a7bee97fcf5428910ed3fab",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790825586~acl=/*~id=70382243791479453651904790299233~hmac=605bc0491cd8ac72815a96ce4c8e4da5df350bf17a7bee97fcf5428910ed3fab",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790825586~acl=/*~id=70382243791479453651904790299233~hmac=605bc0491cd8ac72815a96ce4c8e4da5df350bf17a7bee97fcf5428910ed3fab"
+    },
     {
       "match_id": 1090545635,
       "event_name": "Upcoming - India vs Sri Lanka - 20th Asian Games Aichi-Nagoya 2026",
