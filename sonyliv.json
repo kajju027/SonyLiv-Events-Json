@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/10/2026, 4:28:24 pm",
+  "updatedAt": "1/10/2026, 4:29:40 pm",
   "total_matches": 22,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025528/1790843549899424_AG26_Wrestling-Mens-Greco-Roman-97kg-Gold-Medal-Match_Nitesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4"
     },
     {
       "match_id": "1090546010_TAM",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025528/1790843549899424_AG26_Wrestling-Mens-Greco-Roman-97kg-Gold-Medal-Match_Nitesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4"
     },
     {
       "match_id": "1090546010_TEL",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025528/1790843549899424_AG26_Wrestling-Mens-Greco-Roman-97kg-Gold-Medal-Match_Nitesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4"
     },
     {
       "match_id": "1090546010_KAN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025528/1790843549899424_AG26_Wrestling-Mens-Greco-Roman-97kg-Gold-Medal-Match_Nitesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4"
     },
     {
       "match_id": "1090541378_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025458/1790809309031766_Ag26_1st_Oct_Squash_Mens_Team_Semi_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790895347~acl=/*~id=77965861881928352590204179841567~hmac=0cc872bf8116c8c2967c133fb636f8f21660c91bf2928df7b46f78f57a9cf5e9"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790894740~acl=/*~id=12878683598621345659567324792982~hmac=aac06b63ec89eed6935ed9aa69af8c0fce4ada37799c893d78d155699d9011a4"
     },
     {
       "match_id": 1090545951,
