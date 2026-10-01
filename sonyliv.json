@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/10/2026, 8:10:20 am",
-  "total_matches": 18,
-  "live_matches": 2,
+  "updatedAt": "1/10/2026, 8:11:53 am",
+  "total_matches": 22,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090541386_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Day 13 - 1 Oct 2026 [ENG]",
+      "match_name": "India In Action - Wrestling - 1 Oct 2026 [ENG]",
       "status": "Live",
-      "category": "Sports",
+      "category": "Wrestling",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790865593~acl=/*~id=74090737866824261413189372030045~hmac=7512a4f0b2f8d37f472b60217106b283dba7570b22fb6d47037ab2105f5247b3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790865593~acl=/*~id=74090737866824261413189372030045~hmac=7512a4f0b2f8d37f472b60217106b283dba7570b22fb6d47037ab2105f5247b3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790865593~acl=/*~id=74090737866824261413189372030045~hmac=7512a4f0b2f8d37f472b60217106b283dba7570b22fb6d47037ab2105f5247b3"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025455/1790807947195474_AG26_Wrestling_combo_mansi_and_aman_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
     },
     {
       "match_id": "1090541367_ENG",
@@ -27,9 +27,61 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025422/1790772771135414_AG26_pak_vs_ban_SF_live_landscpae_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790865593~acl=/*~id=74090737866824261413189372030045~hmac=7512a4f0b2f8d37f472b60217106b283dba7570b22fb6d47037ab2105f5247b3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790865593~acl=/*~id=74090737866824261413189372030045~hmac=7512a4f0b2f8d37f472b60217106b283dba7570b22fb6d47037ab2105f5247b3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790865593~acl=/*~id=74090737866824261413189372030045~hmac=7512a4f0b2f8d37f472b60217106b283dba7570b22fb6d47037ab2105f5247b3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
+    },
+    {
+      "match_id": "1090545992_HIN",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
+    },
+    {
+      "match_id": "1090545992_TAM",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [TAM]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
+    },
+    {
+      "match_id": "1090545992_TEL",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [TEL]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
+    },
+    {
+      "match_id": "1090545992_KAN",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India vs Pakistan - Men's Volleyball - 1 Oct 2026 [KAN]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025460/1790811934211494_AG26_1st_Oct_Volleyball_Mens_Quarter_Final_live_landscape_thumb_multi_lang.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/ag_strea3009/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790864985~acl=/*~id=95848377514511588298920292392870~hmac=c365f7963491d72d595270795dfc43983e3ce65aacc5bfb30ec756408199c592"
     },
     {
       "match_id": 1090545635,
