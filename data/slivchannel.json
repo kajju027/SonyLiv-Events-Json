@@ -1,208 +1,215 @@
 {
   "name": "Sony Ziv Channel",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 11:46:47 am",
-  "total_channel": 25,
+  "updatedAt": "2/10/2026, 3:44:12 pm",
+  "total_channel": 23,
   "matches": [
     {
       "channel_id": "2011671",
       "name": "Sony Entertainment Television HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
-    },
-    {
-      "channel_id": "2011742",
-      "name": "Sony SAB",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011742/SABSD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011671/SETHD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011749",
       "name": "Sony SAB HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011749/SABHD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011741",
       "name": "Sony PAL",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011741/SonyPalSD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011906",
       "name": "Sony WAH",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Wah.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011906/SonyWah/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011745",
       "name": "Sony MAX",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_SD.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011745/SonyMaxSD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011670",
       "name": "Sony MAX HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011670/SonyMaxhd/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011908",
       "name": "Sony MAX 2",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
-    },
-    {
-      "channel_id": "2011743",
-      "name": "Sony PIX",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011743/PIXSD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011908/MAX2/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011748",
       "name": "Sony PIX HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
-    },
-    {
-      "channel_id": "2011643",
-      "name": "Sony BBC Earth",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011643/SonyBBCEarthSD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pix_HD.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011748/PIXHD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011907",
       "name": "Sony BBC Earth HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011907/SonyBBCEarthHD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011746",
-      "name": "Sony YAY!",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony YAY !!",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/12_259.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011746/SonyYaySD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011740",
-      "name": "Sony Marathi",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Marathi !!",
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Marathi_SD.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011740/SonyMarathi/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011641",
       "name": "Sony AATH",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "logo": "http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011641/SonyAathSD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011739",
-      "name": "Sony Sports Ten 1",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 1",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/20_262.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011739/TEN1SD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2011747",
-      "name": "Sony Sports Ten 1 HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 1 HD",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/21_266.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020590",
-      "name": "Sony Sports Ten 2",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 2",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/22_261.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020590/TEN2SD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020434",
-      "name": "Sony Sports Ten 2 HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 2 HD",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/23_267.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020592",
-      "name": "Sony Sports Ten 3 Hindi",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 3 Hindi",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/24_274.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020592/TEN3SD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020591",
-      "name": "Sony Sports Ten 3 Hindi HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 3 Hindi HD",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/25_276.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020437",
-      "name": "Sony Sports Ten 4 Tamil",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 4 Tamil",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020589",
-      "name": "Sony Sports Ten 4 Telugu",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 4 Telugu",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/39_277.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
+    },
+    {
+      "channel_id": "",
+      "name": "Sony Sports 4 Kannada",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/SONY-SPORTS-TEN-4-KANNADA.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020589-b/ten4hd/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020594",
-      "name": "Sony Sports Ten 5",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 5",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/18_265.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020594/SONYSIXSD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     },
     {
       "channel_id": "2020593",
-      "name": "Sony Sports Ten 5 HD",
-      "url": "https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1790942710~acl=/*~id=27364328605423647361053259936295~hmac=839dbf74173093166e0a90ee9f3c1a211d18ee814a1caaa243f90596702e1d30",
-      "cookie_expire_unix": 1790942710,
-      "cookie_expire_ist": "02 Oct 2026, 05:35:10 PM IST",
-      "cookie_generated_ist": "02 Oct 2026, 05:35:10 AM IST"
+      "name": "Sony Sports 5 HD",
+      "logo": "https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/19_270.png",
+      "url": "https://dishmt.slivcdn.com/hls/live/2020593/TEN5HD/master.m3u8?hdnea=exp=1790979186~acl=/*~id=93768238578972395229859656333535~hmac=c406c28728ac65c882458270b30462c24008c3366cd72f3ac3a9fa1355a360a1",
+      "cookie_expire_unix": 1790979186,
+      "cookie_expire_ist": "03 Oct 2026, 03:43:06 AM IST",
+      "cookie_generated_ist": "02 Oct 2026, 03:43:06 PM IST"
     }
   ]
 }
