@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 1:24:10 pm",
-  "total_matches": 25,
-  "live_matches": 9,
+  "updatedAt": "2/10/2026, 1:25:15 pm",
+  "total_matches": 26,
+  "live_matches": 10,
   "matches": [
     {
       "match_id": "1090543297_ENG",
@@ -30,6 +30,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b"
+    },
+    {
+      "match_id": "1090541387",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Golf - 2 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025577/1790884368356652_AG26_2nd_Oct_Golf_Womens_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx6_00110/ENG/master.m3u8?hdnea=exp=1790943681~acl=/*~id=45741492942295657217504810330017~hmac=af4afafd8369055ffc3807d5054db975dd3918c9365cfbf2c6885bbfe93e4048",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx6_00110/ENG/master.m3u8?hdnea=exp=1790943681~acl=/*~id=45741492942295657217504810330017~hmac=af4afafd8369055ffc3807d5054db975dd3918c9365cfbf2c6885bbfe93e4048",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx6_00110/ENG/master.m3u8?hdnea=exp=1790943681~acl=/*~id=45741492942295657217504810330017~hmac=af4afafd8369055ffc3807d5054db975dd3918c9365cfbf2c6885bbfe93e4048"
     },
     {
       "match_id": "1090541853",
