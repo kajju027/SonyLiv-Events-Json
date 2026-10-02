@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 10:48:18 am",
+  "updatedAt": "2/10/2026, 10:50:46 am",
   "total_matches": 17,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790960802~acl=/*~id=34219079724843358308476799993154~hmac=070a29e9468a68fe3bd93cc317f285645a305f9c6cba6276061079d05d7f135e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790960802~acl=/*~id=34219079724843358308476799993154~hmac=070a29e9468a68fe3bd93cc317f285645a305f9c6cba6276061079d05d7f135e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790960802~acl=/*~id=34219079724843358308476799993154~hmac=070a29e9468a68fe3bd93cc317f285645a305f9c6cba6276061079d05d7f135e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790961407~acl=/*~id=54427520829018401094789232877360~hmac=54dfc5b648b534e07bedf066a015202ae85a2a94baece924e543a58542fe51ea",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790961407~acl=/*~id=54427520829018401094789232877360~hmac=54dfc5b648b534e07bedf066a015202ae85a2a94baece924e543a58542fe51ea",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790961407~acl=/*~id=54427520829018401094789232877360~hmac=54dfc5b648b534e07bedf066a015202ae85a2a94baece924e543a58542fe51ea"
     },
     {
       "match_id": 1090546365,
