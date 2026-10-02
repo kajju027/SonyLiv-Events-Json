@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 9:49:40 am",
+  "updatedAt": "2/10/2026, 9:59:52 am",
   "total_matches": 16,
   "live_matches": 1,
   "matches": [
     {
-      "match_id": "1090541378_ENG",
+      "match_id": "1090543297_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India In Action - Wrestling - 2 Oct 2026 [ENG]",
+      "match_name": "Day 14 - 2 Oct 2026 [ENG]",
       "status": "Live",
-      "category": "Wrestling",
+      "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025587/1790893220715107_AG26_2nd_Oct_Wrestling_Mens_Freestyle_65kg_QF_Sujeet_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790957776~acl=/*~id=68899700442393360582792969630750~hmac=c90471a46b3cecd539d33dff08f8cdabea15de2079567df2e27f7e8048fbb5bb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790957776~acl=/*~id=68899700442393360582792969630750~hmac=c90471a46b3cecd539d33dff08f8cdabea15de2079567df2e27f7e8048fbb5bb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790957776~acl=/*~id=68899700442393360582792969630750~hmac=c90471a46b3cecd539d33dff08f8cdabea15de2079567df2e27f7e8048fbb5bb"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958382~acl=/*~id=18732107549898627653054646352305~hmac=244f8491950738c80d8965b176474c8ccd133604d671daa1b7d6fbba3fb362a4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958382~acl=/*~id=18732107549898627653054646352305~hmac=244f8491950738c80d8965b176474c8ccd133604d671daa1b7d6fbba3fb362a4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790958382~acl=/*~id=18732107549898627653054646352305~hmac=244f8491950738c80d8965b176474c8ccd133604d671daa1b7d6fbba3fb362a4"
     },
     {
       "match_id": 1090546365,
@@ -65,7 +65,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025457/1790808560713268_NZvsIND26_promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
