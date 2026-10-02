@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 12:22:05 pm",
-  "total_matches": 28,
-  "live_matches": 12,
+  "updatedAt": "2/10/2026, 12:22:24 pm",
+  "total_matches": 27,
+  "live_matches": 11,
   "matches": [
     {
       "match_id": "1090543297_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025618/1790920686306509_AG_Archery_koreaVindia_final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790966249~acl=/*~id=33631838736719622472553926365425~hmac=dc8d343a41392d9441a96417705f5f383b8ccda4b4275e0048a1cf72e37be3b2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790966249~acl=/*~id=33631838736719622472553926365425~hmac=dc8d343a41392d9441a96417705f5f383b8ccda4b4275e0048a1cf72e37be3b2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790966249~acl=/*~id=33631838736719622472553926365425~hmac=dc8d343a41392d9441a96417705f5f383b8ccda4b4275e0048a1cf72e37be3b2"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790966855~acl=/*~id=46274764159637825995941543394634~hmac=3fdaaa7afb29b3b49b322edc310eb93bfc8b7656548f240eb71a5df68449746f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790966855~acl=/*~id=46274764159637825995941543394634~hmac=3fdaaa7afb29b3b49b322edc310eb93bfc8b7656548f240eb71a5df68449746f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790966855~acl=/*~id=46274764159637825995941543394634~hmac=3fdaaa7afb29b3b49b322edc310eb93bfc8b7656548f240eb71a5df68449746f"
     },
     {
       "match_id": 1090546365,
@@ -238,19 +238,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ag_strea0110/HIN/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ag_strea0110/HIN/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ag_strea0110/HIN/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16"
-    },
-    {
-      "match_id": "1090541378",
-      "event_name": "Day 14 - 2 Oct 2026",
-      "match_name": "Day 14 - 2 Oct 2026",
-      "status": "Live",
-      "category": "20th Asian Games Aichi-Nagoya 2026",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790947235~acl=/*~id=49029392833953740598144979972342~hmac=a870c638f6fcc39b867b5edc58dde45ad768f07c0e788c4298c261e5b5f1e461",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790947235~acl=/*~id=49029392833953740598144979972342~hmac=a870c638f6fcc39b867b5edc58dde45ad768f07c0e788c4298c261e5b5f1e461",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790947235~acl=/*~id=49029392833953740598144979972342~hmac=a870c638f6fcc39b867b5edc58dde45ad768f07c0e788c4298c261e5b5f1e461"
     },
     {
       "match_id": "1090541387",
