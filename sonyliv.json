@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 1:08:47 pm",
-  "total_matches": 25,
-  "live_matches": 9,
+  "updatedAt": "2/10/2026, 1:08:57 pm",
+  "total_matches": 26,
+  "live_matches": 10,
   "matches": [
     {
       "match_id": "1090543297_ENG",
@@ -17,6 +17,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790969882~acl=/*~id=67372277799352167737931691974068~hmac=38ff016af74a5ffcad032f74b5c089d9add3107748cafd75b6f966436115ea8e",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790969882~acl=/*~id=67372277799352167737931691974068~hmac=38ff016af74a5ffcad032f74b5c089d9add3107748cafd75b6f966436115ea8e",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790969882~acl=/*~id=67372277799352167737931691974068~hmac=38ff016af74a5ffcad032f74b5c089d9add3107748cafd75b6f966436115ea8e"
+    },
+    {
+      "match_id": "1090543297",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Day 14 - 2 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b"
     },
     {
       "match_id": "1090541387",
