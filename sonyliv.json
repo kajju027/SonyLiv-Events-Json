@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 5:24:12 pm",
+  "updatedAt": "2/10/2026, 5:34:23 pm",
   "total_matches": 29,
   "live_matches": 13,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7"
     },
     {
       "match_id": "1090546465_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7"
     },
     {
       "match_id": "1090546465_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7"
     },
     {
       "match_id": "1090546465_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7"
     },
     {
       "match_id": "1090546465_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025632/1790925563373170_AG_womnes_hockey_INDvsCHI_final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790985054~acl=/*~id=51009664844094447580760994309053~hmac=e611e12eee37c535bbf2a261ebb6343c59a5617b8c85969e9d49afb70af136ad"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790985661~acl=/*~id=66474528881178235048142142105421~hmac=551cb8e8622f1bad625354523faafb301c4ea224663114007f76ce49700dc5b7"
     },
     {
       "match_id": "1090546465",
