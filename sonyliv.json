@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 1:51:03 pm",
+  "updatedAt": "2/10/2026, 1:52:07 pm",
   "total_matches": 25,
   "live_matches": 9,
   "matches": [
@@ -34,7 +34,7 @@
     {
       "match_id": "1090541853",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Beach Volleyball - 2 Oct 2026 [ENGLISH]",
+      "match_name": "Thailand vs People's Republic of China - Women - Beach Volleyball - 2 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
@@ -43,19 +43,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16"
-    },
-    {
-      "match_id": "1090541376",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Squash - Finals - 2 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5"
     },
     {
       "match_id": "1090541854",
@@ -69,6 +56,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0"
+    },
+    {
+      "match_id": "1090541376",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Squash - Finals - 2 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5"
     },
     {
       "match_id": "1090541855",
