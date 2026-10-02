@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 3:48:26 am",
-  "total_matches": 17,
-  "live_matches": 1,
+  "updatedAt": "3/10/2026, 4:22:41 am",
+  "total_matches": 18,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090541370",
@@ -17,6 +17,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791017438~acl=/*~id=22996757667710002841757752074188~hmac=8a6ccbf86c352cbbe8cfc73355fb54ea8d4d2d6858d0c089ef590f2020cbdd16",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791017438~acl=/*~id=22996757667710002841757752074188~hmac=8a6ccbf86c352cbbe8cfc73355fb54ea8d4d2d6858d0c089ef590f2020cbdd16",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8?hdnea=exp=1791017438~acl=/*~id=22996757667710002841757752074188~hmac=8a6ccbf86c352cbbe8cfc73355fb54ea8d4d2d6858d0c089ef590f2020cbdd16"
+    },
+    {
+      "match_id": "1090541378",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India in Action - Golf - 3 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025347/1790728680024979_AG26_golf_india_in_action_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791024644~acl=/*~id=46657219117778403527314187298168~hmac=51e42ffe7fc4506657ba9d46dfe6829ca18ceb250956c73d2b61fe4a182a4b15",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791024644~acl=/*~id=46657219117778403527314187298168~hmac=51e42ffe7fc4506657ba9d46dfe6829ca18ceb250956c73d2b61fe4a182a4b15",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791024644~acl=/*~id=46657219117778403527314187298168~hmac=51e42ffe7fc4506657ba9d46dfe6829ca18ceb250956c73d2b61fe4a182a4b15"
     },
     {
       "match_id": 1090546365,
