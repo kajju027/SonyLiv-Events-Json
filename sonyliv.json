@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 4:55:23 am",
-  "total_matches": 20,
-  "live_matches": 4,
+  "updatedAt": "3/10/2026, 4:58:29 am",
+  "total_matches": 21,
+  "live_matches": 5,
   "matches": [
+    {
+      "match_id": "1090543297_ENG",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Men's & Women's Archery Finals - 3 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Archery",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4"
+    },
     {
       "match_id": "1090541367_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
@@ -14,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026294~acl=/*~id=99793696013422447313354744785367~hmac=75153c08c48b9b070662c7767b9315be72cb8cc7f8acd848bba04666bb9bdb7c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026294~acl=/*~id=99793696013422447313354744785367~hmac=75153c08c48b9b070662c7767b9315be72cb8cc7f8acd848bba04666bb9bdb7c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026294~acl=/*~id=99793696013422447313354744785367~hmac=75153c08c48b9b070662c7767b9315be72cb8cc7f8acd848bba04666bb9bdb7c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791026899~acl=/*~id=57343138667246096351674181486768~hmac=47725385b49025f4ae3c6eb4681d7973600f2a751b14ed49f9a8b090ca83bdf4"
     },
     {
       "match_id": "1090541367",
