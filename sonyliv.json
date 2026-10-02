@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 3:52:30 pm",
-  "total_matches": 29,
-  "live_matches": 13,
+  "updatedAt": "2/10/2026, 3:53:59 pm",
+  "total_matches": 30,
+  "live_matches": 14,
   "matches": [
     {
       "match_id": "1090546465_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49"
     },
     {
       "match_id": "1090546465_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49"
     },
     {
       "match_id": "1090546465_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49"
     },
     {
       "match_id": "1090546465_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49"
     },
     {
       "match_id": "1090546465_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790979597~acl=/*~id=92775317111255003752349609573065~hmac=e83f6bdda805f76fd7a8b67888747c05c2af4bce351202ac6c9f31a1255715a3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790978988~acl=/*~id=97043003757460275271136619894324~hmac=c2fad384886aee50e1d06dbcf411257dcf6af35f26972845c3068120d12b4f49"
     },
     {
       "match_id": "1090546465",
@@ -110,6 +110,19 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16"
     },
     {
+      "match_id": "1090541376",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Squash - Finals - 2 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5"
+    },
+    {
       "match_id": "1090541854",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
       "match_name": "Group All-Around - Rhythmic Gymnastics - 2 Oct 2026 [ENGLISH]",
@@ -143,7 +156,7 @@
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025635/1790930682948749_Boxing_finals_live_landscape_thumb.jpg",
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16"
@@ -151,12 +164,12 @@
     {
       "match_id": "1090543298",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Wrestling - 2 Oct 2026 [ENGLISH]",
+      "match_name": "Volleyball - 2 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8?hdnea=exp=1790947243~acl=/*~id=54969641390469150075485280669252~hmac=451d64deac38aadbd297129d8b4c492b0609105a62be713a5fa460d86409fc57",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8?hdnea=exp=1790947243~acl=/*~id=54969641390469150075485280669252~hmac=451d64deac38aadbd297129d8b4c492b0609105a62be713a5fa460d86409fc57",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8?hdnea=exp=1790947243~acl=/*~id=54969641390469150075485280669252~hmac=451d64deac38aadbd297129d8b4c492b0609105a62be713a5fa460d86409fc57"
@@ -164,12 +177,12 @@
     {
       "match_id": "1090541370",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Judo - 2 Oct 2026 [ENGLISH]",
+      "match_name": "Ju-Jitsu - 2 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789294192890348_AG26_Ju_Jitsu_pictogram_landscape_thumb.jpg",
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16"
