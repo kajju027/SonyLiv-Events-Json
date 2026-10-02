@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/10/2026, 5:44:35 pm",
-  "total_matches": 29,
-  "live_matches": 13,
+  "updatedAt": "2/10/2026, 5:51:35 pm",
+  "total_matches": 28,
+  "live_matches": 12,
   "matches": [
     {
       "match_id": "1090546465_ENG",
@@ -108,19 +108,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790985032~acl=/*~id=94207794234818023857964358991713~hmac=54b13f58c670ebbc9cd10ce38a0dfe85791c698be2363740877f1dfe7aa353ce",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790985032~acl=/*~id=94207794234818023857964358991713~hmac=54b13f58c670ebbc9cd10ce38a0dfe85791c698be2363740877f1dfe7aa353ce",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8?hdnea=exp=1790985032~acl=/*~id=94207794234818023857964358991713~hmac=54b13f58c670ebbc9cd10ce38a0dfe85791c698be2363740877f1dfe7aa353ce"
-    },
-    {
-      "match_id": "1090541854",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Group All-Around - Rhythmic Gymnastics - 2 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790931672228_1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0"
     },
     {
       "match_id": "1090541855",
