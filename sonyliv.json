@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 11:45:11 am",
-  "total_matches": 30,
-  "live_matches": 16,
+  "updatedAt": "3/10/2026, 11:51:56 am",
+  "total_matches": 29,
+  "live_matches": 15,
   "matches": [
     {
       "match_id": "1090541371_ENG",
@@ -99,7 +99,7 @@
     {
       "match_id": "1090543297",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Archery - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Day 15 - 3 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
@@ -199,19 +199,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4"
-    },
-    {
-      "match_id": "1090541379",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Beach Volleyball - 3 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_dx4_00310/ENG/master.m3u8?hdnea=exp=1791039043~acl=/*~id=15966318290742875313411583300334~hmac=016d84646d27e5ac0af98202f707e03d3594c7641863bccd4408d91a7f40153b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_dx4_00310/ENG/master.m3u8?hdnea=exp=1791039043~acl=/*~id=15966318290742875313411583300334~hmac=016d84646d27e5ac0af98202f707e03d3594c7641863bccd4408d91a7f40153b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_dx4_00310/ENG/master.m3u8?hdnea=exp=1791039043~acl=/*~id=15966318290742875313411583300334~hmac=016d84646d27e5ac0af98202f707e03d3594c7641863bccd4408d91a7f40153b"
     },
     {
       "match_id": 1090543727,
