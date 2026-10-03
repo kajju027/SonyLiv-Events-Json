@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 10:15:05 pm",
-  "total_matches": 20,
-  "live_matches": 11,
+  "updatedAt": "3/10/2026, 10:24:05 pm",
+  "total_matches": 17,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090546628_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba"
     },
     {
       "match_id": "1090546637_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba"
     },
     {
       "match_id": "1090546671_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba"
     },
     {
       "match_id": "1090546635_ENG",
@@ -53,22 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
-    },
-    {
-      "match_id": "1090546668",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/?hdnea=exp=1791075053~acl=/*~id=68337858408338968086165292269010~hmac=7e0e95cf6bcd7349c5964aa9ecc06015db95699738538b1c9ac35e2b4cc4f037"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791089437~acl=/*~id=44431835277412417578807380136746~hmac=f3d0da54c334d4f6c0fd75226aa1c0486e99354f338c255b6642b512f6438cba"
     },
     {
       "match_id": "1090546628",
@@ -82,19 +69,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100"
-    },
-    {
-      "match_id": "1090546669",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil (Bengali) [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/?hdnea=exp=1791076113~acl=/*~id=23300786148273193556789446748749~hmac=064397d208ce4425cadc5d64bacb96b8277556f502cb675825bc731fe9f680e6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/?hdnea=exp=1791076113~acl=/*~id=23300786148273193556789446748749~hmac=064397d208ce4425cadc5d64bacb96b8277556f502cb675825bc731fe9f680e6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/?hdnea=exp=1791076113~acl=/*~id=23300786148273193556789446748749~hmac=064397d208ce4425cadc5d64bacb96b8277556f502cb675825bc731fe9f680e6"
     },
     {
       "match_id": "1090546637",
@@ -134,19 +108,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc"
-    },
-    {
-      "match_id": "1090546606",
-      "event_name": "DP World Tour",
-      "match_name": "Alfred Dunhill Links Championship - Day 3 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60"
     },
     {
       "match_id": 1090546015,
