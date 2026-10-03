@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 5:40:25 am",
+  "updatedAt": "3/10/2026, 5:50:37 am",
   "total_matches": 27,
   "live_matches": 11,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025678/1790968028926219_AG26_3rd_Oct_Archery_Kumkum-Mohod_Quarter_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029323~acl=/*~id=14836824116430305893607291881873~hmac=d412341e9f08ee7462f31ec849185de3af92a71db26fa73fadeabb13a0aa8533",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029323~acl=/*~id=14836824116430305893607291881873~hmac=d412341e9f08ee7462f31ec849185de3af92a71db26fa73fadeabb13a0aa8533",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029323~acl=/*~id=14836824116430305893607291881873~hmac=d412341e9f08ee7462f31ec849185de3af92a71db26fa73fadeabb13a0aa8533"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a"
     },
     {
       "match_id": "1090541367_ENG",
@@ -27,14 +27,14 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029323~acl=/*~id=14836824116430305893607291881873~hmac=d412341e9f08ee7462f31ec849185de3af92a71db26fa73fadeabb13a0aa8533",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029323~acl=/*~id=14836824116430305893607291881873~hmac=d412341e9f08ee7462f31ec849185de3af92a71db26fa73fadeabb13a0aa8533",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029323~acl=/*~id=14836824116430305893607291881873~hmac=d412341e9f08ee7462f31ec849185de3af92a71db26fa73fadeabb13a0aa8533"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a"
     },
     {
       "match_id": "1090543297",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Men's & Women's Archery Finals - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Archery - 3 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
@@ -60,12 +60,12 @@
     {
       "match_id": "1090541381",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Men's & Women's Archery Finals - 3 Oct 2026 [HINDI]",
+      "match_name": "Recurve Women's Individual Quarterfinals - Archery - 3 Oct 2026 [HINDI]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368607376894_AG26_Generic_Stream4_live_landscape_thumb_clean.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025678/1790968028926219_AG26_3rd_Oct_Archery_Kumkum-Mohod_Quarter_Final_live_landscape_thumb.jpg",
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_strea0210/HIN/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_strea0210/HIN/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_strea0210/HIN/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504"
