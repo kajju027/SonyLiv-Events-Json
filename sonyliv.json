@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 10:14:54 pm",
-  "total_matches": 27,
-  "live_matches": 18,
+  "updatedAt": "3/10/2026, 10:15:05 pm",
+  "total_matches": 20,
+  "live_matches": 11,
   "matches": [
     {
       "match_id": "1090546628_ENG",
@@ -14,100 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
-    },
-    {
-      "match_id": "1090546668_ENG",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
-    },
-    {
-      "match_id": "1090546668_HIN",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
-    },
-    {
-      "match_id": "1090546668_TAM",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 [TAM]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
-    },
-    {
-      "match_id": "1090546668_TEL",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 [TEL]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
-    },
-    {
-      "match_id": "1090546668_KAN",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 [KAN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
-    },
-    {
-      "match_id": "1090546668_MAL",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 [MAL]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "ENG",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032964918967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive0310/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
-    },
-    {
-      "match_id": "1090546669_BEN",
-      "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 (Bengali) [BEN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "BEN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025782/1791032955786967_FIFA_International_friendlies_India_vs_Brazil_live_landscape_thumb_bengali.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive0310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
     },
     {
       "match_id": "1090546637_ENG",
@@ -118,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
     },
     {
       "match_id": "1090546671_ENG",
@@ -131,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
     },
     {
       "match_id": "1090546635_ENG",
@@ -144,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088219~acl=/*~id=18988967019268790237276323816559~hmac=31f63a64a286840e80ceb8f6a72ef1af2679a06368ec9f1e2afe6af7b316d171"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791088829~acl=/*~id=86022892315272474347690534797673~hmac=a440e7e66b666e5a52875ca8cba71f27a99fc7036330901b9f79ad90b3197aa3"
     },
     {
       "match_id": "1090546668",
