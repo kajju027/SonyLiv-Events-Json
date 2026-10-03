@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 5:19:56 pm",
-  "total_matches": 23,
-  "live_matches": 12,
+  "updatedAt": "3/10/2026, 5:23:11 pm",
+  "total_matches": 24,
+  "live_matches": 13,
   "matches": [
     {
       "match_id": "1090546707_ENG",
@@ -86,7 +86,7 @@
     {
       "match_id": "1090543296",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Wrestling - Finals - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Wrestling - 3 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
@@ -160,6 +160,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9"
+    },
+    {
+      "match_id": "1090546606",
+      "event_name": "DP World Tour",
+      "match_name": "Alfred Dunhill Links Championship - Day 3 - 3 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60"
     },
     {
       "match_id": 1090543727,
