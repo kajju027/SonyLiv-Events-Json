@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 4:49:29 pm",
+  "updatedAt": "3/10/2026, 4:52:35 pm",
   "total_matches": 25,
   "live_matches": 14,
   "matches": [
@@ -151,28 +151,28 @@
     {
       "match_id": "1090541377",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Taekwondo - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Rhythmic Gymnastics - 3 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9"
     },
     {
       "match_id": "1090541855",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Judo - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Hockey - 3 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791028262~acl=/*~id=98601785485711092808063264943013~hmac=52b9670e28542601eac5f3735aae5cb1fc8f5b338ee628c0e2fa41e9ebf02b7d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791028262~acl=/*~id=98601785485711092808063264943013~hmac=52b9670e28542601eac5f3735aae5cb1fc8f5b338ee628c0e2fa41e9ebf02b7d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791028262~acl=/*~id=98601785485711092808063264943013~hmac=52b9670e28542601eac5f3735aae5cb1fc8f5b338ee628c0e2fa41e9ebf02b7d"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9"
     },
     {
       "match_id": "1090543298",
@@ -183,9 +183,9 @@
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9"
     },
     {
       "match_id": 1090543727,
