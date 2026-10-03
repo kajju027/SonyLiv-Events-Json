@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 5:38:30 pm",
+  "updatedAt": "3/10/2026, 5:38:55 pm",
   "total_matches": 24,
   "live_matches": 13,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b"
     },
     {
       "match_id": "1090546707_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b"
     },
     {
       "match_id": "1090546707_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b"
     },
     {
       "match_id": "1090546707_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b"
     },
     {
       "match_id": "1090546707_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791072395~acl=/*~id=45582937079200271625595682122144~hmac=dd117656e0cc38e0a9ee4104d20e034710414e25cde2df2452e73efacaf0fadb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791071789~acl=/*~id=25091217137834402708864493761842~hmac=f047fc15f5c28caaf2b38325e8f03e39633b647d7005291d46d829f22fc7218b"
     },
     {
       "match_id": "1090546707",
