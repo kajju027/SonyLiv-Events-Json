@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 7:52:12 pm",
-  "total_matches": 24,
-  "live_matches": 14,
+  "updatedAt": "3/10/2026, 7:56:13 pm",
+  "total_matches": 23,
+  "live_matches": 13,
   "matches": [
     {
       "match_id": "1090546668_ENG",
@@ -125,7 +125,7 @@
     {
       "match_id": "1090546668",
       "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 [ENGLISH]",
+      "match_name": "India vs Brazil [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
@@ -138,7 +138,7 @@
     {
       "match_id": "1090546669",
       "event_name": "India's International Friendlies 2026",
-      "match_name": "India vs Brazil - 3 Oct 2026 (Bengali) [ENGLISH]",
+      "match_name": "India vs Brazil (Bengali) [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
@@ -151,7 +151,7 @@
     {
       "match_id": "1090546613",
       "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Finland vs Albania - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Finland vs Albania [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
@@ -162,22 +162,9 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive0310/?hdnea=exp=1791076124~acl=/*~id=37021490200030125360992437427294~hmac=0f98b7f16b9d618ea47e956108ba66b2f123eea2636d07b82f8381e89c35c7c9"
     },
     {
-      "match_id": "1090541370",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Football - 3 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d"
-    },
-    {
       "match_id": "1090546606",
       "event_name": "DP World Tour",
-      "match_name": "Alfred Dunhill Links Championship - Day 3 - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Alfred Dunhill Links Championship - Day 3 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
