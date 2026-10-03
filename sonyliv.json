@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 11:52:18 pm",
-  "total_matches": 15,
-  "live_matches": 6,
+  "updatedAt": "3/10/2026, 11:55:40 pm",
+  "total_matches": 16,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090546684_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d"
     },
     {
       "match_id": "1090546685_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d"
     },
     {
       "match_id": "1090546686_ENG",
@@ -40,48 +40,61 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094897~acl=/*~id=20224709045213495514856490790314~hmac=003f1c4139f81266f71263c207b618269949d7975063827661aaa1e4d8f36a71"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791094291~acl=/*~id=87226702904832132897989364032799~hmac=b8752d84e4228a14ace8b6dfbb06dc1922ae5499e4c8321751895cd644cf7b9d"
     },
     {
-      "match_id": "1090546684",
+      "match_id": "1090546628",
       "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Spain vs Czechia [ENGLISH]",
+      "match_name": "Croatia vs England [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747906736683_UNL2627_Croatia_vs_England_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive0310/?hdnea=exp=1791084037~acl=/*~id=55593780702326351750085828860730~hmac=37ed3ca771e3e8a73db761ea85cef811c1da57bb1b6989e98ec7e90ea1111100"
     },
     {
-      "match_id": "1090546685",
+      "match_id": "1090546637",
       "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Switzerland vs Slovenia [ENGLISH]",
+      "match_name": "Iceland vs Bulgaria [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/?hdnea=exp=1791094847~acl=/*~id=29857471698863511311167754058006~hmac=b9fcb55ab971e083be4c6ace9b0af0de4626c9afd602243ba39c5f6d9ac1fbde",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/?hdnea=exp=1791094847~acl=/*~id=29857471698863511311167754058006~hmac=b9fcb55ab971e083be4c6ace9b0af0de4626c9afd602243ba39c5f6d9ac1fbde",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/?hdnea=exp=1791094847~acl=/*~id=29857471698863511311167754058006~hmac=b9fcb55ab971e083be4c6ace9b0af0de4626c9afd602243ba39c5f6d9ac1fbde"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748023774683_UNL2627_Iceland_vs_Bulgaria_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/?hdnea=exp=1791084048~acl=/*~id=11421288747896566546231094062447~hmac=e502e4edca80037663e0b7e400adbab922881f00bede2797ee64defcc7dc1437",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/?hdnea=exp=1791084048~acl=/*~id=11421288747896566546231094062447~hmac=e502e4edca80037663e0b7e400adbab922881f00bede2797ee64defcc7dc1437",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0310/?hdnea=exp=1791084048~acl=/*~id=11421288747896566546231094062447~hmac=e502e4edca80037663e0b7e400adbab922881f00bede2797ee64defcc7dc1437"
     },
     {
-      "match_id": "1090546686",
+      "match_id": "1090546671",
       "event_name": "UEFA Nations League 2026-27",
-      "match_name": "North Macedonia vs Scotland [ENGLISH]",
+      "match_name": "Estonia vs Luxembourg [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748351517683_UNL2627_Estonia_vs_Luxembourg_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/?hdnea=exp=1791084060~acl=/*~id=64890104261540344446004052037941~hmac=2c23b7986b8831a105b1f3955311386be562d428293855f41cf2e8f0325b2d1a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/?hdnea=exp=1791084060~acl=/*~id=64890104261540344446004052037941~hmac=2c23b7986b8831a105b1f3955311386be562d428293855f41cf2e8f0325b2d1a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive0310/?hdnea=exp=1791084060~acl=/*~id=64890104261540344446004052037941~hmac=2c23b7986b8831a105b1f3955311386be562d428293855f41cf2e8f0325b2d1a"
+    },
+    {
+      "match_id": "1090546635",
+      "event_name": "UEFA Nations League 2026-27",
+      "match_name": "Belarus vs San Marino [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790748179104683_UNL2627_Belarus_vs_San_Marino_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0310/?hdnea=exp=1791084072~acl=/*~id=64279375501500974893339703948345~hmac=6d31d5b216a9438417d4fc45584844ec58dc528a53f3ecf6b4ab1fde5b893fcc"
     },
     {
       "match_id": 1090546015,
