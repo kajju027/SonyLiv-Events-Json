@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 7:42:01 am",
+  "updatedAt": "3/10/2026, 7:52:13 am",
   "total_matches": 27,
   "live_matches": 11,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025681/1790969799528794_AG26_3rd_Oct_Archery_Kumkum_Mohod_Gold_Match_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39"
     },
     {
       "match_id": "1090541367_ENG",
@@ -27,19 +27,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791036595~acl=/*~id=83847502924881825036591736037181~hmac=73ca0c7b8473665530f98bc1c80c65549ea643331b90f0e58b6214c56e52c188"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791037200~acl=/*~id=42685751545168124667900455461352~hmac=1553a37d33c851f95f827e8874cd6b6e7cea188e5d24cdfd2fce8e46a1cc2c39"
     },
     {
       "match_id": "1090543297",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "India In Action - Archery - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Day 15 - Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025681/1790969799528794_AG26_3rd_Oct_Archery_Kumkum_Mohod_Gold_Match_live_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4"
@@ -86,12 +86,12 @@
     {
       "match_id": "1090541377",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Rugby 7s - 3 Oct 2026 [ENGLISH]",
+      "match_name": "Wrestling - 3 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025449/179080184543314_AG26_Rugby_Sevens_pictogram_live_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504"
