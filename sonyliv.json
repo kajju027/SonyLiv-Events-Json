@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 8:43:36 am",
-  "total_matches": 32,
-  "live_matches": 17,
+  "updatedAt": "3/10/2026, 8:53:25 am",
+  "total_matches": 33,
+  "live_matches": 18,
   "matches": [
     {
       "match_id": "1090541371_ENG",
@@ -108,6 +108,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4"
+    },
+    {
+      "match_id": "1090541371",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "India vs Pakistan - Gold Medal Match - Men's Cricket - 3 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025679/1790965084107811_AG26_final_ind_vs_pak_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4"
     },
     {
       "match_id": "1090541367",
