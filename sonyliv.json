@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 5:50:37 am",
+  "updatedAt": "3/10/2026, 5:59:50 am",
   "total_matches": 27,
   "live_matches": 11,
   "matches": [
     {
       "match_id": "1090543297_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Recurve Women's Individual Quarterfinals - Archery - 3 Oct 2026 [ENG]",
+      "match_name": "Archery - 3 Oct 2026 [ENG]",
       "status": "Live",
       "category": "Archery",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025678/1790968028926219_AG26_3rd_Oct_Archery_Kumkum-Mohod_Quarter_Final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791030536~acl=/*~id=94249513605258500468679511867483~hmac=6703e34d8fbc1092a6325a859de2f62fb0ec33677e21f59762133bf2df1f416a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791030536~acl=/*~id=94249513605258500468679511867483~hmac=6703e34d8fbc1092a6325a859de2f62fb0ec33677e21f59762133bf2df1f416a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791030536~acl=/*~id=94249513605258500468679511867483~hmac=6703e34d8fbc1092a6325a859de2f62fb0ec33677e21f59762133bf2df1f416a"
     },
     {
       "match_id": "1090541367_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025675/179096256687154_AG26_mens_cricket_Bronze_Match_Bangladesh_vs_Sri_Lanka_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791029930~acl=/*~id=35119149213669415161822129931458~hmac=b120e8fdedd9d26f452260f6f4907cce8676f73628d4005d5fabeff8041fd57a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791030536~acl=/*~id=94249513605258500468679511867483~hmac=6703e34d8fbc1092a6325a859de2f62fb0ec33677e21f59762133bf2df1f416a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791030536~acl=/*~id=94249513605258500468679511867483~hmac=6703e34d8fbc1092a6325a859de2f62fb0ec33677e21f59762133bf2df1f416a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri0210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791030536~acl=/*~id=94249513605258500468679511867483~hmac=6703e34d8fbc1092a6325a859de2f62fb0ec33677e21f59762133bf2df1f416a"
     },
     {
       "match_id": "1090543297",
