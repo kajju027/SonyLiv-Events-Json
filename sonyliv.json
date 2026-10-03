@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/10/2026, 3:26:54 am",
-  "total_matches": 13,
-  "live_matches": 5,
+  "updatedAt": "4/10/2026, 3:32:28 am",
+  "total_matches": 14,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090546670_ENG",
@@ -69,6 +69,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791107627~acl=/*~id=47956139049845914776187306184898~hmac=764f3450eb4c8d3db86a07f73a421b36a92c3f8490ae66875f91f33dc0ab6299"
+    },
+    {
+      "match_id": "1090546670",
+      "event_name": " UFC 332 - Silva vs Wang",
+      "match_name": "UFC 332 - Silva vs Wang [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7"
     },
     {
       "match_id": 1090546015,
