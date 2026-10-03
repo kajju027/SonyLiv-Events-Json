@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/10/2026, 10:04:59 am",
+  "updatedAt": "3/10/2026, 10:15:09 am",
   "total_matches": 30,
   "live_matches": 16,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31"
     },
     {
       "match_id": "1090541371_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi0310/HIN/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31"
     },
     {
       "match_id": "1090541371_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi0310/TAM/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31"
     },
     {
       "match_id": "1090541371_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0310/TEL/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31"
     },
     {
       "match_id": "1090541371_KAN",
@@ -66,22 +66,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/cricodi0310/KAN/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31"
     },
     {
       "match_id": "1090543297_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Day 15 - Oct 2026 [ENG]",
+      "match_name": "India In Action - Archery - Oct 2026 [ENG]",
       "status": "Live",
-      "category": "Sports",
+      "category": "Archery",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045033~acl=/*~id=55951315039572726855568395588002~hmac=b8ef48d7f76b7522aaabac552e58767c8c5e8e40f5225cc7a4c9bc668210d403"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025684/1790971924540130_AG26_3rd_Oct_Archery_Neeraj_Chauhan_Quarter_Final_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/std_lrl-800300010.m3u8?hdnea=exp=1791045687~acl=/*~id=86176981251455027510913513550788~hmac=40455990d78ae99d8a2b1e6803a88d0aded68d15663363052e457bc171b4ae31"
     },
     {
       "match_id": "1090541371",
