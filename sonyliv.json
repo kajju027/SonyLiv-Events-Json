@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/10/2026, 6:36:31 am",
+  "updatedAt": "4/10/2026, 6:37:02 am",
   "total_matches": 14,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4"
     },
     {
       "match_id": "1090546670_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UFC_UFC_0310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4"
     },
     {
       "match_id": "1090546670_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/UFC_UFC_0310/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4"
     },
     {
       "match_id": "1090546670_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_UFC_0310/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4"
     },
     {
       "match_id": "1090546670_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791118550~acl=/*~id=13134633709556141772841140504480~hmac=8a6bcba2f14aa40f26d6c9e67c305222c3240dedf99d42251556bc9d83710928"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/UFC_UFC_0310/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791119157~acl=/*~id=20130898745678550829241311081925~hmac=22a68effd2873b77f429e95c6e6a69818fc6d8337916cad8ffd56bb07a4cd4d4"
     },
     {
       "match_id": "1090546670",
