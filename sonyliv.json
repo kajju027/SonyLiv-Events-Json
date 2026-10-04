@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/10/2026, 11:37:34 pm",
+  "updatedAt": "4/10/2026, 11:49:01 pm",
   "total_matches": 14,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790824955115953_UNL2627_MD4_Portugal_vs_Norway_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce"
     },
     {
       "match_id": "1090547008_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826239896953_UNL2627_MD4_Greece_vs_Germany_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce"
     },
     {
       "match_id": "1090547007_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790825055764953_UNL2627_MD4_Netherlands_vs_Serbia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce"
     },
     {
       "match_id": "1090547010_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826480522953_UNL2627_MD4_Wales_vs_Denmark_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce"
     },
     {
       "match_id": "1090547009_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826368427953_UNL2627_MD4_Republic_of_Ireland_vs_Israel_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180391~acl=/*~id=68152935442489737688747063672019~hmac=e294c9c8feb0d429960669fc676f0fd6de7626d7e76c425599516db1e4ec1099"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791180999~acl=/*~id=55568758310460924165975369364277~hmac=c8d30bb4128631dd7951a4d34b613d6aeafff0afe10bc0e3526480f1803132ce"
     },
     {
       "match_id": "1090547001",
