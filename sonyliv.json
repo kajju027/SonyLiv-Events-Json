@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/10/2026, 8:59:19 am",
+  "updatedAt": "4/10/2026, 9:18:17 am",
   "total_matches": 8,
   "live_matches": 0,
   "matches": [
@@ -19,19 +19,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090543731,
-      "event_name": "Upcoming - India's International Friendlies - India vs Uruguay",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025803/1791041469410376_IND_vs_URU_landscape_thumb_dated.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090546952,
       "event_name": "Upcoming - Portugal vs Norway - UEFA Nations League 2026-27",
       "match_name": "",
@@ -40,6 +27,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025822/1791064274144264_UNL2627_Portugal_vs_Norway_tonight_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090543731,
+      "event_name": "Upcoming - India's International Friendlies - India vs Uruguay",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "LIV",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025803/1791041469410376_IND_vs_URU_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
