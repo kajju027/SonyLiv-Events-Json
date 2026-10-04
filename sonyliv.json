@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/10/2026, 2:23:56 pm",
+  "updatedAt": "4/10/2026, 2:40:58 pm",
   "total_matches": 14,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc"
     },
     {
       "match_id": "1090546990_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc"
     },
     {
       "match_id": "1090546990_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc"
     },
     {
       "match_id": "1090546990_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc"
     },
     {
       "match_id": "1090546990_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025816/1791053737319612_AG26_closing_ceremony_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791147023~acl=/*~id=29831979086141715278291491756738~hmac=e16206cb7883990c89e102fe274230bf21481b1c6d8491acaeec5beb0500b791"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_closi0410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791148242~acl=/*~id=28276514591060683043692154375783~hmac=b54d2ab508611f035420cb87575f4d019775d3cdca425e1638985e51b47fd5fc"
     },
     {
       "match_id": "1090546990",
