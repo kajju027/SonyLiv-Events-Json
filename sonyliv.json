@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/10/2026, 2:31:30 am",
-  "total_matches": 8,
-  "live_matches": 1,
+  "updatedAt": "5/10/2026, 2:51:41 am",
+  "total_matches": 7,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090547005",
-      "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Portugal vs Norway [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790824955115953_UNL2627_MD4_Portugal_vs_Norway_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/?hdnea=exp=1791181235~acl=/*~id=47987196680457414852985663169275~hmac=fc14e380a81e024e6416332bcce366dec6c0e5cb3efc935aab70e92a48a44bca",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/?hdnea=exp=1791181235~acl=/*~id=47987196680457414852985663169275~hmac=fc14e380a81e024e6416332bcce366dec6c0e5cb3efc935aab70e92a48a44bca",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/?hdnea=exp=1791181235~acl=/*~id=47987196680457414852985663169275~hmac=fc14e380a81e024e6416332bcce366dec6c0e5cb3efc935aab70e92a48a44bca"
-    },
     {
       "match_id": 1090546015,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
