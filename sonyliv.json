@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/10/2026, 10:41:08 pm",
+  "updatedAt": "4/10/2026, 10:46:27 pm",
   "total_matches": 12,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795255287993_UNL2627_MD4_Kosovo_vs_Austria_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791176756~acl=/*~id=63013940327102546817509923359756~hmac=e4b4e8b5b7317108a4c4d8cfff7e5b5aedb2ae78307289d1a91b656dd14f767a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791176756~acl=/*~id=63013940327102546817509923359756~hmac=e4b4e8b5b7317108a4c4d8cfff7e5b5aedb2ae78307289d1a91b656dd14f767a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791176756~acl=/*~id=63013940327102546817509923359756~hmac=e4b4e8b5b7317108a4c4d8cfff7e5b5aedb2ae78307289d1a91b656dd14f767a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791177362~acl=/*~id=17377806001545954098385995696822~hmac=e50630a8459e6ec458ecee0252f54590c6bb3fbae515143719d56eb054f3c17e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791177362~acl=/*~id=17377806001545954098385995696822~hmac=e50630a8459e6ec458ecee0252f54590c6bb3fbae515143719d56eb054f3c17e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791177362~acl=/*~id=17377806001545954098385995696822~hmac=e50630a8459e6ec458ecee0252f54590c6bb3fbae515143719d56eb054f3c17e"
     },
     {
       "match_id": "1090547002_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795407473993_UNL2627_MD4_Malta_vs_Andorra_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791176756~acl=/*~id=63013940327102546817509923359756~hmac=e4b4e8b5b7317108a4c4d8cfff7e5b5aedb2ae78307289d1a91b656dd14f767a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791176756~acl=/*~id=63013940327102546817509923359756~hmac=e4b4e8b5b7317108a4c4d8cfff7e5b5aedb2ae78307289d1a91b656dd14f767a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791176756~acl=/*~id=63013940327102546817509923359756~hmac=e4b4e8b5b7317108a4c4d8cfff7e5b5aedb2ae78307289d1a91b656dd14f767a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791177362~acl=/*~id=17377806001545954098385995696822~hmac=e50630a8459e6ec458ecee0252f54590c6bb3fbae515143719d56eb054f3c17e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791177362~acl=/*~id=17377806001545954098385995696822~hmac=e50630a8459e6ec458ecee0252f54590c6bb3fbae515143719d56eb054f3c17e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791177362~acl=/*~id=17377806001545954098385995696822~hmac=e50630a8459e6ec458ecee0252f54590c6bb3fbae515143719d56eb054f3c17e"
     },
     {
       "match_id": "1090547001",
