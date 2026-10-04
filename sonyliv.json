@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/10/2026, 8:49:16 am",
-  "total_matches": 9,
-  "live_matches": 1,
+  "updatedAt": "4/10/2026, 8:52:24 am",
+  "total_matches": 8,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090546670",
-      "event_name": " UFC 332 - Silva vs Wang",
-      "match_name": "UFC 332 - Silva vs Wang [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025774/1791028791611819_UFC_332_Silva_vs_Wang_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFC_0310/?hdnea=exp=1791108068~acl=/*~id=95520207700522243888237143823220~hmac=25911d4f37315f98580559fca221efcddc8b3e6c16133a81908994f1d7a901e7"
-    },
     {
       "match_id": 1090546015,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
