@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/10/2026, 11:23:44 pm",
+  "updatedAt": "5/10/2026, 11:24:05 pm",
   "total_matches": 9,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826911383953_UNL2627_MD4_Cyprus_vs_Latvia_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791265165~acl=/*~id=45781175532152693807319739871742~hmac=5539d85f9353d7551dd01240af47ff4a615f2927eb634da6045f27d73a3e34fa",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791265165~acl=/*~id=45781175532152693807319739871742~hmac=5539d85f9353d7551dd01240af47ff4a615f2927eb634da6045f27d73a3e34fa",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791265165~acl=/*~id=45781175532152693807319739871742~hmac=5539d85f9353d7551dd01240af47ff4a615f2927eb634da6045f27d73a3e34fa"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791265771~acl=/*~id=76851970070204598228702150626970~hmac=c87627041f94ed8b8bf576f060df6d524a857b6a64c194e8782afdb19145c723",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791265771~acl=/*~id=76851970070204598228702150626970~hmac=c87627041f94ed8b8bf576f060df6d524a857b6a64c194e8782afdb19145c723",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791265771~acl=/*~id=76851970070204598228702150626970~hmac=c87627041f94ed8b8bf576f060df6d524a857b6a64c194e8782afdb19145c723"
     },
     {
       "match_id": "1090547070",
