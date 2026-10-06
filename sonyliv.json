@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/10/2026, 6:22:50 pm",
-  "total_matches": 17,
+  "updatedAt": "6/10/2026, 6:42:35 pm",
+  "total_matches": 16,
   "live_matches": 11,
   "matches": [
     {
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547205_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547205_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547205_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547205_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547202_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547202_HIN",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/Volleyba0610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547296_BEN",
@@ -105,9 +105,9 @@
       "digital_broadcast": "LIV",
       "language": "BEN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196784948723_IND_vs_URU_live_landscape_thumb_benagli.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791335460~acl=/*~id=45395697424399737106016654401248~hmac=d2a3c0b9709f54df778a5ff2e32f3d9f49d1f74045caeba86dd0f47746e14135"
     },
     {
       "match_id": "1090547205",
@@ -170,19 +170,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090543731,
-      "event_name": "Upcoming - India's International Friendlies - India vs Uruguay",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025899/1791239612288660_IND_vs_URU_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
