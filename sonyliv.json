@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/10/2026, 6:13:24 pm",
-  "total_matches": 14,
-  "live_matches": 8,
+  "updatedAt": "6/10/2026, 6:22:50 pm",
+  "total_matches": 17,
+  "live_matches": 11,
   "matches": [
     {
       "match_id": "1090547205_ENG",
@@ -108,6 +108,45 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791333615~acl=/*~id=87761920900379310295175885981171~hmac=aa5a9b322e4528ed75b6f52f02e33d6eaa317c0eb06fd5d6e33a25425257bf9c"
+    },
+    {
+      "match_id": "1090547205",
+      "event_name": "India's International Friendlies 2026",
+      "match_name": "India vs Uruguay [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0"
+    },
+    {
+      "match_id": "1090547202",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Emperia Marathas vs Punjab Aerostrikers [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32"
+    },
+    {
+      "match_id": "1090547296",
+      "event_name": "India's International Friendlies 2026",
+      "match_name": "India vs Uruguay (Bengali) [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196784948723_IND_vs_URU_live_landscape_thumb_benagli.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32"
     },
     {
       "match_id": 1090546950,
