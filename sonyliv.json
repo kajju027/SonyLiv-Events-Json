@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/10/2026, 9:52:18 pm",
-  "total_matches": 17,
-  "live_matches": 12,
+  "updatedAt": "6/10/2026, 9:52:53 pm",
+  "total_matches": 16,
+  "live_matches": 11,
   "matches": [
     {
       "match_id": "1090547205_ENG",
@@ -147,19 +147,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32"
-    },
-    {
-      "match_id": "1090547220",
-      "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Kazakhstan vs Faroe Islands [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880464463804_UNL2627_MD4_Kazakhstan_vs_Faroe_Islands_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec"
     },
     {
       "match_id": 1090546950,
