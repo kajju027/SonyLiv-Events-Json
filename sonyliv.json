@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/10/2026, 6:51:39 pm",
+  "updatedAt": "7/10/2026, 6:59:15 pm",
   "total_matches": 8,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025944/1791297098402989_VCL_Ayodhya-Garjan-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791422216~acl=/*~id=64797978875336271696688754087511~hmac=ceb0cfffa5a55f6cd6a0d5252cd1155993080a66a886ef954deac107ba3f1216",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791422216~acl=/*~id=64797978875336271696688754087511~hmac=ceb0cfffa5a55f6cd6a0d5252cd1155993080a66a886ef954deac107ba3f1216",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791422216~acl=/*~id=64797978875336271696688754087511~hmac=ceb0cfffa5a55f6cd6a0d5252cd1155993080a66a886ef954deac107ba3f1216"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791422823~acl=/*~id=44690349910232504879468567581312~hmac=e7585fd29ba11e924dae612fe105876f3f1acb5d72d772ee8af3a41032d6d883",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791422823~acl=/*~id=44690349910232504879468567581312~hmac=e7585fd29ba11e924dae612fe105876f3f1acb5d72d772ee8af3a41032d6d883",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791422823~acl=/*~id=44690349910232504879468567581312~hmac=e7585fd29ba11e924dae612fe105876f3f1acb5d72d772ee8af3a41032d6d883"
     },
     {
       "match_id": "1090547324_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025944/1791297098402989_VCL_Ayodhya-Garjan-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791422216~acl=/*~id=64797978875336271696688754087511~hmac=ceb0cfffa5a55f6cd6a0d5252cd1155993080a66a886ef954deac107ba3f1216",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791422216~acl=/*~id=64797978875336271696688754087511~hmac=ceb0cfffa5a55f6cd6a0d5252cd1155993080a66a886ef954deac107ba3f1216",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791422216~acl=/*~id=64797978875336271696688754087511~hmac=ceb0cfffa5a55f6cd6a0d5252cd1155993080a66a886ef954deac107ba3f1216"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791422823~acl=/*~id=44690349910232504879468567581312~hmac=e7585fd29ba11e924dae612fe105876f3f1acb5d72d772ee8af3a41032d6d883",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791422823~acl=/*~id=44690349910232504879468567581312~hmac=e7585fd29ba11e924dae612fe105876f3f1acb5d72d772ee8af3a41032d6d883",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791422823~acl=/*~id=44690349910232504879468567581312~hmac=e7585fd29ba11e924dae612fe105876f3f1acb5d72d772ee8af3a41032d6d883"
     },
     {
       "match_id": "1090547324",
@@ -45,19 +45,6 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/?hdnea=exp=1791420638~acl=/*~id=62441916876151266317346075795007~hmac=d8af036f8e9de9e20f30bc44b4b8909135fb76cf642a89e351940b152f73999d"
     },
     {
-      "match_id": 1090546015,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
       "match_name": "",
@@ -66,6 +53,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025976/1791371037891297_ISL_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090546015,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
