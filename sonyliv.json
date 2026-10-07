@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/10/2026, 10:10:59 pm",
-  "total_matches": 8,
-  "live_matches": 3,
+  "updatedAt": "7/10/2026, 10:20:21 pm",
+  "total_matches": 6,
+  "live_matches": 1,
   "matches": [
-    {
-      "match_id": "1090547324_ENG",
-      "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Hooghly Hitters vs Namma Bengaluru Smashers - 7 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Volleyball",
-      "digital_broadcast": "Sony Sports Ten 1",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791434352~acl=/*~id=70005307059191128873694913459814~hmac=bc982813da4e31f0d0daac6246a251c3d859716d8c875add57651392e8968f26",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791434352~acl=/*~id=70005307059191128873694913459814~hmac=bc982813da4e31f0d0daac6246a251c3d859716d8c875add57651392e8968f26",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791434352~acl=/*~id=70005307059191128873694913459814~hmac=bc982813da4e31f0d0daac6246a251c3d859716d8c875add57651392e8968f26"
-    },
-    {
-      "match_id": "1090547324_HIN",
-      "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Hooghly Hitters vs Namma Bengaluru Smashers - 7 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Volleyball",
-      "digital_broadcast": "Sony Sports Ten 1",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791434352~acl=/*~id=70005307059191128873694913459814~hmac=bc982813da4e31f0d0daac6246a251c3d859716d8c875add57651392e8968f26",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791434352~acl=/*~id=70005307059191128873694913459814~hmac=bc982813da4e31f0d0daac6246a251c3d859716d8c875add57651392e8968f26",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791434352~acl=/*~id=70005307059191128873694913459814~hmac=bc982813da4e31f0d0daac6246a251c3d859716d8c875add57651392e8968f26"
-    },
     {
       "match_id": "1090547324",
       "event_name": "Volleyball Championship League 2026 ",
