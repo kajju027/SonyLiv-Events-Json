@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/10/2026, 9:09:43 pm",
+  "updatedAt": "7/10/2026, 9:11:55 pm",
   "total_matches": 8,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791430710~acl=/*~id=67576260234261891350427227527704~hmac=03a3c9a63e1195da5c582e908029dc6e3682b023eb87985e9f88500b6a77197a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791430710~acl=/*~id=67576260234261891350427227527704~hmac=03a3c9a63e1195da5c582e908029dc6e3682b023eb87985e9f88500b6a77197a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791430710~acl=/*~id=67576260234261891350427227527704~hmac=03a3c9a63e1195da5c582e908029dc6e3682b023eb87985e9f88500b6a77197a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791430104~acl=/*~id=62612193888577058474497633999552~hmac=503c064873f603edb040892d57175717dcec021667a51958d59f965af2745015",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791430104~acl=/*~id=62612193888577058474497633999552~hmac=503c064873f603edb040892d57175717dcec021667a51958d59f965af2745015",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791430104~acl=/*~id=62612193888577058474497633999552~hmac=503c064873f603edb040892d57175717dcec021667a51958d59f965af2745015"
     },
     {
       "match_id": "1090547324_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025957/1791355174953342_VCL_Hoogly-Hitters-vs-Namma-Bengaluru-Smashers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791430710~acl=/*~id=67576260234261891350427227527704~hmac=03a3c9a63e1195da5c582e908029dc6e3682b023eb87985e9f88500b6a77197a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791430710~acl=/*~id=67576260234261891350427227527704~hmac=03a3c9a63e1195da5c582e908029dc6e3682b023eb87985e9f88500b6a77197a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791430710~acl=/*~id=67576260234261891350427227527704~hmac=03a3c9a63e1195da5c582e908029dc6e3682b023eb87985e9f88500b6a77197a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791430104~acl=/*~id=62612193888577058474497633999552~hmac=503c064873f603edb040892d57175717dcec021667a51958d59f965af2745015",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791430104~acl=/*~id=62612193888577058474497633999552~hmac=503c064873f603edb040892d57175717dcec021667a51958d59f965af2745015",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Volleyba0710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791430104~acl=/*~id=62612193888577058474497633999552~hmac=503c064873f603edb040892d57175717dcec021667a51958d59f965af2745015"
     },
     {
       "match_id": "1090547324",
