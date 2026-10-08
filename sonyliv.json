@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/10/2026, 5:24:30 pm",
-  "total_matches": 13,
-  "live_matches": 1,
+  "updatedAt": "8/10/2026, 5:25:38 pm",
+  "total_matches": 14,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090547326_ENG",
@@ -17,6 +17,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791503376~acl=/*~id=28291147779836876181203497209628~hmac=6a3043e6911a91224c2878e276053cb821774b8956de05719a4ac30af05548e9",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791503376~acl=/*~id=28291147779836876181203497209628~hmac=6a3043e6911a91224c2878e276053cb821774b8956de05719a4ac30af05548e9",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791503376~acl=/*~id=28291147779836876181203497209628~hmac=6a3043e6911a91224c2878e276053cb821774b8956de05719a4ac30af05548e9"
+    },
+    {
+      "match_id": "1090547326",
+      "event_name": "DP World Tour",
+      "match_name": "Open de Espana Presented By Madrid - Day 1 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/?hdnea=exp=1791503434~acl=/*~id=55403735727410719754647001102191~hmac=d773b4b48c3518b6d301fd1f4029b0add59f1cef83cad6fd66875339786f3f94",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/?hdnea=exp=1791503434~acl=/*~id=55403735727410719754647001102191~hmac=d773b4b48c3518b6d301fd1f4029b0add59f1cef83cad6fd66875339786f3f94",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/?hdnea=exp=1791503434~acl=/*~id=55403735727410719754647001102191~hmac=d773b4b48c3518b6d301fd1f4029b0add59f1cef83cad6fd66875339786f3f94"
     },
     {
       "match_id": 1090547508,
