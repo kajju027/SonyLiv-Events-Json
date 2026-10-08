@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/10/2026, 7:36:35 pm",
+  "updatedAt": "8/10/2026, 7:37:26 pm",
   "total_matches": 19,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1"
     },
     {
       "match_id": "1090547521_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1"
     },
     {
       "match_id": "1090547516_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025963/1791360261025494_APL26_Rajputana-Royals-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1"
     },
     {
       "match_id": "1090547326_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510657~acl=/*~id=89240334321426749852293644945903~hmac=64b5ab9d1e591e1d07a75b9a1f62b8cb7101940661744282d43c39a65fcd8b74"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791511286~acl=/*~id=80130362038872009484922640374316~hmac=e3faa4d680e833ca574442cc899925c4c9743e0bd5abc4f3836a97801b1bcfc1"
     },
     {
       "match_id": "1090547521",
