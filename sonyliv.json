@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/10/2026, 7:05:52 pm",
+  "updatedAt": "8/10/2026, 7:14:03 pm",
   "total_matches": 18,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37"
     },
     {
       "match_id": "1090547521_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37"
     },
     {
       "match_id": "1090547516_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025963/1791360261025494_APL26_Rajputana-Royals-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37"
     },
     {
       "match_id": "1090547326_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791509463~acl=/*~id=66664877131827430033203079568314~hmac=7caa5dc249cf2b39dc1175c9ac24a00174cac103fd1eddaddaf6cfa01ea0161f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791510072~acl=/*~id=42049629929934508859395949343044~hmac=ca9a55dc92caffd85165ecc4cf26718ede341feadf5840e266d8b9a240f5eb37"
     },
     {
       "match_id": "1090547521",
@@ -84,6 +84,19 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/?hdnea=exp=1791503434~acl=/*~id=55403735727410719754647001102191~hmac=d773b4b48c3518b6d301fd1f4029b0add59f1cef83cad6fd66875339786f3f94"
     },
     {
+      "match_id": 1090547563,
+      "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
       "match_name": "",
@@ -97,14 +110,14 @@
       "video_url": ""
     },
     {
-      "match_id": 1090547563,
-      "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27",
+      "match_id": 1090547561,
+      "event_name": "Upcoming - Manchester City vs PSG - UEFA Champions League 2026-27",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -131,19 +144,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026021/1791455625098932_UCL26_Galatasaray-vs-Barcelona_promo_landscape_thumb_ddt.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090547561,
-      "event_name": "Upcoming - Manchester City vs PSG - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
