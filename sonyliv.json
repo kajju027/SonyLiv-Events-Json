@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/10/2026, 7:14:03 pm",
-  "total_matches": 18,
-  "live_matches": 6,
+  "updatedAt": "8/10/2026, 7:21:12 pm",
+  "total_matches": 19,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090547521_ENG",
@@ -69,6 +69,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/?hdnea=exp=1791508837~acl=/*~id=15902991259242377136229779935244~hmac=0fb08f7fc8ba4e5e16ff6e2a0043665d23026597577848b21ee381508a99861a",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/?hdnea=exp=1791508837~acl=/*~id=15902991259242377136229779935244~hmac=0fb08f7fc8ba4e5e16ff6e2a0043665d23026597577848b21ee381508a99861a",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/?hdnea=exp=1791508837~acl=/*~id=15902991259242377136229779935244~hmac=0fb08f7fc8ba4e5e16ff6e2a0043665d23026597577848b21ee381508a99861a"
+    },
+    {
+      "match_id": "1090547516",
+      "event_name": "Archery Premier League 2026",
+      "match_name": "Rajputana Royals vs Prithviraj Yodhas [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025963/1791360261025494_APL26_Rajputana-Royals-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/?hdnea=exp=1791510641~acl=/*~id=67479540188123693045633703018365~hmac=6cb55c97e0fd37b864eec5101de30c71c72a07b91fecc20a517c49b36325de7d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/?hdnea=exp=1791510641~acl=/*~id=67479540188123693045633703018365~hmac=6cb55c97e0fd37b864eec5101de30c71c72a07b91fecc20a517c49b36325de7d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/?hdnea=exp=1791510641~acl=/*~id=67479540188123693045633703018365~hmac=6cb55c97e0fd37b864eec5101de30c71c72a07b91fecc20a517c49b36325de7d"
     },
     {
       "match_id": "1090547326",
