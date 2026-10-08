@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/10/2026, 5:40:58 pm",
-  "total_matches": 14,
-  "live_matches": 2,
+  "updatedAt": "8/10/2026, 6:01:20 pm",
+  "total_matches": 16,
+  "live_matches": 4,
   "matches": [
+    {
+      "match_id": "1090547521_ENG",
+      "event_name": "Volleyball Champions League 2026",
+      "match_name": "Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046"
+    },
+    {
+      "match_id": "1090547521_HIN",
+      "event_name": "Volleyball Champions League 2026",
+      "match_name": "Emperia Marathas vs Rajasthan Spikers  - 8 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791370390628475_VCL_Emperia-Marathas-vs-Rajasthan-Spikers_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046"
+    },
     {
       "match_id": "1090547326_ENG",
       "event_name": "DP World Tour",
@@ -14,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791504590~acl=/*~id=03517781518624548885792181722705~hmac=566f31071316faee8d4b87346ae37444ceb917c6780cdf3eb839b023cb4194cb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791504590~acl=/*~id=03517781518624548885792181722705~hmac=566f31071316faee8d4b87346ae37444ceb917c6780cdf3eb839b023cb4194cb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791504590~acl=/*~id=03517781518624548885792181722705~hmac=566f31071316faee8d4b87346ae37444ceb917c6780cdf3eb839b023cb4194cb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791505815~acl=/*~id=43623364457157568231230698815418~hmac=383239849e93e0addfefb0488dce8ad0213bc60d42222e0229e512b67aa3b046"
     },
     {
       "match_id": "1090547326",
@@ -117,7 +143,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791448254955949_UCL_MAN_CITY_vs_PSG_landscape.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026017/1791450952659369_UCL26_MAN-CITY_vs_PSG_promo_landscape_thumb_ddt.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -130,7 +156,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791448123466949_UCL_ROMA_VS_REAL_MADRID_landscape.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451533051457_UCL26_ROMA_vs_Real-Madrid_promo_landscape_thumb_ddt.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
