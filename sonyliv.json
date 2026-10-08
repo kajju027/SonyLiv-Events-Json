@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/10/2026, 8:54:52 pm",
+  "updatedAt": "8/10/2026, 8:57:10 pm",
   "total_matches": 19,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791372668784475_VCL_Haryana-Hurricanes-vs-Delhi-Dynamites_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7"
     },
     {
       "match_id": "1090547521_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791372668784475_VCL_Haryana-Hurricanes-vs-Delhi-Dynamites_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba0810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7"
     },
     {
       "match_id": "1090547516_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025915/1791271198065161_APL26_Kakatiya-Knights-vs-Mighty-Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7"
     },
     {
       "match_id": "1090547326_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791516164~acl=/*~id=68484497624526204079734044608876~hmac=df66105f1b5f39204fc6898f83e0e0ec8b814d3686d0e0fafdaad860ecc7a669"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791515554~acl=/*~id=89479495565687285875041221274939~hmac=75f793adc34ee6a0d6f67646a44bcf1e9cae3f458efdecc5b70179c061173bd7"
     },
     {
       "match_id": "1090547521",
