@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/10/2026, 5:09:47 pm",
+  "updatedAt": "8/10/2026, 5:20:31 pm",
   "total_matches": 13,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649374942310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791502750~acl=/*~id=91881743189218137080010516170722~hmac=8fa97a96aee0f310b2f99edac14e9a060de868dd9f35b93376c031d5cb288012",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791502750~acl=/*~id=91881743189218137080010516170722~hmac=8fa97a96aee0f310b2f99edac14e9a060de868dd9f35b93376c031d5cb288012",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791502750~acl=/*~id=91881743189218137080010516170722~hmac=8fa97a96aee0f310b2f99edac14e9a060de868dd9f35b93376c031d5cb288012"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791503376~acl=/*~id=28291147779836876181203497209628~hmac=6a3043e6911a91224c2878e276053cb821774b8956de05719a4ac30af05548e9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791503376~acl=/*~id=28291147779836876181203497209628~hmac=6a3043e6911a91224c2878e276053cb821774b8956de05719a4ac30af05548e9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/golflive0810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791503376~acl=/*~id=28291147779836876181203497209628~hmac=6a3043e6911a91224c2878e276053cb821774b8956de05719a4ac30af05548e9"
     },
     {
       "match_id": 1090547508,
