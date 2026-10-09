@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/10/2026, 7:21:27 pm",
-  "total_matches": 19,
-  "live_matches": 7,
+  "updatedAt": "9/10/2026, 7:22:41 pm",
+  "total_matches": 18,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090547531_ENG",
@@ -69,19 +69,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec"
-    },
-    {
-      "match_id": "1090547533",
-      "event_name": "Archery Premier League 2026",
-      "match_name": "Kakatiya Knights vs Chola Chiefs [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026047/1791527609190776_APL26_Kakatiya-Knights-vs-Chola-Chiefs_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Archery_0910/?hdnea=exp=1791597035~acl=/*~id=65162814384091371522518530136566~hmac=099b7e416b5667a824f7f8d64ae52e3fccd50cc779fc0c9ecf29d7f55e662fae"
     },
     {
       "match_id": "1090547530",
