@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/10/2026, 6:15:02 pm",
-  "total_matches": 16,
-  "live_matches": 4,
+  "updatedAt": "9/10/2026, 6:21:36 pm",
+  "total_matches": 17,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090547531_ENG",
@@ -43,6 +43,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791593029~acl=/*~id=98053665077097185433792379650710~hmac=f9090fafc79b283e88fef9bdf375279fb4a2164494d6ab4392eede02bc28ff89",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791593029~acl=/*~id=98053665077097185433792379650710~hmac=f9090fafc79b283e88fef9bdf375279fb4a2164494d6ab4392eede02bc28ff89",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791593029~acl=/*~id=98053665077097185433792379650710~hmac=f9090fafc79b283e88fef9bdf375279fb4a2164494d6ab4392eede02bc28ff89"
+    },
+    {
+      "match_id": "1090547531",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Punjab Aerostrikers vs Garvi Gujjus [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373064988475_VCL_Punjab-Aerostrikers-vs-Garvi-Gujjus_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba0910/?hdnea=exp=1791593448~acl=/*~id=88661682402553381503747163847761~hmac=07b7b5f14af67c1b4dfd511fc4b0381852724228f44849d1c246aa2776fffaec"
     },
     {
       "match_id": "1090547530",
