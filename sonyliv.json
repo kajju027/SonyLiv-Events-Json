@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/10/2026, 5:14:26 pm",
-  "total_matches": 13,
-  "live_matches": 1,
+  "updatedAt": "9/10/2026, 5:21:55 pm",
+  "total_matches": 14,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090547530_ENG",
@@ -17,6 +17,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791589394~acl=/*~id=66343631607792714280529439552618~hmac=552d3bd0b569dcf73097ac11cd9ce59428a9e3f6c4dddcd90263cffe6ab34ab5",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791589394~acl=/*~id=66343631607792714280529439552618~hmac=552d3bd0b569dcf73097ac11cd9ce59428a9e3f6c4dddcd90263cffe6ab34ab5",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791589394~acl=/*~id=66343631607792714280529439552618~hmac=552d3bd0b569dcf73097ac11cd9ce59428a9e3f6c4dddcd90263cffe6ab34ab5"
+    },
+    {
+      "match_id": "1090547530",
+      "event_name": "DP World Tour",
+      "match_name": "Open de Espana Presented By Madrid - Day 2 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649382069310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day2_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_DPW0910/?hdnea=exp=1791589835~acl=/*~id=46049840398994324245206794874766~hmac=dc8568a8d56f4996d0a1e27a75def6957d68fe3d634052d178843d385259b82b"
     },
     {
       "match_id": 1090547563,
