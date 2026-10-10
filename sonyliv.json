@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/10/2026, 4:28:44 pm",
-  "total_matches": 17,
-  "live_matches": 3,
+  "updatedAt": "10/10/2026, 4:38:55 pm",
+  "total_matches": 18,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090547633_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696"
     },
     {
       "match_id": "1090547633_HIN",
@@ -27,9 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696"
+    },
+    {
+      "match_id": "1090547534_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Open de Espana Presented By Madrid - Day 3 - 10 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649388803310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day3_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791673551~acl=/*~id=23818968538432705467774140161451~hmac=b67688b03c47999749f28374db22688c8fccfff544974196af6a4f056a1b7696"
     },
     {
       "match_id": "1090547633",
