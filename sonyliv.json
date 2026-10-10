@@ -1,13 +1,13 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/10/2026, 1:30:23 am",
-  "total_matches": 12,
+  "updatedAt": "10/10/2026, 11:33:45 am",
+  "total_matches": 13,
   "live_matches": 0,
   "matches": [
     {
-      "match_id": 1090547563,
-      "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27",
+      "match_id": 1090547667,
+      "event_name": "Upcoming - UEFA Champions League 2026-27",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
@@ -53,6 +53,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090547563,
+      "event_name": "Upcoming - Atletico Madrid vs Manchester United - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
