@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/10/2026, 4:28:35 pm",
+  "updatedAt": "10/10/2026, 4:28:44 pm",
   "total_matches": 17,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672339~acl=/*~id=74587499810819402582062178807275~hmac=3022250ead12009ebe7ca0d48cbfa7a1bb1c4d82a4398218eee17c76e3450eb4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672339~acl=/*~id=74587499810819402582062178807275~hmac=3022250ead12009ebe7ca0d48cbfa7a1bb1c4d82a4398218eee17c76e3450eb4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672339~acl=/*~id=74587499810819402582062178807275~hmac=3022250ead12009ebe7ca0d48cbfa7a1bb1c4d82a4398218eee17c76e3450eb4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3"
     },
     {
       "match_id": "1090547633_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672339~acl=/*~id=74587499810819402582062178807275~hmac=3022250ead12009ebe7ca0d48cbfa7a1bb1c4d82a4398218eee17c76e3450eb4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672339~acl=/*~id=74587499810819402582062178807275~hmac=3022250ead12009ebe7ca0d48cbfa7a1bb1c4d82a4398218eee17c76e3450eb4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672339~acl=/*~id=74587499810819402582062178807275~hmac=3022250ead12009ebe7ca0d48cbfa7a1bb1c4d82a4398218eee17c76e3450eb4"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791672945~acl=/*~id=31662421036487667622066166672965~hmac=a1c38c8e098980075fdbf948b680b7fb7d04b34da85a9b0b905c3cbe809d88c3"
     },
     {
       "match_id": "1090547633",
@@ -43,19 +43,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e"
-    },
-    {
-      "match_id": 1090547508,
-      "event_name": "Upcoming - MG Indian Super League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026055/1791532535024721_ISL_Goa_vs_chennai_tonight_landscape_Thum.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
     },
     {
       "match_id": 1090547667,
@@ -92,6 +79,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090547508,
+      "event_name": "Upcoming - MG Indian Super League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026055/1791532535024721_ISL_Goa_vs_chennai_tonight_landscape_Thum.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
