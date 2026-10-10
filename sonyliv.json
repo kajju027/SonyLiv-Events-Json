@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/10/2026, 1:07:56 pm",
-  "total_matches": 13,
+  "updatedAt": "10/10/2026, 1:08:01 pm",
+  "total_matches": 14,
   "live_matches": 0,
   "matches": [
     {
@@ -92,6 +92,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026019/1791451533051457_UCL26_ROMA_vs_Real-Madrid_promo_landscape_thumb_ddt.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090547699,
+      "event_name": "Upcoming - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026094/1791613855947338_UCL_Roma_manch_city_combo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
