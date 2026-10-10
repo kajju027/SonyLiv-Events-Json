@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/10/2026, 6:00:22 pm",
-  "total_matches": 19,
-  "live_matches": 5,
+  "updatedAt": "10/10/2026, 6:08:57 pm",
+  "total_matches": 21,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090547633_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8"
     },
     {
       "match_id": "1090547633_HIN",
@@ -27,9 +27,35 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8"
+    },
+    {
+      "match_id": "1090547535_ENG",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Rajasthan Spikers vs Ayodhya Garjan - 10 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8"
+    },
+    {
+      "match_id": "1090547535_HIN",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Rajasthan Spikers vs Ayodhya Garjan - 10 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8"
     },
     {
       "match_id": "1090547534_ENG",
@@ -40,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649388803310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791678407~acl=/*~id=00537734465411651381016309485803~hmac=3fa9a1856225f4d622107564442dac408f1ff8a8b471a78f8ad4735bb748a25d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791679014~acl=/*~id=51025034677400454423732879261758~hmac=38e3ccee70ec2c2940e68903f596e2731a9a0170162b40030a9056b5977fd1c8"
     },
     {
       "match_id": "1090547633",
