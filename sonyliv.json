@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 8:38:25 am",
-  "total_matches": 15,
-  "live_matches": 1,
+  "updatedAt": "11/10/2026, 8:53:41 am",
+  "total_matches": 14,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090547698",
-      "event_name": "UFC Fight Night - Allen vs Duncan ",
-      "match_name": "UFC Fight Night - Allen vs Duncan [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0"
-    },
     {
       "match_id": 1090547667,
       "event_name": "Upcoming - UEFA Champions League 2026-27",
