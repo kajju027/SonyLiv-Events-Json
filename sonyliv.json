@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 5:45:12 am",
+  "updatedAt": "11/10/2026, 5:55:08 am",
   "total_matches": 20,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
     },
     {
       "match_id": "1090547698_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
     },
     {
       "match_id": "1090547698_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
     },
     {
       "match_id": "1090547698_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/UFC_UFCF1010/TEL/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
     },
     {
       "match_id": "1090547698_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791720828~acl=/*~id=09726238375374442003374625799952~hmac=82204541922308453b25081f708dc130af849ce9f0a88accd106f8346ab4b27a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791721435~acl=/*~id=13045868740673730840782413355719~hmac=c571bd4467fa19942e8d68b0d2c8e48b71ff6ae83f72c3acb2fd373db719d8c8"
     },
     {
       "match_id": "1090547698",
