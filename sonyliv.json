@@ -1,49 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 8:31:34 am",
-  "total_matches": 18,
-  "live_matches": 4,
+  "updatedAt": "11/10/2026, 8:38:24 am",
+  "total_matches": 15,
+  "live_matches": 1,
   "matches": [
-    {
-      "match_id": "1090547698_ENG",
-      "event_name": "UFC Fight Night - Allen vs Duncan ",
-      "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6"
-    },
-    {
-      "match_id": "1090547698_TAM",
-      "event_name": "UFC Fight Night - Allen vs Duncan ",
-      "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [TAM]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6"
-    },
-    {
-      "match_id": "1090547698_KAN",
-      "event_name": "UFC Fight Night - Allen vs Duncan ",
-      "match_name": "UFC Fight Night - Allen vs Duncan - 11 Oct 2026 [KAN]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/UFC_UFCF1010/KAN/std_lrh-800300010.m3u8?hdnea=exp=1791730545~acl=/*~id=81226164156239745309118540763187~hmac=2b75c1da0f68b54143f6a077900de8f7cc67dbb30d7f056e793254faad9fa6a6"
-    },
     {
       "match_id": "1090547698",
       "event_name": "UFC Fight Night - Allen vs Duncan ",
