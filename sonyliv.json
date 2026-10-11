@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 9:16:26 pm",
+  "updatedAt": "11/10/2026, 9:17:21 pm",
   "total_matches": 22,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff"
     },
     {
       "match_id": "1090547704_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff"
     },
     {
       "match_id": "1090547695_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff"
     },
     {
       "match_id": "1090547695_HIN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff"
     },
     {
       "match_id": "1090547697_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026051/1791529454329250_APL26_Mighty-Marathas-vs-Rajputana-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791775978~acl=/*~id=81999370327875033609911333432403~hmac=ad809d3f5790477361fd759ba7182616c71b8c34b0a58bbe1735de3e4cb50850"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791776586~acl=/*~id=62127973271627657499560917943579~hmac=19749e7d4a15f27fa9f4c9722670f591d39965576fb45738d845bf9ceb01a4ff"
     },
     {
       "match_id": "1090547704",
