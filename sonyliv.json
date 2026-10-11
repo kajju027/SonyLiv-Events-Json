@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 9:39:28 am",
-  "total_matches": 14,
-  "live_matches": 0,
+  "updatedAt": "11/10/2026, 4:11:34 pm",
+  "total_matches": 15,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090547693_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Open de Espana Presented By Madrid - Day 4 - 11 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791758368~acl=/*~id=91392848986206166715392655743158~hmac=7d5dff2f354016e0dbcc1b2b39ed269191073289ae54f679415a6d8d32ecf846",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791758368~acl=/*~id=91392848986206166715392655743158~hmac=7d5dff2f354016e0dbcc1b2b39ed269191073289ae54f679415a6d8d32ecf846",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791758368~acl=/*~id=91392848986206166715392655743158~hmac=7d5dff2f354016e0dbcc1b2b39ed269191073289ae54f679415a6d8d32ecf846"
+    },
     {
       "match_id": 1090547667,
       "event_name": "Upcoming - UEFA Champions League 2026-27",
