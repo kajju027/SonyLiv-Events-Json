@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 8:46:49 pm",
-  "total_matches": 23,
-  "live_matches": 9,
+  "updatedAt": "11/10/2026, 8:51:53 pm",
+  "total_matches": 22,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090547704_ENG",
@@ -108,19 +108,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/?hdnea=exp=1791771633~acl=/*~id=64009528623649768668253581666217~hmac=6aa15bf84447b18cc6c06697e691149299e317cbe1d876e191439b5f8e17c17e",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/?hdnea=exp=1791771633~acl=/*~id=64009528623649768668253581666217~hmac=6aa15bf84447b18cc6c06697e691149299e317cbe1d876e191439b5f8e17c17e",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/?hdnea=exp=1791771633~acl=/*~id=64009528623649768668253581666217~hmac=6aa15bf84447b18cc6c06697e691149299e317cbe1d876e191439b5f8e17c17e"
-    },
-    {
-      "match_id": "1090547693",
-      "event_name": "DP World Tour",
-      "match_name": "Open de Espana Presented By Madrid - Day 4 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb"
     },
     {
       "match_id": 1090547667,
