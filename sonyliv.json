@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 10:22:48 pm",
-  "total_matches": 15,
-  "live_matches": 1,
+  "updatedAt": "11/10/2026, 10:23:41 pm",
+  "total_matches": 14,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090547695",
-      "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Namma Bengaluru Smashers vs Haryana Hurricanes [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626"
-    },
     {
       "match_id": 1090547667,
       "event_name": "Upcoming - UEFA Champions League 2026-27",
