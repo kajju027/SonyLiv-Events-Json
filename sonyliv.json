@@ -1,49 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 7:04:58 pm",
-  "total_matches": 26,
-  "live_matches": 12,
+  "updatedAt": "11/10/2026, 7:15:10 pm",
+  "total_matches": 23,
+  "live_matches": 9,
   "matches": [
-    {
-      "match_id": "1090547694_ENG",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
-    },
-    {
-      "match_id": "1090547694_HIN",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
-    },
-    {
-      "match_id": "1090547694_MAL",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs Kerala Blasters FC - 11 Oct 2026 [MAL]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENG",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
-    },
     {
       "match_id": "1090547704_ENG",
       "event_name": "MG Indian Super League 2026-27",
@@ -53,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
     },
     {
       "match_id": "1090547704_HIN",
@@ -66,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
     },
     {
       "match_id": "1090547695_ENG",
@@ -79,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
     },
     {
       "match_id": "1090547695_HIN",
@@ -92,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
     },
     {
       "match_id": "1090547697_ENG",
@@ -105,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791530090679684_APL26_Chero-Archers-vs-Kakatiya-Knights_live-landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
     },
     {
       "match_id": "1090547693_ENG",
@@ -118,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791768683~acl=/*~id=59316748612427210753429862429346~hmac=f999d9f6f6f2a06306ffd4fb8d37f43f11070dabd821b405b834912bd1baec3c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
     },
     {
       "match_id": "1090547694",
@@ -208,7 +169,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634818761493_Churchill_Brothers_FC-vs_Mumbai_City_FC_tonight_landscape_Thum.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026117/1791639148861873_ISL_NorthEast_United_vs_Mohun_Bagan_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
