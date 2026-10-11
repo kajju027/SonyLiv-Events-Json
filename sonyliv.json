@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 7:26:37 pm",
+  "updatedAt": "11/10/2026, 7:29:10 pm",
   "total_matches": 23,
   "live_matches": 9,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
     },
     {
       "match_id": "1090547704_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
     },
     {
       "match_id": "1090547695_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
     },
     {
       "match_id": "1090547695_HIN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Volleyba1110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
     },
     {
       "match_id": "1090547697_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791530090679684_APL26_Chero-Archers-vs-Kakatiya-Knights_live-landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
     },
     {
       "match_id": "1090547693_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769899~acl=/*~id=23600746038925326844610840801621~hmac=30c13e7ab0a28f8bc7ec9b6f7187722188e57084b6d21807ef6a414d6f6d7463"
     },
     {
       "match_id": "1090547704",
