@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "11/10/2026, 7:21:29 pm",
+  "updatedAt": "11/10/2026, 7:23:04 pm",
   "total_matches": 23,
   "live_matches": 9,
   "matches": [
@@ -84,17 +84,17 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791769292~acl=/*~id=22678107092798884677360520844833~hmac=5ded02c019174c2f9a3e59d600a0eaceaa7ba496c95b70b96f800c02c413362a"
     },
     {
-      "match_id": "1090547704",
+      "match_id": "1090547694",
       "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Churchill Brothers FC vs Mumbai City FC [ENGLISH]",
+      "match_name": "Inter Kashi vs Kerala Blasters FC [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/?hdnea=exp=1791769835~acl=/*~id=79195673746224071666027373284931~hmac=6d07e9b9364810590d0c42849f88d35297c55e5048dd417a40995fd97aa9c70f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/?hdnea=exp=1791769835~acl=/*~id=79195673746224071666027373284931~hmac=6d07e9b9364810590d0c42849f88d35297c55e5048dd417a40995fd97aa9c70f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/?hdnea=exp=1791769835~acl=/*~id=79195673746224071666027373284931~hmac=6d07e9b9364810590d0c42849f88d35297c55e5048dd417a40995fd97aa9c70f"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945"
     },
     {
       "match_id": "1090547695",
