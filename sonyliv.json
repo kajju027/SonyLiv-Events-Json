@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/10/2026, 9:02:51 pm",
-  "total_matches": 20,
-  "live_matches": 6,
+  "updatedAt": "12/10/2026, 9:04:09 pm",
+  "total_matches": 23,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090547710_ENG",
@@ -82,6 +82,45 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791861941~acl=/*~id=61218996988580733636309440674854~hmac=8d0bddd41756cadf395d1f6a8be9d3442f59aaa96ef32b72661ab96382761f37",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791861941~acl=/*~id=61218996988580733636309440674854~hmac=8d0bddd41756cadf395d1f6a8be9d3442f59aaa96ef32b72661ab96382761f37",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791861941~acl=/*~id=61218996988580733636309440674854~hmac=8d0bddd41756cadf395d1f6a8be9d3442f59aaa96ef32b72661ab96382761f37"
+    },
+    {
+      "match_id": "1090547710",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3"
+    },
+    {
+      "match_id": "1090547705",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Tamil Titans vs Hooghly Hitters - 12 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137610904052_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862418~acl=/*~id=02058361447784844981936217861436~hmac=510b9fba960fdc530d78d5e562521c545510d91c568c6a0f75afce453c10ba71",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862418~acl=/*~id=02058361447784844981936217861436~hmac=510b9fba960fdc530d78d5e562521c545510d91c568c6a0f75afce453c10ba71",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862418~acl=/*~id=02058361447784844981936217861436~hmac=510b9fba960fdc530d78d5e562521c545510d91c568c6a0f75afce453c10ba71"
+    },
+    {
+      "match_id": "1090547706",
+      "event_name": "Archery Premier League 2026",
+      "match_name": "Prithviraj Yodhas vs Kakatiya Knights - 12 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026133/1791660631760741_APL26_Prithviraj_Yodhas_vs_Kakatiya_Knights_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791862411~acl=/*~id=48300336300259977694570769605704~hmac=b0a71f69f3b58451b3d8f8df1c207e7af5af64614e1fabcdb330e886fa14ecc3"
     },
     {
       "match_id": 1090547667,
