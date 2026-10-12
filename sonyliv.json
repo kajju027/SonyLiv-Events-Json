@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/10/2026, 6:45:08 pm",
-  "total_matches": 14,
-  "live_matches": 0,
+  "updatedAt": "12/10/2026, 6:51:21 pm",
+  "total_matches": 15,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090547710",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1210/ENG/master.m3u8?hdnea=exp=1791854435~acl=/*~id=00105267898015913402094844035583~hmac=ed8883471881e4c18b6ad0790689d2f262ae714d8eb90d6d25f4d581ecfd983f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1210/ENG/master.m3u8?hdnea=exp=1791854435~acl=/*~id=00105267898015913402094844035583~hmac=ed8883471881e4c18b6ad0790689d2f262ae714d8eb90d6d25f4d581ecfd983f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1210/ENG/master.m3u8?hdnea=exp=1791854435~acl=/*~id=00105267898015913402094844035583~hmac=ed8883471881e4c18b6ad0790689d2f262ae714d8eb90d6d25f4d581ecfd983f"
+    },
     {
       "match_id": 1090547667,
       "event_name": "Upcoming - UEFA Champions League 2026-27",
