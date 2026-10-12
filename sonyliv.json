@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/10/2026, 7:56:34 pm",
-  "total_matches": 23,
-  "live_matches": 9,
+  "updatedAt": "12/10/2026, 7:57:50 pm",
+  "total_matches": 22,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090547710_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
     },
     {
       "match_id": "1090547710_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
     },
     {
       "match_id": "1090547710_BEN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENG",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/BEN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
     },
     {
       "match_id": "1090547705_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137588402652_VCL_Punjab-Aerostrikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
     },
     {
       "match_id": "1090547705_HIN",
@@ -66,22 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137588402652_VCL_Punjab-Aerostrikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04"
-    },
-    {
-      "match_id": "1090547706_ENG",
-      "event_name": "Archery Premier League 2026",
-      "match_name": "Chero Archers vs Mighty Marathas - 12 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Archery",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026132/1791659750238725_APL26_Chero_Archers_vs_Mighty_Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791858286~acl=/*~id=86236266278089972884778095825845~hmac=562ff32a860c72c14b2b49ad7305c8f32833ced18aea9ee044ece7a68aca9c04"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791857678~acl=/*~id=62522069696935676150756594486146~hmac=36d3cfe83c13a14e863499f0984778d765beed8f6cf7209e0d18ce8abe943d70"
     },
     {
       "match_id": "1090547710",
