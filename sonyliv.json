@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/10/2026, 6:18:32 pm",
-  "total_matches": 18,
-  "live_matches": 4,
+  "updatedAt": "13/10/2026, 6:21:09 pm",
+  "total_matches": 19,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090547794_ENG",
@@ -43,6 +43,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe"
+    },
+    {
+      "match_id": "1090547794",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62"
     },
     {
       "match_id": "1090547793",
