@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/10/2026, 6:08:20 pm",
+  "updatedAt": "13/10/2026, 6:17:25 pm",
   "total_matches": 18,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe"
     },
     {
       "match_id": "1090547794_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe"
     },
     {
       "match_id": "1090547793_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938189~acl=/*~id=72839176352077821375570819405519~hmac=b2f4065b8b1a375891a6b56d946c46bd1e17aebaf6b51b2c982c07bb979f3e2f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791938797~acl=/*~id=89406588564794797284567928292576~hmac=c1c8eb42a8e7fdc4d3101fd90efc11d4538d9fbd4b13cae63ce83c3f0abf3efe"
     },
     {
       "match_id": "1090547793",
