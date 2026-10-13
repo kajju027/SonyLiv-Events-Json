@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/10/2026, 11:46:27 am",
-  "total_matches": 14,
-  "live_matches": 0,
+  "updatedAt": "13/10/2026, 5:07:18 pm",
+  "total_matches": 15,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090547793_ENG",
+      "event_name": "UEFA Youth League 2026-27",
+      "match_name": "Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791934550~acl=/*~id=34113909886846403803925311717963~hmac=d4ca1718ff10b3b63c1791d3edcb6deee2d7c61592ebabf0782d1eee40673f48",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791934550~acl=/*~id=34113909886846403803925311717963~hmac=d4ca1718ff10b3b63c1791d3edcb6deee2d7c61592ebabf0782d1eee40673f48",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791934550~acl=/*~id=34113909886846403803925311717963~hmac=d4ca1718ff10b3b63c1791d3edcb6deee2d7c61592ebabf0782d1eee40673f48"
+    },
     {
       "match_id": 1090547667,
       "event_name": "Upcoming - UEFA Champions League 2026-27",
