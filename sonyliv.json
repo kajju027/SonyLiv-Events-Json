@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/10/2026, 11:22:45 pm",
+  "updatedAt": "13/10/2026, 11:32:57 pm",
   "total_matches": 18,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957028~acl=/*~id=30978554770862927350573487034434~hmac=97d4e9cd1037dd10479a4b8a110714f3625f3faad0c83c710fb0f628aaf8a024",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957028~acl=/*~id=30978554770862927350573487034434~hmac=97d4e9cd1037dd10479a4b8a110714f3625f3faad0c83c710fb0f628aaf8a024",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957028~acl=/*~id=30978554770862927350573487034434~hmac=97d4e9cd1037dd10479a4b8a110714f3625f3faad0c83c710fb0f628aaf8a024"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b"
     },
     {
       "match_id": "1090547843_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957028~acl=/*~id=30978554770862927350573487034434~hmac=97d4e9cd1037dd10479a4b8a110714f3625f3faad0c83c710fb0f628aaf8a024",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957028~acl=/*~id=30978554770862927350573487034434~hmac=97d4e9cd1037dd10479a4b8a110714f3625f3faad0c83c710fb0f628aaf8a024",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957028~acl=/*~id=30978554770862927350573487034434~hmac=97d4e9cd1037dd10479a4b8a110714f3625f3faad0c83c710fb0f628aaf8a024"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791957635~acl=/*~id=57107345325021550719320342767055~hmac=77d872c7345c878063b8cbe2306173aade15f613f526ddc5488247d244eddd8b"
     },
     {
       "match_id": "1090547842",
