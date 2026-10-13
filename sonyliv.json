@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/10/2026, 10:42:41 pm",
-  "total_matches": 19,
-  "live_matches": 5,
+  "updatedAt": "13/10/2026, 10:51:23 pm",
+  "total_matches": 18,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090547842_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222"
     },
     {
       "match_id": "1090547843_ENG",
@@ -27,22 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791954600~acl=/*~id=18903854558143876260355389274488~hmac=c5ae9d9adff5a2ba313d09cfe3c6dd5de623f079ec3285a8b849363720a8f7ba"
-    },
-    {
-      "match_id": "1090547794",
-      "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Namma Bengaluru Smashers vs Delhi Dynamites - 13 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791955207~acl=/*~id=44412335114055115511165827789961~hmac=9d8ae833c1abaf1bbc3c9ffa62e56f602412367d7eafa6cbd56397f3ebed2222"
     },
     {
       "match_id": "1090547842",
