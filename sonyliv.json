@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/10/2026, 8:36:17 pm",
+  "updatedAt": "14/10/2026, 8:46:30 pm",
   "total_matches": 20,
   "live_matches": 10,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822"
     },
     {
       "match_id": "1090547989_HIN",
@@ -27,35 +27,35 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822"
     },
     {
       "match_id": "1090547987_ENG",
       "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Ayodhya Garjan vs Emperia Marathas - 14 Oct 2026 [ENG]",
+      "match_name": "Hooghly Hitters vs Haryana Hurricanes - 14 Oct 2026 [ENG]",
       "status": "Live",
       "category": "Volleyball",
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166619555518_VCL_Ayodhya_Garjan_vs_Emperia_Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166659556718_VCL_Hooghly_Hitters_vs_Haryana_Hurricanes_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822"
     },
     {
       "match_id": "1090547987_HIN",
       "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Ayodhya Garjan vs Emperia Marathas - 14 Oct 2026 [HIN]",
+      "match_name": "Hooghly Hitters vs Haryana Hurricanes - 14 Oct 2026 [HIN]",
       "status": "Live",
       "category": "Volleyball",
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166619555518_VCL_Ayodhya_Garjan_vs_Emperia_Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166659556718_VCL_Hooghly_Hitters_vs_Haryana_Hurricanes_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Volleyba1410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822"
     },
     {
       "match_id": "1090547997_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791663077997929_APL26_Kakatiya_Knights_vs_Rajputana_Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822"
     },
     {
       "match_id": "1090547983_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025830/179109334636999_UYL26_Manchester_City_vs_PSG_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792033469~acl=/*~id=57929459303573356708296452073167~hmac=610e6e080a95c98a26693c0880fa06501754af694443e456854cb409e6ed7b27"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792034077~acl=/*~id=25869185625098389783365915212727~hmac=ca799e2c528c7642ee58e0da0665252a92f9f3ac487a4ed04f69acc770aa6822"
     },
     {
       "match_id": "1090547989",
