@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/10/2026, 9:47:40 pm",
-  "total_matches": 20,
-  "live_matches": 10,
+  "updatedAt": "14/10/2026, 9:52:32 pm",
+  "total_matches": 19,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090548028_ENG",
@@ -84,17 +84,17 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792037728~acl=/*~id=46152600573257703184286886673375~hmac=f1e7132e4a02185bc48ac142843dc5d604facce789a6f74da67f30504f42e002"
     },
     {
-      "match_id": "1090547989",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Punjab FC vs Odisha FC - 14 Oct 2026 [ENGLISH]",
+      "match_id": "1090548028",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "LASK vs Liverpool - 14 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174240883329_UCL2627_MD2_LASK_vs_Liverpool_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68"
     },
     {
       "match_id": "1090547987",
@@ -110,30 +110,17 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792025440~acl=/*~id=72904856064578713871307045840459~hmac=cd2a3e0f19f9709db5d40cd063f28e236f2ec6f20b633d55e8fcb57ca8296a56"
     },
     {
-      "match_id": "1090547997",
-      "event_name": "Archery Premier League 2026",
-      "match_name": "Chola Chiefs vs Mighty Marathas - 14 Oct 2026 [ENGLISH]",
+      "match_id": "1090548027",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Feyenoord vs Como - 14 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791663428342929_APL26_Chola_Chiefs_vs_Mighty_Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029034~acl=/*~id=80797106669150376393090532978879~hmac=2f4c22512279b0fc352df9378904865bc382ad364a1d8f17cec59b5dc929b6f3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029034~acl=/*~id=80797106669150376393090532978879~hmac=2f4c22512279b0fc352df9378904865bc382ad364a1d8f17cec59b5dc929b6f3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029034~acl=/*~id=80797106669150376393090532978879~hmac=2f4c22512279b0fc352df9378904865bc382ad364a1d8f17cec59b5dc929b6f3"
-    },
-    {
-      "match_id": "1090547983",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "Manchester City vs PSG - MD 2 - 14 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025830/179109334636999_UYL26_Manchester_City_vs_PSG_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792030842~acl=/*~id=89373671144174086242000849075955~hmac=173cf5ea6565b93a4b63d7e3302f9a240e624a77d88533524411b68dd37236e0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792030842~acl=/*~id=89373671144174086242000849075955~hmac=173cf5ea6565b93a4b63d7e3302f9a240e624a77d88533524411b68dd37236e0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792030842~acl=/*~id=89373671144174086242000849075955~hmac=173cf5ea6565b93a4b63d7e3302f9a240e624a77d88533524411b68dd37236e0"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791173966647329_UCL2627_MD2_Feyenoord_vs_Como_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb"
     },
     {
       "match_id": 1090547699,
