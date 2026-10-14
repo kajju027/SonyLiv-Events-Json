@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/10/2026, 5:42:34 pm",
+  "updatedAt": "14/10/2026, 5:42:49 pm",
   "total_matches": 11,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792023129~acl=/*~id=28915479966058935604113761039639~hmac=907dd8ee024a58f86da8a66baee18be0a62555f09a04cad1c15bd3e5300b19b9",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792023129~acl=/*~id=28915479966058935604113761039639~hmac=907dd8ee024a58f86da8a66baee18be0a62555f09a04cad1c15bd3e5300b19b9",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792023129~acl=/*~id=28915479966058935604113761039639~hmac=907dd8ee024a58f86da8a66baee18be0a62555f09a04cad1c15bd3e5300b19b9"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792022520~acl=/*~id=17299405539074533537957677054347~hmac=176d55009b51b0f3458332704cf47684457c48a083e4bb1065dd9efd5d558256",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792022520~acl=/*~id=17299405539074533537957677054347~hmac=176d55009b51b0f3458332704cf47684457c48a083e4bb1065dd9efd5d558256",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792022520~acl=/*~id=17299405539074533537957677054347~hmac=176d55009b51b0f3458332704cf47684457c48a083e4bb1065dd9efd5d558256"
     },
     {
       "match_id": "1090547981",
