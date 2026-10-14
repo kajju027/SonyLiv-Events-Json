@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/10/2026, 5:02:03 pm",
-  "total_matches": 10,
-  "live_matches": 1,
+  "updatedAt": "14/10/2026, 5:02:24 pm",
+  "total_matches": 9,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090547981_ENG",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "Roma vs Real Madrid - MD 2 - 14 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792020697~acl=/*~id=79400447045317012265556042639760~hmac=ea4483a47ece8a986980763fd91beb678f9dc23ba78e83ad955d9b386ca89734",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792020697~acl=/*~id=79400447045317012265556042639760~hmac=ea4483a47ece8a986980763fd91beb678f9dc23ba78e83ad955d9b386ca89734",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792020697~acl=/*~id=79400447045317012265556042639760~hmac=ea4483a47ece8a986980763fd91beb678f9dc23ba78e83ad955d9b386ca89734"
-    },
     {
       "match_id": 1090547699,
       "event_name": "Upcoming - UEFA Champions League 2026-27",
