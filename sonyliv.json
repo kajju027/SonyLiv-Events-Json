@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 3:11:06 pm",
-  "total_matches": 12,
-  "live_matches": 4,
+  "updatedAt": "15/10/2026, 3:20:45 pm",
+  "total_matches": 10,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090548063_ENG",
@@ -14,22 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100253~acl=/*~id=97814783901524653511478942704850~hmac=b60836dbe3d94f909d2d273183e1d04c5c8e5995398a63d5d3f6a49ba1a38a46",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100253~acl=/*~id=97814783901524653511478942704850~hmac=b60836dbe3d94f909d2d273183e1d04c5c8e5995398a63d5d3f6a49ba1a38a46",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100253~acl=/*~id=97814783901524653511478942704850~hmac=b60836dbe3d94f909d2d273183e1d04c5c8e5995398a63d5d3f6a49ba1a38a46"
-    },
-    {
-      "match_id": "1090548210_ENG",
-      "event_name": "Asian Tour 2026",
-      "match_name": "SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100253~acl=/*~id=97814783901524653511478942704850~hmac=b60836dbe3d94f909d2d273183e1d04c5c8e5995398a63d5d3f6a49ba1a38a46",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100253~acl=/*~id=97814783901524653511478942704850~hmac=b60836dbe3d94f909d2d273183e1d04c5c8e5995398a63d5d3f6a49ba1a38a46",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100253~acl=/*~id=97814783901524653511478942704850~hmac=b60836dbe3d94f909d2d273183e1d04c5c8e5995398a63d5d3f6a49ba1a38a46"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100860~acl=/*~id=19809699714237657355504809488687~hmac=2a4afd245cb67f9e8c46795ebe90f2962c6cc0bb7237bd4e7455d04923fbaf40",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100860~acl=/*~id=19809699714237657355504809488687~hmac=2a4afd245cb67f9e8c46795ebe90f2962c6cc0bb7237bd4e7455d04923fbaf40",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792100860~acl=/*~id=19809699714237657355504809488687~hmac=2a4afd245cb67f9e8c46795ebe90f2962c6cc0bb7237bd4e7455d04923fbaf40"
     },
     {
       "match_id": "1090548063",
@@ -43,19 +30,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086635~acl=/*~id=60174917271784961447368085523773~hmac=64e8a0802b76f86c8bd1baef9508bc2a3d44e5b7122e261beb4c4cab2b3f5cbb"
-    },
-    {
-      "match_id": "1090548210",
-      "event_name": "Asian Tour 2026",
-      "match_name": "SJM Macao Open - Day 1 - 15 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086646~acl=/*~id=42386976999227278734984669478636~hmac=f963a56b0e51891d2ffa26487063ce9c658e5b15003a0ea52ee99a75878cd849",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086646~acl=/*~id=42386976999227278734984669478636~hmac=f963a56b0e51891d2ffa26487063ce9c658e5b15003a0ea52ee99a75878cd849",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086646~acl=/*~id=42386976999227278734984669478636~hmac=f963a56b0e51891d2ffa26487063ce9c658e5b15003a0ea52ee99a75878cd849"
     },
     {
       "match_id": 1090546015,
