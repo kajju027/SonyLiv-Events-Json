@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/10/2026, 12:46:15 am",
+  "updatedAt": "16/10/2026, 12:46:58 am",
   "total_matches": 10,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792134862~acl=/*~id=03073905754088838764739194253157~hmac=5ecc90da6e64eed32674a5536acec68748964e02bb897110d1627527569b8577",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792134862~acl=/*~id=03073905754088838764739194253157~hmac=5ecc90da6e64eed32674a5536acec68748964e02bb897110d1627527569b8577",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792134862~acl=/*~id=03073905754088838764739194253157~hmac=5ecc90da6e64eed32674a5536acec68748964e02bb897110d1627527569b8577"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792134256~acl=/*~id=08593504145102647807269875586870~hmac=62ce709096587cd39e81ebddd6207759ac4e4e371fa0037e491410b54338891c",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792134256~acl=/*~id=08593504145102647807269875586870~hmac=62ce709096587cd39e81ebddd6207759ac4e4e371fa0037e491410b54338891c",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792134256~acl=/*~id=08593504145102647807269875586870~hmac=62ce709096587cd39e81ebddd6207759ac4e4e371fa0037e491410b54338891c"
     },
     {
       "match_id": "1090548084",
