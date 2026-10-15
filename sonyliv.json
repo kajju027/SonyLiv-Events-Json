@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 8:33:01 pm",
+  "updatedAt": "15/10/2026, 8:33:16 pm",
   "total_matches": 13,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7"
     },
     {
       "match_id": "1090548068_HIN",
@@ -27,22 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7"
     },
     {
       "match_id": "1090548076_ENG",
       "event_name": "Archery Premier League 2026",
-      "match_name": "Prithviraj Yodhas vs Chola Chiefs - 15 Oct 2026 [ENG]",
+      "match_name": "Rajputana Royals vs Mighty Marathas - 15 Oct 2026 [ENG]",
       "status": "Live",
       "category": "Archery",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119071~acl=/*~id=59638254310532601678454624704893~hmac=93e3da387bfb855cd44093575b2fdf34a9c69d82b2fa5422f6fc30b6557e62af"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663921276476_APL26_Rajputana_Royals_vs_Mighty_Marathas_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792119678~acl=/*~id=25623461570874087480776159220057~hmac=e527845fb3c89adc57067a6e063c17b6729f6b14e308030553a6b5c906bd4ef7"
     },
     {
       "match_id": "1090548068",
