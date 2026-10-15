@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 9:54:29 pm",
-  "total_matches": 14,
+  "updatedAt": "15/10/2026, 10:02:53 pm",
+  "total_matches": 12,
   "live_matches": 6,
   "matches": [
     {
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5"
     },
     {
       "match_id": "1090548113_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5"
     },
     {
       "match_id": "1090548068_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5"
     },
     {
       "match_id": "1090548068_HIN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792124539~acl=/*~id=71183565994547124364239898105413~hmac=980e80a37d257dc1b5423a4cff9c7c991ff88333289540865d7fe274451f4e96"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792125145~acl=/*~id=76838773951413667146151990877144~hmac=879333464dee0d565ecdca13af609c7d48e2025d073a01193b39b0c68cda91b5"
     },
     {
       "match_id": "1090548084",
@@ -105,32 +105,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791963024349998_ISL_SCD_vs_Mohun_Bagan_FC_promo_landscape_thumb_dated.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090548357,
-      "event_name": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026346/1791988003592180_UEL_Lyon_vs_Crystal_Palace_tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090548356,
-      "event_name": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026360/1792003020481677_UEL26_MD2_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
