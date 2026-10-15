@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 10:23:40 pm",
+  "updatedAt": "15/10/2026, 10:24:46 pm",
   "total_matches": 13,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025908/1791199742069285_UEL_MD2_Lyon-vs-Crystal-Palace_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07"
     },
     {
       "match_id": "1090548113_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026438/1792074113208911_UEL_MD2_Salzburg-vs-Milan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07"
     },
     {
       "match_id": "1090548068_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07"
     },
     {
       "match_id": "1090548068_HIN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792126360~acl=/*~id=14033074762133260203980406146604~hmac=93af6105aa6e17e4f79f0b3503680ab8841e516f58f4af14c1155155920c8d2b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792125753~acl=/*~id=33244091144056505860679382988482~hmac=5947184c2442d705610fb04ef4a040e2f16d3654316dcbf5700f6551d438ac07"
     },
     {
       "match_id": "1090548084",
