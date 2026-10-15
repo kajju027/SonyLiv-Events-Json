@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 11:21:52 am",
+  "updatedAt": "15/10/2026, 11:26:58 am",
   "total_matches": 12,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086279~acl=/*~id=18315310593878893266452850107820~hmac=2b95c44d39e2ea99a651bbde4c33c5a4f3fd77244df3fc0da7caa80c16dbb460",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086279~acl=/*~id=18315310593878893266452850107820~hmac=2b95c44d39e2ea99a651bbde4c33c5a4f3fd77244df3fc0da7caa80c16dbb460",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086279~acl=/*~id=18315310593878893266452850107820~hmac=2b95c44d39e2ea99a651bbde4c33c5a4f3fd77244df3fc0da7caa80c16dbb460"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086885~acl=/*~id=98191396744996811147436099695492~hmac=238fad86137826d61eb97c9661e813fe35d24e194d26190a94c04237bed6f34d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086885~acl=/*~id=98191396744996811147436099695492~hmac=238fad86137826d61eb97c9661e813fe35d24e194d26190a94c04237bed6f34d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086885~acl=/*~id=98191396744996811147436099695492~hmac=238fad86137826d61eb97c9661e813fe35d24e194d26190a94c04237bed6f34d"
     },
     {
       "match_id": "1090548210_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086279~acl=/*~id=18315310593878893266452850107820~hmac=2b95c44d39e2ea99a651bbde4c33c5a4f3fd77244df3fc0da7caa80c16dbb460",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086279~acl=/*~id=18315310593878893266452850107820~hmac=2b95c44d39e2ea99a651bbde4c33c5a4f3fd77244df3fc0da7caa80c16dbb460",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086279~acl=/*~id=18315310593878893266452850107820~hmac=2b95c44d39e2ea99a651bbde4c33c5a4f3fd77244df3fc0da7caa80c16dbb460"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086885~acl=/*~id=98191396744996811147436099695492~hmac=238fad86137826d61eb97c9661e813fe35d24e194d26190a94c04237bed6f34d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086885~acl=/*~id=98191396744996811147436099695492~hmac=238fad86137826d61eb97c9661e813fe35d24e194d26190a94c04237bed6f34d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792086885~acl=/*~id=98191396744996811147436099695492~hmac=238fad86137826d61eb97c9661e813fe35d24e194d26190a94c04237bed6f34d"
     },
     {
       "match_id": "1090548063",
@@ -91,7 +91,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026379/1792020538186152_UEL_Lyon_vs_Crystal_Palace_dated_rev_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026346/1791988003592180_UEL_Lyon_vs_Crystal_Palace_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
