@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 10:34:32 am",
-  "total_matches": 10,
-  "live_matches": 2,
+  "updatedAt": "15/10/2026, 10:35:01 am",
+  "total_matches": 8,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090548063_ENG",
-      "event_name": "DP World Tour",
-      "match_name": "DP World India Championship - Day 1 - 15 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026304/1791965765997842_DP-World-India-Championship---Day-1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792083854~acl=/*~id=24518992153175330626194624508381~hmac=8b87d657d471deb4394c851cfe40950f2d1df89d955ad7a58c7250b3ad1ed4bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792083854~acl=/*~id=24518992153175330626194624508381~hmac=8b87d657d471deb4394c851cfe40950f2d1df89d955ad7a58c7250b3ad1ed4bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Golf_DPW1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792083854~acl=/*~id=24518992153175330626194624508381~hmac=8b87d657d471deb4394c851cfe40950f2d1df89d955ad7a58c7250b3ad1ed4bc"
-    },
-    {
-      "match_id": "1090548210_ENG",
-      "event_name": "Asian Tour 2026",
-      "match_name": "SJM Macao Open - Day 1 - 15 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026388/1792037774484149_Asian_TOur_SJM_Macao_Open_Day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792083854~acl=/*~id=24518992153175330626194624508381~hmac=8b87d657d471deb4394c851cfe40950f2d1df89d955ad7a58c7250b3ad1ed4bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792083854~acl=/*~id=24518992153175330626194624508381~hmac=8b87d657d471deb4394c851cfe40950f2d1df89d955ad7a58c7250b3ad1ed4bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Golf_SJM1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792083854~acl=/*~id=24518992153175330626194624508381~hmac=8b87d657d471deb4394c851cfe40950f2d1df89d955ad7a58c7250b3ad1ed4bc"
-    },
     {
       "match_id": 1090546015,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
