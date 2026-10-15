@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 8:02:22 pm",
+  "updatedAt": "15/10/2026, 8:11:34 pm",
   "total_matches": 13,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3"
     },
     {
       "match_id": "1090548068_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667345840390_VCL_Rajasthan_Spikers_vs_Punjab_Aerostrikers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3"
     },
     {
       "match_id": "1090548076_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663767818476_APL26_Prithviraj_Yodhas_vs_Chola_Chiefs_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792117854~acl=/*~id=59957720740511943751077130706030~hmac=5671f29c4215ea161d408991e4d6b63e0592cdc12db36bd947b6a638410613b3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792118463~acl=/*~id=74070811709168294364738945818101~hmac=8a85103cf8164292382010331439adb9fd4aef94e6f79391eb5064a367f571c3"
     },
     {
       "match_id": "1090548068",
