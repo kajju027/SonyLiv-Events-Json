@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/10/2026, 11:50:35 am",
-  "total_matches": 9,
-  "live_matches": 3,
+  "updatedAt": "16/10/2026, 11:51:05 am",
+  "total_matches": 10,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090548552_ENG",
@@ -30,6 +30,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174806~acl=/*~id=55852324636297134880821463741787~hmac=2b67db574c0035c5c099d9c1c9ed287dd5b3796a87a3d6db818483601999e0ba",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174806~acl=/*~id=55852324636297134880821463741787~hmac=2b67db574c0035c5c099d9c1c9ed287dd5b3796a87a3d6db818483601999e0ba",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174806~acl=/*~id=55852324636297134880821463741787~hmac=2b67db574c0035c5c099d9c1c9ed287dd5b3796a87a3d6db818483601999e0ba"
+    },
+    {
+      "match_id": "1090548552",
+      "event_name": "DP World Tour",
+      "match_name": "DP World India Championship - Day 2 - 16 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174838~acl=/*~id=75467477874607377832808187373024~hmac=be0435f04d78c6e10841aa18e72466f6d0a79e6dc00596c90f86aa52211ea0d5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174838~acl=/*~id=75467477874607377832808187373024~hmac=be0435f04d78c6e10841aa18e72466f6d0a79e6dc00596c90f86aa52211ea0d5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174838~acl=/*~id=75467477874607377832808187373024~hmac=be0435f04d78c6e10841aa18e72466f6d0a79e6dc00596c90f86aa52211ea0d5"
     },
     {
       "match_id": "1090548548",
