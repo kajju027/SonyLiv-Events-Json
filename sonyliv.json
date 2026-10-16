@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/10/2026, 9:28:04 pm",
+  "updatedAt": "16/10/2026, 9:38:28 pm",
   "total_matches": 16,
   "live_matches": 9,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8"
     },
     {
       "match_id": "1090548555_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8"
     },
     {
       "match_id": "1090548555_BEN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENG",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791961433994998_ISL_SCD_vs_Mohun_Bagan_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1610/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8"
     },
     {
       "match_id": "1090548553_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026455/1792105569097991_VCL26_super6_Tamil_Titans_vs_Ayodhya_Garjan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8"
     },
     {
       "match_id": "1090548553_HIN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026455/1792105569097991_VCL26_super6_Tamil_Titans_vs_Ayodhya_Garjan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8"
     },
     {
       "match_id": "1090548554_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959460803578_APL26_Mighty-Marathas-vs-Chero-Archers_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792209404~acl=/*~id=83341652654888850709252848127098~hmac=bb919dbebb02a117e4adc441afa7f5cca1b6376850bd781af7f7aabe91bd233c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Archery_1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792210013~acl=/*~id=95012495996041612456887781777092~hmac=5deb547441960e881886ff9a6016854f3cd8615e32a88b9c997d3b297a2c08c8"
     },
     {
       "match_id": "1090548555",
