@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/10/2026, 4:27:39 pm",
+  "updatedAt": "16/10/2026, 4:33:13 pm",
   "total_matches": 9,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792191175~acl=/*~id=50766404208696437442756736831969~hmac=e22e41d34e39d17b162f44b1b86284f93f8b61883e97ed447977240a43ee70e5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792191175~acl=/*~id=50766404208696437442756736831969~hmac=e22e41d34e39d17b162f44b1b86284f93f8b61883e97ed447977240a43ee70e5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792191175~acl=/*~id=50766404208696437442756736831969~hmac=e22e41d34e39d17b162f44b1b86284f93f8b61883e97ed447977240a43ee70e5"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792191782~acl=/*~id=46804393106470759091227827490290~hmac=4696867a71a3757b780f1b5b1dd00455bd73c901ec3381ac2ef905442e0803dc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792191782~acl=/*~id=46804393106470759091227827490290~hmac=4696867a71a3757b780f1b5b1dd00455bd73c901ec3381ac2ef905442e0803dc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792191782~acl=/*~id=46804393106470759091227827490290~hmac=4696867a71a3757b780f1b5b1dd00455bd73c901ec3381ac2ef905442e0803dc"
     },
     {
       "match_id": "1090548552",
