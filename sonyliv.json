@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/10/2026, 10:09:11 pm",
-  "total_matches": 11,
-  "live_matches": 4,
+  "updatedAt": "16/10/2026, 10:19:20 pm",
+  "total_matches": 9,
+  "live_matches": 2,
   "matches": [
-    {
-      "match_id": "1090548553_ENG",
-      "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Tamil Titans vs Ayodhya Garjan - Super 6 - 16 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Volleyball",
-      "digital_broadcast": "Sony Sports Ten 1",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026455/1792105569097991_VCL26_super6_Tamil_Titans_vs_Ayodhya_Garjan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792211838~acl=/*~id=89752554112803182877196748593386~hmac=6d711f7fb65044d9bb6633b8165533965145f91404f28f01fcf8d63a683f2786",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792211838~acl=/*~id=89752554112803182877196748593386~hmac=6d711f7fb65044d9bb6633b8165533965145f91404f28f01fcf8d63a683f2786",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792211838~acl=/*~id=89752554112803182877196748593386~hmac=6d711f7fb65044d9bb6633b8165533965145f91404f28f01fcf8d63a683f2786"
-    },
-    {
-      "match_id": "1090548553_HIN",
-      "event_name": "Volleyball Championship League 2026 ",
-      "match_name": "Tamil Titans vs Ayodhya Garjan - Super 6 - 16 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Volleyball",
-      "digital_broadcast": "Sony Sports Ten 1",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026455/1792105569097991_VCL26_super6_Tamil_Titans_vs_Ayodhya_Garjan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792211838~acl=/*~id=89752554112803182877196748593386~hmac=6d711f7fb65044d9bb6633b8165533965145f91404f28f01fcf8d63a683f2786",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792211838~acl=/*~id=89752554112803182877196748593386~hmac=6d711f7fb65044d9bb6633b8165533965145f91404f28f01fcf8d63a683f2786",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792211838~acl=/*~id=89752554112803182877196748593386~hmac=6d711f7fb65044d9bb6633b8165533965145f91404f28f01fcf8d63a683f2786"
-    },
     {
       "match_id": "1090548555",
       "event_name": "MG Indian Super League 2026-27",
