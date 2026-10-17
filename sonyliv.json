@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "17/10/2026, 8:12:52 pm",
+  "updatedAt": "17/10/2026, 8:21:25 pm",
   "total_matches": 19,
   "live_matches": 9,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
     },
     {
       "match_id": "1090548712_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
     },
     {
       "match_id": "1090548712_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973880447868_ISL_17th_Oct_Bengaluru_FC_vs_Chennaiyin_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1710/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
     },
     {
       "match_id": "1090548711_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
     },
     {
       "match_id": "1090548711_HIN",
@@ -66,22 +66,22 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130276555133_VCL26_Haryana-Hurricanes-vs-Emperia-Marathas_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
     },
     {
       "match_id": "1090548715_ENG",
       "event_name": "Archery Premier League 2026",
-      "match_name": "Mighty Marathas vs Kakatiya Knights - 17 Oct 2026 [ENG]",
+      "match_name": "Chero Archers vs Chola Chiefs - 17 Oct 2026 [ENG]",
       "status": "Live",
       "category": "Archery",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959546572578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291212~acl=/*~id=69278377759241430401619024935017~hmac=7d9e798566725212afb57b00770bc46ebe50e70e3d48b8d0d1beb2797a3742c1"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959652306578_APL26_Chero-Archers-vs-Chola-Chiefs_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792291821~acl=/*~id=18577586955468635792542352964280~hmac=97fe53d77d4622b770233fa6c508cb8a9f581fd7ec6b9b0e78067f6c1616bc01"
     },
     {
       "match_id": "1090548712",
@@ -112,12 +112,12 @@
     {
       "match_id": "1090548715",
       "event_name": "Archery Premier League 2026",
-      "match_name": "Mighty Marathas vs Kakatiya Knights - 17 Oct 2026 [ENGLISH]",
+      "match_name": "Chero Archers vs Chola Chiefs - 17 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959546572578_APL26_Mighty-Marathas-vs-Kakatiya-Knights_live_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026290/1791959652306578_APL26_Chero-Archers-vs-Chola-Chiefs_live_landscape_thumb.jpg",
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288246~acl=/*~id=92308608481986517995579315179393~hmac=b518a7376218fae1b49d3b4a5b333dc4677d3bcafc700d86de25c935c0f7039f",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288246~acl=/*~id=92308608481986517995579315179393~hmac=b518a7376218fae1b49d3b4a5b333dc4677d3bcafc700d86de25c935c0f7039f",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792288246~acl=/*~id=92308608481986517995579315179393~hmac=b518a7376218fae1b49d3b4a5b333dc4677d3bcafc700d86de25c935c0f7039f"
