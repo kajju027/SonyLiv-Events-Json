@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 5:19:39 am",
-  "total_matches": 16,
-  "live_matches": 5,
+  "updatedAt": "18/10/2026, 5:21:23 am",
+  "total_matches": 17,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090548916_ENG",
@@ -69,6 +69,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792323924~acl=/*~id=29642545098732649458972537890023~hmac=9a4db731dc83cbdfdea3ef20120f3abef235b093d7dcbe2a52c5d9bbfb56b58a",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792323924~acl=/*~id=29642545098732649458972537890023~hmac=9a4db731dc83cbdfdea3ef20120f3abef235b093d7dcbe2a52c5d9bbfb56b58a",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/UFC_UFCF1710/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792323924~acl=/*~id=29642545098732649458972537890023~hmac=9a4db731dc83cbdfdea3ef20120f3abef235b093d7dcbe2a52c5d9bbfb56b58a"
+    },
+    {
+      "match_id": "1090548916",
+      "event_name": "UFC Fight Night - Buckley vs Malott ",
+      "match_name": "UFC Fight Night - Buckley vs Malott - 18 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0"
     },
     {
       "match_id": 1090548932,
