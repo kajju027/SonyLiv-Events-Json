@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 4:39:55 am",
-  "total_matches": 10,
+  "updatedAt": "18/10/2026, 4:58:57 am",
+  "total_matches": 11,
   "live_matches": 0,
   "matches": [
     {
@@ -131,6 +131,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090549038,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
