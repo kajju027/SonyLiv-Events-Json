@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "17/10/2026, 10:28:28 am",
+  "updatedAt": "17/10/2026, 10:30:36 am",
   "total_matches": 11,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792255411~acl=/*~id=38404462278304952636473627835023~hmac=b57623b045a81246aad603148931eb94a93cfaeddb828317fbb1a250eb696a8f",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792255411~acl=/*~id=38404462278304952636473627835023~hmac=b57623b045a81246aad603148931eb94a93cfaeddb828317fbb1a250eb696a8f",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792255411~acl=/*~id=38404462278304952636473627835023~hmac=b57623b045a81246aad603148931eb94a93cfaeddb828317fbb1a250eb696a8f"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792256017~acl=/*~id=79365387584596148470283287403447~hmac=61ceeaa959d70a3da4ea0a12482bd12f4a2558592e5eb0e83e3cb642b84fa5ec",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792256017~acl=/*~id=79365387584596148470283287403447~hmac=61ceeaa959d70a3da4ea0a12482bd12f4a2558592e5eb0e83e3cb642b84fa5ec",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792256017~acl=/*~id=79365387584596148470283287403447~hmac=61ceeaa959d70a3da4ea0a12482bd12f4a2558592e5eb0e83e3cb642b84fa5ec"
     },
     {
       "match_id": "1090548709",
