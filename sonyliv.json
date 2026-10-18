@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 8:29:16 am",
-  "total_matches": 12,
-  "live_matches": 1,
+  "updatedAt": "18/10/2026, 8:53:36 am",
+  "total_matches": 11,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090548916",
-      "event_name": "UFC Fight Night - Buckley vs Malott ",
-      "match_name": "UFC Fight Night - Buckley vs Malott - 18 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0"
-    },
     {
       "match_id": 1090548932,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
