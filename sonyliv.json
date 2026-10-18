@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 3:52:36 pm",
+  "updatedAt": "18/10/2026, 3:54:52 pm",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792362108~acl=/*~id=48026375214619474886118584811708~hmac=d5ae329e3437b382a46ad7f7362a125878b44e79a77c89d6ff55da676be4805b"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792361503~acl=/*~id=25099429475329961589653716716947~hmac=d5b7c8243ebca4514c38274f59559b6832e58aaed2495174b50421fee5c00cda",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792361503~acl=/*~id=25099429475329961589653716716947~hmac=d5b7c8243ebca4514c38274f59559b6832e58aaed2495174b50421fee5c00cda",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792361503~acl=/*~id=25099429475329961589653716716947~hmac=d5b7c8243ebca4514c38274f59559b6832e58aaed2495174b50421fee5c00cda"
     },
     {
       "match_id": "1090548740",
