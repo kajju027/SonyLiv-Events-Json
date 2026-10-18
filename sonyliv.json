@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 10:50:14 am",
-  "total_matches": 14,
-  "live_matches": 3,
+  "updatedAt": "18/10/2026, 10:51:37 am",
+  "total_matches": 15,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090548740_ENG",
@@ -30,6 +30,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792343929~acl=/*~id=30762763335744300241445038004091~hmac=9bda8b881632b3e5a4886a9e27cd1b68651c1fd8a8aff2368e304a1396f1e3ac",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792343929~acl=/*~id=30762763335744300241445038004091~hmac=9bda8b881632b3e5a4886a9e27cd1b68651c1fd8a8aff2368e304a1396f1e3ac",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792343929~acl=/*~id=30762763335744300241445038004091~hmac=9bda8b881632b3e5a4886a9e27cd1b68651c1fd8a8aff2368e304a1396f1e3ac"
+    },
+    {
+      "match_id": "1090548740",
+      "event_name": "DP World Tour",
+      "match_name": "DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
+      "dai_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301",
+      "pub_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301",
+      "video_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301"
     },
     {
       "match_id": "1090548739",
