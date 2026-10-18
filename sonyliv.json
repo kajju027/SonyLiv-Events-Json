@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 9:19:54 am",
-  "total_matches": 12,
-  "live_matches": 1,
+  "updatedAt": "18/10/2026, 9:24:08 am",
+  "total_matches": 13,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090548739_ENG",
@@ -17,6 +17,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338476~acl=/*~id=75974799780202766453488109798476~hmac=0f933fdd8988de6750bc7cc1dc15fb777aeae06ccd9ebfa0a1b4c6088b35ac05",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338476~acl=/*~id=75974799780202766453488109798476~hmac=0f933fdd8988de6750bc7cc1dc15fb777aeae06ccd9ebfa0a1b4c6088b35ac05",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338476~acl=/*~id=75974799780202766453488109798476~hmac=0f933fdd8988de6750bc7cc1dc15fb777aeae06ccd9ebfa0a1b4c6088b35ac05"
+    },
+    {
+      "match_id": "1090548739",
+      "event_name": "Asian Tour 2026",
+      "match_name": "SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9"
     },
     {
       "match_id": 1090548932,
