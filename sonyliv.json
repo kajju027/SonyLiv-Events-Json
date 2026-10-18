@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 7:44:42 pm",
+  "updatedAt": "18/10/2026, 7:55:37 pm",
   "total_matches": 24,
   "live_matches": 9,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f"
     },
     {
       "match_id": "1090548742_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f"
     },
     {
       "match_id": "1090548742_MAL",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENG",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1810/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f"
     },
     {
       "match_id": "1090548741_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f"
     },
     {
       "match_id": "1090548741_HIN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Volleyba1810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f"
     },
     {
       "match_id": "1090548750_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026606/1792261592107816_APL26_SF_Mighty_Marathas_vs_Kakatiya_Knights_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376073~acl=/*~id=97291697048385074667480261665067~hmac=581f80bda3f3b77daed17b0376f25437579d8d5ae1bc16d216ea8f886bb330bc"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792376682~acl=/*~id=95479617821814422098224034108360~hmac=efbddedd6e77af37aea7ea682a320d98bbd283baf65de7469728feffb1adfd2f"
     },
     {
       "match_id": "1090548742",
