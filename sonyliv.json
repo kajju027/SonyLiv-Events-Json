@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 11:26:22 am",
+  "updatedAt": "18/10/2026, 11:31:28 am",
   "total_matches": 15,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26"
     },
     {
       "match_id": "1090548739_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792345748~acl=/*~id=96818669648156662171734885220656~hmac=37016dc30579936572bdc69aa89faa61d5943a5324989294d7235393c95d4c16"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792346355~acl=/*~id=51705928232389340155344488999058~hmac=a03e4ad22e8117ebc28508347ea0206b2e4b22d90499b2e8232b90e994680a26"
     },
     {
       "match_id": "1090548740",
