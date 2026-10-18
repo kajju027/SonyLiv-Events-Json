@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 4:16:53 pm",
-  "total_matches": 16,
-  "live_matches": 5,
+  "updatedAt": "18/10/2026, 4:21:59 pm",
+  "total_matches": 17,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090549112_ENG",
@@ -56,6 +56,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792363321~acl=/*~id=29692378304172953845764571239110~hmac=86f580079af12d33ea3bcbffe65265c6a2690d4053f8ae5ce2ef135b498998df",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792363321~acl=/*~id=29692378304172953845764571239110~hmac=86f580079af12d33ea3bcbffe65265c6a2690d4053f8ae5ce2ef135b498998df",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792363321~acl=/*~id=29692378304172953845764571239110~hmac=86f580079af12d33ea3bcbffe65265c6a2690d4053f8ae5ce2ef135b498998df"
+    },
+    {
+      "match_id": "1090549112",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc"
     },
     {
       "match_id": "1090548740",
