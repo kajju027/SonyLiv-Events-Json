@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/10/2026, 12:44:28 pm",
+  "updatedAt": "19/10/2026, 2:15:42 pm",
   "total_matches": 15,
   "live_matches": 0,
   "matches": [
@@ -58,32 +58,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090549140,
-      "event_name": "Upcoming - Bayern München vs Arsenal - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064046785585_UCL26_Bayern-vs-Arsenal_promo_DDT_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090549145,
-      "event_name": "Upcoming - Real Madrid vs Leipzig - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064545698585_UCL26_Real-Madrid-vs-Leipzig_DDT_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090549144,
       "event_name": "Upcoming - Paris Saint-Germain vs Barcelona - UEFA Champions League 2026-27 ",
       "match_name": "",
@@ -105,6 +79,32 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792061592343585_UCL26_Liverpool-vs-Villareal_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090549140,
+      "event_name": "Upcoming - Bayern München vs Arsenal - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064046785585_UCL26_Bayern-vs-Arsenal_promo_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090549145,
+      "event_name": "Upcoming - Real Madrid vs Leipzig - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026424/1792064545698585_UCL26_Real-Madrid-vs-Leipzig_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
