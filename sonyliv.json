@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/10/2026, 2:15:42 pm",
-  "total_matches": 15,
-  "live_matches": 0,
+  "updatedAt": "19/10/2026, 6:08:01 pm",
+  "total_matches": 17,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090549234_ENG",
+      "event_name": "Volleyball Champions League 2026",
+      "match_name": "Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234677352525_VCL26_SF_Ayodhya_Garjan_vs_Delhi_Dynamites_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": "1090549234_HIN",
+      "event_name": "Volleyball Champions League 2026",
+      "match_name": "Ayodhya Garjan vs Delhi Dynamites - Semi Final 1 - 19 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234677352525_VCL26_SF_Ayodhya_Garjan_vs_Delhi_Dynamites_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
     {
       "match_id": 1090548837,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
