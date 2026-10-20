@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/10/2026, 9:21:48 pm",
-  "total_matches": 17,
-  "live_matches": 2,
+  "updatedAt": "20/10/2026, 9:31:59 pm",
+  "total_matches": 16,
+  "live_matches": 1,
   "matches": [
-    {
-      "match_id": "1090549193_ENG",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "Manchester City vs Athens - MD3 - 20 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554696~acl=/*~id=73671442893592361601831650050945~hmac=93c138373446e5cb3e9b853214eb78136b7f5ffc7ae0cfd143840ab8e44d1ab4",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554696~acl=/*~id=73671442893592361601831650050945~hmac=93c138373446e5cb3e9b853214eb78136b7f5ffc7ae0cfd143840ab8e44d1ab4",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554696~acl=/*~id=73671442893592361601831650050945~hmac=93c138373446e5cb3e9b853214eb78136b7f5ffc7ae0cfd143840ab8e44d1ab4"
-    },
     {
       "match_id": "1090549193",
       "event_name": "UEFA Youth League 2026-27",
