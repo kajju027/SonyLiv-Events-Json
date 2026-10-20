@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/10/2026, 9:03:59 pm",
+  "updatedAt": "20/10/2026, 9:12:34 pm",
   "total_matches": 17,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792553483~acl=/*~id=79113143052836544184549737015676~hmac=b80b821a2c843fc226b912b5653fa3a962cda23094535d1df11d06791363928e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792553483~acl=/*~id=79113143052836544184549737015676~hmac=b80b821a2c843fc226b912b5653fa3a962cda23094535d1df11d06791363928e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792553483~acl=/*~id=79113143052836544184549737015676~hmac=b80b821a2c843fc226b912b5653fa3a962cda23094535d1df11d06791363928e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554090~acl=/*~id=27704036074681889318569065781936~hmac=047d832a5c6414d173da8a1e45f1fb1a764a520d7bcdeb2738eb1ded33a96a3a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554090~acl=/*~id=27704036074681889318569065781936~hmac=047d832a5c6414d173da8a1e45f1fb1a764a520d7bcdeb2738eb1ded33a96a3a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792554090~acl=/*~id=27704036074681889318569065781936~hmac=047d832a5c6414d173da8a1e45f1fb1a764a520d7bcdeb2738eb1ded33a96a3a"
     },
     {
       "match_id": "1090549193",
@@ -130,7 +130,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -169,7 +169,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507025103654_NZvsIND_5t20i_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
