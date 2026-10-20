@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/10/2026, 1:17:22 am",
+  "updatedAt": "21/10/2026, 1:25:13 am",
   "total_matches": 32,
   "live_matches": 18,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125044762019_UCL2627_MD3_PSG_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc857/cricodi_2010-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549204_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125044762019_UCL2627_MD3_PSG_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8872/cricodi_2010-hin-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549204_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125044762019_UCL2627_MD3_PSG_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119951/cricodi_2010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119951/cricodi_2010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119951/cricodi_2010/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2010-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2010-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2010-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549204_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125044762019_UCL2627_MD3_PSG_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchc77b/cricodi_2010-tel-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549204_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125044762019_UCL2627_MD3_PSG_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2010-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549209_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125064378219_UCL2627_MD3_Liverpool_vs_Villarreal_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549210_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125078739219_UCL2627_MD3_Man_City_vs_AEK_Athens_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549214_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125166244119_UCL2627_MD3_Stuttgart_vs_Atletico_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549211_ENG",
@@ -118,9 +118,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125103389219_UCL2627_MD3_Roma_vs_Bratislava_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549213_ENG",
@@ -131,9 +131,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125144501419_UCL2627_MD3_Napoli_vs_Bodo_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549212_ENG",
@@ -144,9 +144,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125123653519_UCL2627_MD3_Porto_vs_PSV_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792568663~acl=/*~id=41392231106347041065494368121163~hmac=e5a270eaa25fd268c02c0d44c0d510d9b3344287d3e86c0060a61c65c98d9278"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792569272~acl=/*~id=22316587287265441540507950518067~hmac=9b9bda8870e04a7873b39173c5ffc3d017da8f798867eeb59da98c3086df7018"
     },
     {
       "match_id": "1090549204",
