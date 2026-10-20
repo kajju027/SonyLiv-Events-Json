@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/10/2026, 10:44:13 pm",
-  "total_matches": 17,
-  "live_matches": 2,
+  "updatedAt": "20/10/2026, 10:51:31 pm",
+  "total_matches": 19,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090549200_ENG",
@@ -30,6 +30,32 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8"
+    },
+    {
+      "match_id": "1090549200",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Sabah vs Dortmund - 20 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg",
+      "dai_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560037~acl=/*~id=86997383092927704888305701476784~hmac=5ee9f596a78657d58a81f0528e0ace9f9b790f5783c8e40333ee1b337da32a7f",
+      "pub_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560037~acl=/*~id=86997383092927704888305701476784~hmac=5ee9f596a78657d58a81f0528e0ace9f9b790f5783c8e40333ee1b337da32a7f",
+      "video_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560037~acl=/*~id=86997383092927704888305701476784~hmac=5ee9f596a78657d58a81f0528e0ace9f9b790f5783c8e40333ee1b337da32a7f"
+    },
+    {
+      "match_id": "1090549199",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560046~acl=/*~id=49682730406349894361305308793777~hmac=1fbf92455d77ec62b0771595b6dd9a36e41e3a5349d4fd813bae204cf008db6e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560046~acl=/*~id=49682730406349894361305308793777~hmac=1fbf92455d77ec62b0771595b6dd9a36e41e3a5349d4fd813bae204cf008db6e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792560046~acl=/*~id=49682730406349894361305308793777~hmac=1fbf92455d77ec62b0771595b6dd9a36e41e3a5349d4fd813bae204cf008db6e"
     },
     {
       "match_id": 1090548837,
