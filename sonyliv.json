@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/10/2026, 9:49:42 pm",
-  "total_matches": 15,
-  "live_matches": 4,
+  "updatedAt": "21/10/2026, 9:53:31 pm",
+  "total_matches": 17,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090549217_ENG",
@@ -43,6 +43,32 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642634~acl=/*~id=29314873818673134712274112140237~hmac=fbdc1395a18c7adf86be70d0d7bc6df3f4feb9c9bd78c854fcfb20d5c760f177"
+    },
+    {
+      "match_id": "1090549217",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Como vs Man United - 21 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642858~acl=/*~id=35791217578557925080544863775487~hmac=9f393eb3472c81706dd3b9121a33a38e8c6303fc8b17aef6cee4cfe5afd6743e",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642858~acl=/*~id=35791217578557925080544863775487~hmac=9f393eb3472c81706dd3b9121a33a38e8c6303fc8b17aef6cee4cfe5afd6743e",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642858~acl=/*~id=35791217578557925080544863775487~hmac=9f393eb3472c81706dd3b9121a33a38e8c6303fc8b17aef6cee4cfe5afd6743e"
+    },
+    {
+      "match_id": "1090549216",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Lille vs Galatasaray - 21 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642871~acl=/*~id=19995102845518452434717113929765~hmac=c40d5c74e7cd27ce26be77f2849c01668a33a3895fe1934b448cf08111cfceb9",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642871~acl=/*~id=19995102845518452434717113929765~hmac=c40d5c74e7cd27ce26be77f2849c01668a33a3895fe1934b448cf08111cfceb9",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792642871~acl=/*~id=19995102845518452434717113929765~hmac=c40d5c74e7cd27ce26be77f2849c01668a33a3895fe1934b448cf08111cfceb9"
     },
     {
       "match_id": "1090549320",
