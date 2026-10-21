@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/10/2026, 11:21:29 pm",
+  "updatedAt": "21/10/2026, 11:31:43 pm",
   "total_matches": 17,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a"
     },
     {
       "match_id": "1090549320_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a"
     },
     {
       "match_id": "1090549216_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648089~acl=/*~id=38273247695849141569075900874751~hmac=207ebdd41c47da9a6bf3c8d69f19fd814e30350fa457841bba349aae55e5211c"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792648696~acl=/*~id=76112731555157445312821955646150~hmac=e2d3b6e90dd455fc3993dd52fec77423bd926242104890abf4af4e16b756562a"
     },
     {
       "match_id": "1090549217",
