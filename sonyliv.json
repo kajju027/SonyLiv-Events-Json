@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/10/2026, 9:34:21 pm",
-  "total_matches": 12,
-  "live_matches": 3,
+  "updatedAt": "21/10/2026, 9:39:31 pm",
+  "total_matches": 11,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090549320_ENG",
@@ -14,22 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd"
-    },
-    {
-      "match_id": "1090549302_ENG",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "Inter Milan vs Shakhtar Donetsk - MD3 - 21 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792641419~acl=/*~id=89180645877160483177237856740572~hmac=bfed3ea34e51040d8438dd8237a82fe95bb54417b9323ed49cd170861f0c27bd"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642026~acl=/*~id=11273194865145436178469911817695~hmac=aa9b515c1048ab8de4cff26a507dcf1b42a66d1b417e8b79db7004ff879c5c02",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642026~acl=/*~id=11273194865145436178469911817695~hmac=aa9b515c1048ab8de4cff26a507dcf1b42a66d1b417e8b79db7004ff879c5c02",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792642026~acl=/*~id=11273194865145436178469911817695~hmac=aa9b515c1048ab8de4cff26a507dcf1b42a66d1b417e8b79db7004ff879c5c02"
     },
     {
       "match_id": "1090549320",
