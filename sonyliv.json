@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/10/2026, 3:16:48 pm",
+  "updatedAt": "21/10/2026, 3:26:58 pm",
   "total_matches": 11,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792618948~acl=/*~id=93459734716612271690901698582786~hmac=549080413b793c63cb564b6dd0c5ed182881c06427765e794dc4fd63a7212e87",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792618948~acl=/*~id=93459734716612271690901698582786~hmac=549080413b793c63cb564b6dd0c5ed182881c06427765e794dc4fd63a7212e87",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792618948~acl=/*~id=93459734716612271690901698582786~hmac=549080413b793c63cb564b6dd0c5ed182881c06427765e794dc4fd63a7212e87"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792619554~acl=/*~id=25597494122961547626577271562892~hmac=223a90bd8cb30dcbd9b725c488c2d166954fe3135a6dd1cebd183541fe4abdda",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792619554~acl=/*~id=25597494122961547626577271562892~hmac=223a90bd8cb30dcbd9b725c488c2d166954fe3135a6dd1cebd183541fe4abdda",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792619554~acl=/*~id=25597494122961547626577271562892~hmac=223a90bd8cb30dcbd9b725c488c2d166954fe3135a6dd1cebd183541fe4abdda"
     },
     {
       "match_id": "1090549320",
