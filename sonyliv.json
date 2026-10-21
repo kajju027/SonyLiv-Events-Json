@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 2:35:48 am",
-  "total_matches": 16,
-  "live_matches": 8,
+  "updatedAt": "22/10/2026, 2:41:42 am",
+  "total_matches": 15,
+  "live_matches": 7,
   "matches": [
-    {
-      "match_id": "1090549289_ENG",
-      "event_name": "UEFA Champions League 2026-27",
-      "match_name": "Sporting CP vs LASK - 22 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125330596919_UCL2627_MD3_SportingCP_vs_LASK_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659662~acl=/*~id=80067044408693262351753102848126~hmac=7c2d78719fde60feba32116f0e9f0dea2d8d44de50be9d32039bdfb33660b073",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659662~acl=/*~id=80067044408693262351753102848126~hmac=7c2d78719fde60feba32116f0e9f0dea2d8d44de50be9d32039bdfb33660b073",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792659662~acl=/*~id=80067044408693262351753102848126~hmac=7c2d78719fde60feba32116f0e9f0dea2d8d44de50be9d32039bdfb33660b073"
-    },
     {
       "match_id": "1090549254",
       "event_name": "UEFA Champions League 2026-27",
