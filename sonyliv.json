@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/10/2026, 8:07:31 pm",
+  "updatedAt": "21/10/2026, 8:17:45 pm",
   "total_matches": 14,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886"
     },
     {
       "match_id": "1090549331_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch8947/cricodi_2110-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886"
     },
     {
       "match_id": "1090549331_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026663/179234691409325_VCL26_SF_Haryana_Hurricanes_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886"
     },
     {
       "match_id": "1090549302_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025835/1791100501247105_UYL26_Inter_Milan_vs_Shakhter_Donetsk_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792636550~acl=/*~id=18163705098860107878367235920525~hmac=6d494b291036065521a82ae29ce20e1366b699d1a325370ab361b9ccd2b4687d"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792637159~acl=/*~id=48395445298557642060378116069552~hmac=25534a8506a3915d2ad7099e69ea78c5d3dc81887367d40fd3eb72326cb00886"
     },
     {
       "match_id": "1090549320",
