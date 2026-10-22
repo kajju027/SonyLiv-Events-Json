@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 1:00:31 am",
+  "updatedAt": "23/10/2026, 1:00:43 am",
   "total_matches": 28,
   "live_matches": 18,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878"
     },
     {
       "match_id": "1090549735_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878"
     },
     {
       "match_id": "1090549910_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792739843~acl=/*~id=23631153562494275376955859129872~hmac=2a45c3234adc0771bbd9edcee9b1c263f5ae0e802c5d2eee2300ee35cc139821"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118669/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792740449~acl=/*~id=08877054330422865980762788662825~hmac=82e409b0df829aceb34eafc6e253e7e5bc7bbe0f62afa4ecfcc9bc25e7273878"
     },
     {
       "match_id": "1090549712",
