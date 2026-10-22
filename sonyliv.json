@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 11:18:37 pm",
-  "total_matches": 27,
-  "live_matches": 17,
+  "updatedAt": "22/10/2026, 11:21:53 pm",
+  "total_matches": 26,
+  "live_matches": 16,
   "matches": [
     {
       "match_id": "1090549627_ENG",
@@ -30,19 +30,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2210/ENG/master.m3u8?hdnea=exp=1792729248~acl=/*~id=07405960129751451424282399762332~hmac=5abcdbdbb5b767e1fb52f572d8d5a63d944c95fb8af7cc2fec42ff2e909238e6",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2210/ENG/master.m3u8?hdnea=exp=1792729248~acl=/*~id=07405960129751451424282399762332~hmac=5abcdbdbb5b767e1fb52f572d8d5a63d944c95fb8af7cc2fec42ff2e909238e6",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2210/ENG/master.m3u8?hdnea=exp=1792729248~acl=/*~id=07405960129751451424282399762332~hmac=5abcdbdbb5b767e1fb52f572d8d5a63d944c95fb8af7cc2fec42ff2e909238e6"
-    },
-    {
-      "match_id": "1090549594",
-      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3"
     },
     {
       "match_id": "1090549554",
