@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 11:18:17 pm",
-  "total_matches": 27,
-  "live_matches": 17,
+  "updatedAt": "22/10/2026, 11:18:28 pm",
+  "total_matches": 24,
+  "live_matches": 18,
   "matches": [
     {
       "match_id": "1090549627_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734382~acl=/*~id=76715963171333410658142378425005~hmac=07a073d1d084f01317f7c445a0323a8b16068123fdb1dd51078e9b582be43924",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734382~acl=/*~id=76715963171333410658142378425005~hmac=07a073d1d084f01317f7c445a0323a8b16068123fdb1dd51078e9b582be43924",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734382~acl=/*~id=76715963171333410658142378425005~hmac=07a073d1d084f01317f7c445a0323a8b16068123fdb1dd51078e9b582be43924"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936"
+    },
+    {
+      "match_id": "1090549594_HIN",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792733775~acl=/*~id=28250572815279475930423922314396~hmac=46e0f6d4a84dfe30296faeb98a4a30753a24d935c9f1f1d60a0ea469a9a06936"
     },
     {
       "match_id": "1090549627",
@@ -300,58 +313,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550084,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686516383928_NZvsIND26_vaibhav_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550083,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686594133928_NZvsIND26_blockbuster_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550079,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686495919928_NZvsIND26_abhishek_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550080,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686364520928_NZvsIND26_varma_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
