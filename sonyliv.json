@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 10:06:52 pm",
+  "updatedAt": "22/10/2026, 10:17:04 pm",
   "total_matches": 11,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792730736~acl=/*~id=15771739301898195136604376458161~hmac=8843016bde0c7e6b7fd050523cc3591e1b13fed0df5b6624dbd4fa8c59fb58aa",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792730736~acl=/*~id=15771739301898195136604376458161~hmac=8843016bde0c7e6b7fd050523cc3591e1b13fed0df5b6624dbd4fa8c59fb58aa",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792730736~acl=/*~id=15771739301898195136604376458161~hmac=8843016bde0c7e6b7fd050523cc3591e1b13fed0df5b6624dbd4fa8c59fb58aa"
     },
     {
       "match_id": "1090549594_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792730134~acl=/*~id=09498845377561836670776196193773~hmac=86d75e045cdb5b8d9bcef1ade3b56a3bc8f7f73af99982648372c87d7b0e397a"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792730736~acl=/*~id=15771739301898195136604376458161~hmac=8843016bde0c7e6b7fd050523cc3591e1b13fed0df5b6624dbd4fa8c59fb58aa",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792730736~acl=/*~id=15771739301898195136604376458161~hmac=8843016bde0c7e6b7fd050523cc3591e1b13fed0df5b6624dbd4fa8c59fb58aa",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792730736~acl=/*~id=15771739301898195136604376458161~hmac=8843016bde0c7e6b7fd050523cc3591e1b13fed0df5b6624dbd4fa8c59fb58aa"
     },
     {
       "match_id": "1090549627",
