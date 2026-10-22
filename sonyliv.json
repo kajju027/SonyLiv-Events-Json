@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 5:15:30 pm",
-  "total_matches": 13,
-  "live_matches": 7,
+  "updatedAt": "22/10/2026, 5:20:36 pm",
+  "total_matches": 12,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090549541_ENG",
@@ -69,19 +69,6 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrl-800300010.m3u8?hdnea=exp=1792712456~acl=/*~id=00784217749445142201649498941195~hmac=67921ac54df30a01b443b62724c802443cf481f89d6c2cb80606e87f3b8ce75f",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrl-800300010.m3u8?hdnea=exp=1792712456~acl=/*~id=00784217749445142201649498941195~hmac=67921ac54df30a01b443b62724c802443cf481f89d6c2cb80606e87f3b8ce75f",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2210/KAN/std_lrl-800300010.m3u8?hdnea=exp=1792712456~acl=/*~id=00784217749445142201649498941195~hmac=67921ac54df30a01b443b62724c802443cf481f89d6c2cb80606e87f3b8ce75f"
-    },
-    {
-      "match_id": "1090549619",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "1st T20I - 22 Oct 2026 | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057"
     },
     {
       "match_id": "1090549541",
