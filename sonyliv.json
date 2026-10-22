@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 5:52:05 pm",
+  "updatedAt": "22/10/2026, 5:55:49 pm",
   "total_matches": 7,
   "live_matches": 1,
   "matches": [
     {
-      "match_id": "1090549541",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "1st T20I - 22 Oct 2026 | India Tour of New Zealand 2026 [ENGLISH]",
+      "match_id": "1090549594",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
-      "dai_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
-      "pub_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
-      "video_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/master.m3u8?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057"
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3"
     },
     {
       "match_id": 1090549928,
