@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 9:25:59 pm",
+  "updatedAt": "22/10/2026, 9:26:04 pm",
   "total_matches": 10,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792727705~acl=/*~id=26133688943347199924831187962173~hmac=02e0bfe3ca53b6590cc12dba0793dd18d0f379319ef01fd6df415bd65a471a75",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792727705~acl=/*~id=26133688943347199924831187962173~hmac=02e0bfe3ca53b6590cc12dba0793dd18d0f379319ef01fd6df415bd65a471a75",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792727705~acl=/*~id=26133688943347199924831187962173~hmac=02e0bfe3ca53b6590cc12dba0793dd18d0f379319ef01fd6df415bd65a471a75"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa"
     },
     {
       "match_id": "1090549551_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792727705~acl=/*~id=26133688943347199924831187962173~hmac=02e0bfe3ca53b6590cc12dba0793dd18d0f379319ef01fd6df415bd65a471a75",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792727705~acl=/*~id=26133688943347199924831187962173~hmac=02e0bfe3ca53b6590cc12dba0793dd18d0f379319ef01fd6df415bd65a471a75",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792727705~acl=/*~id=26133688943347199924831187962173~hmac=02e0bfe3ca53b6590cc12dba0793dd18d0f379319ef01fd6df415bd65a471a75"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792727098~acl=/*~id=62031427465603847059262075595842~hmac=805020ce0af44322221da37dc98e10f4e2c73ec17366894ec5ff65d3e6694eaa"
     },
     {
       "match_id": "1090549594",
