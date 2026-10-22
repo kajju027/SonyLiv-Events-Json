@@ -1,10 +1,75 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 10:59:58 am",
-  "total_matches": 13,
-  "live_matches": 4,
+  "updatedAt": "22/10/2026, 11:17:22 am",
+  "total_matches": 15,
+  "live_matches": 9,
   "matches": [
+    {
+      "match_id": "1090549541_ENG",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "1st T20I - 22 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119931/cricodi_2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff"
+    },
+    {
+      "match_id": "1090549541_HIN",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "1st T20I - 22 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119921/cricodi_2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff"
+    },
+    {
+      "match_id": "1090549541_TAM",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "1st T20I - 22 Oct 2026 [TAM]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpchb442/cricodi_2210-tam-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff"
+    },
+    {
+      "match_id": "1090549541_TEL",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "1st T20I - 22 Oct 2026 [TEL]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2119941/cricodi_2210/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff"
+    },
+    {
+      "match_id": "1090549541_KAN",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "1st T20I - 22 Oct 2026 [KAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpche169/cricodi_2210-kan-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff"
+    },
     {
       "match_id": "1090549540_ENG",
       "event_name": "Asian Tour 2026",
@@ -14,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055323772141_Asian-Tour_LINK-Hong-Kong-Open_D1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792689959~acl=/*~id=75418883664082335071171856172850~hmac=3b8d2ab6026cdd79b4ebc88e81b05957656ec93a35edcd01801a439b1039cb25",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792689959~acl=/*~id=75418883664082335071171856172850~hmac=3b8d2ab6026cdd79b4ebc88e81b05957656ec93a35edcd01801a439b1039cb25",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792689959~acl=/*~id=75418883664082335071171856172850~hmac=3b8d2ab6026cdd79b4ebc88e81b05957656ec93a35edcd01801a439b1039cb25"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff"
     },
     {
       "match_id": "1090549539_ENG",
@@ -27,9 +92,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611483435924_DP-World_Genesis-Championship_D1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792689959~acl=/*~id=75418883664082335071171856172850~hmac=3b8d2ab6026cdd79b4ebc88e81b05957656ec93a35edcd01801a439b1039cb25",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792689959~acl=/*~id=75418883664082335071171856172850~hmac=3b8d2ab6026cdd79b4ebc88e81b05957656ec93a35edcd01801a439b1039cb25",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792689959~acl=/*~id=75418883664082335071171856172850~hmac=3b8d2ab6026cdd79b4ebc88e81b05957656ec93a35edcd01801a439b1039cb25"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792691174~acl=/*~id=16062784765281881986345388830687~hmac=375c6d032460cc723e3761d9f554029846fe7cb33a99d8e57692eb33bcbe8aff"
     },
     {
       "match_id": "1090549540",
@@ -56,19 +121,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792680646~acl=/*~id=37255041743746835064614538311380~hmac=f20e6d86b079442a9712ecd4acede25ddb6d8845dde36e5186cad4ba73934877",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792680646~acl=/*~id=37255041743746835064614538311380~hmac=f20e6d86b079442a9712ecd4acede25ddb6d8845dde36e5186cad4ba73934877",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792680646~acl=/*~id=37255041743746835064614538311380~hmac=f20e6d86b079442a9712ecd4acede25ddb6d8845dde36e5186cad4ba73934877"
-    },
-    {
-      "match_id": 1090548837,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409844602715_IND_vs_NZ_1st_T20i_landscape_thumb_today.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
     },
     {
       "match_id": 1090549928,
@@ -144,32 +196,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026604/1792259527608635_ind_vs_nz_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090549555,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581296779860_Promo-Thumbs_ashwin_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090549556,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026879/1792581347905860_Promo-Thumbs_NZ_vs_IND_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
