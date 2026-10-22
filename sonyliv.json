@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 5:55:49 pm",
-  "total_matches": 7,
-  "live_matches": 1,
+  "updatedAt": "22/10/2026, 5:56:21 pm",
+  "total_matches": 8,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090549594_HIN",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2210/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792714939~acl=/*~id=67412039318139673109069139956319~hmac=9b6a7b110ca16cf98efc2f8532b0d69cd8c48966433e179e0b32f8945d64c725"
+    },
     {
       "match_id": "1090549594",
       "event_name": "Salute Tiranga Cricket League (STCL) 2026",
