@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 12:53:41 am",
+  "updatedAt": "23/10/2026, 12:55:23 am",
   "total_matches": 28,
   "live_matches": 18,
   "matches": [
@@ -82,6 +82,58 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118669/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118669/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118669/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0"
+    },
+    {
+      "match_id": "1090549554",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "Juventus vs Rennes - 22 Oct 2026 | UEFA Europa League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791238994627235_UEL2627_MD3_Juventus_vs_Rennes_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5"
+    },
+    {
+      "match_id": "1090549558",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "Union SG vs H. Beer-Sheva - 22 Oct 2026 | UEFA Europa League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791240028755235_UEL2627_MD3_UnionSG_vs_BeerSheva_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5"
+    },
+    {
+      "match_id": "1090549557",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "Ferencváros vs Tørrense - 22 Oct 2026 | UEFA Europa League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791239263773235_UEL2627_MD3_Ferencvaros_vs_Torrense_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5"
+    },
+    {
+      "match_id": "1090549626",
+      "event_name": "UEFA Conference League 2026-27",
+      "match_name": "Trabzonspor vs Hearts - 22 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792129975828133_UECL_26_MD2_Trabzonspor-vs-Hearts_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2210/ENG/master.m3u8?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5"
     },
     {
       "match_id": "1090549732",
@@ -186,58 +238,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2210/ENG/master.m3u8?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0"
-    },
-    {
-      "match_id": "1090549911",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "AS Monaco vs SC Freiburg - 23 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026579/1792147880069704_UECL_26_MD2_AMonaco-vs-Freiburg_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118670/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118670/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118670/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0"
-    },
-    {
-      "match_id": "1090549909",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "Braga vs KAA Gent - 23 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026499/1792144452477451_UECL_26_MD2_Braga-vs-Gent_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118672/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118672/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118672/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0"
-    },
-    {
-      "match_id": "1090549912",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "FC Midtjylland vs K. Sint-Truidense VV - 23 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792235941546100_UECL26_MD2_Midtjylland-vs-Sint-Truidense_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118668/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118668/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118668/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0"
-    },
-    {
-      "match_id": "1090549913",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "L. Red Imps FC vs Twente - 23 Oct 2026 | UEFA Conference League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792236554065100_UECL26_MD2_L-Red-Imps-vs-Twente_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2118676/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2118676/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2118676/footlive2210/ENG/master.m3u8?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0"
     },
     {
       "match_id": 1090547508,
