@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/10/2026, 11:21:53 pm",
+  "updatedAt": "22/10/2026, 11:28:29 pm",
   "total_matches": 26,
   "live_matches": 16,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734382~acl=/*~id=76715963171333410658142378425005~hmac=07a073d1d084f01317f7c445a0323a8b16068123fdb1dd51078e9b582be43924",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734382~acl=/*~id=76715963171333410658142378425005~hmac=07a073d1d084f01317f7c445a0323a8b16068123fdb1dd51078e9b582be43924",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734382~acl=/*~id=76715963171333410658142378425005~hmac=07a073d1d084f01317f7c445a0323a8b16068123fdb1dd51078e9b582be43924"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/footlive2210/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792734989~acl=/*~id=55227249070350915066906700019842~hmac=28d3552c61d05c51d8d620c301366f5afcf3031d592cff1b75599a62f494d891"
     },
     {
       "match_id": "1090549627",
