@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 2:37:23 pm",
+  "updatedAt": "23/10/2026, 2:37:27 pm",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
     {
       "match_id": "1090550072_HIN",
       "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]",
+      "match_name": "Punjab Falcons vs UP Dhurandhar - 23 Oct 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792789543~acl=/*~id=68515135065981833648518007638247~hmac=8dcbad51352963e4db178c252664795701f020ec63388fe6e28e6c9ae33b5ad1",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792789543~acl=/*~id=68515135065981833648518007638247~hmac=8dcbad51352963e4db178c252664795701f020ec63388fe6e28e6c9ae33b5ad1",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792789543~acl=/*~id=68515135065981833648518007638247~hmac=8dcbad51352963e4db178c252664795701f020ec63388fe6e28e6c9ae33b5ad1"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788937~acl=/*~id=29370777944413818848525474453256~hmac=72bb440b4c5ddd40ac6252798959253e268085a702b8dc42526f7fe6bb8f712c",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788937~acl=/*~id=29370777944413818848525474453256~hmac=72bb440b4c5ddd40ac6252798959253e268085a702b8dc42526f7fe6bb8f712c",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792788937~acl=/*~id=29370777944413818848525474453256~hmac=72bb440b4c5ddd40ac6252798959253e268085a702b8dc42526f7fe6bb8f712c"
     },
     {
       "match_id": "1090550072",
