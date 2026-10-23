@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 6:21:06 pm",
-  "total_matches": 19,
-  "live_matches": 8,
+  "updatedAt": "23/10/2026, 6:22:35 pm",
+  "total_matches": 20,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090550073_ENG",
@@ -95,6 +95,19 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb"
+    },
+    {
+      "match_id": "1090550116",
+      "event_name": "Volleyball Champions League 2026",
+      "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041"
     },
     {
       "match_id": "1090550072",
