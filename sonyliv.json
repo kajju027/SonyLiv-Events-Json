@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 6:12:23 pm",
+  "updatedAt": "23/10/2026, 6:18:56 pm",
   "total_matches": 19,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b"
     },
     {
       "match_id": "1090550073_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b"
     },
     {
       "match_id": "1090550073_BEN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "BEN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b"
     },
     {
       "match_id": "1090550116_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b"
     },
     {
       "match_id": "1090550116_HIN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b"
     },
     {
       "match_id": "1090550072_HIN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802916~acl=/*~id=68243042204662884457776574140104~hmac=dbe05fda69f844d708b9e05230c451b236146c7c1985be099faf2a458d78a91b"
     },
     {
       "match_id": "1090550073",
