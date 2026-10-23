@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 9:14:26 am",
+  "updatedAt": "23/10/2026, 9:15:30 am",
   "total_matches": 12,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792770130~acl=/*~id=42262835208117862925996997636712~hmac=8155b59c1cbaa96a27f877dc86fa09a88dc5cddbbea386fc9ad301121164e183",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792770130~acl=/*~id=42262835208117862925996997636712~hmac=8155b59c1cbaa96a27f877dc86fa09a88dc5cddbbea386fc9ad301121164e183",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792770130~acl=/*~id=42262835208117862925996997636712~hmac=8155b59c1cbaa96a27f877dc86fa09a88dc5cddbbea386fc9ad301121164e183"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792769523~acl=/*~id=13621896103843755318716719561486~hmac=ddf45c00965dd577868a813e820b471412e6492353c4b06f06c6fb887633131a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792769523~acl=/*~id=13621896103843755318716719561486~hmac=ddf45c00965dd577868a813e820b471412e6492353c4b06f06c6fb887633131a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792769523~acl=/*~id=13621896103843755318716719561486~hmac=ddf45c00965dd577868a813e820b471412e6492353c4b06f06c6fb887633131a"
     },
     {
       "match_id": "1090550070",
