@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 10:34:03 pm",
-  "total_matches": 17,
-  "live_matches": 5,
+  "updatedAt": "23/10/2026, 10:43:32 pm",
+  "total_matches": 16,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090550116_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb"
     },
     {
       "match_id": "1090550116_HIN",
@@ -27,22 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595"
-    },
-    {
-      "match_id": "1090550072_HIN",
-      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Delhi Leaders vs Tamilnadu Thunders - 23 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026769/1792489851034675_Delhi_Leaders_vs_Tamilnadu_Thunders_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818087~acl=/*~id=47756976049625872739332800248681~hmac=32c195c9b4f1c6486e023243b39830d0683b08a3dc069843803d5edbbe6a9595"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792818694~acl=/*~id=86048367356461975779652829448835~hmac=6705d00ba1b68758fa3bd2e5c3c7ed75e46c3ecd7712f977cc6947c1a84915eb"
     },
     {
       "match_id": "1090550116",
@@ -97,6 +84,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090550350,
+      "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027069/1792700049063768_UFC333_Volkanovski_vs_Evloev_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
       "match_name": "",
@@ -118,19 +118,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550350,
-      "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027069/1792700049063768_UFC333_Volkanovski_vs_Evloev_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
