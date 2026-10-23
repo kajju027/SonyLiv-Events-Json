@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 7:20:10 pm",
-  "total_matches": 17,
-  "live_matches": 6,
+  "updatedAt": "23/10/2026, 7:25:18 pm",
+  "total_matches": 16,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090550116_ENG",
@@ -43,19 +43,6 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792806562~acl=/*~id=21829632335973159178403977259499~hmac=c40010e941cc13b94978caa14743fad0ebe783c64a60fd94860f973569b671c5",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792806562~acl=/*~id=21829632335973159178403977259499~hmac=c40010e941cc13b94978caa14743fad0ebe783c64a60fd94860f973569b671c5",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792806562~acl=/*~id=21829632335973159178403977259499~hmac=c40010e941cc13b94978caa14743fad0ebe783c64a60fd94860f973569b671c5"
-    },
-    {
-      "match_id": "1090550073",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb"
     },
     {
       "match_id": "1090550116",
