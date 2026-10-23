@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 3:25:45 am",
+  "updatedAt": "24/10/2026, 3:36:26 am",
   "total_matches": 14,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792835652~acl=/*~id=24725807651444843923402865677298~hmac=f6df6655f64954634bdad5f9f913f0ff2cdd386d43d98696e6c0d7b3bebfb120",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792835652~acl=/*~id=24725807651444843923402865677298~hmac=f6df6655f64954634bdad5f9f913f0ff2cdd386d43d98696e6c0d7b3bebfb120",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792835652~acl=/*~id=24725807651444843923402865677298~hmac=f6df6655f64954634bdad5f9f913f0ff2cdd386d43d98696e6c0d7b3bebfb120"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836257~acl=/*~id=20103155712845905243442731069133~hmac=85305f65469d8c814380052004a957d5c71022a0aeb93f89a34166d917d001c4",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836257~acl=/*~id=20103155712845905243442731069133~hmac=85305f65469d8c814380052004a957d5c71022a0aeb93f89a34166d917d001c4",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792836257~acl=/*~id=20103155712845905243442731069133~hmac=85305f65469d8c814380052004a957d5c71022a0aeb93f89a34166d917d001c4"
     },
     {
       "match_id": "1090550213",
@@ -30,19 +30,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2"
-    },
-    {
-      "match_id": 1090550209,
-      "event_name": "Upcoming - India A Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027136/1792751473983156_NZ_vs_IND_A_1st_test_day1_today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
     },
     {
       "match_id": 1090550083,
@@ -105,6 +92,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026951/179264549504218_NZ_vs_IND_promo_thumb_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090550209,
+      "event_name": "Upcoming - India A Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027136/1792751473983156_NZ_vs_IND_A_1st_test_day1_today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
