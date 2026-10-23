@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 1:51:43 pm",
-  "total_matches": 16,
-  "live_matches": 5,
+  "updatedAt": "23/10/2026, 1:54:19 pm",
+  "total_matches": 15,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090550072_HIN",
@@ -56,19 +56,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100"
-    },
-    {
-      "match_id": "1090550070",
-      "event_name": "DP World Tour",
-      "match_name": "Genesis Championship - Day 2 - 23 Oct 2026 | DP World Tour [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/master.m3u8?hdnea=exp=1792767049~acl=/*~id=74840593534100273763159678033980~hmac=0454bea0c23e6c870f2ea4639cd930081bb6caf1d7ebc36a4a4244ed0e015d21",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/master.m3u8?hdnea=exp=1792767049~acl=/*~id=74840593534100273763159678033980~hmac=0454bea0c23e6c870f2ea4639cd930081bb6caf1d7ebc36a4a4244ed0e015d21",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/master.m3u8?hdnea=exp=1792767049~acl=/*~id=74840593534100273763159678033980~hmac=0454bea0c23e6c870f2ea4639cd930081bb6caf1d7ebc36a4a4244ed0e015d21"
     },
     {
       "match_id": 1090550079,
