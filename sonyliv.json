@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 3:24:46 am",
+  "updatedAt": "25/10/2026, 3:24:52 am",
   "total_matches": 8,
   "live_matches": 2,
   "matches": [
@@ -19,17 +19,17 @@
       "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792921414~acl=/*~id=17706011095152850230293161312172~hmac=9b6b32526f86722eb5afe0c2a8f3aa02e5e0d727720c3bff7fe07830bd8d5268"
     },
     {
-      "match_id": "1090550571",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "1st Unofficial Test - Day 2 | India A Tour of New Zealand [ENGLISH]",
+      "match_id": "1090550233",
+      "event_name": "UFC 333 - Volkanovski vs Evloev",
+      "match_name": "UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
-      "pub_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
-      "video_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc",
+      "pub_url": "?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc",
+      "video_url": "?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc"
     },
     {
       "match_id": 1090547508,
