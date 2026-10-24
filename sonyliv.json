@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 4:58:47 pm",
-  "total_matches": 13,
-  "live_matches": 6,
+  "updatedAt": "24/10/2026, 4:59:24 pm",
+  "total_matches": 10,
+  "live_matches": 3,
   "matches": [
-    {
-      "match_id": "1090550278_HIN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd T20I - 24 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d"
-    },
     {
       "match_id": "1090550278_ENG",
       "event_name": "India Tour of New Zealand 2026",
@@ -27,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792883807~acl=/*~id=38430199609305515386094204351834~hmac=dd8851c46eb7db0f78656797d68bf5b9310a1826ec42b4dc2685485398bf611c",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792883807~acl=/*~id=38430199609305515386094204351834~hmac=dd8851c46eb7db0f78656797d68bf5b9310a1826ec42b4dc2685485398bf611c",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792883807~acl=/*~id=38430199609305515386094204351834~hmac=dd8851c46eb7db0f78656797d68bf5b9310a1826ec42b4dc2685485398bf611c"
     },
     {
       "match_id": "1090550278_KAN",
@@ -40,35 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d"
-    },
-    {
-      "match_id": "1090550278_TAM",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd T20I - 24 Oct 2026 [TAM]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d"
-    },
-    {
-      "match_id": "1090550278_TEL",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd T20I - 24 Oct 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119941/cricodi_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792884430~acl=/*~id=98862122531681903355991935008875~hmac=a5232dbf13230428d65164f7f74d7d4d112d607bef45baf03613527c7bf91b0d"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792883807~acl=/*~id=38430199609305515386094204351834~hmac=dd8851c46eb7db0f78656797d68bf5b9310a1826ec42b4dc2685485398bf611c",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792883807~acl=/*~id=38430199609305515386094204351834~hmac=dd8851c46eb7db0f78656797d68bf5b9310a1826ec42b4dc2685485398bf611c",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2119782/cricodi_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792883807~acl=/*~id=38430199609305515386094204351834~hmac=dd8851c46eb7db0f78656797d68bf5b9310a1826ec42b4dc2685485398bf611c"
     },
     {
       "match_id": "1090550278",
