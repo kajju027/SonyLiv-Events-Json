@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 8:29:57 am",
-  "total_matches": 14,
-  "live_matches": 2,
+  "updatedAt": "24/10/2026, 8:40:07 am",
+  "total_matches": 15,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090550213_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853838~acl=/*~id=45738553180787853378416691555932~hmac=60d0d19f54beed160860dd3676aebc4953abaf230d4eb4eb33fa84f5e81bc941",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853838~acl=/*~id=45738553180787853378416691555932~hmac=60d0d19f54beed160860dd3676aebc4953abaf230d4eb4eb33fa84f5e81bc941",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853838~acl=/*~id=45738553180787853378416691555932~hmac=60d0d19f54beed160860dd3676aebc4953abaf230d4eb4eb33fa84f5e81bc941"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792854444~acl=/*~id=64767550370717087639955124923779~hmac=366e4ef0e2646738d9e3c2e12d91d79de17ea720a5221fe17cda5b8d96ad52cd",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792854444~acl=/*~id=64767550370717087639955124923779~hmac=366e4ef0e2646738d9e3c2e12d91d79de17ea720a5221fe17cda5b8d96ad52cd",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792854444~acl=/*~id=64767550370717087639955124923779~hmac=366e4ef0e2646738d9e3c2e12d91d79de17ea720a5221fe17cda5b8d96ad52cd"
+    },
+    {
+      "match_id": "1090550216_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Genesis Championship - Day 3 - 24 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792854444~acl=/*~id=64767550370717087639955124923779~hmac=366e4ef0e2646738d9e3c2e12d91d79de17ea720a5221fe17cda5b8d96ad52cd",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792854444~acl=/*~id=64767550370717087639955124923779~hmac=366e4ef0e2646738d9e3c2e12d91d79de17ea720a5221fe17cda5b8d96ad52cd",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792854444~acl=/*~id=64767550370717087639955124923779~hmac=366e4ef0e2646738d9e3c2e12d91d79de17ea720a5221fe17cda5b8d96ad52cd"
     },
     {
       "match_id": "1090550213",
