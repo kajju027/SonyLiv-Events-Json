@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 10:34:55 pm",
+  "updatedAt": "24/10/2026, 10:45:05 pm",
   "total_matches": 13,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66"
     },
     {
       "match_id": "1090550233_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66"
     },
     {
       "match_id": "1090550233_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66"
     },
     {
       "match_id": "1090550233_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66"
     },
     {
       "match_id": "1090550233_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792904440~acl=/*~id=47501976132391145886145985892571~hmac=89f53fdea0ba7e5ec19071acb66d5d00c2bf25ba660f3b774db27e30a3effa29"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792905047~acl=/*~id=24946293822379315750096587050716~hmac=66ea0b629158dcbbb9ce29f462c24a08eb4e48ded36249bacde7f1745eeaad66"
     },
     {
       "match_id": "1090550233",
