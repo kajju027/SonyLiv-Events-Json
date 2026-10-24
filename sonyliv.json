@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 7:55:02 pm",
+  "updatedAt": "24/10/2026, 8:00:16 pm",
   "total_matches": 12,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63"
     },
     {
       "match_id": "1090550221_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63"
     },
     {
       "match_id": "1090550219_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792894735~acl=/*~id=74081105121770988567633151031716~hmac=85d66dd2885374d81a09de88de8190f90f6ecdedb832c16f8c5310d2c2ceb207"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792895340~acl=/*~id=60931862684417414825267107736236~hmac=684f269533ed7fcef740f2d773a53ded4876b604dc81474ee91a002535aa4a63"
     },
     {
       "match_id": "1090550221",
