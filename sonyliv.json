@@ -1,10 +1,75 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 9:01:42 pm",
-  "total_matches": 12,
-  "live_matches": 5,
+  "updatedAt": "24/10/2026, 9:11:56 pm",
+  "total_matches": 16,
+  "live_matches": 10,
   "matches": [
+    {
+      "match_id": "1090550233_ENG",
+      "event_name": "UFC 333 - Volkanovski vs Evloev",
+      "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022320/UFC_UFC_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
+    },
+    {
+      "match_id": "1090550233_HIN",
+      "event_name": "UFC 333 - Volkanovski vs Evloev",
+      "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2018458/UFC_UFC_2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
+    },
+    {
+      "match_id": "1090550233_TAM",
+      "event_name": "UFC 333 - Volkanovski vs Evloev",
+      "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TAM]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022317/UFC_UFC_2410/TAM/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
+    },
+    {
+      "match_id": "1090550233_TEL",
+      "event_name": "UFC 333 - Volkanovski vs Evloev",
+      "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [TEL]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022316/UFC_UFC_2410/TEL/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
+    },
+    {
+      "match_id": "1090550233_KAN",
+      "event_name": "UFC 333 - Volkanovski vs Evloev",
+      "match_name": "UFC 333 - Volkanovski vs Evloev - 24 Oct 2026 [KAN]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFC_2410/KAN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
+    },
     {
       "match_id": "1090550221_ENG",
       "event_name": "MG Indian Super League 2026-27",
@@ -14,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/Footlive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
     },
     {
       "match_id": "1090550221_HIN",
@@ -27,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094587/Footlive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
     },
     {
       "match_id": "1090550219_HIN",
@@ -40,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792898976~acl=/*~id=80276693186822307780187231553798~hmac=07cb1faac8629f17a3b451882a5cf6a04b98da336d7c3e2c18e5dd14a0399d07"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120308/criclive2410/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792899582~acl=/*~id=09287781556224265509964533675509~hmac=19736f0b4fa7022da76f3647b02118a2c713e4ee49c47f42d490525634aaf323"
     },
     {
       "match_id": "1090550221",
@@ -69,19 +134,6 @@
       "dai_url": "?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d",
       "pub_url": "?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d",
       "video_url": "?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d"
-    },
-    {
-      "match_id": 1090550350,
-      "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027069/1792700065569768_UFC333_Volkanovski_vs_Evloev_tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
     },
     {
       "match_id": 1090549928,
