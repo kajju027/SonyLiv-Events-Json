@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 8:18:50 am",
+  "updatedAt": "24/10/2026, 8:19:47 am",
   "total_matches": 14,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792852625~acl=/*~id=97163246827437883525422065272604~hmac=cde7199f165c38256fd5fe39d2644deb40e18c09ab5962032ea1cfaf2f4f388c",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792852625~acl=/*~id=97163246827437883525422065272604~hmac=cde7199f165c38256fd5fe39d2644deb40e18c09ab5962032ea1cfaf2f4f388c",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792852625~acl=/*~id=97163246827437883525422065272604~hmac=cde7199f165c38256fd5fe39d2644deb40e18c09ab5962032ea1cfaf2f4f388c"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853233~acl=/*~id=75516008907080481626609461184416~hmac=1b8634c9cb7d08bd554ada88d6c94ac54a3ef68965d42f28aa2c50c23fe63f2a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853233~acl=/*~id=75516008907080481626609461184416~hmac=1b8634c9cb7d08bd554ada88d6c94ac54a3ef68965d42f28aa2c50c23fe63f2a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792853233~acl=/*~id=75516008907080481626609461184416~hmac=1b8634c9cb7d08bd554ada88d6c94ac54a3ef68965d42f28aa2c50c23fe63f2a"
     },
     {
       "match_id": "1090550213",
@@ -52,7 +52,7 @@
       "category": "Fight Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027069/1792700049063768_UFC333_Volkanovski_vs_Evloev_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027069/1792700065569768_UFC333_Volkanovski_vs_Evloev_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -65,7 +65,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792658796249446_ISL_Odisha-FC-vs-NorthEast-United-FC_promo_DDT_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792658826662446_ISL_Odisha-FC-vs-NorthEast-United-FC_promo_Tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
