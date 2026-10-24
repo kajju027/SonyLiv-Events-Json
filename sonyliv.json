@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 4:51:13 pm",
-  "total_matches": 10,
-  "live_matches": 3,
+  "updatedAt": "24/10/2026, 4:52:19 pm",
+  "total_matches": 11,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090550278_ENG",
@@ -33,6 +33,19 @@
     },
     {
       "match_id": "1090550278",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "2nd T20I | India Tour of New Zealand 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1",
+      "pub_url": "?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1",
+      "video_url": "?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1"
+    },
+    {
+      "match_id": "1090550308",
       "event_name": "India Tour of New Zealand 2026",
       "match_name": "2nd T20I | India Tour of New Zealand 2026 [ENGLISH]",
       "status": "Live",
