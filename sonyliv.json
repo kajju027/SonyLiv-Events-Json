@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 9:51:24 am",
-  "total_matches": 18,
-  "live_matches": 6,
+  "updatedAt": "24/10/2026, 9:52:42 am",
+  "total_matches": 17,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090550213_ENG",
@@ -69,19 +69,6 @@
       "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792855246~acl=/*~id=56930153112694230242815352793050~hmac=aefa62b343e5e7805b6b75a67ad26e1e0e04c8fb25a1723bb817b6cae2c8166c",
       "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792855246~acl=/*~id=56930153112694230242815352793050~hmac=aefa62b343e5e7805b6b75a67ad26e1e0e04c8fb25a1723bb817b6cae2c8166c",
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792855246~acl=/*~id=56930153112694230242815352793050~hmac=aefa62b343e5e7805b6b75a67ad26e1e0e04c8fb25a1723bb817b6cae2c8166c"
-    },
-    {
-      "match_id": "1090550217",
-      "event_name": "Asian Tour 2026",
-      "match_name": "LINK Hong Kong Open - Day 3 - 24 Oct 2026 | Asian Tour 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792858852~acl=/*~id=43743134088678786837816661800315~hmac=d0a902532d5b81836320e196444428193acc1c9bd5d9200a5787e265d10b41d5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792858852~acl=/*~id=43743134088678786837816661800315~hmac=d0a902532d5b81836320e196444428193acc1c9bd5d9200a5787e265d10b41d5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792858852~acl=/*~id=43743134088678786837816661800315~hmac=d0a902532d5b81836320e196444428193acc1c9bd5d9200a5787e265d10b41d5"
     },
     {
       "match_id": 1090550083,
