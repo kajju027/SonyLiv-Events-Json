@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 12:29:35 pm",
-  "total_matches": 18,
-  "live_matches": 11,
+  "updatedAt": "24/10/2026, 12:32:20 pm",
+  "total_matches": 14,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090550278_ENG",
@@ -95,58 +95,6 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792867833~acl=/*~id=83326982426989788154549804496916~hmac=6bffaf673770bfd95a9f002eb163079cad16f72e342e82efa65c3064051c4f2d"
-    },
-    {
-      "match_id": "1090550278",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd T20I | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "pub_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "video_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b"
-    },
-    {
-      "match_id": "1090550308",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd T20I | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "pub_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "video_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b"
-    },
-    {
-      "match_id": "1090550216",
-      "event_name": "DP World Tour",
-      "match_name": "Genesis Championship - Day 3 | DP World Tour [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "pub_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "video_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b"
-    },
-    {
-      "match_id": "1090550217",
-      "event_name": "Asian Tour 2026",
-      "match_name": "LINK Hong Kong Open - Day 3 | Asian Tour 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "pub_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b",
-      "video_url": "?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b"
     },
     {
       "match_id": 1090550350,
