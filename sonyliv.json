@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 5:22:48 pm",
-  "total_matches": 8,
-  "live_matches": 1,
+  "updatedAt": "24/10/2026, 5:24:15 pm",
+  "total_matches": 7,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090550278",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd T20I | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1",
-      "pub_url": "?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1",
-      "video_url": "?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1"
-    },
     {
       "match_id": 1090550350,
       "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev",
