@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/10/2026, 11:02:43 am",
-  "total_matches": 18,
-  "live_matches": 6,
+  "updatedAt": "24/10/2026, 11:09:18 am",
+  "total_matches": 14,
+  "live_matches": 7,
   "matches": [
+    {
+      "match_id": 1090550278,
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "2nd T20I - 24 Oct 2026",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
     {
       "match_id": "1090550213_ENG",
       "event_name": "India A Tour of New Zealand",
@@ -14,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0"
     },
     {
       "match_id": "1090550216_ENG",
@@ -27,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/Genesis_2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0"
     },
     {
       "match_id": "1090550217_ENG",
@@ -40,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792862927~acl=/*~id=19315807038241741511585510241577~hmac=fa4b6378b02ea4347b9fe7c6d0bd6fc81811f0c7fb4ae2a6fa101d58e8ea7ffa"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/AsianTou2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792863540~acl=/*~id=87382009313289274165490611146666~hmac=c5734f4130e4bf1c4a7fee7b535d038983acbf1fa6e782720bc1d8b0f5f3dda0"
     },
     {
       "match_id": "1090550213",
@@ -84,19 +97,6 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792858852~acl=/*~id=43743134088678786837816661800315~hmac=d0a902532d5b81836320e196444428193acc1c9bd5d9200a5787e265d10b41d5"
     },
     {
-      "match_id": 1090550083,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690215612846_indvsnz_2nd_t20i_today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090550350,
       "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev",
       "match_name": "",
@@ -118,19 +118,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792658826662446_ISL_Odisha-FC-vs-NorthEast-United-FC_promo_Tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550079,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690215612846_indvsnz_2nd_t20i_today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -196,45 +183,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550084,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686516383928_NZvsIND26_vaibhav_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550080,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686364520928_NZvsIND26_varma_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550359,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027185/1792776993792424_sanju_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
