@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 9:45:08 pm",
+  "updatedAt": "25/10/2026, 9:47:18 pm",
   "total_matches": 17,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18"
     },
     {
       "match_id": "1090550560_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18"
     },
     {
       "match_id": "1090550560_MAL",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "MAL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18"
     },
     {
       "match_id": "1090550567_HIN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792988031~acl=/*~id=77215254448670376919751393598439~hmac=246ad04ddba1a63ce2182dc19996869b43c11068188f9e615dca4de63c004d65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792987425~acl=/*~id=45035253511332902219685480231895~hmac=7a58cba0d16a098938b14ad0af88d116595aa11408d4672512db84e83f50db18"
     },
     {
       "match_id": "1090550560",
