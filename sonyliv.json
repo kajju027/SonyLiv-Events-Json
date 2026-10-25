@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/10/2026, 4:17:21 am",
+  "updatedAt": "26/10/2026, 4:17:23 am",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793011632~acl=/*~id=55455403267192191655001099262698~hmac=ceaae3d78e39ab8ae0b6523e67f0ba5955022546d8c34cf50a9498430227e521",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793011632~acl=/*~id=55455403267192191655001099262698~hmac=ceaae3d78e39ab8ae0b6523e67f0ba5955022546d8c34cf50a9498430227e521",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793011632~acl=/*~id=55455403267192191655001099262698~hmac=ceaae3d78e39ab8ae0b6523e67f0ba5955022546d8c34cf50a9498430227e521"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793011027~acl=/*~id=71711830796363353148424347130580~hmac=e84bc5aac0c3ac285fe0d54bad713a3a2d19e3783f017f2370377161b25a9008",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793011027~acl=/*~id=71711830796363353148424347130580~hmac=e84bc5aac0c3ac285fe0d54bad713a3a2d19e3783f017f2370377161b25a9008",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793011027~acl=/*~id=71711830796363353148424347130580~hmac=e84bc5aac0c3ac285fe0d54bad713a3a2d19e3783f017f2370377161b25a9008"
     },
     {
       "match_id": "1090550644",
