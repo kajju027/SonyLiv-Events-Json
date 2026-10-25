@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 8:20:31 am",
-  "total_matches": 9,
-  "live_matches": 3,
+  "updatedAt": "25/10/2026, 8:21:09 am",
+  "total_matches": 10,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090550571_ENG",
@@ -43,6 +43,19 @@
       "dai_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
       "pub_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
       "video_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b"
+    },
+    {
+      "match_id": "1090550570",
+      "event_name": "DP World Tour",
+      "match_name": "Genesis Championship - Day 4 | DP World Tour [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792939850~acl=/*~id=34172469536166767754594096891530~hmac=297be220e9a1696b16991dbde8ba347182d36ddb8d0b2ea6249ba4a77143f7d6",
+      "pub_url": "?hdnea=exp=1792939850~acl=/*~id=34172469536166767754594096891530~hmac=297be220e9a1696b16991dbde8ba347182d36ddb8d0b2ea6249ba4a77143f7d6",
+      "video_url": "?hdnea=exp=1792939850~acl=/*~id=34172469536166767754594096891530~hmac=297be220e9a1696b16991dbde8ba347182d36ddb8d0b2ea6249ba4a77143f7d6"
     },
     {
       "match_id": 1090547508,
