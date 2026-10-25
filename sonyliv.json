@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 10:20:54 pm",
-  "total_matches": 13,
-  "live_matches": 2,
+  "updatedAt": "25/10/2026, 10:23:11 pm",
+  "total_matches": 14,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090550567_HIN",
@@ -17,6 +17,19 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792989848~acl=/*~id=61201453364985827089487486806818~hmac=c90e3bcdbf58fabbbaf1b84a8391c3cab75270b9c313b2bba288f46602748179",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792989848~acl=/*~id=61201453364985827089487486806818~hmac=c90e3bcdbf58fabbbaf1b84a8391c3cab75270b9c313b2bba288f46602748179",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792989848~acl=/*~id=61201453364985827089487486806818~hmac=c90e3bcdbf58fabbbaf1b84a8391c3cab75270b9c313b2bba288f46602748179"
+    },
+    {
+      "match_id": "1090550560",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2",
+      "pub_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2",
+      "video_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2"
     },
     {
       "match_id": "1090550567",
