@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 1:24:09 pm",
+  "updatedAt": "25/10/2026, 1:29:26 pm",
   "total_matches": 13,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792957735~acl=/*~id=59733783761796221418212573129204~hmac=1d3576a8b2aa54f43752956cd831985d628c58b4954965029c36fb463179d964",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792957735~acl=/*~id=59733783761796221418212573129204~hmac=1d3576a8b2aa54f43752956cd831985d628c58b4954965029c36fb463179d964",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792957735~acl=/*~id=59733783761796221418212573129204~hmac=1d3576a8b2aa54f43752956cd831985d628c58b4954965029c36fb463179d964"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630"
     },
     {
       "match_id": "1090550568_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792957735~acl=/*~id=59733783761796221418212573129204~hmac=1d3576a8b2aa54f43752956cd831985d628c58b4954965029c36fb463179d964",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792957735~acl=/*~id=59733783761796221418212573129204~hmac=1d3576a8b2aa54f43752956cd831985d628c58b4954965029c36fb463179d964",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792957735~acl=/*~id=59733783761796221418212573129204~hmac=1d3576a8b2aa54f43752956cd831985d628c58b4954965029c36fb463179d964"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792958340~acl=/*~id=89966408971853373302192118544407~hmac=5db737166b9e8bb806a6ffe93b5420a6fd80b8947b2a565f50e497f52bd2e630"
     },
     {
       "match_id": "1090550567",
