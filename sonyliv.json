@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 6:46:35 pm",
-  "total_matches": 17,
-  "live_matches": 8,
+  "updatedAt": "25/10/2026, 6:51:41 pm",
+  "total_matches": 18,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090550558_ENG",
@@ -97,14 +97,27 @@
       "video_url": "?hdnea=exp=1792968649~acl=/*~id=26944527904544337003888714978225~hmac=d9f6be48e4c7019e062c0410684b5fbc7611c8dddbd630173ef920d5cb354b66"
     },
     {
-      "match_id": "1090550567",
-      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Tamilnadu Thunders vs Gujarat royals | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "match_id": "1090550560",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2",
+      "pub_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2",
+      "video_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2"
+    },
+    {
+      "match_id": "1090550567",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Rajasthan Frontiers vs UP Dhurandhar | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg",
       "dai_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
       "pub_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
       "video_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96"
