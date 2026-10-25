@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 2:30:39 pm",
-  "total_matches": 12,
-  "live_matches": 3,
+  "updatedAt": "25/10/2026, 2:32:14 pm",
+  "total_matches": 13,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090550567_HIN",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792961973~acl=/*~id=49630990484118945794011036037111~hmac=db03308ba556ab50e03b4cc91a9b90cf344eac218573a5a4295f4201e438cdb1",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792961973~acl=/*~id=49630990484118945794011036037111~hmac=db03308ba556ab50e03b4cc91a9b90cf344eac218573a5a4295f4201e438cdb1",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792961973~acl=/*~id=49630990484118945794011036037111~hmac=db03308ba556ab50e03b4cc91a9b90cf344eac218573a5a4295f4201e438cdb1"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b"
+    },
+    {
+      "match_id": "1090550568_ENG",
+      "event_name": "Asian Tour 2026",
+      "match_name": "LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792961367~acl=/*~id=22985002081950758517872831422675~hmac=6afaff5506147a6d790c337bd690753b4e3bedd57818dff00f8e1faf54d1455b"
     },
     {
       "match_id": "1090550567",
