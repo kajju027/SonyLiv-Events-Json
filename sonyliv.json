@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 10:21:54 am",
-  "total_matches": 12,
-  "live_matches": 6,
+  "updatedAt": "25/10/2026, 10:22:47 am",
+  "total_matches": 14,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090550571_ENG",
@@ -69,6 +69,32 @@
       "dai_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
       "pub_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
       "video_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b"
+    },
+    {
+      "match_id": "1090550567",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Delhi Leaders vs Mumbai Mavericks | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "pub_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "video_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96"
+    },
+    {
+      "match_id": "1090550568",
+      "event_name": "Asian Tour 2026",
+      "match_name": "LINK Hong Kong Open - Day 4 | Asian Tour 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "pub_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "video_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96"
     },
     {
       "match_id": "1090550570",
