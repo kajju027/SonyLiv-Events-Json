@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 12:49:49 pm",
+  "updatedAt": "25/10/2026, 12:50:21 pm",
   "total_matches": 12,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746"
     },
     {
       "match_id": "1090550568_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746"
     },
     {
       "match_id": "1090550570_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955311~acl=/*~id=54718086423562510072149537438027~hmac=8af86521e2ee54a65b6b1680167f075cea96139794203aa461f8cb0bf3614fe2"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792955917~acl=/*~id=38758374835405864466489045489481~hmac=1c66bad9bae3967d9fc93df1c8d77b2508c28b0bb8c92943dbfb74e945e38746"
     },
     {
       "match_id": "1090550567",
