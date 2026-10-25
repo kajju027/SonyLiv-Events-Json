@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 5:32:42 pm",
+  "updatedAt": "25/10/2026, 5:42:57 pm",
   "total_matches": 14,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226"
     },
     {
       "match_id": "1090550558_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226"
     },
     {
       "match_id": "1090550567_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792972871~acl=/*~id=65589875953745282809186350171132~hmac=5d6ee180ef13841d8a98327a04026623a3b0a7eef06b43dbe886afa56fac210f"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792973478~acl=/*~id=18771087230117820114165715715790~hmac=3376c52bfa885e96d4e92391529ab79c07f177b75d3faedf1e483691f29c8226"
     },
     {
       "match_id": "1090550558",
