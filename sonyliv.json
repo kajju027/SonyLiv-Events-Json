@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/10/2026, 2:14:30 pm",
-  "total_matches": 12,
-  "live_matches": 1,
+  "updatedAt": "26/10/2026, 2:24:02 pm",
+  "total_matches": 13,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090550648_HIN",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047295~acl=/*~id=20864425293842142754060527429905~hmac=ad678aeec1fa904d86c3b256cdb5acedb15e9c0128bd146b7a9a292147937b89",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047295~acl=/*~id=20864425293842142754060527429905~hmac=ad678aeec1fa904d86c3b256cdb5acedb15e9c0128bd146b7a9a292147937b89",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047295~acl=/*~id=20864425293842142754060527429905~hmac=ad678aeec1fa904d86c3b256cdb5acedb15e9c0128bd146b7a9a292147937b89"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047939~acl=/*~id=02106771762610221691933674199608~hmac=cbcfac7a8bbdb84840f9b70b693b52aeb68ecf755cc06c80d1846acc52fe03f9",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047939~acl=/*~id=02106771762610221691933674199608~hmac=cbcfac7a8bbdb84840f9b70b693b52aeb68ecf755cc06c80d1846acc52fe03f9",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793047939~acl=/*~id=02106771762610221691933674199608~hmac=cbcfac7a8bbdb84840f9b70b693b52aeb68ecf755cc06c80d1846acc52fe03f9"
+    },
+    {
+      "match_id": "1090550648",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Rajasthan Frontiers vs Punjab Falcons | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9",
+      "pub_url": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9",
+      "video_url": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9"
     },
     {
       "match_id": 1090550641,
