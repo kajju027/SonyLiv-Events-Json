@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/10/2026, 4:04:52 pm",
-  "total_matches": 14,
+  "updatedAt": "26/10/2026, 4:06:21 pm",
+  "total_matches": 13,
   "live_matches": 2,
   "matches": [
     {
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053993~acl=/*~id=20823567408361482181473665057400~hmac=06705c23ea96aba06e13e5f2e7ac4072ee56528d40db327bb0cda9edfa176d3a",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053993~acl=/*~id=20823567408361482181473665057400~hmac=06705c23ea96aba06e13e5f2e7ac4072ee56528d40db327bb0cda9edfa176d3a",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053993~acl=/*~id=20823567408361482181473665057400~hmac=06705c23ea96aba06e13e5f2e7ac4072ee56528d40db327bb0cda9edfa176d3a"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053388~acl=/*~id=05552062864882369427548063743764~hmac=b1d452614cdac531f668caa3407b6db741d5446a7c4f8b1db88f623d1829bbbe",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053388~acl=/*~id=05552062864882369427548063743764~hmac=b1d452614cdac531f668caa3407b6db741d5446a7c4f8b1db88f623d1829bbbe",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053388~acl=/*~id=05552062864882369427548063743764~hmac=b1d452614cdac531f668caa3407b6db741d5446a7c4f8b1db88f623d1829bbbe"
     },
     {
       "match_id": "1090550648",
@@ -170,19 +170,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026328/1791978466033872_STCL_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550846,
-      "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027363/1793009798550733_promo_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
