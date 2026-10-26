@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/10/2026, 6:05:04 pm",
+  "updatedAt": "26/10/2026, 6:09:07 pm",
   "total_matches": 14,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793061266~acl=/*~id=11189800149215861150143507794057~hmac=076f5d48771d53991ad140d05509d8d2f13db81d8a8dca39adf60c1ee9597197",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793061266~acl=/*~id=11189800149215861150143507794057~hmac=076f5d48771d53991ad140d05509d8d2f13db81d8a8dca39adf60c1ee9597197",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793061266~acl=/*~id=11189800149215861150143507794057~hmac=076f5d48771d53991ad140d05509d8d2f13db81d8a8dca39adf60c1ee9597197"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793060660~acl=/*~id=70758491209737249460899102408416~hmac=b37b4945dd746993f9802095c5a486e2cd9d86cf24972e556a215a0473691a55",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793060660~acl=/*~id=70758491209737249460899102408416~hmac=b37b4945dd746993f9802095c5a486e2cd9d86cf24972e556a215a0473691a55",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793060660~acl=/*~id=70758491209737249460899102408416~hmac=b37b4945dd746993f9802095c5a486e2cd9d86cf24972e556a215a0473691a55"
     },
     {
       "match_id": "1090550648",
