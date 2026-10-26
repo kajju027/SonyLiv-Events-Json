@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/10/2026, 11:21:54 am",
-  "total_matches": 12,
-  "live_matches": 1,
+  "updatedAt": "26/10/2026, 11:24:51 am",
+  "total_matches": 11,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090550644",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "1st Unofficial Test - Day 3 | India A Tour of New Zealand [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793008246~acl=/*~id=54009841981951384097284120477470~hmac=7014272ac6a303bb57126aa9f43c645745283e52a1d9b8bc08dd921fdeaaaad5",
-      "pub_url": "?hdnea=exp=1793008246~acl=/*~id=54009841981951384097284120477470~hmac=7014272ac6a303bb57126aa9f43c645745283e52a1d9b8bc08dd921fdeaaaad5",
-      "video_url": "?hdnea=exp=1793008246~acl=/*~id=54009841981951384097284120477470~hmac=7014272ac6a303bb57126aa9f43c645745283e52a1d9b8bc08dd921fdeaaaad5"
-    },
     {
       "match_id": 1090550641,
       "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
