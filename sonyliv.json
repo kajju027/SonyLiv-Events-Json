@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/10/2026, 8:28:18 am",
+  "updatedAt": "27/10/2026, 8:33:52 am",
   "total_matches": 15,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793112782~acl=/*~id=82452836156319015866152409055942~hmac=0d6a470a15c2f0f463bb8b4ac7357a12e8d9c5efba3bc485b70cfd8911cf9c21",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793112782~acl=/*~id=82452836156319015866152409055942~hmac=0d6a470a15c2f0f463bb8b4ac7357a12e8d9c5efba3bc485b70cfd8911cf9c21",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793112782~acl=/*~id=82452836156319015866152409055942~hmac=0d6a470a15c2f0f463bb8b4ac7357a12e8d9c5efba3bc485b70cfd8911cf9c21"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793113389~acl=/*~id=53817786307705690837119727854549~hmac=e12e9c531ebdd6cd3422766278ce50092368d8aec92beaf84d29bd8770832410",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793113389~acl=/*~id=53817786307705690837119727854549~hmac=e12e9c531ebdd6cd3422766278ce50092368d8aec92beaf84d29bd8770832410",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793113389~acl=/*~id=53817786307705690837119727854549~hmac=e12e9c531ebdd6cd3422766278ce50092368d8aec92beaf84d29bd8770832410"
     },
     {
       "match_id": "1090550766",
@@ -45,19 +45,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090550664,
-      "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933274831385_NZvsIND_3rd_t20i_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
       "match_name": "",
@@ -66,6 +53,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662643467446_ISL_FC-Goa-vs-Sporting-Club-Delhi_promo_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090550664,
+      "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933274831385_NZvsIND_3rd_t20i_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
