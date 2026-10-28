@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/10/2026, 4:16:44 pm",
-  "total_matches": 13,
-  "live_matches": 0,
+  "updatedAt": "28/10/2026, 5:51:58 pm",
+  "total_matches": 14,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090551064",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Haryana Lions vs UP Dhurandhar - Final | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793233252~acl=/*~id=74226180586525656493550808381961~hmac=1c68fc219546453d1ea3b2492c8ef0ba7854e6b6544f54514a4088d0a10644cf",
+      "pub_url": "?hdnea=exp=1793233252~acl=/*~id=74226180586525656493550808381961~hmac=1c68fc219546453d1ea3b2492c8ef0ba7854e6b6544f54514a4088d0a10644cf",
+      "video_url": "?hdnea=exp=1793233252~acl=/*~id=74226180586525656493550808381961~hmac=1c68fc219546453d1ea3b2492c8ef0ba7854e6b6544f54514a4088d0a10644cf"
+    },
     {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
