@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/10/2026, 1:08:19 pm",
+  "updatedAt": "28/10/2026, 1:16:21 pm",
   "total_matches": 14,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027580/1793171987464723_STCL26_SF_Gujarat_Royals_vs_UP_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793216007~acl=/*~id=49000324313368292804762596214815~hmac=74016837d5f5e7b135c9db62b420af039d1a4e95b189d62254443580ff6d842d",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793216007~acl=/*~id=49000324313368292804762596214815~hmac=74016837d5f5e7b135c9db62b420af039d1a4e95b189d62254443580ff6d842d",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793216007~acl=/*~id=49000324313368292804762596214815~hmac=74016837d5f5e7b135c9db62b420af039d1a4e95b189d62254443580ff6d842d"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793216613~acl=/*~id=44050717160538224425351748427201~hmac=a4f7f702a796c5517e40603c64f040455d3ff7e3dadd27eb3e748b3047a7252c",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793216613~acl=/*~id=44050717160538224425351748427201~hmac=a4f7f702a796c5517e40603c64f040455d3ff7e3dadd27eb3e748b3047a7252c",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793216613~acl=/*~id=44050717160538224425351748427201~hmac=a4f7f702a796c5517e40603c64f040455d3ff7e3dadd27eb3e748b3047a7252c"
     },
     {
       "match_id": "1090550845",
