@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/10/2026, 10:19:56 pm",
-  "total_matches": 16,
-  "live_matches": 3,
+  "updatedAt": "28/10/2026, 10:23:29 pm",
+  "total_matches": 15,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090551064_HIN",
@@ -17,19 +17,6 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793249344~acl=/*~id=50234267195506919003629143401605~hmac=c71c3662e645c0acb8931e7a31d57fc0563fec267db444c6999d48f78b226932",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793249344~acl=/*~id=50234267195506919003629143401605~hmac=c71c3662e645c0acb8931e7a31d57fc0563fec267db444c6999d48f78b226932",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793249344~acl=/*~id=50234267195506919003629143401605~hmac=c71c3662e645c0acb8931e7a31d57fc0563fec267db444c6999d48f78b226932"
-    },
-    {
-      "match_id": "1090551075",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "FC Goa vs Sporting Club Delhi | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793236857~acl=/*~id=96181214760550814358411741514230~hmac=6e656f0dece6bdbe78917dc4c5e72acb9b5597583c4c796a3b9e99a12245be80",
-      "pub_url": "?hdnea=exp=1793236857~acl=/*~id=96181214760550814358411741514230~hmac=6e656f0dece6bdbe78917dc4c5e72acb9b5597583c4c796a3b9e99a12245be80",
-      "video_url": "?hdnea=exp=1793236857~acl=/*~id=96181214760550814358411741514230~hmac=6e656f0dece6bdbe78917dc4c5e72acb9b5597583c4c796a3b9e99a12245be80"
     },
     {
       "match_id": "1090551064",
