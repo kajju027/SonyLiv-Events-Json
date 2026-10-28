@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/10/2026, 10:53:15 pm",
-  "total_matches": 13,
-  "live_matches": 0,
+  "updatedAt": "28/10/2026, 9:51:27 am",
+  "total_matches": 14,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090550845",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Gujarat Royals vs Punjab Falcons - Semi Final 2 | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793204450~acl=/*~id=64105261433113662272449039450077~hmac=9fed16d61686b1e3b228c692342151522729db2c599e7f2d75cd2ef1187cef51",
+      "pub_url": "?hdnea=exp=1793204450~acl=/*~id=64105261433113662272449039450077~hmac=9fed16d61686b1e3b228c692342151522729db2c599e7f2d75cd2ef1187cef51",
+      "video_url": "?hdnea=exp=1793204450~acl=/*~id=64105261433113662272449039450077~hmac=9fed16d61686b1e3b228c692342151522729db2c599e7f2d75cd2ef1187cef51"
+    },
     {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
