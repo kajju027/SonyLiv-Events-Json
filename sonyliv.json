@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/10/2026, 9:42:41 pm",
+  "updatedAt": "28/10/2026, 9:49:16 pm",
   "total_matches": 18,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_2810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef"
     },
     {
       "match_id": "1090551075_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef"
     },
     {
       "match_id": "1090551064_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793246915~acl=/*~id=14703641812664111902199779347831~hmac=6f1acebdf978a17ca3577c527e20baca3eebccd3af8643817496d0620d7dcdd1"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/criclive2810/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793247522~acl=/*~id=86276842840696555096002023396416~hmac=1d9f20b2af6309eeef6a35750cfb11044bcd7a43e25de382e86e34f81cc4d1ef"
     },
     {
       "match_id": "1090551075",
