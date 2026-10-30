@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/10/2026, 6:48:42 pm",
-  "total_matches": 13,
-  "live_matches": 2,
+  "updatedAt": "30/10/2026, 6:53:19 pm",
+  "total_matches": 14,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090551180_ENG",
@@ -30,6 +30,19 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793409483~acl=/*~id=47071449628491984028571608591829~hmac=8b0d15708144c2d141ad817c6b870716ac6d6bc922b15fe868570b59cc3c506f",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793409483~acl=/*~id=47071449628491984028571608591829~hmac=8b0d15708144c2d141ad817c6b870716ac6d6bc922b15fe868570b59cc3c506f",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793409483~acl=/*~id=47071449628491984028571608591829~hmac=8b0d15708144c2d141ad817c6b870716ac6d6bc922b15fe868570b59cc3c506f"
+    },
+    {
+      "match_id": "1090551180",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "NorthEast United FC vs Bengaluru FC | MG Indian Super League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be",
+      "pub_url": "?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be",
+      "video_url": "?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be"
     },
     {
       "match_id": 1090551225,
