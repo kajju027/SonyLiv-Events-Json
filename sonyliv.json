@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/10/2026, 9:34:17 pm",
-  "total_matches": 18,
-  "live_matches": 3,
+  "updatedAt": "30/10/2026, 9:35:06 pm",
+  "total_matches": 17,
+  "live_matches": 2,
   "matches": [
-    {
-      "match_id": "1090551180_HIN",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "NorthEast United FC vs Bengaluru FC - 30 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793418629~acl=/*~id=16700870094470027589028755342300~hmac=e60616cb20638707956bf8eaeaae907c064cb71b2e15ae37693c7005a072674f",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793418629~acl=/*~id=16700870094470027589028755342300~hmac=e60616cb20638707956bf8eaeaae907c064cb71b2e15ae37693c7005a072674f",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793418629~acl=/*~id=16700870094470027589028755342300~hmac=e60616cb20638707956bf8eaeaae907c064cb71b2e15ae37693c7005a072674f"
-    },
     {
       "match_id": "1090551180_ENG",
       "event_name": "MG Indian Super League 2026-27",
@@ -27,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793418629~acl=/*~id=16700870094470027589028755342300~hmac=e60616cb20638707956bf8eaeaae907c064cb71b2e15ae37693c7005a072674f",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793418629~acl=/*~id=16700870094470027589028755342300~hmac=e60616cb20638707956bf8eaeaae907c064cb71b2e15ae37693c7005a072674f",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793418629~acl=/*~id=16700870094470027589028755342300~hmac=e60616cb20638707956bf8eaeaae907c064cb71b2e15ae37693c7005a072674f"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793419235~acl=/*~id=80014306203092921092805688057561~hmac=caefd381f3c44a92274b1b533127e7af0972d28ffa5566b732b290414c0c7c3c",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793419235~acl=/*~id=80014306203092921092805688057561~hmac=caefd381f3c44a92274b1b533127e7af0972d28ffa5566b732b290414c0c7c3c",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793419235~acl=/*~id=80014306203092921092805688057561~hmac=caefd381f3c44a92274b1b533127e7af0972d28ffa5566b732b290414c0c7c3c"
     },
     {
       "match_id": "1090551180",
