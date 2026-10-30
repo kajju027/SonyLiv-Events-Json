@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/10/2026, 8:04:15 pm",
-  "total_matches": 14,
+  "updatedAt": "30/10/2026, 8:04:21 pm",
+  "total_matches": 18,
   "live_matches": 3,
   "matches": [
     {
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793413141~acl=/*~id=01360020565113654761128475445064~hmac=5db0d4c35c0efd9cd632483f42bc0d1c24aabe2132adb9e0dbc93b9b0947af35",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793413141~acl=/*~id=01360020565113654761128475445064~hmac=5db0d4c35c0efd9cd632483f42bc0d1c24aabe2132adb9e0dbc93b9b0947af35",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793413141~acl=/*~id=01360020565113654761128475445064~hmac=5db0d4c35c0efd9cd632483f42bc0d1c24aabe2132adb9e0dbc93b9b0947af35"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2119931/cricodi_3010/ENG/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21"
     },
     {
       "match_id": "1090551180_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793413141~acl=/*~id=01360020565113654761128475445064~hmac=5db0d4c35c0efd9cd632483f42bc0d1c24aabe2132adb9e0dbc93b9b0947af35",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793413141~acl=/*~id=01360020565113654761128475445064~hmac=5db0d4c35c0efd9cd632483f42bc0d1c24aabe2132adb9e0dbc93b9b0947af35",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793413141~acl=/*~id=01360020565113654761128475445064~hmac=5db0d4c35c0efd9cd632483f42bc0d1c24aabe2132adb9e0dbc93b9b0947af35"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2119921/cricodi_3010/HIN/master.m3u8?hdnea=exp=1793413753~acl=/*~id=29040122434929515561230800528124~hmac=9f002b4245e39b5ecba6cf463023f560f9dae7a9577026d97d6a7068d03def21"
     },
     {
       "match_id": "1090551180",
@@ -183,6 +183,58 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027816/1793362254556920_INDvsNZ_vaibhav_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551495,
+      "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027843/1793366650552511_atletico_madrid_VS_bayern_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551496,
+      "event_name": "Upcoming - Barcelona vs Aston Villa - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027844/1793366524358488_barcelona_vs_aston_villa_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551497,
+      "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551499,
+      "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027847/1793366573317521_man_utd_vs_roma_landscape_thumbnail.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
