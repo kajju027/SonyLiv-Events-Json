@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/10/2026, 10:10:27 am",
-  "total_matches": 13,
+  "updatedAt": "30/10/2026, 10:19:10 am",
+  "total_matches": 12,
   "live_matches": 0,
   "matches": [
     {
@@ -97,19 +97,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090548932,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090549038,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
       "match_name": "",
@@ -150,13 +137,13 @@
     },
     {
       "match_id": 1090551143,
-      "event_name": "Upcoming - 4th T20I - India Tour Of New Zealand 2026",
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
       "match_name": "",
       "status": "Upcoming",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027557/1793111112080510_ind_vs_nz_ashwin_landscape_thumbnail.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
