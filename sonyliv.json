@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/10/2026, 10:21:07 pm",
-  "total_matches": 16,
-  "live_matches": 1,
+  "updatedAt": "30/10/2026, 10:21:48 pm",
+  "total_matches": 15,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090551180",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "NorthEast United FC vs Bengaluru FC | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026666/1792354036062910_ISL26_NorthEastUnitedFC_vs_BengaluruFC_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be",
-      "pub_url": "?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be",
-      "video_url": "?hdnea=exp=1793409654~acl=/*~id=25558727705277635805929236797972~hmac=cc6a2ea711295dcd57a50b14d313111805f1752e7b030a691af8990b97fa08be"
-    },
     {
       "match_id": 1090551225,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
@@ -169,7 +156,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027843/1793366650552511_atletico_madrid_VS_bayern_landscape_thumbnail.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167275203484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -182,7 +169,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027844/1793366524358488_barcelona_vs_aston_villa_landscape_thumbnail.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168441946484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -208,7 +195,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027847/1793366573317521_man_utd_vs_roma_landscape_thumbnail.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
