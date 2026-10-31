@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/10/2026, 6:14:55 pm",
+  "updatedAt": "31/10/2026, 6:25:03 pm",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/footlive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
     },
     {
       "match_id": "1090551185_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
     },
     {
       "match_id": "1090551185_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/footlive3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
     },
     {
       "match_id": "1090551185_MAL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "MAL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792354956419172_ISL26_ChennaiyinFC_vs_KeralaBlastersFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793493722~acl=/*~id=02320363939303053305116723751540~hmac=4c147a5270586cb09276f86e66c303ccd08c2e891c7d6a587fb2b89fa5c2eb51"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive3110/MAL/std_lrh-800300010.m3u8?hdnea=exp=1793494328~acl=/*~id=15663114503142069009467554987265~hmac=6d2b9254e2f2952b9ce1019377ce6dcdf69cb09ae6a3c05d82759adc8eabd999"
     },
     {
       "match_id": "1090551185",
