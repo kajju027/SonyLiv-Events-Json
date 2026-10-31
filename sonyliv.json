@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/10/2026, 1:20:59 pm",
-  "total_matches": 16,
-  "live_matches": 1,
+  "updatedAt": "31/10/2026, 1:21:07 pm",
+  "total_matches": 15,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090551540",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "2nd Unofficial Test - Day 1 | India A Tour of New Zealand [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793474449~acl=/*~id=48618079854812152948431902558573~hmac=eda8086ca7596221252f10216250d56684d93586ffd1a2b76c11d67c025371b5",
-      "pub_url": "?hdnea=exp=1793474449~acl=/*~id=48618079854812152948431902558573~hmac=eda8086ca7596221252f10216250d56684d93586ffd1a2b76c11d67c025371b5",
-      "video_url": "?hdnea=exp=1793474449~acl=/*~id=48618079854812152948431902558573~hmac=eda8086ca7596221252f10216250d56684d93586ffd1a2b76c11d67c025371b5"
-    },
     {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
