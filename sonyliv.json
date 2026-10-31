@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/10/2026, 11:27:52 pm",
-  "total_matches": 15,
+  "updatedAt": "31/10/2026, 11:28:03 pm",
+  "total_matches": 16,
   "live_matches": 0,
   "matches": [
+    {
+      "match_id": 1090551225,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
     {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
@@ -19,14 +32,14 @@
       "video_url": ""
     },
     {
-      "match_id": 1090551225,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_id": 1090551489,
+      "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026",
       "match_name": "",
       "status": "Upcoming",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371291590937_NZvsIND26_5th_T20I_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -58,19 +71,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090551489,
-      "event_name": "Upcoming - 5th T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027867/1793371291590937_NZvsIND26_5th_T20I_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090551499,
       "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27",
       "match_name": "",
@@ -79,6 +79,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793169184924484_UCL_26_MD4_Man-United_vs_Roma_Promo_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551500,
+      "event_name": "Upcoming - Villarreal vs PSG - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426651789321_UCL_26_MD4_Villarreal-vs-PSG_Promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
