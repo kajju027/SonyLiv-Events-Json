@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/11/2026, 5:12:17 pm",
-  "total_matches": 19,
-  "live_matches": 4,
+  "updatedAt": "1/11/2026, 5:24:52 pm",
+  "total_matches": 18,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090551626_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576389~acl=/*~id=75842884128108114123873164796433~hmac=c96b523ffa0074e50767a34f35b5eb91a14615da8bc0bf5e8a9cde77661ab9d5",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576389~acl=/*~id=75842884128108114123873164796433~hmac=c96b523ffa0074e50767a34f35b5eb91a14615da8bc0bf5e8a9cde77661ab9d5",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576389~acl=/*~id=75842884128108114123873164796433~hmac=c96b523ffa0074e50767a34f35b5eb91a14615da8bc0bf5e8a9cde77661ab9d5"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6"
     },
     {
       "match_id": "1090551626_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576389~acl=/*~id=75842884128108114123873164796433~hmac=c96b523ffa0074e50767a34f35b5eb91a14615da8bc0bf5e8a9cde77661ab9d5",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576389~acl=/*~id=75842884128108114123873164796433~hmac=c96b523ffa0074e50767a34f35b5eb91a14615da8bc0bf5e8a9cde77661ab9d5",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576389~acl=/*~id=75842884128108114123873164796433~hmac=c96b523ffa0074e50767a34f35b5eb91a14615da8bc0bf5e8a9cde77661ab9d5"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793576994~acl=/*~id=22743926443264058902545060212005~hmac=e1fa086adeb5de197963f721b8639ac5361cbf3fb6d65dd8b9d45035fd6cccb6"
     },
     {
       "match_id": "1090551626",
@@ -43,19 +43,6 @@
       "dai_url": "?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3",
       "pub_url": "?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3",
       "video_url": "?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3"
-    },
-    {
-      "match_id": "1090551654",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th T20I | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027574/1793128444604406_NZ_vs_IND_5th_T20i_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424",
-      "pub_url": "?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424",
-      "video_url": "?hdnea=exp=1793557250~acl=/*~id=19985914225233742252051235600186~hmac=335ff81241bab07b20eb3e7c0e2af0df47fe58728b49b43e705b6789245e9424"
     },
     {
       "match_id": 1090551725,
