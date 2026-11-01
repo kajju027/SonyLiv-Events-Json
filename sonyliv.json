@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/11/2026, 9:43:48 pm",
-  "total_matches": 16,
-  "live_matches": 1,
+  "updatedAt": "1/11/2026, 9:52:05 pm",
+  "total_matches": 15,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090551659",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs FC Goa | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246",
-      "pub_url": "?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246",
-      "video_url": "?hdnea=exp=1793584287~acl=/*~id=95483742250935343466548127922143~hmac=698c63f3595885d158ad9c7dd189170bd1b609a3b0fc410850e0651b21b35246"
-    },
     {
       "match_id": 1090551725,
       "event_name": " Upcoming - Matchday 4 - UEFA Champions League 2026-27",
