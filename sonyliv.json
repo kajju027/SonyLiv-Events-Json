@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/11/2026, 7:12:09 pm",
+  "updatedAt": "1/11/2026, 7:12:12 pm",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596"
     },
     {
       "match_id": "1090551626_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596"
     },
     {
       "match_id": "1090551659_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596"
     },
     {
       "match_id": "1090551659_HIN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792882740618355_ISL26_KSHI_vs_FC_GOA_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583659~acl=/*~id=73487052205154197189891998841625~hmac=e5892d6d2cb335fb67a0ef0d4bf22113f543e29d3d734413b8006063a4dff4ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793583052~acl=/*~id=01483742260979433001980127176402~hmac=5d0acd4ea0b2829147f057976c1b23a9ae1005d8ca16443ab38c78e5a9544596"
     },
     {
       "match_id": "1090551626",
