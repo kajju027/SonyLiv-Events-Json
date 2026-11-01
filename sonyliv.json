@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/11/2026, 4:19:15 pm",
-  "total_matches": 23,
-  "live_matches": 8,
+  "updatedAt": "1/11/2026, 4:23:38 pm",
+  "total_matches": 24,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090551642_ENG",
@@ -95,6 +95,19 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793573305~acl=/*~id=56708656959413856668010117670359~hmac=d3faa4f3bbedf151a31d49ac7e7b0aa3279f0ea7078c5c72cb93ebb35a1c8fce",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793573305~acl=/*~id=56708656959413856668010117670359~hmac=d3faa4f3bbedf151a31d49ac7e7b0aa3279f0ea7078c5c72cb93ebb35a1c8fce",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793573305~acl=/*~id=56708656959413856668010117670359~hmac=d3faa4f3bbedf151a31d49ac7e7b0aa3279f0ea7078c5c72cb93ebb35a1c8fce"
+    },
+    {
+      "match_id": "1090551626",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Mumbai City FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3",
+      "pub_url": "?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3",
+      "video_url": "?hdnea=exp=1793573457~acl=/*~id=51841935488676790268620609403187~hmac=7064df43423b00a303c0236945e80e356a72c5bd41322796c2bd6b9a3ba1e8e3"
     },
     {
       "match_id": "1090551654",
