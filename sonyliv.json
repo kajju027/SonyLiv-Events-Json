@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/11/2026, 5:40:20 pm",
+  "updatedAt": "1/11/2026, 5:50:43 pm",
   "total_matches": 18,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793578206~acl=/*~id=19283467071121385366477047676034~hmac=7950c81a325c70e880b43d3442b4d5128d186dc3f64b96a8d015e8a25d5c043e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793578206~acl=/*~id=19283467071121385366477047676034~hmac=7950c81a325c70e880b43d3442b4d5128d186dc3f64b96a8d015e8a25d5c043e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793578206~acl=/*~id=19283467071121385366477047676034~hmac=7950c81a325c70e880b43d3442b4d5128d186dc3f64b96a8d015e8a25d5c043e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793578813~acl=/*~id=76656270570385153322283282692594~hmac=de7442a1e381323cd3875b2a96acfafdd9be4711d597801a3a30d6bd7898daf2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793578813~acl=/*~id=76656270570385153322283282692594~hmac=de7442a1e381323cd3875b2a96acfafdd9be4711d597801a3a30d6bd7898daf2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793578813~acl=/*~id=76656270570385153322283282692594~hmac=de7442a1e381323cd3875b2a96acfafdd9be4711d597801a3a30d6bd7898daf2"
     },
     {
       "match_id": "1090551626_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792881645594355_ISL26_Mumbai_City_FC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793578206~acl=/*~id=19283467071121385366477047676034~hmac=7950c81a325c70e880b43d3442b4d5128d186dc3f64b96a8d015e8a25d5c043e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793578206~acl=/*~id=19283467071121385366477047676034~hmac=7950c81a325c70e880b43d3442b4d5128d186dc3f64b96a8d015e8a25d5c043e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793578206~acl=/*~id=19283467071121385366477047676034~hmac=7950c81a325c70e880b43d3442b4d5128d186dc3f64b96a8d015e8a25d5c043e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793578813~acl=/*~id=76656270570385153322283282692594~hmac=de7442a1e381323cd3875b2a96acfafdd9be4711d597801a3a30d6bd7898daf2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793578813~acl=/*~id=76656270570385153322283282692594~hmac=de7442a1e381323cd3875b2a96acfafdd9be4711d597801a3a30d6bd7898daf2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793578813~acl=/*~id=76656270570385153322283282692594~hmac=de7442a1e381323cd3875b2a96acfafdd9be4711d597801a3a30d6bd7898daf2"
     },
     {
       "match_id": "1090551626",
