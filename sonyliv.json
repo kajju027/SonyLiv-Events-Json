@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/11/2026, 11:29:56 am",
-  "total_matches": 16,
-  "live_matches": 1,
+  "updatedAt": "2/11/2026, 11:51:53 am",
+  "total_matches": 15,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090551673",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "2nd Unofficial Test - Day 3 | India A Tour of New Zealand [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2",
-      "pub_url": "?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2",
-      "video_url": "?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2"
-    },
     {
       "match_id": 1090551725,
       "event_name": " Upcoming - Matchday 4 - UEFA Champions League 2026-27",
