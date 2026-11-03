@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/11/2026, 10:53:37 pm",
-  "total_matches": 20,
-  "live_matches": 4,
+  "updatedAt": "3/11/2026, 10:54:15 pm",
+  "total_matches": 19,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090551744_ENG",
@@ -32,30 +32,17 @@
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793769543~acl=/*~id=06404411068942853485510038047716~hmac=082d381da750320812ee9e792b1e2780d9682cb3923bd4e3b78a32ed749a79e7"
     },
     {
-      "match_id": "1090551744",
-      "event_name": "UEFA Champions League 2026-27",
-      "match_name": "Shakhtar Donetsk vs Sporting CP - MD 4 | UEFA Champions League 2026-27 [ENGLISH]",
+      "match_id": "1090551682",
+      "event_name": "UEFA Youth League 2026-27",
+      "match_name": "Atletico de Madrid vs FC Bayern Munich | UEFA Youth League 2026-27 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
-      "pub_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
-      "video_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202"
-    },
-    {
-      "match_id": "1090551745",
-      "event_name": "UEFA Champions League 2026-27",
-      "match_name": "Galatasaray vs VfB Stuttgart | UEFA Champions League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
-      "pub_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
-      "video_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793760663~acl=/*~id=03663142962483151395503966481037~hmac=ccbb99732faf8533ed825be10bb9c3538630c237094372d8c597ffc0f6d78b3e",
+      "pub_url": "?hdnea=exp=1793760663~acl=/*~id=03663142962483151395503966481037~hmac=ccbb99732faf8533ed825be10bb9c3538630c237094372d8c597ffc0f6d78b3e",
+      "video_url": "?hdnea=exp=1793760663~acl=/*~id=03663142962483151395503966481037~hmac=ccbb99732faf8533ed825be10bb9c3538630c237094372d8c597ffc0f6d78b3e"
     },
     {
       "match_id": 1090551725,
