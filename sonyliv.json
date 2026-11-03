@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/11/2026, 8:51:01 pm",
+  "updatedAt": "3/11/2026, 9:11:31 pm",
   "total_matches": 18,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793762275~acl=/*~id=54086785119285638882120710466495~hmac=82dcc71434c3f9bcb4370cb958cb85b3cf563a98570e348216296d07789570dc",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793762275~acl=/*~id=54086785119285638882120710466495~hmac=82dcc71434c3f9bcb4370cb958cb85b3cf563a98570e348216296d07789570dc",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793762275~acl=/*~id=54086785119285638882120710466495~hmac=82dcc71434c3f9bcb4370cb958cb85b3cf563a98570e348216296d07789570dc"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793763461~acl=/*~id=65638109879775516786478039081864~hmac=fc5ce7277a77ac5e696654bae1b38841dc9449219c9c40dd6c67f726a50793ec",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793763461~acl=/*~id=65638109879775516786478039081864~hmac=fc5ce7277a77ac5e696654bae1b38841dc9449219c9c40dd6c67f726a50793ec",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793763461~acl=/*~id=65638109879775516786478039081864~hmac=fc5ce7277a77ac5e696654bae1b38841dc9449219c9c40dd6c67f726a50793ec"
     },
     {
       "match_id": "1090551682",
