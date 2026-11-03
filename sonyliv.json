@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 12:24:59 am",
+  "updatedAt": "4/11/2026, 12:25:19 am",
   "total_matches": 20,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793774406~acl=/*~id=52653067620201760105775282689533~hmac=23d21c61427fd5bb66d4f6cd540ebecabec3e2c2971157eaad345c2ddfbe962b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793774406~acl=/*~id=52653067620201760105775282689533~hmac=23d21c61427fd5bb66d4f6cd540ebecabec3e2c2971157eaad345c2ddfbe962b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793774406~acl=/*~id=52653067620201760105775282689533~hmac=23d21c61427fd5bb66d4f6cd540ebecabec3e2c2971157eaad345c2ddfbe962b"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793775012~acl=/*~id=09355869867604990197297033116876~hmac=a40d220369f605dead2b1a0cd2bca4a754163e962a89d4254d3f552d23a5a7bc",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793775012~acl=/*~id=09355869867604990197297033116876~hmac=a40d220369f605dead2b1a0cd2bca4a754163e962a89d4254d3f552d23a5a7bc",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793775012~acl=/*~id=09355869867604990197297033116876~hmac=a40d220369f605dead2b1a0cd2bca4a754163e962a89d4254d3f552d23a5a7bc"
     },
     {
       "match_id": "1090551745_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793774406~acl=/*~id=52653067620201760105775282689533~hmac=23d21c61427fd5bb66d4f6cd540ebecabec3e2c2971157eaad345c2ddfbe962b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793774406~acl=/*~id=52653067620201760105775282689533~hmac=23d21c61427fd5bb66d4f6cd540ebecabec3e2c2971157eaad345c2ddfbe962b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793774406~acl=/*~id=52653067620201760105775282689533~hmac=23d21c61427fd5bb66d4f6cd540ebecabec3e2c2971157eaad345c2ddfbe962b"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793775012~acl=/*~id=09355869867604990197297033116876~hmac=a40d220369f605dead2b1a0cd2bca4a754163e962a89d4254d3f552d23a5a7bc",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793775012~acl=/*~id=09355869867604990197297033116876~hmac=a40d220369f605dead2b1a0cd2bca4a754163e962a89d4254d3f552d23a5a7bc",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793775012~acl=/*~id=09355869867604990197297033116876~hmac=a40d220369f605dead2b1a0cd2bca4a754163e962a89d4254d3f552d23a5a7bc"
     },
     {
       "match_id": "1090551744",
