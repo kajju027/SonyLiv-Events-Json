@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/11/2026, 3:07:33 pm",
+  "updatedAt": "3/11/2026, 5:06:30 pm",
   "total_matches": 15,
   "live_matches": 0,
   "matches": [
@@ -97,6 +97,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090552187,
+      "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028141/1793704726559299_fenerbahce_Vs_liverpool_Fc_And_aek_vs_real_madrid_landscape_thumbnail.png",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090552149,
       "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27",
       "match_name": "",
@@ -183,19 +196,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090551498,
-      "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027845/179336646551186_champion_league_matchday_4_landscape_thumbnail.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
