@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/11/2026, 11:36:32 am",
+  "updatedAt": "3/11/2026, 1:27:39 pm",
   "total_matches": 15,
   "live_matches": 0,
   "matches": [
@@ -162,19 +162,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090551143,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090551497,
       "event_name": "Upcoming - Dortmund vs Real Betis - UEFA Champions League 2026-27",
       "match_name": "",
@@ -196,6 +183,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027845/179336646551186_champion_league_matchday_4_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551520,
+      "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027882/1793372705073348_Ind_VS_Pak_landscape_thumbnail.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
