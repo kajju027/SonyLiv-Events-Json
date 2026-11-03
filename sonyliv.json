@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/11/2026, 8:25:26 pm",
-  "total_matches": 19,
-  "live_matches": 4,
+  "updatedAt": "3/11/2026, 8:26:19 pm",
+  "total_matches": 18,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090551681_ENG",
@@ -43,19 +43,6 @@
       "dai_url": "?hdnea=exp=1793753454~acl=/*~id=52899072760455353437461584454646~hmac=9426b51736b7f3fc2f9e21d44d5a4896a306953dce4522585a9e68ccb2a2998e",
       "pub_url": "?hdnea=exp=1793753454~acl=/*~id=52899072760455353437461584454646~hmac=9426b51736b7f3fc2f9e21d44d5a4896a306953dce4522585a9e68ccb2a2998e",
       "video_url": "?hdnea=exp=1793753454~acl=/*~id=52899072760455353437461584454646~hmac=9426b51736b7f3fc2f9e21d44d5a4896a306953dce4522585a9e68ccb2a2998e"
-    },
-    {
-      "match_id": "1090551682",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "Atletico de Madrid vs FC Bayern Munich | UEFA Youth League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793760663~acl=/*~id=03663142962483151395503966481037~hmac=ccbb99732faf8533ed825be10bb9c3538630c237094372d8c597ffc0f6d78b3e",
-      "pub_url": "?hdnea=exp=1793760663~acl=/*~id=03663142962483151395503966481037~hmac=ccbb99732faf8533ed825be10bb9c3538630c237094372d8c597ffc0f6d78b3e",
-      "video_url": "?hdnea=exp=1793760663~acl=/*~id=03663142962483151395503966481037~hmac=ccbb99732faf8533ed825be10bb9c3538630c237094372d8c597ffc0f6d78b3e"
     },
     {
       "match_id": 1090551725,
