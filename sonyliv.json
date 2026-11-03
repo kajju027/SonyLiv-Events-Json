@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/11/2026, 8:30:33 pm",
-  "total_matches": 20,
+  "updatedAt": "3/11/2026, 8:31:28 pm",
+  "total_matches": 19,
   "live_matches": 4,
   "matches": [
     {
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792889747184359_UYL26_MD4_Man_United_vs_AS_Roma_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793761063~acl=/*~id=79527354024553208298327805060197~hmac=546eb8093dc26d2acf92a4701698a8ca4315a755a7d1cc61fe444e7cc3912737",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793761063~acl=/*~id=79527354024553208298327805060197~hmac=546eb8093dc26d2acf92a4701698a8ca4315a755a7d1cc61fe444e7cc3912737",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793761063~acl=/*~id=79527354024553208298327805060197~hmac=546eb8093dc26d2acf92a4701698a8ca4315a755a7d1cc61fe444e7cc3912737"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da"
     },
     {
       "match_id": "1090551682_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890253126359_UYL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793761063~acl=/*~id=79527354024553208298327805060197~hmac=546eb8093dc26d2acf92a4701698a8ca4315a755a7d1cc61fe444e7cc3912737",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793761063~acl=/*~id=79527354024553208298327805060197~hmac=546eb8093dc26d2acf92a4701698a8ca4315a755a7d1cc61fe444e7cc3912737",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793761063~acl=/*~id=79527354024553208298327805060197~hmac=546eb8093dc26d2acf92a4701698a8ca4315a755a7d1cc61fe444e7cc3912737"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793760452~acl=/*~id=74910542761575867708231581925868~hmac=9edceb5a4a181e80b98185b9b67a07129bebfd25d975bcd4aaf8e34190a047da"
     },
     {
       "match_id": "1090551681",
@@ -196,19 +196,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027363/1793009798550733_promo_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090552324,
-      "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028158/1793710937367937_Asia_cup_Ind_vs_nepal_landscape_thumbnail.png",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
