@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 9:14:39 pm",
+  "updatedAt": "4/11/2026, 9:21:59 pm",
   "total_matches": 17,
   "live_matches": 4,
   "matches": [
@@ -32,17 +32,17 @@
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793850170~acl=/*~id=28942390630301894731647535007696~hmac=9ba02ad674b692a5ecb71497f7f8ed295e1cb01a3e6798a48189175f634b8c75"
     },
     {
-      "match_id": "1090552122",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "RC Lens vs Como | UEFA Youth League 2026-27 [ENGLISH]",
+      "match_id": "1090551922",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "Stade Rennais FC vs Olympiacos FC | UEFA Europa League 2026-27 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890776152359_UYL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793839852~acl=/*~id=69885559663089223148204455128802~hmac=37e47dcf73cd02f2f58618579ea185c58639360a21d6a6aaf73b14855f7a13c3",
-      "pub_url": "?hdnea=exp=1793839852~acl=/*~id=69885559663089223148204455128802~hmac=37e47dcf73cd02f2f58618579ea185c58639360a21d6a6aaf73b14855f7a13c3",
-      "video_url": "?hdnea=exp=1793839852~acl=/*~id=69885559663089223148204455128802~hmac=37e47dcf73cd02f2f58618579ea185c58639360a21d6a6aaf73b14855f7a13c3"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793850656~acl=/*~id=42709376307326580607588270268245~hmac=40ca6580fcb86f51ddde14ffb878b77dc876647b0fdc12ef81ecbfc0acf03cc6",
+      "pub_url": "?hdnea=exp=1793850656~acl=/*~id=42709376307326580607588270268245~hmac=40ca6580fcb86f51ddde14ffb878b77dc876647b0fdc12ef81ecbfc0acf03cc6",
+      "video_url": "?hdnea=exp=1793850656~acl=/*~id=42709376307326580607588270268245~hmac=40ca6580fcb86f51ddde14ffb878b77dc876647b0fdc12ef81ecbfc0acf03cc6"
     },
     {
       "match_id": "1090552123",
