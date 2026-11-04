@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 3:40:29 pm",
-  "total_matches": 16,
-  "live_matches": 4,
+  "updatedAt": "4/11/2026, 3:52:15 pm",
+  "total_matches": 15,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090552110_TAM",
@@ -43,19 +43,6 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793830066~acl=/*~id=11721805437885120700499853548373~hmac=e906817bcaf9fe3db4325912c3842eb2137e86d6f0033c366057b8261b7c0a09",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793830066~acl=/*~id=11721805437885120700499853548373~hmac=e906817bcaf9fe3db4325912c3842eb2137e86d6f0033c366057b8261b7c0a09",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/master.m3u8?hdnea=exp=1793830066~acl=/*~id=11721805437885120700499853548373~hmac=e906817bcaf9fe3db4325912c3842eb2137e86d6f0033c366057b8261b7c0a09"
-    },
-    {
-      "match_id": "1090552113",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "1st ODI | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793800256~acl=/*~id=84635706087704210471074559953035~hmac=ff2126721d1e595f1d4ee82aa727513b83d624802474bb969733c3a860defb53",
-      "pub_url": "?hdnea=exp=1793800256~acl=/*~id=84635706087704210471074559953035~hmac=ff2126721d1e595f1d4ee82aa727513b83d624802474bb969733c3a860defb53",
-      "video_url": "?hdnea=exp=1793800256~acl=/*~id=84635706087704210471074559953035~hmac=ff2126721d1e595f1d4ee82aa727513b83d624802474bb969733c3a860defb53"
     },
     {
       "match_id": 1090552187,
