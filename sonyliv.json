@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 10:15:59 pm",
+  "updatedAt": "4/11/2026, 10:23:46 pm",
   "total_matches": 17,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793853808~acl=/*~id=31849527136091981700804842513188~hmac=44b94a8241e9877a9011b2ae17af6c5b42bba2a3f26f03e644778a1fc98bf9b1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793853808~acl=/*~id=31849527136091981700804842513188~hmac=44b94a8241e9877a9011b2ae17af6c5b42bba2a3f26f03e644778a1fc98bf9b1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793853808~acl=/*~id=31849527136091981700804842513188~hmac=44b94a8241e9877a9011b2ae17af6c5b42bba2a3f26f03e644778a1fc98bf9b1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15"
     },
     {
       "match_id": "1090552123_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793853808~acl=/*~id=31849527136091981700804842513188~hmac=44b94a8241e9877a9011b2ae17af6c5b42bba2a3f26f03e644778a1fc98bf9b1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793853808~acl=/*~id=31849527136091981700804842513188~hmac=44b94a8241e9877a9011b2ae17af6c5b42bba2a3f26f03e644778a1fc98bf9b1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793853808~acl=/*~id=31849527136091981700804842513188~hmac=44b94a8241e9877a9011b2ae17af6c5b42bba2a3f26f03e644778a1fc98bf9b1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793854414~acl=/*~id=54658108134187900765317980223054~hmac=4ba1070178831dcb06a39d4b6be07959532c2d664bd255db75117222a869eb15"
     },
     {
       "match_id": "1090551922",
