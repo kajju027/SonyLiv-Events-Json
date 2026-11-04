@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 7:55:03 pm",
-  "total_matches": 15,
-  "live_matches": 2,
+  "updatedAt": "4/11/2026, 8:02:19 pm",
+  "total_matches": 16,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090552122_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890776152359_UYL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845321~acl=/*~id=37983610457446253597907596669485~hmac=4a92fa17b76ed7c37870e11fee3ad64b0acad3d95e468b7eb96c48c3e30a2562",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845321~acl=/*~id=37983610457446253597907596669485~hmac=4a92fa17b76ed7c37870e11fee3ad64b0acad3d95e468b7eb96c48c3e30a2562",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845321~acl=/*~id=37983610457446253597907596669485~hmac=4a92fa17b76ed7c37870e11fee3ad64b0acad3d95e468b7eb96c48c3e30a2562"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2"
+    },
+    {
+      "match_id": "1090552123_ENG",
+      "event_name": "UEFA Youth League 2026-27",
+      "match_name": "Dortmund vs Real Betis - 4 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2"
     },
     {
       "match_id": "1090552122",
