@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 11:14:42 pm",
+  "updatedAt": "4/11/2026, 11:17:26 pm",
   "total_matches": 19,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f"
     },
     {
       "match_id": "1090551911_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive0411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f"
     },
     {
       "match_id": "1090551911_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f"
     },
     {
       "match_id": "1090551911_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive0411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f"
     },
     {
       "match_id": "1090551911_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive0411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f"
     },
     {
       "match_id": "1090551910_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793857450~acl=/*~id=17393604380171162584521002624838~hmac=e6897feb0dc305bfc5c50615e526bdccbda1ffcd910f5117353c17bb697fd3f6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793856843~acl=/*~id=05844234679120378292466006592261~hmac=6be10f21367c9433f7fd03aea27e17bf60852132f74c8b81b628539d33a9397f"
     },
     {
       "match_id": "1090551922",
