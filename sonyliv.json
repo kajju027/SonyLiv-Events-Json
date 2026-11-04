@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 8:08:15 am",
-  "total_matches": 13,
-  "live_matches": 4,
+  "updatedAt": "4/11/2026, 8:09:09 am",
+  "total_matches": 12,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090552110_ENG",
@@ -14,35 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744"
     },
     {
-      "match_id": "1090552110_TAM",
+      "match_id": "1090552110_HIN",
       "event_name": "India Tour of New Zealand 2026",
-      "match_name": "1st ODI - 4 Nov 2026 [TAM]",
+      "match_name": "1st ODI - 4 Nov 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
+      "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0311/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291"
-    },
-    {
-      "match_id": "1090552110_TEL",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "1st ODI - 4 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0311/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793802369~acl=/*~id=91780181949784196795532050758289~hmac=7f0a80175c9d9e6aff6abfa3453235a2fcceb3ae1295f0bdd8388c8199d52291"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0311/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793802989~acl=/*~id=26525665123435920291619480550747~hmac=fb5ad7549f729c0eff7553c9d35b66577eb7ea3f939cf5b0e533dae39b00b744"
     },
     {
       "match_id": "1090552113",
