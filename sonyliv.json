@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 8:13:05 pm",
+  "updatedAt": "4/11/2026, 8:13:25 pm",
   "total_matches": 16,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792890776152359_UYL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793846533~acl=/*~id=14899978434527124084198315462688~hmac=afed1ca15de8bb59465a4d6e8ac315a47467f593b0f43e9482fa32d5b24d4a87",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793846533~acl=/*~id=14899978434527124084198315462688~hmac=afed1ca15de8bb59465a4d6e8ac315a47467f593b0f43e9482fa32d5b24d4a87",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793846533~acl=/*~id=14899978434527124084198315462688~hmac=afed1ca15de8bb59465a4d6e8ac315a47467f593b0f43e9482fa32d5b24d4a87"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2"
     },
     {
       "match_id": "1090552123_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027304/1792891167048359_UYL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793846533~acl=/*~id=14899978434527124084198315462688~hmac=afed1ca15de8bb59465a4d6e8ac315a47467f593b0f43e9482fa32d5b24d4a87",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793846533~acl=/*~id=14899978434527124084198315462688~hmac=afed1ca15de8bb59465a4d6e8ac315a47467f593b0f43e9482fa32d5b24d4a87",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793846533~acl=/*~id=14899978434527124084198315462688~hmac=afed1ca15de8bb59465a4d6e8ac315a47467f593b0f43e9482fa32d5b24d4a87"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793845926~acl=/*~id=39107594183078859095242830563346~hmac=73dbb7a319f0e168df8f5c1aac07b2ccdc7febfb49f5b2acd2ac47c88a54e3f2"
     },
     {
       "match_id": "1090552122",
@@ -97,6 +97,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090547508,
+      "event_name": "Upcoming - MG Indian Super League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126835273973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_dated.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090552149,
       "event_name": "Upcoming - Matchday 4 - UEFA Europa League 2026-27",
       "match_name": "",
@@ -131,19 +144,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027597/179318077717911_ind_vs_nz_roko_is_back_landscape_thumbnail.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090547508,
-      "event_name": "Upcoming - MG Indian Super League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027573/1793126835273973_ISL_Mohun_Bagan_SG_vs_Odisha_FC_promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
