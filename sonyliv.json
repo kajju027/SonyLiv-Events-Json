@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "4/11/2026, 11:45:18 pm",
-  "total_matches": 20,
-  "live_matches": 7,
+  "updatedAt": "4/11/2026, 11:54:21 pm",
+  "total_matches": 21,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090551911_ENG",
@@ -82,6 +82,19 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793859268~acl=/*~id=61022413932172809447827516944103~hmac=5f9e11fd5779ab6db996a916090d4471b844f172a9526abdea467bddbd0aacbd",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793859268~acl=/*~id=61022413932172809447827516944103~hmac=5f9e11fd5779ab6db996a916090d4471b844f172a9526abdea467bddbd0aacbd",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive0411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793859268~acl=/*~id=61022413932172809447827516944103~hmac=5f9e11fd5779ab6db996a916090d4471b844f172a9526abdea467bddbd0aacbd"
+    },
+    {
+      "match_id": "1090551911",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3",
+      "pub_url": "?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3",
+      "video_url": "?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3"
     },
     {
       "match_id": "1090551910",
