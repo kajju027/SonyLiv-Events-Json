@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/11/2026, 8:52:44 pm",
+  "updatedAt": "5/11/2026, 8:54:10 pm",
   "total_matches": 14,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094590/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9"
     },
     {
       "match_id": "1090552592_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105079/Footlive0511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9"
     },
     {
       "match_id": "1090552592_BEN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "BEN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793935185~acl=/*~id=21535754407049101101955489472244~hmac=1f143917c277176ba5e53e2c8b2dcd1212264f5d0098e95ca064d1a6edb053b3"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793934578~acl=/*~id=08369722867609015155047755335137~hmac=e446d2618ff43f1fea054cf6d6f88f38e13d9994f98c65acd3a893c1315296b9"
     },
     {
       "match_id": "1090552592",
