@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/11/2026, 1:55:09 am",
-  "total_matches": 26,
-  "live_matches": 17,
+  "updatedAt": "6/11/2026, 1:55:50 am",
+  "total_matches": 24,
+  "live_matches": 15,
   "matches": [
     {
       "match_id": "1090551930_ENG",
@@ -56,6 +56,19 @@
       "dai_url": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
       "pub_url": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
       "video_url": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf"
+    },
+    {
+      "match_id": "1090551929",
+      "event_name": "UEFA Conference League 2026-27",
+      "match_name": "FC Midtjylland vs AFC Ajax | UEFA Conference League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028125/179368659009249_UECL26_MD3_FC-Midtjylland-v-AFC-Ajax_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
+      "pub_url": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
+      "video_url": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd"
     },
     {
       "match_id": "1090551935",
@@ -149,19 +162,6 @@
       "video_url": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf"
     },
     {
-      "match_id": "1090552596",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "Getafe CF vs Brighton & Hove Albion | UEFA Conference League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028152/1793701377529766_UECL26_MD3_Getafe-CF-v-Brighton-Hove-Albion_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-      "pub_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-      "video_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612"
-    },
-    {
       "match_id": "1090552573",
       "event_name": "UEFA Conference League 2026-27",
       "match_name": "AS Monaco vs FC Nordsjælland | UEFA Conference League 2026-27 [ENGLISH]",
@@ -199,32 +199,6 @@
       "dai_url": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
       "pub_url": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
       "video_url": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf"
-    },
-    {
-      "match_id": "1090552584",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "Panathinaikos FC vs PFC CSKA Sofia | UEFA Conference League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028136/1793697344104939_UECL26_MD3_Panathinaikos-FC-v-PFC-CSKA-Sofia_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-      "pub_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-      "video_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612"
-    },
-    {
-      "match_id": "1090552593",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "FC Lugano vs FK Kauno Žalgiris | UEFA Conference League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028152/1793700974301766_UECL26_MD3_FC-Lugano-v-FK-Kauno-Zalgiris_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-      "pub_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-      "video_url": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612"
     },
     {
       "match_id": 1090552324,
