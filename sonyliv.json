@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/11/2026, 11:14:45 am",
+  "updatedAt": "5/11/2026, 11:35:21 am",
   "total_matches": 12,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86"
+      "dai_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2037140/criclive0511/ENG/std_lrh-800300010.m3u8",
+      "pub_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2037140/criclive0511/ENG/std_lrh-800300010.m3u8",
+      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2037140/criclive0511/ENG/std_lrh-800300010.m3u8"
     },
     {
       "match_id": "1090552560_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028170/1793739045231457_ACC_MensU19_SL_vs_Malaysia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793900540~acl=/*~id=04707744802903543780532496425854~hmac=5a0e63d89ced4d32119a32d09d09d9c87ba2330c63474c28d03e13163f626e86"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793901768~acl=/*~id=92570525963135113606373043070403~hmac=3c88545d73229d0d77efd1604c7f6b4f7adf32f8b6a7558e7b394307deabb10e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793901768~acl=/*~id=92570525963135113606373043070403~hmac=3c88545d73229d0d77efd1604c7f6b4f7adf32f8b6a7558e7b394307deabb10e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793901768~acl=/*~id=92570525963135113606373043070403~hmac=3c88545d73229d0d77efd1604c7f6b4f7adf32f8b6a7558e7b394307deabb10e"
     },
     {
       "match_id": 1090552478,
