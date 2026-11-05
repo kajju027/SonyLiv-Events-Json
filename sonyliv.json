@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/11/2026, 7:22:00 pm",
+  "updatedAt": "5/11/2026, 7:23:23 pm",
   "total_matches": 14,
   "live_matches": 4,
   "matches": [
@@ -45,17 +45,17 @@
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2105080/Footlive0511/BEN/std_lrh-800300010.m3u8?hdnea=exp=1793929721~acl=/*~id=58691011212085315827252594448288~hmac=c0946a9d7103ce7a7b1b6000296c89081cea71ef18e015ca9eecc0c01f4989c7"
     },
     {
-      "match_id": "1090552592",
+      "match_id": "1090552590",
       "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Mohun Bagan Super Giant vs OFC | MG Indian Super League 2026-27 [ENGLISH]",
+      "match_name": "Churchill Brothers FC vs NorthEast United FC | MG Indian Super League 2026-27 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22",
-      "pub_url": "?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22",
-      "video_url": "?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+      "pub_url": "?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
+      "video_url": "?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659"
     },
     {
       "match_id": 1090552324,
