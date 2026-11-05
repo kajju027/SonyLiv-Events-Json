@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/11/2026, 6:51:21 pm",
-  "total_matches": 13,
-  "live_matches": 3,
+  "updatedAt": "5/11/2026, 6:52:13 pm",
+  "total_matches": 14,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090552590_ENG",
@@ -43,6 +43,19 @@
       "dai_url": "?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
       "pub_url": "?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659",
       "video_url": "?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659"
+    },
+    {
+      "match_id": "1090552580",
+      "event_name": "DP World Tour",
+      "match_name": "Abu Dhabi HSBC Championship - Day 1 | DP World Tour [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793904650~acl=/*~id=28507298206890606559463641353992~hmac=73a0c85ef2ca2c6f3d1412c349b6979f321089b1f8edb312f97f23c4fa2abaa6",
+      "pub_url": "?hdnea=exp=1793904650~acl=/*~id=28507298206890606559463641353992~hmac=73a0c85ef2ca2c6f3d1412c349b6979f321089b1f8edb312f97f23c4fa2abaa6",
+      "video_url": "?hdnea=exp=1793904650~acl=/*~id=28507298206890606559463641353992~hmac=73a0c85ef2ca2c6f3d1412c349b6979f321089b1f8edb312f97f23c4fa2abaa6"
     },
     {
       "match_id": 1090552324,
