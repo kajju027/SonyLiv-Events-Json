@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/11/2026, 3:25:16 am",
-  "total_matches": 26,
-  "live_matches": 17,
+  "updatedAt": "6/11/2026, 3:35:30 am",
+  "total_matches": 24,
+  "live_matches": 15,
   "matches": [
-    {
-      "match_id": "1090551930_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "Bayer 04 Leverkusen vs Olympique de Marseille - 6 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959760705155_UEL26_MD4_Leverkusen_vs_Olympiquede_Marseille_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958858~acl=/*~id=07468031108639989770323341310756~hmac=e970b7e911bb315fe14724d96fb708d1a2372f88c4e066aff6fbad50745e35d0",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958858~acl=/*~id=07468031108639989770323341310756~hmac=e970b7e911bb315fe14724d96fb708d1a2372f88c4e066aff6fbad50745e35d0",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958858~acl=/*~id=07468031108639989770323341310756~hmac=e970b7e911bb315fe14724d96fb708d1a2372f88c4e066aff6fbad50745e35d0"
-    },
-    {
-      "match_id": "1090551932_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "AZ Alkmaar vs Juventus - 6 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792960301043155_UEL26_MD4_AZ_Alkmaar_vs_Juventus_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958858~acl=/*~id=07468031108639989770323341310756~hmac=e970b7e911bb315fe14724d96fb708d1a2372f88c4e066aff6fbad50745e35d0",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958858~acl=/*~id=07468031108639989770323341310756~hmac=e970b7e911bb315fe14724d96fb708d1a2372f88c4e066aff6fbad50745e35d0",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/Footlive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793958858~acl=/*~id=07468031108639989770323341310756~hmac=e970b7e911bb315fe14724d96fb708d1a2372f88c4e066aff6fbad50745e35d0"
-    },
     {
       "match_id": "1090551930",
       "event_name": "UEFA Europa League 2026-27",
