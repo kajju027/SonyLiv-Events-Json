@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "5/11/2026, 11:35:21 am",
-  "total_matches": 12,
-  "live_matches": 2,
+  "updatedAt": "5/11/2026, 12:14:47 pm",
+  "total_matches": 13,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090552565_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028246/179378391827167_ACC_MensU19_Bangladesh_vs_Afghanistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2037140/criclive0511/ENG/std_lrh-800300010.m3u8",
-      "pub_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2037140/criclive0511/ENG/std_lrh-800300010.m3u8",
-      "video_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2037140/criclive0511/ENG/std_lrh-800300010.m3u8"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d"
     },
     {
       "match_id": "1090552560_ENG",
@@ -27,9 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028170/1793739045231457_ACC_MensU19_SL_vs_Malaysia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793901768~acl=/*~id=92570525963135113606373043070403~hmac=3c88545d73229d0d77efd1604c7f6b4f7adf32f8b6a7558e7b394307deabb10e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793901768~acl=/*~id=92570525963135113606373043070403~hmac=3c88545d73229d0d77efd1604c7f6b4f7adf32f8b6a7558e7b394307deabb10e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793901768~acl=/*~id=92570525963135113606373043070403~hmac=3c88545d73229d0d77efd1604c7f6b4f7adf32f8b6a7558e7b394307deabb10e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d"
+    },
+    {
+      "match_id": "1090552580_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Abu Dhabi HSBC Championship - Day 1 - 5 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888667543682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day1_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037141/Golf_Abu0511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793904197~acl=/*~id=23769588568144622846385457162932~hmac=36b77f2a8283739c725b09492b74f02c13a6410079816115ed00d7b4800b579d"
     },
     {
       "match_id": 1090552478,
@@ -91,7 +104,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028135/1793695506618986_Europe_league_matchday_4_landscape_thumbnail.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028297/1793796343913833_UEL25_26_AC-Milan-vs-Ferencvarosi-TC_promo_Tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
