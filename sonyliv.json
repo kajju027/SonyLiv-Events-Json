@@ -1,22 +1,35 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/11/2026, 6:27:24 pm",
-  "total_matches": 10,
-  "live_matches": 2,
+  "updatedAt": "6/11/2026, 6:37:36 pm",
+  "total_matches": 11,
+  "live_matches": 3,
   "matches": [
     {
-      "match_id": "1090552767_ENG",
-      "event_name": "DP World Tour",
-      "match_name": "Abu Dhabi HSBC Championship - Day 2 - 6 Nov 2026 [ENG]",
+      "match_id": "1090552768_ENG",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "FC Goa vs Bengaluru FC - 6 Nov 2026 [ENG]",
       "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794012947~acl=/*~id=07379351577375835190115013379286~hmac=a026d7e8d5c093e85a45712341f842325f22e4f9d36efdbeb99f040b2e93b8bf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794012947~acl=/*~id=07379351577375835190115013379286~hmac=a026d7e8d5c093e85a45712341f842325f22e4f9d36efdbeb99f040b2e93b8bf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794012947~acl=/*~id=07379351577375835190115013379286~hmac=a026d7e8d5c093e85a45712341f842325f22e4f9d36efdbeb99f040b2e93b8bf"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890"
+    },
+    {
+      "match_id": "1090552768_HIN",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "FC Goa vs Bengaluru FC - 6 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890"
     },
     {
       "match_id": "1090552767",
