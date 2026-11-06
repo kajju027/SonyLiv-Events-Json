@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/11/2026, 6:46:33 pm",
+  "updatedAt": "6/11/2026, 6:49:10 pm",
   "total_matches": 11,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794014159~acl=/*~id=94515814664203827544421697425316~hmac=86455b59cd46c7cc7b979544d5d1673b8dbe4f4a7b9df6e8583b14bb434479d2",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794014159~acl=/*~id=94515814664203827544421697425316~hmac=86455b59cd46c7cc7b979544d5d1673b8dbe4f4a7b9df6e8583b14bb434479d2",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794014159~acl=/*~id=94515814664203827544421697425316~hmac=86455b59cd46c7cc7b979544d5d1673b8dbe4f4a7b9df6e8583b14bb434479d2"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890"
     },
     {
       "match_id": "1090552768_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794014159~acl=/*~id=94515814664203827544421697425316~hmac=86455b59cd46c7cc7b979544d5d1673b8dbe4f4a7b9df6e8583b14bb434479d2",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794014159~acl=/*~id=94515814664203827544421697425316~hmac=86455b59cd46c7cc7b979544d5d1673b8dbe4f4a7b9df6e8583b14bb434479d2",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794014159~acl=/*~id=94515814664203827544421697425316~hmac=86455b59cd46c7cc7b979544d5d1673b8dbe4f4a7b9df6e8583b14bb434479d2"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794013553~acl=/*~id=74713480137095960742859096611941~hmac=8624388464bc2a52cc3a1fd7feb467efc2dedca62e6215e38c09ad89b1b86890"
     },
     {
       "match_id": "1090552767",
@@ -65,7 +65,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866668426860_ISL26_KASHI-vs-SC-Delhi_promo_DDT_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028378/1793866215012860_ISL26_FC-GOA-vs-Bengaluru-FC_promo_Tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
