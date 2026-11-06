@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/11/2026, 10:10:02 pm",
-  "total_matches": 9,
-  "live_matches": 1,
+  "updatedAt": "6/11/2026, 10:22:08 pm",
+  "total_matches": 8,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090552768",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "FC Goa vs Bengaluru FC | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794014457~acl=/*~id=71780757088595886050000995767357~hmac=2d130d3374fc5ac76977d8ea6983dae023aae6b4f15ca9633845cadff3275720",
-      "pub_url": "?hdnea=exp=1794014457~acl=/*~id=71780757088595886050000995767357~hmac=2d130d3374fc5ac76977d8ea6983dae023aae6b4f15ca9633845cadff3275720",
-      "video_url": "?hdnea=exp=1794014457~acl=/*~id=71780757088595886050000995767357~hmac=2d130d3374fc5ac76977d8ea6983dae023aae6b4f15ca9633845cadff3275720"
-    },
     {
       "match_id": 1090552478,
       "event_name": "Upcoming - 2nd ODI - India Tour Of New Zealand 2026",
