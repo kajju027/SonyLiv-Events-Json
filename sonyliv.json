@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 3:13:22 am",
-  "total_matches": 10,
-  "live_matches": 1,
+  "updatedAt": "7/11/2026, 3:21:50 am",
+  "total_matches": 11,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090552778_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794044447~acl=/*~id=83275997026512380162817285161129~hmac=25a986c14991cb25cb8407f1c2fa0c26cfb4e2f75545b983cdf9b345e7d4d37e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794044447~acl=/*~id=83275997026512380162817285161129~hmac=25a986c14991cb25cb8407f1c2fa0c26cfb4e2f75545b983cdf9b345e7d4d37e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794044447~acl=/*~id=83275997026512380162817285161129~hmac=25a986c14991cb25cb8407f1c2fa0c26cfb4e2f75545b983cdf9b345e7d4d37e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794045054~acl=/*~id=89251326224649950685010088575837~hmac=c4c7a9f63ddada4ecb1998d87bba5042626f9507544595c07323d10d45686b62",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794045054~acl=/*~id=89251326224649950685010088575837~hmac=c4c7a9f63ddada4ecb1998d87bba5042626f9507544595c07323d10d45686b62",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794045054~acl=/*~id=89251326224649950685010088575837~hmac=c4c7a9f63ddada4ecb1998d87bba5042626f9507544595c07323d10d45686b62"
+    },
+    {
+      "match_id": "1090552778",
+      "event_name": "India A Tour of New Zealand",
+      "match_name": "3rd Unofficial Test - Day 1 | India A Tour of New Zealand [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6",
+      "pub_url": "?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6",
+      "video_url": "?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6"
     },
     {
       "match_id": 1090551520,
