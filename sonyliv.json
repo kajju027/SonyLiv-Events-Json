@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 3:02:56 am",
-  "total_matches": 9,
-  "live_matches": 0,
+  "updatedAt": "7/11/2026, 3:03:11 am",
+  "total_matches": 10,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090552778_ENG",
+      "event_name": "India A Tour of New Zealand",
+      "match_name": "3rd Unofficial Test - Day 1 - 7 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794043842~acl=/*~id=81609696272402932164692666797374~hmac=9728b6f0350fb5b6f251454878bb79f0bf7ad94c9045b30dac9b416842c849f4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794043842~acl=/*~id=81609696272402932164692666797374~hmac=9728b6f0350fb5b6f251454878bb79f0bf7ad94c9045b30dac9b416842c849f4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794043842~acl=/*~id=81609696272402932164692666797374~hmac=9728b6f0350fb5b6f251454878bb79f0bf7ad94c9045b30dac9b416842c849f4"
+    },
     {
       "match_id": 1090551520,
       "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026",
