@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/11/2026, 3:56:50 pm",
+  "updatedAt": "6/11/2026, 3:59:24 pm",
   "total_matches": 11,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028380/179387004341970_ACC_MensU19_Pakistan_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003864~acl=/*~id=14259159678707592481637404299171~hmac=b8d97d92d7c39bc10b4c375dcb4feb03445c16ffc8bbd64564f324493f90a991",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003864~acl=/*~id=14259159678707592481637404299171~hmac=b8d97d92d7c39bc10b4c375dcb4feb03445c16ffc8bbd64564f324493f90a991",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003864~acl=/*~id=14259159678707592481637404299171~hmac=b8d97d92d7c39bc10b4c375dcb4feb03445c16ffc8bbd64564f324493f90a991"
     },
     {
       "match_id": "1090552767_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003259~acl=/*~id=24616207071487779724490023574780~hmac=d14edfff033ea923029dc58958b7d1376390ad7487ff3d896abae67e7562ae67"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003864~acl=/*~id=14259159678707592481637404299171~hmac=b8d97d92d7c39bc10b4c375dcb4feb03445c16ffc8bbd64564f324493f90a991",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003864~acl=/*~id=14259159678707592481637404299171~hmac=b8d97d92d7c39bc10b4c375dcb4feb03445c16ffc8bbd64564f324493f90a991",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golflive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794003864~acl=/*~id=14259159678707592481637404299171~hmac=b8d97d92d7c39bc10b4c375dcb4feb03445c16ffc8bbd64564f324493f90a991"
     },
     {
       "match_id": "1090552767",
