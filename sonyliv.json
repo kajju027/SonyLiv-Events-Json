@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 4:21:47 pm",
+  "updatedAt": "7/11/2026, 4:23:15 pm",
   "total_matches": 19,
   "live_matches": 11,
   "matches": [
@@ -123,17 +123,17 @@
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
     },
     {
-      "match_id": "1090552850",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs Sporting Club Delhi | MG Indian Super League 2026-27 [ENGLISH]",
+      "match_id": "1090552837",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "2nd ODI | India Tour of New Zealand 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
-      "pub_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
-      "video_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb",
+      "pub_url": "?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb",
+      "video_url": "?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb"
     },
     {
       "match_id": "1090552844",
