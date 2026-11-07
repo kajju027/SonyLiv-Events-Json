@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/11/2026, 2:32:29 am",
-  "total_matches": 8,
-  "live_matches": 0,
+  "updatedAt": "8/11/2026, 2:34:43 am",
+  "total_matches": 9,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090553101_ENG",
+      "event_name": "India A Tour of New Zealand",
+      "match_name": "3rd Unofficial Test - Day 2 - 8 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794128383~acl=/*~id=07207662109756012906863171971138~hmac=275f0c94ea195d1d08b6d3e5f6bedbb6a9bf07b4f3b74df9f98096f31fc97450",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794128383~acl=/*~id=07207662109756012906863171971138~hmac=275f0c94ea195d1d08b6d3e5f6bedbb6a9bf07b4f3b74df9f98096f31fc97450",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794128383~acl=/*~id=07207662109756012906863171971138~hmac=275f0c94ea195d1d08b6d3e5f6bedbb6a9bf07b4f3b74df9f98096f31fc97450"
+    },
     {
       "match_id": 1090551520,
       "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026",
@@ -14,19 +27,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028479/1793975138155375_AsiaCup26_U19_India_vs_Pakistan_Promo_Today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090552952,
-      "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -71,6 +71,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090552952,
+      "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
       "match_name": "",
@@ -104,7 +117,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028527/1794029676138327_NZ_vs_Ind_3rd_odi_landscape_thumbnail.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028623/1794076741340216_NZvsIND_3rd_ODI_Promo_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
