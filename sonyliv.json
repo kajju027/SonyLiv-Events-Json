@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 7:06:44 pm",
-  "total_matches": 14,
-  "live_matches": 6,
+  "updatedAt": "7/11/2026, 7:08:00 pm",
+  "total_matches": 17,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090552854_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a"
     },
     {
       "match_id": "1090552854_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a"
     },
     {
       "match_id": "1090552854_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a"
     },
     {
       "match_id": "1090552854_BEN",
@@ -53,9 +53,48 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "BEN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101739~acl=/*~id=17114961286778812112220100992498~hmac=d11a28f681696c26ceed8c6464bd3471cf84b5776e9efb1f716e4e4a80294c59"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a"
+    },
+    {
+      "match_id": "1090552850_ENG",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a"
+    },
+    {
+      "match_id": "1090552850_HIN",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Inter Kashi vs Sporting Club Delhi - 7 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a"
+    },
+    {
+      "match_id": "1090552841_ENG",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Sri Lanka vs Bangladesh - 7 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794101132~acl=/*~id=74733936144596136029780591543148~hmac=16a460523582ef9f2168e2aad5515733c3ea02812f9512f78b8d882f88613f9a"
     },
     {
       "match_id": "1090552854",
