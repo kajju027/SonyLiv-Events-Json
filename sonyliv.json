@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 7:15:51 pm",
-  "total_matches": 14,
-  "live_matches": 6,
+  "updatedAt": "7/11/2026, 7:21:11 pm",
+  "total_matches": 13,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090552854_ENG",
@@ -69,19 +69,6 @@
       "dai_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226",
       "pub_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226",
       "video_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226"
-    },
-    {
-      "match_id": "1090552850",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs Sporting Club Delhi | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
-      "pub_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
-      "video_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26"
     },
     {
       "match_id": 1090551520,
