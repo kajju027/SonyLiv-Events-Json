@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 6:52:39 pm",
+  "updatedAt": "7/11/2026, 6:55:20 pm",
   "total_matches": 17,
   "live_matches": 9,
   "matches": [
@@ -97,6 +97,19 @@
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794100526~acl=/*~id=43083341869807279982787114039999~hmac=e1029cbf7125c2b8fcc71d9fdbb3bf950455fe6a48e877ecaed370bd45b7b0b9"
     },
     {
+      "match_id": "1090552854",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Chennaiyin FC vs East Bengal FC | MG Indian Super League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226",
+      "pub_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226",
+      "video_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226"
+    },
+    {
       "match_id": "1090552850",
       "event_name": "MG Indian Super League 2026-27",
       "match_name": "Inter Kashi vs Sporting Club Delhi | MG Indian Super League 2026-27 [ENGLISH]",
@@ -108,19 +121,6 @@
       "dai_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
       "pub_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
       "video_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26"
-    },
-    {
-      "match_id": "1090552844",
-      "event_name": "DP World Tour",
-      "match_name": "Abu Dhabi HSBC Championship - Day 3 | DP World Tour [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794077444~acl=/*~id=01025300558010794039373680940066~hmac=df0fa100e197458a094d1394485e927caf4b54509982b49f1375cce0943ea1e5",
-      "pub_url": "?hdnea=exp=1794077444~acl=/*~id=01025300558010794039373680940066~hmac=df0fa100e197458a094d1394485e927caf4b54509982b49f1375cce0943ea1e5",
-      "video_url": "?hdnea=exp=1794077444~acl=/*~id=01025300558010794039373680940066~hmac=df0fa100e197458a094d1394485e927caf4b54509982b49f1375cce0943ea1e5"
     },
     {
       "match_id": 1090551520,
