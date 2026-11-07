@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 9:11:06 pm",
+  "updatedAt": "7/11/2026, 9:21:17 pm",
   "total_matches": 13,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97"
     },
     {
       "match_id": "1090552854_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97"
     },
     {
       "match_id": "1090552854_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97"
     },
     {
       "match_id": "1090552854_BEN",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "BEN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794109019~acl=/*~id=64131492061618997055318837896527~hmac=6ffaed6d026369ff6da7466a24930e0f784828014179d722ba655df87275fcaf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive0711/BEN/std_lrh-800300010.m3u8?hdnea=exp=1794109589~acl=/*~id=02805256672768596052672864171990~hmac=aab74a4e4cfed5980a9aa089f1e371bd21536bff2586d428fbd49b0a83e38d97"
     },
     {
       "match_id": "1090552854",
