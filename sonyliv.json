@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 9:28:36 am",
-  "total_matches": 13,
-  "live_matches": 7,
+  "updatedAt": "7/11/2026, 9:30:28 am",
+  "total_matches": 14,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090552836_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32"
+    },
+    {
+      "match_id": "1090552836_HIN",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "2nd ODI - 7 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32"
     },
     {
       "match_id": "1090552836_TAM",
@@ -27,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32"
     },
     {
       "match_id": "1090552836_TEL",
@@ -40,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32"
     },
     {
       "match_id": "1090552836_KAN",
@@ -53,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32"
     },
     {
       "match_id": "1090552778_ENG",
@@ -66,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066347~acl=/*~id=72020819093693974230334340523848~hmac=caa1fca2f7abbba607e0f37061a998e0887ae8f40a8ea15a1532c93994c3980e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794066957~acl=/*~id=23553617926930058719288719507996~hmac=b1af2e17c6cc63896f45182e84c22c7a6fbdd919b3ead06aa239b976d472aa32"
     },
     {
       "match_id": "1090552778",
