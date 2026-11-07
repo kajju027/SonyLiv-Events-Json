@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 10:10:24 pm",
-  "total_matches": 9,
-  "live_matches": 1,
+  "updatedAt": "7/11/2026, 10:22:50 pm",
+  "total_matches": 8,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090552854",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Chennaiyin FC vs East Bengal FC | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226",
-      "pub_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226",
-      "video_url": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226"
-    },
     {
       "match_id": 1090551520,
       "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026",
