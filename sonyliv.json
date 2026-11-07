@@ -1,75 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 4:23:15 pm",
-  "total_matches": 19,
-  "live_matches": 11,
+  "updatedAt": "7/11/2026, 4:34:26 pm",
+  "total_matches": 14,
+  "live_matches": 6,
   "matches": [
-    {
-      "match_id": "1090552836_ENG",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd ODI - 7 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/Cricodi_0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
-    },
-    {
-      "match_id": "1090552836_HIN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd ODI - 7 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/Cricodi_0611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
-    },
-    {
-      "match_id": "1090552836_TAM",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd ODI - 7 Nov 2026 [TAM]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/Cricodi_0611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
-    },
-    {
-      "match_id": "1090552836_TEL",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd ODI - 7 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/Cricodi_0611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
-    },
-    {
-      "match_id": "1090552836_KAN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd ODI - 7 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/Cricodi_0611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
-    },
     {
       "match_id": "1090552850_ENG",
       "event_name": "MG Indian Super League 2026-27",
@@ -79,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e"
     },
     {
       "match_id": "1090552850_HIN",
@@ -92,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e"
     },
     {
       "match_id": "1090552841_ENG",
@@ -105,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028498/1793995267058198_ACC_MensU19_Sri_Lanka_vs_Bangladesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e"
     },
     {
       "match_id": "1090552844_ENG",
@@ -118,22 +53,22 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794090820~acl=/*~id=80419579870208763189557573758259~hmac=e7b0d9fd1a7513123a2effedc3c4cf8a9dbfac6ae5151337c4664c669feb5f21"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794092648~acl=/*~id=29650274976636341948741901820505~hmac=0fbbf6d8e050182645cf45ef5e532af45a7cfb2a7d36b14c23bab2327343db1e"
     },
     {
-      "match_id": "1090552837",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd ODI | India Tour of New Zealand 2026 [ENGLISH]",
+      "match_id": "1090552850",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "Inter Kashi vs Sporting Club Delhi | MG Indian Super League 2026-27 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb",
-      "pub_url": "?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb",
-      "video_url": "?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
+      "pub_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
+      "video_url": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26"
     },
     {
       "match_id": "1090552844",
