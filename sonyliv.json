@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/11/2026, 6:16:41 pm",
-  "total_matches": 14,
-  "live_matches": 7,
+  "updatedAt": "8/11/2026, 6:26:51 pm",
+  "total_matches": 13,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090553114_ENG",
@@ -14,22 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4"
-    },
-    {
-      "match_id": "1090553114_HIN",
-      "event_name": "ACC Men's U19 Asia Cup 2026",
-      "match_name": "India vs Pakistan - 8 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
     },
     {
       "match_id": "1090553114_TAM",
@@ -40,22 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
     },
     {
-      "match_id": "1090553114_TEL",
+      "match_id": "1090553114_HIN",
       "event_name": "ACC Men's U19 Asia Cup 2026",
-      "match_name": "India vs Pakistan - 8 Nov 2026 [TEL]",
+      "match_name": "India vs Pakistan - 8 Nov 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
+      "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
     },
     {
       "match_id": "1090553114_KAN",
@@ -66,22 +53,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
     },
     {
-      "match_id": "1090553122_ENG",
-      "event_name": "DP World Tour",
-      "match_name": "Abu Dhabi HSBC Championship - Day 4 - 8 Nov 2026 [ENG]",
+      "match_id": "1090553114_TEL",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "India vs Pakistan - 8 Nov 2026 [TEL]",
       "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888647343682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day4_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794185022~acl=/*~id=18196696772935665342100565375685~hmac=2e499a8a2f7bb77fbf442a5d087da6007a3a756e67502b373ca59406db12c4a4"
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/master.m3u8?hdnea=exp=1794185642~acl=/*~id=62108600250756075720689327804577~hmac=ca78681f2b51a29190742cc65636401b2aae7b9c2ba5e32f426be77c31b678b0"
     },
     {
       "match_id": "1090553122",
