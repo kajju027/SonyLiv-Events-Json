@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/11/2026, 8:24:25 am",
+  "updatedAt": "8/11/2026, 8:24:58 am",
   "total_matches": 16,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61"
     },
     {
       "match_id": "1090553103_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61"
     },
     {
       "match_id": "1090553103_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61"
     },
     {
       "match_id": "1090553103_TAM",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61"
     },
     {
       "match_id": "1090553103_TEL",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61"
     },
     {
       "match_id": "1090553103_KAN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794149581~acl=/*~id=46272924895369433256331005464248~hmac=8cd3cdcdfecd394185463b8dca310dc11f7244865b9370656a3e41942311c9cf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794148975~acl=/*~id=84591734845374942414136489404027~hmac=1e7588d388aeb6b943239d81513c899526959ad1505e2e211d2fdaa12cef1e61"
     },
     {
       "match_id": "1090553101",
