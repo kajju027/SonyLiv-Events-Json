@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/11/2026, 6:01:58 am",
-  "total_matches": 15,
-  "live_matches": 7,
+  "updatedAt": "8/11/2026, 6:06:37 am",
+  "total_matches": 10,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090553101_ENG",
@@ -14,74 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57"
-    },
-    {
-      "match_id": "1090553103_ENG",
-      "event_name": "UFC Fight Night - Cortes Acosta vs Walker ",
-      "match_name": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/UFC_UFCF0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57"
-    },
-    {
-      "match_id": "1090553103_HIN",
-      "event_name": "UFC Fight Night - Cortes Acosta vs Walker ",
-      "match_name": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_UFCF0711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57"
-    },
-    {
-      "match_id": "1090553103_TAM",
-      "event_name": "UFC Fight Night - Cortes Acosta vs Walker ",
-      "match_name": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TAM]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/UFC_UFCF0711/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57"
-    },
-    {
-      "match_id": "1090553103_TEL",
-      "event_name": "UFC Fight Night - Cortes Acosta vs Walker ",
-      "match_name": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/UFC_UFCF0711/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57"
-    },
-    {
-      "match_id": "1090553103_KAN",
-      "event_name": "UFC Fight Night - Cortes Acosta vs Walker ",
-      "match_name": "UFC Fight Night - Cortes Acosta vs Walker - 8 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028496/1793988815502224_UFC_Fight_Night_Cortes_Acosta_vs_Walker_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/UFC_UFCF0711/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794141095~acl=/*~id=59505474822957009423878999609394~hmac=b65776f696c90bbc07c91e5898a4e5818b67c8046d421acf4aa2f3345fe69b57"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794140490~acl=/*~id=13391764514055063431899342517668~hmac=39fd1faed1cf8b21efb21425566d330556dcbfb30913a35a0e7f2882120de93e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794140490~acl=/*~id=13391764514055063431899342517668~hmac=39fd1faed1cf8b21efb21425566d330556dcbfb30913a35a0e7f2882120de93e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794140490~acl=/*~id=13391764514055063431899342517668~hmac=39fd1faed1cf8b21efb21425566d330556dcbfb30913a35a0e7f2882120de93e"
     },
     {
       "match_id": "1090553101",
