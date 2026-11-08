@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/11/2026, 11:29:28 am",
-  "total_matches": 13,
-  "live_matches": 6,
+  "updatedAt": "8/11/2026, 11:39:45 am",
+  "total_matches": 14,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090553114_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b"
     },
     {
       "match_id": "1090553114_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b"
     },
     {
       "match_id": "1090553114_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b"
     },
     {
       "match_id": "1090553114_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0811/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b"
     },
     {
       "match_id": "1090553114_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028500/1793998240363399_ACC_MensU19_India_vs_Pakistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0811/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b"
     },
     {
       "match_id": "1090553112_ENG",
@@ -79,9 +79,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028499/1793997230899948_ACC_MensU19_UAE_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794160536~acl=/*~id=81378450286858609807215813219039~hmac=fcc4e50c374955714f51e17d5751f65bbca0fe44b2a45f04721b97f99bfa2548"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b"
+    },
+    {
+      "match_id": "1090553122_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Abu Dhabi HSBC Championship - Day 4 - 8 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888647343682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day4_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_Abu0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794161150~acl=/*~id=03558219437111790495889596531092~hmac=c0bcc73ec966c0990a1fd2330f4c1733cdf004f1f48cdb5ead9caa5e1d9aac0b"
     },
     {
       "match_id": 1090553041,
