@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/11/2026, 3:25:44 am",
-  "total_matches": 8,
-  "live_matches": 1,
+  "updatedAt": "9/11/2026, 3:26:41 am",
+  "total_matches": 9,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090553299_ENG",
@@ -17,6 +17,19 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794217710~acl=/*~id=61675733605531964527763103235703~hmac=935716a095cf20a847f31a187d61172c9d126ef153c9a3b5ecf35d5cb7abfcdc",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794217710~acl=/*~id=61675733605531964527763103235703~hmac=935716a095cf20a847f31a187d61172c9d126ef153c9a3b5ecf35d5cb7abfcdc",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794217710~acl=/*~id=61675733605531964527763103235703~hmac=935716a095cf20a847f31a187d61172c9d126ef153c9a3b5ecf35d5cb7abfcdc"
+    },
+    {
+      "match_id": "1090553299",
+      "event_name": "India A Tour of New Zealand",
+      "match_name": "3rd Unofficial Test - Day 3 | India A Tour of New Zealand [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b",
+      "pub_url": "?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b",
+      "video_url": "?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b"
     },
     {
       "match_id": 1090553041,
