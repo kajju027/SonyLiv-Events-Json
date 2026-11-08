@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/11/2026, 6:54:31 pm",
-  "total_matches": 8,
-  "live_matches": 1,
+  "updatedAt": "8/11/2026, 6:54:44 pm",
+  "total_matches": 7,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090553122",
-      "event_name": "DP World Tour",
-      "match_name": "Abu Dhabi HSBC Championship - Day 4 | DP World Tour [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888647343682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day4_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794162054~acl=/*~id=19792493879521449842394790612092~hmac=b739bc99bb873cb046b2004fcaec49ec7686f77e6ca776748254edac80b57373",
-      "pub_url": "?hdnea=exp=1794162054~acl=/*~id=19792493879521449842394790612092~hmac=b739bc99bb873cb046b2004fcaec49ec7686f77e6ca776748254edac80b57373",
-      "video_url": "?hdnea=exp=1794162054~acl=/*~id=19792493879521449842394790612092~hmac=b739bc99bb873cb046b2004fcaec49ec7686f77e6ca776748254edac80b57373"
-    },
     {
       "match_id": 1090553041,
       "event_name": "Upcoming - 3rd ODI - India Tour Of New Zealand 2026",
