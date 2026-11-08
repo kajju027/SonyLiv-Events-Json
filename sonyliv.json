@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "8/11/2026, 5:33:26 am",
+  "updatedAt": "8/11/2026, 5:41:35 am",
   "total_matches": 10,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956010921809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794139280~acl=/*~id=08477902385174380083131208481116~hmac=a675d2715509a78c76843b18f56bf698720e9424fd1ca2430132fc6cc7795fc3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794139280~acl=/*~id=08477902385174380083131208481116~hmac=a675d2715509a78c76843b18f56bf698720e9424fd1ca2430132fc6cc7795fc3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794139280~acl=/*~id=08477902385174380083131208481116~hmac=a675d2715509a78c76843b18f56bf698720e9424fd1ca2430132fc6cc7795fc3"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794139885~acl=/*~id=91996612539787452331269942768045~hmac=27976b8a46da0845c7ad69cd5da539047246934f17779b9a70ca75478a3ff287",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794139885~acl=/*~id=91996612539787452331269942768045~hmac=27976b8a46da0845c7ad69cd5da539047246934f17779b9a70ca75478a3ff287",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794139885~acl=/*~id=91996612539787452331269942768045~hmac=27976b8a46da0845c7ad69cd5da539047246934f17779b9a70ca75478a3ff287"
     },
     {
       "match_id": "1090553101",
