@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/11/2026, 9:12:05 am",
-  "total_matches": 9,
-  "live_matches": 2,
+  "updatedAt": "9/11/2026, 9:22:17 am",
+  "total_matches": 7,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090553299_ENG",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "3rd Unofficial Test - Day 3 - 9 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794238905~acl=/*~id=00005655155922041486306121356980~hmac=37cd2a7d61a6ad63d3736a8ad4b81b7149acb9f02798c99c02211bc4a34b30da",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794238905~acl=/*~id=00005655155922041486306121356980~hmac=37cd2a7d61a6ad63d3736a8ad4b81b7149acb9f02798c99c02211bc4a34b30da",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive0811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794238905~acl=/*~id=00005655155922041486306121356980~hmac=37cd2a7d61a6ad63d3736a8ad4b81b7149acb9f02798c99c02211bc4a34b30da"
-    },
-    {
-      "match_id": "1090553299",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "3rd Unofficial Test - Day 3 | India A Tour of New Zealand [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793956566466809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day3_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b",
-      "pub_url": "?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b",
-      "video_url": "?hdnea=exp=1794217853~acl=/*~id=67738885961920361253989044163400~hmac=5ecf3dde088444646487b427e01273b436f7f242b2dcc45d96be89e616c7ba5b"
-    },
     {
       "match_id": 1090553041,
       "event_name": "Upcoming - 3rd ODI - India Tour Of New Zealand 2026",
