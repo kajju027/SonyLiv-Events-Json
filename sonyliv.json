@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "9/11/2026, 5:30:41 pm",
+  "updatedAt": "9/11/2026, 5:38:44 pm",
   "total_matches": 8,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028502/1793999538076640_ACC_MensU19_Sri_Lanka_vs_Afghanistan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794268585~acl=/*~id=81981988933381320266650487383174~hmac=20e1f589f8af945d46d27296a72e00a956034659c628bf44319488c1e3ad4979",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794268585~acl=/*~id=81981988933381320266650487383174~hmac=20e1f589f8af945d46d27296a72e00a956034659c628bf44319488c1e3ad4979",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794268585~acl=/*~id=81981988933381320266650487383174~hmac=20e1f589f8af945d46d27296a72e00a956034659c628bf44319488c1e3ad4979"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794269192~acl=/*~id=03304617905160093938247466397279~hmac=d42a558cc613c2a9661390fd94fabb935fbba4a056abcefd2d610af908c349a7",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794269192~acl=/*~id=03304617905160093938247466397279~hmac=d42a558cc613c2a9661390fd94fabb935fbba4a056abcefd2d610af908c349a7",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Criclive0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794269192~acl=/*~id=03304617905160093938247466397279~hmac=d42a558cc613c2a9661390fd94fabb935fbba4a056abcefd2d610af908c349a7"
     },
     {
       "match_id": 1090553041,
@@ -45,6 +45,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090552650,
+      "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090552952,
       "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
       "match_name": "",
@@ -53,19 +66,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090552650,
-      "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028318/1793812415099811_ACC_U19_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
