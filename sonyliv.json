@@ -1,75 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/11/2026, 11:22:29 am",
-  "total_matches": 13,
-  "live_matches": 8,
+  "updatedAt": "10/11/2026, 11:33:01 am",
+  "total_matches": 8,
+  "live_matches": 3,
   "matches": [
-    {
-      "match_id": "1090553316_ENG",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "3rd ODI - 10 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_0911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f"
-    },
-    {
-      "match_id": "1090553316_HIN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "3rd ODI - 10 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_0911/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f"
-    },
-    {
-      "match_id": "1090553316_TAM",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "3rd ODI - 10 Nov 2026 [TAM]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_0911/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f"
-    },
-    {
-      "match_id": "1090553316_TEL",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "3rd ODI - 10 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_0911/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f"
-    },
-    {
-      "match_id": "1090553316_KAN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "3rd ODI - 10 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028620/1794072411936945_NZvsIND_3rd_ODI_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_0911/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f"
-    },
     {
       "match_id": "1090553324_ENG",
       "event_name": "ACC Men's U19 Asia Cup 2026",
@@ -79,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794333593~acl=/*~id=99514138132875449570433351819997~hmac=f6beb37f6ec030d97e4532ba439dc3c2a5cc269d31c93e055708df490e93f99f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794333593~acl=/*~id=99514138132875449570433351819997~hmac=f6beb37f6ec030d97e4532ba439dc3c2a5cc269d31c93e055708df490e93f99f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794333593~acl=/*~id=99514138132875449570433351819997~hmac=f6beb37f6ec030d97e4532ba439dc3c2a5cc269d31c93e055708df490e93f99f"
     },
     {
       "match_id": "1090553322_ENG",
@@ -92,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794332982~acl=/*~id=76970046998632456709939237830312~hmac=4dba26d7eae313c25fb01fff9a5284f41670951d0ae45b56fcfd986c798c063f"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794333593~acl=/*~id=99514138132875449570433351819997~hmac=f6beb37f6ec030d97e4532ba439dc3c2a5cc269d31c93e055708df490e93f99f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794333593~acl=/*~id=99514138132875449570433351819997~hmac=f6beb37f6ec030d97e4532ba439dc3c2a5cc269d31c93e055708df490e93f99f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794333593~acl=/*~id=99514138132875449570433351819997~hmac=f6beb37f6ec030d97e4532ba439dc3c2a5cc269d31c93e055708df490e93f99f"
     },
     {
       "match_id": "1090553321",
