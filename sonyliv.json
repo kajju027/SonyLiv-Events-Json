@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/11/2026, 1:57:31 pm",
+  "updatedAt": "10/11/2026, 2:06:03 pm",
   "total_matches": 8,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028503/1794000882307878_ACC_MensU19_India_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342089~acl=/*~id=44663243757298687811550566762415~hmac=2dc5f172f6e6dc7328674e54262669c5e2cbb2617f738c5769c81d53e668614a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342089~acl=/*~id=44663243757298687811550566762415~hmac=2dc5f172f6e6dc7328674e54262669c5e2cbb2617f738c5769c81d53e668614a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342089~acl=/*~id=44663243757298687811550566762415~hmac=2dc5f172f6e6dc7328674e54262669c5e2cbb2617f738c5769c81d53e668614a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342698~acl=/*~id=94058644716858823535798231812192~hmac=37f2c4f7785aa57687dbacfe49245ffe7fb738e7aeaeeb1170996b7777d0595f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342698~acl=/*~id=94058644716858823535798231812192~hmac=37f2c4f7785aa57687dbacfe49245ffe7fb738e7aeaeeb1170996b7777d0595f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119735/cricodi_1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342698~acl=/*~id=94058644716858823535798231812192~hmac=37f2c4f7785aa57687dbacfe49245ffe7fb738e7aeaeeb1170996b7777d0595f"
     },
     {
       "match_id": "1090553322_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028504/179400165277048_ACC_MensU19_Pakistan_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342089~acl=/*~id=44663243757298687811550566762415~hmac=2dc5f172f6e6dc7328674e54262669c5e2cbb2617f738c5769c81d53e668614a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342089~acl=/*~id=44663243757298687811550566762415~hmac=2dc5f172f6e6dc7328674e54262669c5e2cbb2617f738c5769c81d53e668614a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342089~acl=/*~id=44663243757298687811550566762415~hmac=2dc5f172f6e6dc7328674e54262669c5e2cbb2617f738c5769c81d53e668614a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342698~acl=/*~id=94058644716858823535798231812192~hmac=37f2c4f7785aa57687dbacfe49245ffe7fb738e7aeaeeb1170996b7777d0595f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342698~acl=/*~id=94058644716858823535798231812192~hmac=37f2c4f7785aa57687dbacfe49245ffe7fb738e7aeaeeb1170996b7777d0595f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Criclive1011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794342698~acl=/*~id=94058644716858823535798231812192~hmac=37f2c4f7785aa57687dbacfe49245ffe7fb738e7aeaeeb1170996b7777d0595f"
     },
     {
       "match_id": 1090552650,
@@ -65,7 +65,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028719/1794286480157613_NZvsIND_4th_ODI_promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
