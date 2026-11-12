@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/11/2026, 11:30:44 pm",
+  "updatedAt": "12/11/2026, 11:32:19 pm",
   "total_matches": 13,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794549499~acl=/*~id=06810307747454436488333526294188~hmac=efe596862fa5ab3563f8b8cdb4d1c3d542dfc2c957dd6e52a45396020f89e306",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794549499~acl=/*~id=06810307747454436488333526294188~hmac=efe596862fa5ab3563f8b8cdb4d1c3d542dfc2c957dd6e52a45396020f89e306",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794549499~acl=/*~id=06810307747454436488333526294188~hmac=efe596862fa5ab3563f8b8cdb4d1c3d542dfc2c957dd6e52a45396020f89e306"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794548893~acl=/*~id=52794112857822075856888278326456~hmac=4764acaad90be7594c240569d634016c74ef4e909f8d35b75c38a91c383dd06f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794548893~acl=/*~id=52794112857822075856888278326456~hmac=4764acaad90be7594c240569d634016c74ef4e909f8d35b75c38a91c383dd06f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794548893~acl=/*~id=52794112857822075856888278326456~hmac=4764acaad90be7594c240569d634016c74ef4e909f8d35b75c38a91c383dd06f"
     },
     {
       "match_id": "1090553571_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794549499~acl=/*~id=06810307747454436488333526294188~hmac=efe596862fa5ab3563f8b8cdb4d1c3d542dfc2c957dd6e52a45396020f89e306",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794549499~acl=/*~id=06810307747454436488333526294188~hmac=efe596862fa5ab3563f8b8cdb4d1c3d542dfc2c957dd6e52a45396020f89e306",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794549499~acl=/*~id=06810307747454436488333526294188~hmac=efe596862fa5ab3563f8b8cdb4d1c3d542dfc2c957dd6e52a45396020f89e306"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794548893~acl=/*~id=52794112857822075856888278326456~hmac=4764acaad90be7594c240569d634016c74ef4e909f8d35b75c38a91c383dd06f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794548893~acl=/*~id=52794112857822075856888278326456~hmac=4764acaad90be7594c240569d634016c74ef4e909f8d35b75c38a91c383dd06f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794548893~acl=/*~id=52794112857822075856888278326456~hmac=4764acaad90be7594c240569d634016c74ef4e909f8d35b75c38a91c383dd06f"
     },
     {
       "match_id": "1090553566",
