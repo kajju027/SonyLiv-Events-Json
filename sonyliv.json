@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/11/2026, 12:00:46 pm",
+  "updatedAt": "12/11/2026, 12:01:59 pm",
   "total_matches": 17,
   "live_matches": 8,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4"
     },
     {
       "match_id": "1090553646_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4"
     },
     {
       "match_id": "1090553646_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4"
     },
     {
       "match_id": "1090553646_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4"
     },
     {
       "match_id": "1090553646_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4"
     },
     {
       "match_id": "1090553647_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028782/1794378177875809_Asia_Cup_U19_SF_Pakistan_vs_Bangladesh_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4"
     },
     {
       "match_id": "1090553552_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794507424~acl=/*~id=44854372241515183148233879601278~hmac=7c3140d5900b0fb432f9a9c4307856069d1e860c3ade73fc156bf4cd9dd08b98"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794508078~acl=/*~id=53823011922416677530283355215316~hmac=53fae1380af5c4bc93cc5b127bd23530388d9f97dd629ab19b0bffc7adc4c3b4"
     },
     {
       "match_id": "1090553552",
