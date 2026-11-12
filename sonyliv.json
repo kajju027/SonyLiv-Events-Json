@@ -1,10 +1,88 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/11/2026, 9:58:47 am",
-  "total_matches": 12,
-  "live_matches": 2,
+  "updatedAt": "12/11/2026, 10:19:08 am",
+  "total_matches": 17,
+  "live_matches": 8,
   "matches": [
+    {
+      "match_id": "1090553646_ENG",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75"
+    },
+    {
+      "match_id": "1090553646_TAM",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [TAM]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1211/TAM/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75"
+    },
+    {
+      "match_id": "1090553646_HIN",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1211/HIN/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75"
+    },
+    {
+      "match_id": "1090553646_TEL",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [TEL]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1211/TEL/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75"
+    },
+    {
+      "match_id": "1090553646_KAN",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Afghanistan vs India - Semi-Final - 12 Nov 2026 [KAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028773/1794317941730689_Asia_Cup_U19_SF_Afghanistan-vs-India_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/master.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75"
+    },
+    {
+      "match_id": "1090553647_ENG",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Pakistan vs Bangladesh - Semi-Final - 12 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028782/1794378177875809_Asia_Cup_U19_SF_Pakistan_vs_Bangladesh_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75"
+    },
     {
       "match_id": "1090553552_ENG",
       "event_name": "Asian Tour 2026",
@@ -14,9 +92,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794500723~acl=/*~id=60205087648090661163042923690398~hmac=86a015f9b31e69ed9966fc15235b298b165729653ae8c0e187b115314bbcc5cf",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794500723~acl=/*~id=60205087648090661163042923690398~hmac=86a015f9b31e69ed9966fc15235b298b165729653ae8c0e187b115314bbcc5cf",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794500723~acl=/*~id=60205087648090661163042923690398~hmac=86a015f9b31e69ed9966fc15235b298b165729653ae8c0e187b115314bbcc5cf"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794501954~acl=/*~id=11894899535238209991699593173391~hmac=6a6d39696038229e4c4520a3270df7ff00635fb9f32e5f90c09822b7238f0c75"
     },
     {
       "match_id": "1090553552",
@@ -30,19 +108,6 @@
       "dai_url": "?hdnea=exp=1794500447~acl=/*~id=82163271950410431787955485461470~hmac=737b93208baa9c1844cd21d98429996d11f4ffc0d9d2f4512f4b4b8ad5750218",
       "pub_url": "?hdnea=exp=1794500447~acl=/*~id=82163271950410431787955485461470~hmac=737b93208baa9c1844cd21d98429996d11f4ffc0d9d2f4512f4b4b8ad5750218",
       "video_url": "?hdnea=exp=1794500447~acl=/*~id=82163271950410431787955485461470~hmac=737b93208baa9c1844cd21d98429996d11f4ffc0d9d2f4512f4b4b8ad5750218"
-    },
-    {
-      "match_id": 1090550846,
-      "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028772/1794317372670599_Asia_Cup_U19_SF_Afghanistan-vs-India_Today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
     },
     {
       "match_id": 1090553648,
@@ -91,7 +156,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309200718246_UNL26_england_vs_croatia_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309212414246_UNL26_england_vs_croatia_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
