@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/11/2026, 2:10:59 am",
+  "updatedAt": "13/11/2026, 2:11:54 am",
   "total_matches": 20,
   "live_matches": 12,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e"
     },
     {
       "match_id": "1090553579_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e"
     },
     {
       "match_id": "1090553573_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e"
     },
     {
       "match_id": "1090553576_ENG",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e"
     },
     {
       "match_id": "1090553575_ENG",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e"
     },
     {
       "match_id": "1090553577_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794559204~acl=/*~id=48978533626979515645737140600921~hmac=18acbc38f2c4475746796b1da4e18491c632cfd6f26e5be7696837b6c6577575"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794558597~acl=/*~id=83165672731776020807997361500488~hmac=617255eae8c4c8dfeea4a4770568d7f4961f500e6d3f343ae966fd770cd79d7e"
     },
     {
       "match_id": "1090553578",
