@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/11/2026, 12:23:07 pm",
-  "total_matches": 19,
-  "live_matches": 10,
+  "updatedAt": "12/11/2026, 12:24:56 pm",
+  "total_matches": 18,
+  "live_matches": 9,
   "matches": [
     {
       "match_id": "1090553646_ENG",
@@ -121,19 +121,6 @@
       "dai_url": "?hdnea=exp=1794500447~acl=/*~id=82163271950410431787955485461470~hmac=737b93208baa9c1844cd21d98429996d11f4ffc0d9d2f4512f4b4b8ad5750218",
       "pub_url": "?hdnea=exp=1794500447~acl=/*~id=82163271950410431787955485461470~hmac=737b93208baa9c1844cd21d98429996d11f4ffc0d9d2f4512f4b4b8ad5750218",
       "video_url": "?hdnea=exp=1794500447~acl=/*~id=82163271950410431787955485461470~hmac=737b93208baa9c1844cd21d98429996d11f4ffc0d9d2f4512f4b4b8ad5750218"
-    },
-    {
-      "match_id": "1090553557",
-      "event_name": "DP World Tour",
-      "match_name": "DP World Tour Champinship, Dubai - Day 1 | DP World Tour [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794509456~acl=/*~id=12741215043937996646257804767319~hmac=6bc2bdad603750242332acb03d8326c7d81ce224e17e123a22248022bd10a0be",
-      "pub_url": "?hdnea=exp=1794509456~acl=/*~id=12741215043937996646257804767319~hmac=6bc2bdad603750242332acb03d8326c7d81ce224e17e123a22248022bd10a0be",
-      "video_url": "?hdnea=exp=1794509456~acl=/*~id=12741215043937996646257804767319~hmac=6bc2bdad603750242332acb03d8326c7d81ce224e17e123a22248022bd10a0be"
     },
     {
       "match_id": 1090553648,
