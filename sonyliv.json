@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/11/2026, 3:24:45 pm",
-  "total_matches": 13,
-  "live_matches": 3,
+  "updatedAt": "13/11/2026, 3:25:33 pm",
+  "total_matches": 12,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090553604_ENG",
@@ -14,22 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794606143~acl=/*~id=72068127570938553531461235523184~hmac=e6ff30d5ae47ee0440f77a39f3beb4393095446481db32215f43a8dd72023bb2",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794606143~acl=/*~id=72068127570938553531461235523184~hmac=e6ff30d5ae47ee0440f77a39f3beb4393095446481db32215f43a8dd72023bb2",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794606143~acl=/*~id=72068127570938553531461235523184~hmac=e6ff30d5ae47ee0440f77a39f3beb4393095446481db32215f43a8dd72023bb2"
-    },
-    {
-      "match_id": "1090553600",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "4th ODI | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa",
-      "pub_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa",
-      "video_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794606749~acl=/*~id=46059534688616068969152108890683~hmac=18b70fa4f8ebb639695395567cb0feebd80b94cbd464c41cd862cc00e54c41e0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794606749~acl=/*~id=46059534688616068969152108890683~hmac=18b70fa4f8ebb639695395567cb0feebd80b94cbd464c41cd862cc00e54c41e0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794606749~acl=/*~id=46059534688616068969152108890683~hmac=18b70fa4f8ebb639695395567cb0feebd80b94cbd464c41cd862cc00e54c41e0"
     },
     {
       "match_id": "1090553604",
