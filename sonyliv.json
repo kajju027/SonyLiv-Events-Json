@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/11/2026, 7:15:21 am",
-  "total_matches": 12,
-  "live_matches": 5,
+  "updatedAt": "13/11/2026, 7:21:01 am",
+  "total_matches": 13,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090553595_ENG",
@@ -69,6 +69,19 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794577417~acl=/*~id=99341810419139655865452635183491~hmac=366f472ce69f027b780cb5c6357133cf6d2555b0fb33d20ce385826216535a86",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794577417~acl=/*~id=99341810419139655865452635183491~hmac=366f472ce69f027b780cb5c6357133cf6d2555b0fb33d20ce385826216535a86",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794577417~acl=/*~id=99341810419139655865452635183491~hmac=366f472ce69f027b780cb5c6357133cf6d2555b0fb33d20ce385826216535a86"
+    },
+    {
+      "match_id": "1090553600",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "4th ODI | India Tour of New Zealand 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa",
+      "pub_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa",
+      "video_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa"
     },
     {
       "match_id": 1090552650,
