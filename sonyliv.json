@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/11/2026, 6:36:23 pm",
-  "total_matches": 10,
-  "live_matches": 1,
+  "updatedAt": "13/11/2026, 6:52:18 pm",
+  "total_matches": 9,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090553604",
-      "event_name": "DP World Tour",
-      "match_name": "DP World Tour Championship, Dubai - Day 2 | DP World Tour [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794595849~acl=/*~id=03767627049733077604475844300847~hmac=25feb3ee1305758e911a81dc6594d209bb01d60a87a9cd45448ff2b1fad5a78b",
-      "pub_url": "?hdnea=exp=1794595849~acl=/*~id=03767627049733077604475844300847~hmac=25feb3ee1305758e911a81dc6594d209bb01d60a87a9cd45448ff2b1fad5a78b",
-      "video_url": "?hdnea=exp=1794595849~acl=/*~id=03767627049733077604475844300847~hmac=25feb3ee1305758e911a81dc6594d209bb01d60a87a9cd45448ff2b1fad5a78b"
-    },
     {
       "match_id": 1090554060,
       "event_name": "Upcoming - Pakistan vs India - Final - ACC Men's U19 Asia Cup 2026",
