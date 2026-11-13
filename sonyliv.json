@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/11/2026, 9:48:50 am",
-  "total_matches": 12,
-  "live_matches": 6,
+  "updatedAt": "13/11/2026, 9:53:58 am",
+  "total_matches": 13,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090553595_ENG",
@@ -82,6 +82,19 @@
       "dai_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa",
       "pub_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa",
       "video_url": "?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa"
+    },
+    {
+      "match_id": "1090553601",
+      "event_name": "Asian Tour 2026",
+      "match_name": "Philippine Open - Day 2 | Asian Tour 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794586851~acl=/*~id=96841784072387061995417388123750~hmac=dbe1fa750703f3f5db8b03fe372976ff9d62fb3eccfe9e8ee74205b84557f7c6",
+      "pub_url": "?hdnea=exp=1794586851~acl=/*~id=96841784072387061995417388123750~hmac=dbe1fa750703f3f5db8b03fe372976ff9d62fb3eccfe9e8ee74205b84557f7c6",
+      "video_url": "?hdnea=exp=1794586851~acl=/*~id=96841784072387061995417388123750~hmac=dbe1fa750703f3f5db8b03fe372976ff9d62fb3eccfe9e8ee74205b84557f7c6"
     },
     {
       "match_id": 1090552650,
