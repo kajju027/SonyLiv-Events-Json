@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/11/2026, 6:19:02 pm",
+  "updatedAt": "13/11/2026, 6:26:12 pm",
   "total_matches": 11,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617047~acl=/*~id=77469876020341221293720617072048~hmac=88cf02b87e483a1a54f72612948a3040f092a2eac814d39fa8620885a3c7cbc5",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617047~acl=/*~id=77469876020341221293720617072048~hmac=88cf02b87e483a1a54f72612948a3040f092a2eac814d39fa8620885a3c7cbc5",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617047~acl=/*~id=77469876020341221293720617072048~hmac=88cf02b87e483a1a54f72612948a3040f092a2eac814d39fa8620885a3c7cbc5"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617653~acl=/*~id=18436339554162712845797574711288~hmac=c8b5d09e0904315d05945fb7fea852efb213d3b37d6b1f5568622193628d228b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617653~acl=/*~id=18436339554162712845797574711288~hmac=c8b5d09e0904315d05945fb7fea852efb213d3b37d6b1f5568622193628d228b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Golf_DPW1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794617653~acl=/*~id=18436339554162712845797574711288~hmac=c8b5d09e0904315d05945fb7fea852efb213d3b37d6b1f5568622193628d228b"
     },
     {
       "match_id": "1090553604",
@@ -104,7 +104,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028802/1794403574708904_UNL_MD5_landscape.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028966/1794573555881790_UNL26_Serbia-vs-Germany_Promo_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
