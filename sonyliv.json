@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 1:21:46 am",
-  "total_matches": 27,
-  "live_matches": 18,
+  "updatedAt": "14/11/2026, 1:23:23 am",
+  "total_matches": 26,
+  "live_matches": 17,
   "matches": [
     {
       "match_id": "1090553727_ENG",
@@ -121,19 +121,6 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794642479~acl=/*~id=60957909935065774222199957093793~hmac=499a4a1055b1d66099af92bc203d29adbdfed6989ef34b45949a20939f2ae9e5",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794642479~acl=/*~id=60957909935065774222199957093793~hmac=499a4a1055b1d66099af92bc203d29adbdfed6989ef34b45949a20939f2ae9e5",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive1311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794642479~acl=/*~id=60957909935065774222199957093793~hmac=499a4a1055b1d66099af92bc203d29adbdfed6989ef34b45949a20939f2ae9e5"
-    },
-    {
-      "match_id": "1090553727",
-      "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Serbia vs Germany | UEFA Nations League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027697/1793265313818308_UNL26_MD5_Serbia-vs-Germany_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794642651~acl=/*~id=65815112888962667777849763150135~hmac=256d65c7f75ec75e5f4fc82332acd931ec9a26c35436acbe8c412075f78c4fdf",
-      "pub_url": "?hdnea=exp=1794642651~acl=/*~id=65815112888962667777849763150135~hmac=256d65c7f75ec75e5f4fc82332acd931ec9a26c35436acbe8c412075f78c4fdf",
-      "video_url": "?hdnea=exp=1794642651~acl=/*~id=65815112888962667777849763150135~hmac=256d65c7f75ec75e5f4fc82332acd931ec9a26c35436acbe8c412075f78c4fdf"
     },
     {
       "match_id": "1090553726",
