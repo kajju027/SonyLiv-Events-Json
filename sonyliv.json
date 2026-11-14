@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 9:33:43 am",
+  "updatedAt": "14/11/2026, 9:33:54 am",
   "total_matches": 11,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794672151~acl=/*~id=29358503965101160181514640629016~hmac=4e643f360a6893a4ec098c8800bd6c566e22bfe7bb252e29322ae0fcf540a1f0",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794672151~acl=/*~id=29358503965101160181514640629016~hmac=4e643f360a6893a4ec098c8800bd6c566e22bfe7bb252e29322ae0fcf540a1f0",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794672151~acl=/*~id=29358503965101160181514640629016~hmac=4e643f360a6893a4ec098c8800bd6c566e22bfe7bb252e29322ae0fcf540a1f0"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794671545~acl=/*~id=28060314352365798496964242239093~hmac=02e02bdaecff0ba949899070bec762822fa6af669d6086395e20ef57dacb1cb6",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794671545~acl=/*~id=28060314352365798496964242239093~hmac=02e02bdaecff0ba949899070bec762822fa6af669d6086395e20ef57dacb1cb6",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794671545~acl=/*~id=28060314352365798496964242239093~hmac=02e02bdaecff0ba949899070bec762822fa6af669d6086395e20ef57dacb1cb6"
     },
     {
       "match_id": "1090553928",
