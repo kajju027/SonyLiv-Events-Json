@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 6:34:34 pm",
-  "total_matches": 13,
-  "live_matches": 5,
+  "updatedAt": "14/11/2026, 6:44:45 pm",
+  "total_matches": 14,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090553929_ENG",
@@ -14,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794704486~acl=/*~id=86914979858041877768127852356427~hmac=b452da69b86de5ff71dc6fa4ea9babdb3afbe737d333f5fedd1a0c78a9f47e36",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794704486~acl=/*~id=86914979858041877768127852356427~hmac=b452da69b86de5ff71dc6fa4ea9babdb3afbe737d333f5fedd1a0c78a9f47e36",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794704486~acl=/*~id=86914979858041877768127852356427~hmac=b452da69b86de5ff71dc6fa4ea9babdb3afbe737d333f5fedd1a0c78a9f47e36"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8"
+    },
+    {
+      "match_id": "1090553929_HIN",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Pakistan vs India - Final - 14 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8"
     },
     {
       "match_id": "1090553929_TAM",
@@ -27,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8"
     },
     {
       "match_id": "1090553929_TEL",
@@ -40,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8"
     },
     {
       "match_id": "1090553929_KAN",
@@ -53,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794704550~acl=/*~id=20936009833824455495602073947950~hmac=0f9c2972ac30f9e22cb0d2a829c651d860fda44d75b7923e529df60bc6e503a9"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794705157~acl=/*~id=10192176821348021467690426327400~hmac=65e222ed9f01d8ef5d84047efa181c1a2e949ea853bc105f5304277fa0ffcfe8"
     },
     {
       "match_id": "1090553932",
@@ -97,32 +110,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090554104,
-      "event_name": "Upcoming - 5th ODI - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028889/1794518402348975_NZvsIND_5th_ODI_Promo_landscape_thumb_dated.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090554106,
-      "event_name": "Upcoming - 1st Test - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090553633,
       "event_name": "Upcoming - UFC 334 - Gane vs Hokit",
       "match_name": "",
@@ -144,6 +131,32 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090554104,
+      "event_name": "Upcoming - 5th ODI - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028889/1794518402348975_NZvsIND_5th_ODI_Promo_landscape_thumb_dated.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090554106,
+      "event_name": "Upcoming - 1st Test - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
