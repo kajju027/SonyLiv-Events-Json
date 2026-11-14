@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 1:09:56 pm",
+  "updatedAt": "14/11/2026, 1:18:00 pm",
   "total_matches": 15,
   "live_matches": 7,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71"
     },
     {
       "match_id": "1090553929_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71"
     },
     {
       "match_id": "1090553929_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71"
     },
     {
       "match_id": "1090553929_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71"
     },
     {
       "match_id": "1090553929_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71"
     },
     {
       "match_id": "1090553932_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794684975~acl=/*~id=53437678432124720719717361495380~hmac=65bd9f8a705ea9455c1c2fa11d0dc5237c388b6f55dadc5134c4113c731bdd2a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794685587~acl=/*~id=35861231077289832011625181054707~hmac=1d16624ef286933f921b501a36d7a8adc43398bafcb4939abbfc0eb052debf71"
     },
     {
       "match_id": "1090553932",
@@ -97,6 +97,19 @@
       "video_url": "?hdnea=exp=1794682252~acl=/*~id=33185627809825970864900808217612~hmac=3975c799a6fb2160bb12807f3507471d53d76494ec1ae61ca0f1141f4c50610b"
     },
     {
+      "match_id": 1090553650,
+      "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028983/1794593108406911_UNL_Portugal_vs_Denmark_Promo_landscape_thumb_tonight.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090552650,
       "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
       "match_name": "",
@@ -105,19 +118,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090553650,
-      "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028983/1794592051508911_UNL_Portugal_vs_Denmark_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
