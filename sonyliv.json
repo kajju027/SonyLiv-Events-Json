@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 9:37:54 pm",
-  "total_matches": 9,
-  "live_matches": 1,
+  "updatedAt": "14/11/2026, 9:38:56 pm",
+  "total_matches": 10,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090553933_ENG",
+      "event_name": "UEFA Nations League 2026-27",
+      "match_name": "Kosovo vs Israel - 14 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793268731743871_UNL26_MD5_Kosovo-vs-Israel_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714878~acl=/*~id=58676787278066344356899475788306~hmac=cf356b8dcd07e1515121263c0c54820f8916f50f61399b24c0c80110da2ea3f9",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714878~acl=/*~id=58676787278066344356899475788306~hmac=cf356b8dcd07e1515121263c0c54820f8916f50f61399b24c0c80110da2ea3f9",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714878~acl=/*~id=58676787278066344356899475788306~hmac=cf356b8dcd07e1515121263c0c54820f8916f50f61399b24c0c80110da2ea3f9"
+    },
     {
       "match_id": "1090553933",
       "event_name": "UEFA Nations League 2026-27",
