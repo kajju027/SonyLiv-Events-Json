@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 2:49:54 pm",
-  "total_matches": 15,
-  "live_matches": 7,
+  "updatedAt": "14/11/2026, 3:00:06 pm",
+  "total_matches": 14,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090553929_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8"
     },
     {
       "match_id": "1090553929_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8"
     },
     {
       "match_id": "1090553929_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8"
     },
     {
       "match_id": "1090553929_TEL",
@@ -53,22 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962"
-    },
-    {
-      "match_id": "1090553929_KAN",
-      "event_name": "ACC Men's U19 Asia Cup 2026",
-      "match_name": "Pakistan vs India - Final - 14 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8"
     },
     {
       "match_id": "1090553932_ENG",
@@ -79,9 +66,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398873589427_DP_World_Tour_Championship_Dubai_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691099~acl=/*~id=81924540918293228310351078643516~hmac=047ae1e2429129c6874385cdf89e10628e267e83d5787e69fa973c99d2d50962"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Golf_DPW1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794691715~acl=/*~id=90934518343046253167136962893062~hmac=1c8767f404acdd8ca28ba796c224dba33219cbec70835e32d9b822e77083b3a8"
     },
     {
       "match_id": "1090553932",
