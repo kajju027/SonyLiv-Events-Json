@@ -1,10 +1,75 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 9:44:18 am",
-  "total_matches": 11,
-  "live_matches": 2,
+  "updatedAt": "14/11/2026, 9:54:22 am",
+  "total_matches": 15,
+  "live_matches": 7,
   "matches": [
+    {
+      "match_id": "1090553929_ENG",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Pakistan vs India - Final - 14 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311"
+    },
+    {
+      "match_id": "1090553929_HIN",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Pakistan vs India - Final - 14 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311"
+    },
+    {
+      "match_id": "1090553929_TAM",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Pakistan vs India - Final - 14 Nov 2026 [TAM]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311"
+    },
+    {
+      "match_id": "1090553929_TEL",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Pakistan vs India - Final - 14 Nov 2026 [TEL]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311"
+    },
+    {
+      "match_id": "1090553929_KAN",
+      "event_name": "ACC Men's U19 Asia Cup 2026",
+      "match_name": "Pakistan vs India - Final - 14 Nov 2026 [KAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028883/1794508714132577_ACC_U19_FINAL_PAK_vs_IND_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311"
+    },
     {
       "match_id": "1090553928_ENG",
       "event_name": "Asian Tour 2026",
@@ -14,9 +79,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887700360295_ASIANTOUR2026_Philippine_Open_Day3_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794672757~acl=/*~id=39654895892371004545578674124214~hmac=70a9c0c473faa138bfb48fcd0bf2cbd44814095a91a35f8dfb42505de47f1afb",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794672757~acl=/*~id=39654895892371004545578674124214~hmac=70a9c0c473faa138bfb48fcd0bf2cbd44814095a91a35f8dfb42505de47f1afb",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794672757~acl=/*~id=39654895892371004545578674124214~hmac=70a9c0c473faa138bfb48fcd0bf2cbd44814095a91a35f8dfb42505de47f1afb"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Golf_Phi1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794673364~acl=/*~id=65834811098606931740784566138698~hmac=55ba6cd5b2ee74e28bbb7c6f9fe469db5ea10ef1cf3c142d3231661449f4c311"
     },
     {
       "match_id": "1090553928",
@@ -30,19 +95,6 @@
       "dai_url": "?hdnea=exp=1794666049~acl=/*~id=24884431146030641170212701257412~hmac=908886d31cf7aa7da5efd1157e8c95f9ff5bcb4c784bbb6659d93a500d0d2f42",
       "pub_url": "?hdnea=exp=1794666049~acl=/*~id=24884431146030641170212701257412~hmac=908886d31cf7aa7da5efd1157e8c95f9ff5bcb4c784bbb6659d93a500d0d2f42",
       "video_url": "?hdnea=exp=1794666049~acl=/*~id=24884431146030641170212701257412~hmac=908886d31cf7aa7da5efd1157e8c95f9ff5bcb4c784bbb6659d93a500d0d2f42"
-    },
-    {
-      "match_id": 1090554060,
-      "event_name": "Upcoming - Pakistan vs India - Final - ACC Men's U19 Asia Cup 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028886/1794510102701368_ACC_U19_FINAL_PAK_vs_IND_Promo_landscape_thumb_today.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
     },
     {
       "match_id": 1090552650,
