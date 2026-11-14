@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 3:31:59 am",
-  "total_matches": 10,
-  "live_matches": 0,
+  "updatedAt": "15/11/2026, 5:10:49 am",
+  "total_matches": 11,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090554243_ENG",
+      "event_name": "UFC 334 - Gane vs Hokit",
+      "match_name": "UFC 334 - Gane vs Hokit - 15 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794742746~acl=/*~id=48727370996000886411834554691401~hmac=26bb88877b1e33cc50f4ef7b90d2f359b19b5a22efa6762eaf33655288c85d32",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794742746~acl=/*~id=48727370996000886411834554691401~hmac=26bb88877b1e33cc50f4ef7b90d2f359b19b5a22efa6762eaf33655288c85d32",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794742746~acl=/*~id=48727370996000886411834554691401~hmac=26bb88877b1e33cc50f4ef7b90d2f359b19b5a22efa6762eaf33655288c85d32"
+    },
     {
       "match_id": 1090552650,
       "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
