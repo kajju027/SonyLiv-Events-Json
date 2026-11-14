@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/11/2026, 9:06:53 pm",
+  "updatedAt": "14/11/2026, 9:17:10 pm",
   "total_matches": 10,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793268731743871_UNL26_MD5_Kosovo-vs-Israel_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794713667~acl=/*~id=43019403878719459898123980940855~hmac=8a6d40dda8a86c3852a430f733f1d27360ea104eba458d151e62ae85384ee154",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794713667~acl=/*~id=43019403878719459898123980940855~hmac=8a6d40dda8a86c3852a430f733f1d27360ea104eba458d151e62ae85384ee154",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794713667~acl=/*~id=43019403878719459898123980940855~hmac=8a6d40dda8a86c3852a430f733f1d27360ea104eba458d151e62ae85384ee154"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714272~acl=/*~id=39507543996551795988006684544244~hmac=de1fd048420ff695a9147c5ddbf8a2b63056ff4a06354c1607020c01aca84afb",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714272~acl=/*~id=39507543996551795988006684544244~hmac=de1fd048420ff695a9147c5ddbf8a2b63056ff4a06354c1607020c01aca84afb",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794714272~acl=/*~id=39507543996551795988006684544244~hmac=de1fd048420ff695a9147c5ddbf8a2b63056ff4a06354c1607020c01aca84afb"
     },
     {
       "match_id": "1090553933",
@@ -71,19 +71,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090552952,
-      "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090554104,
       "event_name": "Upcoming - 5th ODI - India Tour Of New Zealand 2026",
       "match_name": "",
@@ -105,6 +92,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028925/1794557644318754_NZvsIND_1st_test_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090552952,
+      "event_name": "Upcoming - India vs Pakistan - DP World Asia Cup Rising Stars Men's 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028505/1794004461534683_ACC_Rising_Stars_Promo_Dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
