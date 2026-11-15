@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 5:54:32 pm",
+  "updatedAt": "15/11/2026, 6:03:36 pm",
   "total_matches": 10,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794788563~acl=/*~id=64482970728928567462635716615465~hmac=49d5a08d268f325ae9ffe48bb319db7ddd1fbd8a44ae65663ec13a58056458f0",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794788563~acl=/*~id=64482970728928567462635716615465~hmac=49d5a08d268f325ae9ffe48bb319db7ddd1fbd8a44ae65663ec13a58056458f0",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794788563~acl=/*~id=64482970728928567462635716615465~hmac=49d5a08d268f325ae9ffe48bb319db7ddd1fbd8a44ae65663ec13a58056458f0"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794789168~acl=/*~id=87195519840778695218626912795256~hmac=6a015101eaeed2dfc046d4217fece21d1cb603071ca56edf23121e3e3658d281",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794789168~acl=/*~id=87195519840778695218626912795256~hmac=6a015101eaeed2dfc046d4217fece21d1cb603071ca56edf23121e3e3658d281",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Golf_DPW1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794789168~acl=/*~id=87195519840778695218626912795256~hmac=6a015101eaeed2dfc046d4217fece21d1cb603071ca56edf23121e3e3658d281"
     },
     {
       "match_id": "1090554163",
