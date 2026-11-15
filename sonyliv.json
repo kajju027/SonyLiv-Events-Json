@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 11:47:08 am",
+  "updatedAt": "15/11/2026, 11:52:16 am",
   "total_matches": 18,
   "live_matches": 10,
   "matches": [
@@ -97,19 +97,6 @@
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794766549~acl=/*~id=51227140144178421126177470286338~hmac=43cbe129b16addcf3ff6b70f9f7eabed657268e58c2c2bc0bc9b166e86e8f78c"
     },
     {
-      "match_id": "1090554243",
-      "event_name": "UFC 334 - Gane vs Hokit",
-      "match_name": "UFC 334 - Gane vs Hokit | UFC 334 - Gane vs Hokit [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794743450~acl=/*~id=29228859931519925852009357526667~hmac=3e35846a7c70795b01a0615930a2487f2b5be17097eb2b4e1ab102fb20e3e826",
-      "pub_url": "?hdnea=exp=1794743450~acl=/*~id=29228859931519925852009357526667~hmac=3e35846a7c70795b01a0615930a2487f2b5be17097eb2b4e1ab102fb20e3e826",
-      "video_url": "?hdnea=exp=1794743450~acl=/*~id=29228859931519925852009357526667~hmac=3e35846a7c70795b01a0615930a2487f2b5be17097eb2b4e1ab102fb20e3e826"
-    },
-    {
       "match_id": "1090554161",
       "event_name": "India Tour of New Zealand 2026",
       "match_name": "5th ODI | India Tour of New Zealand 2026 [ENGLISH]",
@@ -121,6 +108,19 @@
       "dai_url": "?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342",
       "pub_url": "?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342",
       "video_url": "?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342"
+    },
+    {
+      "match_id": "1090554163",
+      "event_name": "DP World Tour",
+      "match_name": "DP World Tour Championship, Dubai - Day 4 | DP World Tour [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794766849~acl=/*~id=22282584142267020466311914481196~hmac=1ab643140c261a9b4e450d49121df98001a0f68946504c951f8ff7a2bfaaaab7",
+      "pub_url": "?hdnea=exp=1794766849~acl=/*~id=22282584142267020466311914481196~hmac=1ab643140c261a9b4e450d49121df98001a0f68946504c951f8ff7a2bfaaaab7",
+      "video_url": "?hdnea=exp=1794766849~acl=/*~id=22282584142267020466311914481196~hmac=1ab643140c261a9b4e450d49121df98001a0f68946504c951f8ff7a2bfaaaab7"
     },
     {
       "match_id": "1090554158",
