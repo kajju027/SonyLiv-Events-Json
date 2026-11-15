@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 6:54:54 pm",
-  "total_matches": 12,
-  "live_matches": 4,
+  "updatedAt": "15/11/2026, 6:54:59 pm",
+  "total_matches": 10,
+  "live_matches": 2,
   "matches": [
-    {
-      "match_id": "1090554015_ENG",
-      "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Latvia vs Armenia - 15 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794792192~acl=/*~id=96035672305079919435366491895576~hmac=5229056171c268bb20d41d7512625bce4cce0bc09cea42aa0feb55d9cb80b6d7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794792192~acl=/*~id=96035672305079919435366491895576~hmac=5229056171c268bb20d41d7512625bce4cce0bc09cea42aa0feb55d9cb80b6d7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794792192~acl=/*~id=96035672305079919435366491895576~hmac=5229056171c268bb20d41d7512625bce4cce0bc09cea42aa0feb55d9cb80b6d7"
-    },
-    {
-      "match_id": "1090554016_ENG",
-      "event_name": "UEFA Nations League 2026-27",
-      "match_name": "Cyprus vs Montenegro - 15 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794792192~acl=/*~id=96035672305079919435366491895576~hmac=5229056171c268bb20d41d7512625bce4cce0bc09cea42aa0feb55d9cb80b6d7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794792192~acl=/*~id=96035672305079919435366491895576~hmac=5229056171c268bb20d41d7512625bce4cce0bc09cea42aa0feb55d9cb80b6d7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794792192~acl=/*~id=96035672305079919435366491895576~hmac=5229056171c268bb20d41d7512625bce4cce0bc09cea42aa0feb55d9cb80b6d7"
-    },
     {
       "match_id": "1090554015",
       "event_name": "UEFA Nations League 2026-27",
