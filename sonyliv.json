@@ -1,75 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 6:10:09 am",
-  "total_matches": 15,
-  "live_matches": 7,
+  "updatedAt": "15/11/2026, 6:11:31 am",
+  "total_matches": 11,
+  "live_matches": 2,
   "matches": [
-    {
-      "match_id": "1090554160_ENG",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI - 15 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7"
-    },
-    {
-      "match_id": "1090554160_HIN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI - 15 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7"
-    },
-    {
-      "match_id": "1090554160_TAM",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI - 15 Nov 2026 [TAM]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7"
-    },
-    {
-      "match_id": "1090554160_TEL",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI - 15 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7"
-    },
-    {
-      "match_id": "1090554160_KAN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI - 15 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7"
-    },
     {
       "match_id": "1090554243_ENG",
       "event_name": "UFC 334 - Gane vs Hokit",
@@ -79,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794746376~acl=/*~id=28968224173283901518106949249074~hmac=d6f3856e9d97323e06ca695cb9925c954e52d6319f38800924899e1e2ae6efe7"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794745770~acl=/*~id=30326711243809449827227885392840~hmac=dbe125717bb17487fd8cb1f3cfd1a1036034c63670706b2cbd115819e38523c9",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794745770~acl=/*~id=30326711243809449827227885392840~hmac=dbe125717bb17487fd8cb1f3cfd1a1036034c63670706b2cbd115819e38523c9",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794745770~acl=/*~id=30326711243809449827227885392840~hmac=dbe125717bb17487fd8cb1f3cfd1a1036034c63670706b2cbd115819e38523c9"
     },
     {
       "match_id": "1090554243",
@@ -105,6 +40,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090554104,
+      "event_name": "Upcoming - 5th ODI - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028889/1794518407838975_NZvsIND_5th_ODI_Promo_landscape_thumb_today.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
