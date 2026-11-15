@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 7:21:28 am",
-  "total_matches": 16,
-  "live_matches": 8,
+  "updatedAt": "15/11/2026, 7:22:50 am",
+  "total_matches": 15,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090554160_ENG",
@@ -95,19 +95,6 @@
       "dai_url": "?hdnea=exp=1794743450~acl=/*~id=29228859931519925852009357526667~hmac=3e35846a7c70795b01a0615930a2487f2b5be17097eb2b4e1ab102fb20e3e826",
       "pub_url": "?hdnea=exp=1794743450~acl=/*~id=29228859931519925852009357526667~hmac=3e35846a7c70795b01a0615930a2487f2b5be17097eb2b4e1ab102fb20e3e826",
       "video_url": "?hdnea=exp=1794743450~acl=/*~id=29228859931519925852009357526667~hmac=3e35846a7c70795b01a0615930a2487f2b5be17097eb2b4e1ab102fb20e3e826"
-    },
-    {
-      "match_id": "1090554161",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI | India Tour of New Zealand 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342",
-      "pub_url": "?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342",
-      "video_url": "?hdnea=exp=1794750655~acl=/*~id=45577059795063177253236564546996~hmac=b42a889d2ecc0257653da73fdff76e700727ea5be1aa165a20877b8e09094342"
     },
     {
       "match_id": 1090552650,
