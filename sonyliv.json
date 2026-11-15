@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 8:38:16 am",
+  "updatedAt": "15/11/2026, 8:43:24 am",
   "total_matches": 18,
   "live_matches": 10,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_1411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2"
     },
     {
       "match_id": "1090554160_HIN",
@@ -27,35 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246"
-    },
-    {
-      "match_id": "1090554160_TEL",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI - 15 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246"
-    },
-    {
-      "match_id": "1090554160_KAN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "5th ODI - 15 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_1411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2"
     },
     {
       "match_id": "1090554160_TAM",
@@ -66,9 +40,35 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/master.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_1411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2"
+    },
+    {
+      "match_id": "1090554160_TEL",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "5th ODI - 15 Nov 2026 [TEL]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_1411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2"
+    },
+    {
+      "match_id": "1090554160_KAN",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "5th ODI - 15 Nov 2026 [KAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029027/1794655981421358_NZvsIND_5th_ODI_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_1411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2"
     },
     {
       "match_id": "1090554243_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028975/1794577928244764_UFC-334_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/UFC_UFC31411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2"
     },
     {
       "match_id": "1090554158_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887707419295_ASIANTOUR2026_Philippine_Open_Day4_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794754936~acl=/*~id=90964181203954258114101227469240~hmac=07f7eb0d2451abe66439eeb0d9e04df4bede19ed19b9f43b3c2ae875b7eba246"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Golf_Phi1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794755544~acl=/*~id=97361326000857543519529823917249~hmac=57ffd5227ef2530f1a6fb7827787fa58e450be0f1f448a5e5bdf0c88e31075c2"
     },
     {
       "match_id": "1090554243",
