@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/11/2026, 9:06:22 pm",
+  "updatedAt": "15/11/2026, 9:16:33 pm",
   "total_matches": 12,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800675~acl=/*~id=86218205375329787440444692762442~hmac=b68403031fcbdf497e05f00c819e7c29c90c7aaea89b7d2d58762fe5da69c9d2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800675~acl=/*~id=86218205375329787440444692762442~hmac=b68403031fcbdf497e05f00c819e7c29c90c7aaea89b7d2d58762fe5da69c9d2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800675~acl=/*~id=86218205375329787440444692762442~hmac=b68403031fcbdf497e05f00c819e7c29c90c7aaea89b7d2d58762fe5da69c9d2"
     },
     {
       "match_id": "1090554016_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800069~acl=/*~id=29465163329967844804533043333798~hmac=8586b574e1b1d46c4c322bdf01d6605ad2360b6d6f54f705b65d2ee987e4cf4a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800675~acl=/*~id=86218205375329787440444692762442~hmac=b68403031fcbdf497e05f00c819e7c29c90c7aaea89b7d2d58762fe5da69c9d2",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800675~acl=/*~id=86218205375329787440444692762442~hmac=b68403031fcbdf497e05f00c819e7c29c90c7aaea89b7d2d58762fe5da69c9d2",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive1511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794800675~acl=/*~id=86218205375329787440444692762442~hmac=b68403031fcbdf497e05f00c819e7c29c90c7aaea89b7d2d58762fe5da69c9d2"
     },
     {
       "match_id": "1090554015",
