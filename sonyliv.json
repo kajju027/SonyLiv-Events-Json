@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/11/2026, 7:55:55 pm",
-  "total_matches": 8,
-  "live_matches": 2,
+  "updatedAt": "16/11/2026, 8:01:00 pm",
+  "total_matches": 10,
+  "live_matches": 4,
   "matches": [
+    {
+      "match_id": "1090554435_ENG",
+      "event_name": "UEFA Nations League 2026-27",
+      "match_name": "Faroe Islands vs Moldova - 16 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794882453~acl=/*~id=22349467050312669519032925413358~hmac=eeec47e13ae526013593b2cd7db5d78719ae6fe48b300fa80dc45c60e78bc732",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794882453~acl=/*~id=22349467050312669519032925413358~hmac=eeec47e13ae526013593b2cd7db5d78719ae6fe48b300fa80dc45c60e78bc732",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794882453~acl=/*~id=22349467050312669519032925413358~hmac=eeec47e13ae526013593b2cd7db5d78719ae6fe48b300fa80dc45c60e78bc732"
+    },
+    {
+      "match_id": "1090554453_ENG",
+      "event_name": "UEFA Nations League 2026-27",
+      "match_name": "Kazakhstan vs Slovakia - 16 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794882453~acl=/*~id=22349467050312669519032925413358~hmac=eeec47e13ae526013593b2cd7db5d78719ae6fe48b300fa80dc45c60e78bc732",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794882453~acl=/*~id=22349467050312669519032925413358~hmac=eeec47e13ae526013593b2cd7db5d78719ae6fe48b300fa80dc45c60e78bc732",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794882453~acl=/*~id=22349467050312669519032925413358~hmac=eeec47e13ae526013593b2cd7db5d78719ae6fe48b300fa80dc45c60e78bc732"
+    },
     {
       "match_id": "1090554435",
       "event_name": "UEFA Nations League 2026-27",
