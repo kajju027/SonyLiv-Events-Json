@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/11/2026, 10:51:52 pm",
-  "total_matches": 12,
-  "live_matches": 6,
+  "updatedAt": "16/11/2026, 11:02:05 pm",
+  "total_matches": 13,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090554490_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb"
     },
     {
       "match_id": "1090554494_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb"
     },
     {
       "match_id": "1090554495_ENG",
@@ -40,9 +40,22 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794892772~acl=/*~id=76327164473546224412503789702932~hmac=08ac68478a857d0a3987eaaeea1a7b314a9464cd25c6608cd433c1cf62413981"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb"
+    },
+    {
+      "match_id": "1090554514_ENG",
+      "event_name": "UEFA International Friendlies",
+      "match_name": "Andorra vs Azerbaijan - 16 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029081/1794699615115191_INT_Friendlies26_Andorra_vs_Azerbaijan_live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794893378~acl=/*~id=07325745948234344767948133894657~hmac=ada89e7470987f39d002df91ee403cf179648037e0efc06b820406b55b8b2dfb"
     },
     {
       "match_id": "1090554490",
