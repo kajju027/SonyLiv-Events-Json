@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/11/2026, 9:20:05 pm",
+  "updatedAt": "16/11/2026, 9:22:01 pm",
   "total_matches": 10,
   "live_matches": 4,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794886704~acl=/*~id=35276917189148408715597251443364~hmac=e35b582de64573d6fb19f5741e5c1c7da77fda4ed5bdce767773974c9bc828de",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794886704~acl=/*~id=35276917189148408715597251443364~hmac=e35b582de64573d6fb19f5741e5c1c7da77fda4ed5bdce767773974c9bc828de",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794886704~acl=/*~id=35276917189148408715597251443364~hmac=e35b582de64573d6fb19f5741e5c1c7da77fda4ed5bdce767773974c9bc828de"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887310~acl=/*~id=27736279504139465929492126951428~hmac=0ece8247ba2a028442abe26b308950be80e2431bffa0ed357532ea8f6bf5a885",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887310~acl=/*~id=27736279504139465929492126951428~hmac=0ece8247ba2a028442abe26b308950be80e2431bffa0ed357532ea8f6bf5a885",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887310~acl=/*~id=27736279504139465929492126951428~hmac=0ece8247ba2a028442abe26b308950be80e2431bffa0ed357532ea8f6bf5a885"
     },
     {
       "match_id": "1090554453_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794886704~acl=/*~id=35276917189148408715597251443364~hmac=e35b582de64573d6fb19f5741e5c1c7da77fda4ed5bdce767773974c9bc828de",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794886704~acl=/*~id=35276917189148408715597251443364~hmac=e35b582de64573d6fb19f5741e5c1c7da77fda4ed5bdce767773974c9bc828de",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794886704~acl=/*~id=35276917189148408715597251443364~hmac=e35b582de64573d6fb19f5741e5c1c7da77fda4ed5bdce767773974c9bc828de"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887310~acl=/*~id=27736279504139465929492126951428~hmac=0ece8247ba2a028442abe26b308950be80e2431bffa0ed357532ea8f6bf5a885",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887310~acl=/*~id=27736279504139465929492126951428~hmac=0ece8247ba2a028442abe26b308950be80e2431bffa0ed357532ea8f6bf5a885",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive1611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794887310~acl=/*~id=27736279504139465929492126951428~hmac=0ece8247ba2a028442abe26b308950be80e2431bffa0ed357532ea8f6bf5a885"
     },
     {
       "match_id": "1090554435",
@@ -78,7 +78,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029203/1794826034235474_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029217/1794841912496711_NZvsIND_1st_test_day1_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
