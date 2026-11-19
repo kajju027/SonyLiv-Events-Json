@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/11/2026, 3:05:29 pm",
-  "total_matches": 8,
-  "live_matches": 1,
+  "updatedAt": "19/11/2026, 3:15:40 pm",
+  "total_matches": 9,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090554810_ENG",
+      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+      "match_name": "Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70"
+    },
     {
       "match_id": "1090554805_ENG",
       "event_name": "ACC Men's Asia Cup Rising Stars 2026",
@@ -14,22 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029365/1795067857037235_ACRS26_BANvsHKC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795123715~acl=/*~id=85327534176992513407658426133807~hmac=340b526643b1a95bef7f587859e2f9163ea32775c9e3cf3a885abfee62a97d8b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795123715~acl=/*~id=85327534176992513407658426133807~hmac=340b526643b1a95bef7f587859e2f9163ea32775c9e3cf3a885abfee62a97d8b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795123715~acl=/*~id=85327534176992513407658426133807~hmac=340b526643b1a95bef7f587859e2f9163ea32775c9e3cf3a885abfee62a97d8b"
-    },
-    {
-      "match_id": 1090552650,
-      "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029292/1794982400882962_AsiaCup_Rising_Star_Sri-A_vs_Afg-A_Today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795124320~acl=/*~id=11217918928036380812071625224481~hmac=d09ea749e9e7fd5d022ca7f8bcee3c3e0d2dbec85a307afb53180f702ffafe70"
     },
     {
       "match_id": 1090554758,
@@ -66,6 +66,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029233/1794889581849702_Asia_Cup_Ind_vs_Pak_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090552650,
+      "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
