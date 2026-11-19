@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/11/2026, 7:05:52 pm",
+  "updatedAt": "19/11/2026, 7:16:06 pm",
   "total_matches": 8,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795138267~acl=/*~id=60820861756698157376323868100464~hmac=3be2f5ce88775f849badd0d1ecbdd05dcffac55ad46737affbd601e9aaee5ff7",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795138267~acl=/*~id=60820861756698157376323868100464~hmac=3be2f5ce88775f849badd0d1ecbdd05dcffac55ad46737affbd601e9aaee5ff7",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795138267~acl=/*~id=60820861756698157376323868100464~hmac=3be2f5ce88775f849badd0d1ecbdd05dcffac55ad46737affbd601e9aaee5ff7"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795138873~acl=/*~id=19919834813248042421416216637530~hmac=c45794eab3e05d3e53e907b97e3cf63f45bcaa0cdfae15274c0090e56404d64d",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795138873~acl=/*~id=19919834813248042421416216637530~hmac=c45794eab3e05d3e53e907b97e3cf63f45bcaa0cdfae15274c0090e56404d64d",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795138873~acl=/*~id=19919834813248042421416216637530~hmac=c45794eab3e05d3e53e907b97e3cf63f45bcaa0cdfae15274c0090e56404d64d"
     },
     {
       "match_id": 1090554758,
