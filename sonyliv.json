@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/11/2026, 8:38:36 pm",
-  "total_matches": 15,
-  "live_matches": 1,
+  "updatedAt": "19/11/2026, 8:43:46 pm",
+  "total_matches": 14,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090554810_ENG",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs Afghanistan A - 19 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029388/1795079673412862_ACRS26_SLvsAFG_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795143723~acl=/*~id=37580036248595879772043081055175~hmac=71af86c3974427f5214bebdcf98d7b2784148a602e13e47044f4d3f33bd217eb",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795143723~acl=/*~id=37580036248595879772043081055175~hmac=71af86c3974427f5214bebdcf98d7b2784148a602e13e47044f4d3f33bd217eb",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive1911/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795143723~acl=/*~id=37580036248595879772043081055175~hmac=71af86c3974427f5214bebdcf98d7b2784148a602e13e47044f4d3f33bd217eb"
-    },
     {
       "match_id": 1090554758,
       "event_name": "Upcoming - India A vs Nepal - DP World Asia Cup Rising Stars Men's 2026",
