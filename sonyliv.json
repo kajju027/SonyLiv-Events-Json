@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/11/2026, 7:42:23 pm",
-  "total_matches": 21,
-  "live_matches": 8,
+  "updatedAt": "20/11/2026, 7:42:36 pm",
+  "total_matches": 20,
+  "live_matches": 7,
   "matches": [
     {
       "match_id": "1090555011_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f"
     },
     {
       "match_id": "1090555011_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f"
     },
     {
       "match_id": "1090555011_TAM",
@@ -40,22 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab"
-    },
-    {
-      "match_id": "1090555011_TEL",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "India A vs Nepal - 20 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f"
     },
     {
       "match_id": "1090555011_KAN",
@@ -66,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f"
     },
     {
       "match_id": "1090555014_ENG",
@@ -79,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f"
     },
     {
       "match_id": "1090555014_HIN",
@@ -92,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795227062~acl=/*~id=17004451235823228233546231719492~hmac=368d1a8511afdc97b50c75dd9d378fa4085b61ba9992e971f343c7b1d41523ab"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795226415~acl=/*~id=93028210512350904009402122108616~hmac=4ab0b274f05cc39f9dd02e0815a01853fe0f2f0ddfe47f8385c83785a019be5f"
     },
     {
       "match_id": "1090555014",
@@ -117,7 +104,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029492/1795181314712618_ACRS26_INDvsPAK_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029172/1794766062920497_ACC_Rising_Stars_India_vs_Pakistan_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
