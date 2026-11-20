@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/11/2026, 4:20:35 pm",
-  "total_matches": 22,
-  "live_matches": 9,
+  "updatedAt": "20/11/2026, 4:25:43 pm",
+  "total_matches": 23,
+  "live_matches": 10,
   "matches": [
     {
       "match_id": "1090555011_ENG",
@@ -121,6 +121,19 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
+    },
+    {
+      "match_id": "1090555013",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "East Bengal FC vs Sporting Club Delhi | MG Indian Super League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1795215075~acl=/*~id=62421438453737153929794132285094~hmac=a584e86ca92f1baa9fa38fe2261e99f74604b055bd7461e0d2fa8f3ae89a7cf6",
+      "pub_url": "?hdnea=exp=1795215075~acl=/*~id=62421438453737153929794132285094~hmac=a584e86ca92f1baa9fa38fe2261e99f74604b055bd7461e0d2fa8f3ae89a7cf6",
+      "video_url": "?hdnea=exp=1795215075~acl=/*~id=62421438453737153929794132285094~hmac=a584e86ca92f1baa9fa38fe2261e99f74604b055bd7461e0d2fa8f3ae89a7cf6"
     },
     {
       "match_id": 1090554767,
