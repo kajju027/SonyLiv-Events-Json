@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/11/2026, 4:10:24 pm",
+  "updatedAt": "20/11/2026, 4:20:35 pm",
   "total_matches": 22,
   "live_matches": 9,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555011_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555011_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2011/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555011_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2011/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555011_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029418/1795109522697691_ACRS_India_A_vs_Nepal_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555008_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029419/1795110984337206_ACRS_PAK_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Criclive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555013_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2011/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555013_HIN",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2011/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": "1090555013_BEN",
@@ -118,9 +118,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "BEN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029333/1794695810000511_ISL26_EBFC_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214209~acl=/*~id=83921204213975989373712994799150~hmac=f13f0586368f27c91e701503e1037f3412dd76ef5814d9c2448ed1180b37545e"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2011/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795214817~acl=/*~id=10449215846412396715225671287051~hmac=62de6e9da5bc12459975daa8c36d65e47297f9102574dc54e67239538e0eda85"
     },
     {
       "match_id": 1090554767,
