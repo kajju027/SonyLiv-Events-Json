@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/11/2026, 10:25:16 pm",
-  "total_matches": 14,
-  "live_matches": 1,
+  "updatedAt": "20/11/2026, 10:25:25 pm",
+  "total_matches": 13,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090555014",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Bengaluru FC vs Mumbai City FC | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029334/1794691072000564_ISL26_Bengaluru_FC_vs_Mumbai_City_FC_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1795225854~acl=/*~id=87823121889697488567454630790877~hmac=69da7916dc99bacee44ab73a76e94ac71e2508921e28592b0d63bf7a297ca400",
-      "pub_url": "?hdnea=exp=1795225854~acl=/*~id=87823121889697488567454630790877~hmac=69da7916dc99bacee44ab73a76e94ac71e2508921e28592b0d63bf7a297ca400",
-      "video_url": "?hdnea=exp=1795225854~acl=/*~id=87823121889697488567454630790877~hmac=69da7916dc99bacee44ab73a76e94ac71e2508921e28592b0d63bf7a297ca400"
-    },
     {
       "match_id": 1090554767,
       "event_name": "Upcoming - India A vs Pakistan Shaheens - DP World Asia Cup Rising Stars Men's 2026",
