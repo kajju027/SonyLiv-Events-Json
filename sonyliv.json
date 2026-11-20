@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/11/2026, 3:50:25 am",
-  "total_matches": 20,
-  "live_matches": 5,
+  "updatedAt": "21/11/2026, 3:55:32 am",
+  "total_matches": 21,
+  "live_matches": 6,
   "matches": [
     {
       "match_id": "1090555319_ENG",
@@ -69,6 +69,19 @@
       "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795256191~acl=/*~id=96911917592800818370328090869080~hmac=d0aabcf6efc834365a2d1ff06d05cda6846be29095a87ec9e697fcab9538ef39",
       "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795256191~acl=/*~id=96911917592800818370328090869080~hmac=d0aabcf6efc834365a2d1ff06d05cda6846be29095a87ec9e697fcab9538ef39",
       "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2011/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795256191~acl=/*~id=96911917592800818370328090869080~hmac=d0aabcf6efc834365a2d1ff06d05cda6846be29095a87ec9e697fcab9538ef39"
+    },
+    {
+      "match_id": "1090555325",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "1st Test - Day 3 | India Tour of New Zealand 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795086043304996_NZvsIND_1st_Test_Day3_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f",
+      "pub_url": "?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f",
+      "video_url": "?hdnea=exp=1795256449~acl=/*~id=23774108095885234202984716157965~hmac=9d981f66eeadcadcb49e68ddc3656e6d86c540e0c6f4e8a34a98eb5a4611933f"
     },
     {
       "match_id": 1090554767,
