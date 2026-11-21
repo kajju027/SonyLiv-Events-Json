@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/11/2026, 2:08:25 pm",
+  "updatedAt": "21/11/2026, 2:18:41 pm",
   "total_matches": 16,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293256~acl=/*~id=85458181609780946460828929652105~hmac=adf791df459ce13037451e159cbd74f0602b9b679fa3c939e4dcbd5aff744bc4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293256~acl=/*~id=85458181609780946460828929652105~hmac=adf791df459ce13037451e159cbd74f0602b9b679fa3c939e4dcbd5aff744bc4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293256~acl=/*~id=85458181609780946460828929652105~hmac=adf791df459ce13037451e159cbd74f0602b9b679fa3c939e4dcbd5aff744bc4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293861~acl=/*~id=03209010242744482316897217863697~hmac=cb1c1dbecc7ac294d9db84add14ea4881c21adcd36b449e6ab223fe624743d7c",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293861~acl=/*~id=03209010242744482316897217863697~hmac=cb1c1dbecc7ac294d9db84add14ea4881c21adcd36b449e6ab223fe624743d7c",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795293861~acl=/*~id=03209010242744482316897217863697~hmac=cb1c1dbecc7ac294d9db84add14ea4881c21adcd36b449e6ab223fe624743d7c"
     },
     {
       "match_id": 1090554767,
@@ -27,19 +27,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029492/1795181314712618_ACRS26_INDvsPAK_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090555086,
-      "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -131,6 +118,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090555086,
+      "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
