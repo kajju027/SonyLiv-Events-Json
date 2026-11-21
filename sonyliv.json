@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/11/2026, 11:10:08 pm",
-  "total_matches": 21,
-  "live_matches": 6,
+  "updatedAt": "21/11/2026, 11:20:20 pm",
+  "total_matches": 20,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090555610_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
     },
     {
       "match_id": "1090555610_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
     },
     {
       "match_id": "1090555610_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
     },
     {
       "match_id": "1090555610_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
     },
     {
       "match_id": "1090555610_KAN",
@@ -66,22 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
-    },
-    {
-      "match_id": "1090555335_ENG",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795325998~acl=/*~id=90294705131252021588205068859819~hmac=76f683a35a3fdad985eacd40a80e6ab9d874844d6d4a36f7e557bc576a2e1ed6"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795326604~acl=/*~id=20672879615656214872182620109962~hmac=1ee54696c5f328b46b67d1296a5c0c3e551becaa171f534640b26b32318cda29"
     },
     {
       "match_id": 1090554767,
@@ -162,6 +149,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090555087,
+      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090554106,
       "event_name": "Upcoming - 1st Test - India Tour Of New Zealand 2026",
       "match_name": "",
@@ -235,19 +235,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090555087,
-      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
