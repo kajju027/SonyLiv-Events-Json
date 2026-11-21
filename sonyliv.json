@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/11/2026, 11:30:33 pm",
+  "updatedAt": "21/11/2026, 11:40:49 pm",
   "total_matches": 20,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
     },
     {
       "match_id": "1090555610_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/UFC_Proc2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
     },
     {
       "match_id": "1090555610_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/UFC_Proc2111/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
     },
     {
       "match_id": "1090555610_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/UFC_Proc2111/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
     },
     {
       "match_id": "1090555610_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327209~acl=/*~id=45647772752401537146038476041378~hmac=37f1df0a022fb8d6ff8ff3d684ac0cd49bf6234c909d0ca45a50e963e845ac9b"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/UFC_Proc2111/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795327816~acl=/*~id=82808198547942320587020966104419~hmac=ac7c1a726370792cbccb2e6f530d54e1bd71192d83965bb46cb93f64bcf12c57"
     },
     {
       "match_id": 1090554767,
