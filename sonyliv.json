@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/11/2026, 10:44:35 pm",
+  "updatedAt": "21/11/2026, 10:54:49 pm",
   "total_matches": 16,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324181~acl=/*~id=35451925647578734464024761383996~hmac=0a29547f5e6386427a17239dae3eff7fdc83cc4e4427184dc76b1c49e8f32bee",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324181~acl=/*~id=35451925647578734464024761383996~hmac=0a29547f5e6386427a17239dae3eff7fdc83cc4e4427184dc76b1c49e8f32bee",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324181~acl=/*~id=35451925647578734464024761383996~hmac=0a29547f5e6386427a17239dae3eff7fdc83cc4e4427184dc76b1c49e8f32bee"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324786~acl=/*~id=02595877862393386874499352918390~hmac=22ef0c55af689fdd11496ffb4dde95639adec7b8999470607084fa46be988634",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324786~acl=/*~id=02595877862393386874499352918390~hmac=22ef0c55af689fdd11496ffb4dde95639adec7b8999470607084fa46be988634",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795324786~acl=/*~id=02595877862393386874499352918390~hmac=22ef0c55af689fdd11496ffb4dde95639adec7b8999470607084fa46be988634"
     },
     {
       "match_id": 1090554767,
