@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/11/2026, 9:49:30 pm",
-  "total_matches": 22,
-  "live_matches": 8,
+  "updatedAt": "22/11/2026, 9:59:43 pm",
+  "total_matches": 19,
+  "live_matches": 5,
   "matches": [
     {
       "match_id": "1090555678_ENG",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262"
     },
     {
       "match_id": "1090555678_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262"
     },
     {
       "match_id": "1090555678_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262"
     },
     {
       "match_id": "1090555678_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262"
     },
     {
       "match_id": "1090555678_KAN",
@@ -66,48 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
-    },
-    {
-      "match_id": "1090555753_ENG",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Churchill Brothers FC vs Mohun Bagan Super Giant  - 22 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029516/1795051058000916_ISL26__Churchill_Brothers_FC_vs_Mohun_Bagan_Super_Giant_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
-    },
-    {
-      "match_id": "1090555753_HIN",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Churchill Brothers FC vs Mohun Bagan Super Giant  - 22 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029516/1795051058000916_ISL26__Churchill_Brothers_FC_vs_Mohun_Bagan_Super_Giant_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120307/Footlive2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
-    },
-    {
-      "match_id": "1090555753_BEN",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Churchill Brothers FC vs Mohun Bagan Super Giant  - 22 Nov 2026 [BEN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "BEN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029516/1795051058000916_ISL26__Churchill_Brothers_FC_vs_Mohun_Bagan_Super_Giant_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2211/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2211/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2211/BEN/std_lrh-800300010.m3u8?hdnea=exp=1795407485~acl=/*~id=66852415546277207442553509186052~hmac=fb40d4947c49113ad7a3bf2026f5fc7863e4bd51ce2cb4392e318c09f97c094d"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795408094~acl=/*~id=41268284265552159198098463661989~hmac=0c965d8d1c0c06bdd393f7b916d5920bae64fc214455524543c6d59e0dd89262"
     },
     {
       "match_id": 1090555981,
@@ -175,6 +136,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090555087,
+      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090554106,
       "event_name": "Upcoming - 1st Test - India Tour Of New Zealand 2026",
       "match_name": "",
@@ -235,19 +209,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090555087,
-      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
