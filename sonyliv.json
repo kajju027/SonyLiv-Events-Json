@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "22/11/2026, 11:11:29 pm",
+  "updatedAt": "22/11/2026, 11:21:43 pm",
   "total_matches": 19,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2211/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5"
     },
     {
       "match_id": "1090555678_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2211/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5"
     },
     {
       "match_id": "1090555678_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2211/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5"
     },
     {
       "match_id": "1090555678_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2211/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5"
     },
     {
       "match_id": "1090555678_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029507/179518385665422_AsiaCup_RisingStar_IND_vs_PAK_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412364~acl=/*~id=65877790673102822550194712371871~hmac=ea5bb2e7da461b1e95bec5b86443af49ddf792ba919734526e920907c7c202e4"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2211/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795412974~acl=/*~id=30359407648811509607454245312819~hmac=18b6bf59a4b335a95135a03307e5469e638b90b3a6e89ff7541d02fd5793d9d5"
     },
     {
       "match_id": 1090555513,
