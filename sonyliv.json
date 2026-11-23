@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/11/2026, 7:25:48 pm",
+  "updatedAt": "23/11/2026, 7:36:01 pm",
   "total_matches": 14,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795357669078765_ACRS26_SL_A_VS_BAN_A_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795485240~acl=/*~id=87384354044877592510393152435924~hmac=0a8137c21cdf714dbe4ae918eaef89dabfae6044300e78bd637cc141289de916",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795485240~acl=/*~id=87384354044877592510393152435924~hmac=0a8137c21cdf714dbe4ae918eaef89dabfae6044300e78bd637cc141289de916",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795485240~acl=/*~id=87384354044877592510393152435924~hmac=0a8137c21cdf714dbe4ae918eaef89dabfae6044300e78bd637cc141289de916"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795485846~acl=/*~id=42848481763657260837123838861640~hmac=c6fb9c54a2333931450c55f8c96d032b2c2e1fa00d5a38e33673606cac255c3d",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795485846~acl=/*~id=42848481763657260837123838861640~hmac=c6fb9c54a2333931450c55f8c96d032b2c2e1fa00d5a38e33673606cac255c3d",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795485846~acl=/*~id=42848481763657260837123838861640~hmac=c6fb9c54a2333931450c55f8c96d032b2c2e1fa00d5a38e33673606cac255c3d"
     },
     {
       "match_id": 1090555981,
