@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/11/2026, 12:14:14 pm",
+  "updatedAt": "23/11/2026, 12:21:26 pm",
   "total_matches": 14,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795356619179765_ACRS26_AFG_VS_HKC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795459184~acl=/*~id=44725980331401304765692284189931~hmac=63f29b7052ac2d43ae9a4fc7e470af3e7f51ca3a9195dd45464940bf3b6f5c51",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795459184~acl=/*~id=44725980331401304765692284189931~hmac=63f29b7052ac2d43ae9a4fc7e470af3e7f51ca3a9195dd45464940bf3b6f5c51",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795459184~acl=/*~id=44725980331401304765692284189931~hmac=63f29b7052ac2d43ae9a4fc7e470af3e7f51ca3a9195dd45464940bf3b6f5c51"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795459790~acl=/*~id=73949209281504760081180788387142~hmac=d7bd3a07eadaa15db201e02cf013367f01aa6702c33a6f656029bf582727fa36",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795459790~acl=/*~id=73949209281504760081180788387142~hmac=d7bd3a07eadaa15db201e02cf013367f01aa6702c33a6f656029bf582727fa36",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795459790~acl=/*~id=73949209281504760081180788387142~hmac=d7bd3a07eadaa15db201e02cf013367f01aa6702c33a6f656029bf582727fa36"
     },
     {
       "match_id": 1090555981,
