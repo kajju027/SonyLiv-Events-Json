@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/11/2026, 12:26:20 pm",
+  "updatedAt": "24/11/2026, 12:35:33 pm",
   "total_matches": 18,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b"
     },
     {
       "match_id": "1090556007_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b"
     },
     {
       "match_id": "1090556007_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b"
     },
     {
       "match_id": "1090556007_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b"
     },
     {
       "match_id": "1090556007_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795546421~acl=/*~id=99912907829337496556753880443505~hmac=345524d34a7ec0aaebeeea86d2ca78f1b952a327b7f3b2028f8b0c3c913b0dca"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795547029~acl=/*~id=36326447035263258143825890996832~hmac=78f62fe3ff28cbcc2b61c36bb1acf184cb35c677dc172f0f4fd5a48be74c348b"
     },
     {
       "match_id": 1090555513,
