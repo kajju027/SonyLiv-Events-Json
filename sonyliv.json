@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/11/2026, 1:26:51 pm",
+  "updatedAt": "24/11/2026, 1:36:31 pm",
   "total_matches": 18,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16"
     },
     {
       "match_id": "1090556007_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16"
     },
     {
       "match_id": "1090556007_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16"
     },
     {
       "match_id": "1090556007_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16"
     },
     {
       "match_id": "1090556007_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029712/1795394747843314_ACRS_India_A_vs_UAE_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795550075~acl=/*~id=87913340698055288364471983879807~hmac=b38277d960e35363f2ef9280c049d6132a5831833f234834bf3b1dc9d25d3143"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795550683~acl=/*~id=10920835089318498745964455783533~hmac=a68ca073f531436b1f9e8b4799cbb232e6014dbbecb789f3a399919eb1574b16"
     },
     {
       "match_id": 1090555513,
@@ -149,19 +149,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090555087,
-      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090555085,
       "event_name": "Upcoming - Matchday 5 - UEFA Champions League 2026-27",
       "match_name": "",
@@ -170,6 +157,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090555087,
+      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
