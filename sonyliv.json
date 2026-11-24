@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/11/2026, 1:47:19 am",
+  "updatedAt": "25/11/2026, 1:57:34 am",
   "total_matches": 21,
   "live_matches": 11,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094587/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556138_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018458/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556138_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2005444/Footlive2411/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556138_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2411/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556138_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2018457/Footlive2411/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556137_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795318910325444_UCL26_MD5_Man_City_vs_Napoli_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556136_ENG",
@@ -92,9 +92,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795315004894444_UCL26_MD5_Real_Madrid_vs_PSV_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120300/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556142_ENG",
@@ -105,9 +105,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330600882198_UCL26_MD5_Como_vs_Athens_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022316/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556140_ENG",
@@ -118,9 +118,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795326333966198_UCL26_MD5_RB_Leipzig_vs_RC_Lens_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120305/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556139_ENG",
@@ -131,9 +131,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320669674444_UCL26_MD5_Feyenoord_vs_Porto_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120302/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": "1090556141_ENG",
@@ -144,9 +144,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330176307198_UCL26_MD5_Bratislava_vs_Real_Betis_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795594435~acl=/*~id=73664254851559287968401876251587~hmac=1c412ebfd61e22cce9b90afec65abe6632f7bf05c170c3933794825463547438"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795595042~acl=/*~id=66278142429029279174165345834950~hmac=030c9fadfd5cbdf4d959ba7ab9cc0c7c6c146651b28aefbba5972e163aa906b0"
     },
     {
       "match_id": 1090555667,
