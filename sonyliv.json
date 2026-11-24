@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "24/11/2026, 7:36:00 pm",
+  "updatedAt": "24/11/2026, 7:46:22 pm",
   "total_matches": 16,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Footlive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0"
     },
     {
       "match_id": "1090556049_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/Footlive2411/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0"
     },
     {
       "match_id": "1090556042_ENG",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795571993~acl=/*~id=59407602449005213657450172010215~hmac=b21ecadf5121af9f52ec733380638114810c36bcb76015dec932848385e26b80"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Criclive2411/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795572601~acl=/*~id=59089083341947891574144056922327~hmac=8f21aaab7923f03b844bedf69c68095e7cd9bcf33c8d9896dbcea013f541cfa0"
     },
     {
       "match_id": 1090555513,
