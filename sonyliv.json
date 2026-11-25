@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/11/2026, 10:49:08 pm",
+  "updatedAt": "25/11/2026, 10:59:22 pm",
   "total_matches": 17,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343521422198_UCL26_MD5_Sabah_FC_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037139/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
     },
     {
       "match_id": "1090556293_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343521422198_UCL26_MD5_Sabah_FC_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/footlive2511/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
     },
     {
       "match_id": "1090556293_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343521422198_UCL26_MD5_Sabah_FC_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2037140/footlive2511/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
     },
     {
       "match_id": "1090556293_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343521422198_UCL26_MD5_Sabah_FC_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022317/footlive2511/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
     },
     {
       "match_id": "1090556293_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343521422198_UCL26_MD5_Sabah_FC_vs_Barcelona_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022320/footlive2511/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
     },
     {
       "match_id": "1090556292_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795341493241198_UCL26_MD5_Slavia_Praha_vs_Villarreal_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670200~acl=/*~id=39312762550382855732190701704917~hmac=103b4c7303799fcde722b0b3440f212ff62833f7ddf8e17b545c4022abc5edd1"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795670807~acl=/*~id=06601972009501816237487700298060~hmac=93900a4bfbd92bbea9c65d8974d8e38ca7f6ef505c12e794731f7a2f58f7c53a"
     },
     {
       "match_id": 1090555667,
