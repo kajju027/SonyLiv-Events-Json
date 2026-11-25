@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/11/2026, 9:47:40 pm",
+  "updatedAt": "25/11/2026, 9:57:52 pm",
   "total_matches": 12,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243533319330_UYL26_MD5_PSG_vs_roma_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795666563~acl=/*~id=37963680596347356779188929397204~hmac=809bbc67f8bef9b07a0d4771d8ff4e6a28f76647aa30d617cecdf2c1a5123314",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795666563~acl=/*~id=37963680596347356779188929397204~hmac=809bbc67f8bef9b07a0d4771d8ff4e6a28f76647aa30d617cecdf2c1a5123314",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795666563~acl=/*~id=37963680596347356779188929397204~hmac=809bbc67f8bef9b07a0d4771d8ff4e6a28f76647aa30d617cecdf2c1a5123314"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795667169~acl=/*~id=82858021062803289429157108762281~hmac=39586d66556f3382318fb3422515e6e7005cf5c9b905c1ab3663788162637885",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795667169~acl=/*~id=82858021062803289429157108762281~hmac=39586d66556f3382318fb3422515e6e7005cf5c9b905c1ab3663788162637885",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive2511/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795667169~acl=/*~id=82858021062803289429157108762281~hmac=39586d66556f3382318fb3422515e6e7005cf5c9b905c1ab3663788162637885"
     },
     {
       "match_id": 1090555667,
