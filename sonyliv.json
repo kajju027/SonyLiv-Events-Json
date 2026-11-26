@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/11/2026, 11:59:34 pm",
+  "updatedAt": "27/11/2026, 12:09:48 am",
   "total_matches": 6,
   "live_matches": 2,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793601374540623_UEL26_MD5_Olympiacos-vs-Milan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795760723~acl=/*~id=92841918727745698069551324827573~hmac=3fa975b3abb815f4c031459ef6756381e726d87d6984f58d801c66bbbe781789",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795760723~acl=/*~id=92841918727745698069551324827573~hmac=3fa975b3abb815f4c031459ef6756381e726d87d6984f58d801c66bbbe781789",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795760723~acl=/*~id=92841918727745698069551324827573~hmac=3fa975b3abb815f4c031459ef6756381e726d87d6984f58d801c66bbbe781789"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde"
     },
     {
       "match_id": "1090556391_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793611880670259_UEL26_MD5_Real-Club-Celta-vs-AFC-Bournemouth_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795760723~acl=/*~id=92841918727745698069551324827573~hmac=3fa975b3abb815f4c031459ef6756381e726d87d6984f58d801c66bbbe781789",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795760723~acl=/*~id=92841918727745698069551324827573~hmac=3fa975b3abb815f4c031459ef6756381e726d87d6984f58d801c66bbbe781789",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795760723~acl=/*~id=92841918727745698069551324827573~hmac=3fa975b3abb815f4c031459ef6756381e726d87d6984f58d801c66bbbe781789"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795761332~acl=/*~id=60549160768976140827291511997003~hmac=905a9d9e0808be822a00506ed431707501ae3abe413022f4a0acb7f7126b6bde"
     },
     {
       "match_id": 1090556117,
@@ -39,7 +39,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439146883643_NZvsIND_2nd_test_day1_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439206344643_NZvsIND_2nd_test_day1_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
