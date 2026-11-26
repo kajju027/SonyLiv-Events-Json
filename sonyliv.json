@@ -1,74 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 3:14:05 am",
+  "updatedAt": "27/11/2026, 3:24:19 am",
   "total_matches": 23,
   "live_matches": 20,
   "matches": [
     {
-      "match_id": "live_2094590_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "N.E.C. Nijmegen vs Stade Rennais FC [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793799168043417_UEL26_MD5_NEC-Nijmegen-vs-Stade-Rennais-FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094590/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094590/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094590/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2022322_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "Olympique Lyonnais vs Lillestrøm SK [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793614796757259_UEL26_MD5_Olympique-Lyonnais-vs-Lillestrom-SK_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022322/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022322/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2022322/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2037142_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "Sunderland AFC vs Jagiellonia Białystok [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793780399797259_UEL26_MD5_Sunderland-AFC-vs-Jagiellonia-Bialystok_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037142/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037142/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037142/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2105080_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "SCU Torreense vs Celtic FC [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793784262258417_UEL26_MD5_SCU-Torreense-vs-Celtic-FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2105080/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2105080/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2105080/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2118676_ENG",
+      "match_id": "live_2118672_ENG",
       "event_name": "UEFA Conference League 2026-27",
-      "match_name": "FC Nordsjælland vs Panathinaikos FC [ENG]",
+      "match_name": "SC Freiburg vs FC Twente [ENG]",
       "status": "Live",
       "category": "Football",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794912012492281_UECL_26_FC-Nordsjaelland-vs-Panathinaikos-FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118676/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118676/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118676/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029781/1794898163489394_UECL_26_SC-Freiburg-vs-FC-Twente_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118672/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118672/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118672/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
     },
     {
       "match_id": "live_2105079_ENG",
@@ -79,74 +27,9 @@
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029781/1794897650228394_UECL_26_SC-Braga-vs-KuPS-Kuopio_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2105079/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2105079/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2105079/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2037143_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "TSG 1899 Hoffenheim vs SK Sturm Graz [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793781614305417_UEL26_MD5_TSG-1899-Hoffenheim-vs-SK-Sturm-Graz_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037143/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037143/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037143/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2043696_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "OFI Crete FC vs RSC Anderlecht [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793857943834417_UEL26_MD5_OFI-Crete-FC-vs-RSC-Anderlecht_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2043696/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2043696/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2043696/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2118669_ENG",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "KAA Gent vs FK Crvena Zvezda [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794909521792281_UECL_26_KAA-Gent-vs-FK-Crvena-Zvezda_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118669/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118669/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118669/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2118672_ENG",
-      "event_name": "UEFA Conference League 2026-27",
-      "match_name": "SC Freiburg vs FC Twente [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029781/1794898163489394_UECL_26_SC-Freiburg-vs-FC-Twente_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118672/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118672/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118672/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
-    },
-    {
-      "match_id": "live_2037141_ENG",
-      "event_name": "UEFA Europa League 2026-27",
-      "match_name": "Crystal Palace vs Real Sociedad [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793779906534259_UEL26_MD5_Crystal-Palace-vs-Real-Sociedad_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037141/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037141/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037141/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2105079/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2105079/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2105079/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
     },
     {
       "match_id": "live_2037139_ENG",
@@ -157,22 +40,22 @@
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028237/179361934555267_UEL26_MD5_Ferencvarosi-TC-vs-NK-Celje_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037139/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037139/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037139/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
     },
     {
-      "match_id": "live_2037140_ENG",
+      "match_id": "live_2037142_ENG",
       "event_name": "UEFA Europa League 2026-27",
-      "match_name": "Sparta Praha vs AZ Alkmaar [ENG]",
+      "match_name": "Sunderland AFC vs Jagiellonia Białystok [ENG]",
       "status": "Live",
       "category": "Football",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793778333547259_UEL26_MD5_AC-Sparta-Praha-vs-AZ-Alkmaar_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037140/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037140/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2037140/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793780399797259_UEL26_MD5_Sunderland-AFC-vs-Jagiellonia-Bialystok_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037142/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037142/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037142/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
     },
     {
       "match_id": "1090556408_ENG",
@@ -183,9 +66,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793613197482623_UEL26_MD5_Juventus-vs-Omonia-FC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022320/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022320/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2022320/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022320/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022320/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022320/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
+    },
+    {
+      "match_id": "live_2043696_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "OFI Crete FC vs RSC Anderlecht [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793857943834417_UEL26_MD5_OFI-Crete-FC-vs-RSC-Anderlecht_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2043696/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2043696/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2043696/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a"
     },
     {
       "match_id": "live_2118668_ENG",
@@ -196,9 +92,113 @@
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794986835115281_UECL_26_HNK-Hajduk-Split-vs-K-Sint-Truidense-VV_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118668/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118668/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118668/Footlive2611/ENG/master.m3u8?hdnea=exp=1795778032~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=923afb98408f19d01a2b803c2aa93ab921d5191452160404c3bcd092f8f4de65"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118668/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118668/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118668/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
+    },
+    {
+      "match_id": "live_2037143_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "TSG 1899 Hoffenheim vs SK Sturm Graz [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793781614305417_UEL26_MD5_TSG-1899-Hoffenheim-vs-SK-Sturm-Graz_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037143/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037143/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037143/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
+    },
+    {
+      "match_id": "live_2118669_ENG",
+      "event_name": "UEFA Conference League 2026-27",
+      "match_name": "KAA Gent vs FK Crvena Zvezda [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794909521792281_UECL_26_KAA-Gent-vs-FK-Crvena-Zvezda_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118669/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118669/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118669/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a"
+    },
+    {
+      "match_id": "live_2094590_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "N.E.C. Nijmegen vs Stade Rennais FC [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793799168043417_UEL26_MD5_NEC-Nijmegen-vs-Stade-Rennais-FC_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094590/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094590/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094590/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779826~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d8a0eae8b7af8a6d05b6c945face2d1cac29e77792b11ce1a3826cf256551b1"
+    },
+    {
+      "match_id": "live_2037141_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "Crystal Palace vs Real Sociedad [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793779906534259_UEL26_MD5_Crystal-Palace-vs-Real-Sociedad_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037141/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037141/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037141/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a"
+    },
+    {
+      "match_id": "live_2037140_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "Sparta Praha vs AZ Alkmaar [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793778333547259_UEL26_MD5_AC-Sparta-Praha-vs-AZ-Alkmaar_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2037140/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2037140/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2037140/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a"
+    },
+    {
+      "match_id": "live_2022322_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "Olympique Lyonnais vs Lillestrøm SK [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793614796757259_UEL26_MD5_Olympique-Lyonnais-vs-Lillestrom-SK_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2022322/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2022322/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2022322/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a"
+    },
+    {
+      "match_id": "live_2118676_ENG",
+      "event_name": "UEFA Conference League 2026-27",
+      "match_name": "FC Nordsjælland vs Panathinaikos FC [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029937/1794912012492281_UECL_26_FC-Nordsjaelland-vs-Panathinaikos-FC_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118676/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118676/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118676/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a"
+    },
+    {
+      "match_id": "live_2105080_ENG",
+      "event_name": "UEFA Europa League 2026-27",
+      "match_name": "SCU Torreense vs Celtic FC [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029119/1793784262258417_UEL26_MD5_SCU-Torreense-vs-Celtic-FC_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2105080/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2105080/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2105080/Footlive2611/ENG/master.m3u8?hdnea=exp=1795779827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a2825373f01c9ce605e33bb8518bc7ee1896c5f1a2118a8eb54d10f0377fd33a"
     },
     {
       "match_id": "1090556666_ENG",
@@ -209,9 +209,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0"
     },
     {
       "match_id": "1090556666_HIN",
@@ -222,9 +222,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0"
     },
     {
       "match_id": "1090556666_TAM",
@@ -235,9 +235,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0"
     },
     {
       "match_id": "1090556666_TEL",
@@ -248,9 +248,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0"
     },
     {
       "match_id": "1090556666_KAN",
@@ -261,9 +261,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795772242~acl=/*~id=48721239101856345219392852696452~hmac=a91e8341570a6a7fb3a94b2d70c27c41e58c0214f36ac2e4dfc6192956a35cdb"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795772849~acl=/*~id=57248355823676743935316901635697~hmac=fd1269ccb22e749e18270a429c416c06c82bfb0f57d9675b8d5362af6ed8aca0"
     },
     {
       "match_id": "1090556117",
