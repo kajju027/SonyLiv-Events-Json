@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/11/2026, 9:25:44 pm",
+  "updatedAt": "26/11/2026, 9:36:01 pm",
   "total_matches": 10,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95"
     },
     {
       "match_id": "1090556383_HIN",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95"
     },
     {
       "match_id": "1090556383_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95"
     },
     {
       "match_id": "1090556383_TEL",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95"
     },
     {
       "match_id": "1090556383_KAN",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95"
     },
     {
       "match_id": "1090556384_ENG",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029772/1794811512327892_UECL_26_FC-Kairat-Almaty-vs-Mjallby-AIF_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795751596~acl=/*~id=35222199007060493038602683779917~hmac=1ffd19fc74b431028aedfe0594f3f15314198b6cab6bce0955bdb6b844978830"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795752206~acl=/*~id=12703335271666546669771980028952~hmac=e788ba17b984ddfdac59fa1bab230ec404adea540e8e501bb42e2af5455f5b95"
     },
     {
       "match_id": 1090556117,
