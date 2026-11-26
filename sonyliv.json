@@ -1,75 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/11/2026, 11:13:20 pm",
-  "total_matches": 11,
-  "live_matches": 7,
+  "updatedAt": "26/11/2026, 11:23:36 pm",
+  "total_matches": 6,
+  "live_matches": 2,
   "matches": [
-    {
-      "match_id": "1090556383_ENG",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3"
-    },
-    {
-      "match_id": "1090556383_HIN",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3"
-    },
-    {
-      "match_id": "1090556383_TAM",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TAM]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3"
-    },
-    {
-      "match_id": "1090556383_TEL",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3"
-    },
-    {
-      "match_id": "1090556383_KAN",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs India A - Semi-Final - 26 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029928/1795591484279654_ACC_Rising_Star_SF_SRI_vs_IND_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3"
-    },
     {
       "match_id": "1090556385_ENG",
       "event_name": "UEFA Europa League 2026-27",
@@ -79,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028403/1793601374540623_UEL26_MD5_Olympiacos-vs-Milan_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795758271~acl=/*~id=50069790986126205134883080389565~hmac=b93fc17eddcffd9dce3aa9f95f859624558be9b295836d1143b4e0c94de53af0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795758271~acl=/*~id=50069790986126205134883080389565~hmac=b93fc17eddcffd9dce3aa9f95f859624558be9b295836d1143b4e0c94de53af0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795758271~acl=/*~id=50069790986126205134883080389565~hmac=b93fc17eddcffd9dce3aa9f95f859624558be9b295836d1143b4e0c94de53af0"
     },
     {
       "match_id": "1090556391_ENG",
@@ -92,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029126/1793611880670259_UEL26_MD5_Real-Club-Celta-vs-AFC-Bournemouth_live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795757687~acl=/*~id=02789019399791868912177759718168~hmac=bf122dd703e22bebd926f82f0b76a3f892de3753274d0a3a5b7e87f0ede74ad3"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795758271~acl=/*~id=50069790986126205134883080389565~hmac=b93fc17eddcffd9dce3aa9f95f859624558be9b295836d1143b4e0c94de53af0",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795758271~acl=/*~id=50069790986126205134883080389565~hmac=b93fc17eddcffd9dce3aa9f95f859624558be9b295836d1143b4e0c94de53af0",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120308/Footlive2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795758271~acl=/*~id=50069790986126205134883080389565~hmac=b93fc17eddcffd9dce3aa9f95f859624558be9b295836d1143b4e0c94de53af0"
     },
     {
       "match_id": 1090556117,
