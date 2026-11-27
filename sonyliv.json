@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 10:04:50 pm",
-  "total_matches": 5,
-  "live_matches": 2,
+  "updatedAt": "27/11/2026, 10:25:21 pm",
+  "total_matches": 4,
+  "live_matches": 1,
   "matches": [
-    {
-      "match_id": "live_2120301_ENG",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "KSHI vs Churchill Brothers FC [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795846321~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1c3e32beee53937eb56026bb6833a512738ddf86669e8ba8ccc9ea4c214683c1",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795846321~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1c3e32beee53937eb56026bb6833a512738ddf86669e8ba8ccc9ea4c214683c1",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795846321~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1c3e32beee53937eb56026bb6833a512738ddf86669e8ba8ccc9ea4c214683c1"
-    },
     {
       "match_id": "1090556911_ENG",
       "event_name": "ACC Men's Asia Cup Rising Stars 2026",
@@ -27,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795839522~acl=/*~id=67315873451649988779556598032966~hmac=0b4e615595c8e259c5a2e256bc586cea5032659a2eeb389d7cc554f5319779a0",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795839522~acl=/*~id=67315873451649988779556598032966~hmac=0b4e615595c8e259c5a2e256bc586cea5032659a2eeb389d7cc554f5319779a0",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795839522~acl=/*~id=67315873451649988779556598032966~hmac=0b4e615595c8e259c5a2e256bc586cea5032659a2eeb389d7cc554f5319779a0"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795841308~acl=/*~id=33372599308897720405415478432791~hmac=1ff6536dbbcc8b652d239ba1fb7cc993ceafeae525d860fd5e467ceb2fd40428",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795841308~acl=/*~id=33372599308897720405415478432791~hmac=1ff6536dbbcc8b652d239ba1fb7cc993ceafeae525d860fd5e467ceb2fd40428",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795841308~acl=/*~id=33372599308897720405415478432791~hmac=1ff6536dbbcc8b652d239ba1fb7cc993ceafeae525d860fd5e467ceb2fd40428"
     },
     {
       "match_id": "1090547508",
