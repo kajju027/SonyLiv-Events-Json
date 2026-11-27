@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 9:47:57 am",
+  "updatedAt": "27/11/2026, 9:53:05 am",
   "total_matches": 3,
   "live_matches": 3,
   "matches": [
-    {
-      "match_id": "live_2022321_ENG",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd Test - Day 1 [ENG]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67"
-    },
     {
       "match_id": "live_2118867_ENG",
       "event_name": "AO Asia Pacific Wildcard Playoffs 2027",
@@ -27,9 +14,9 @@
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694848783427_AO_wildcard_playoffs_2027_Womens_and_Mens_singles_SFs_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b"
     },
     {
       "match_id": "live_2118865_ENG",
@@ -40,9 +27,22 @@
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795801429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c4a6a470afbec9d35d5e897e2c63c38dfb9af5dc862e63465ab70026dc3f2a67"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b"
+    },
+    {
+      "match_id": "live_2022321_ENG",
+      "event_name": "India Tour of New Zealand 2026",
+      "match_name": "2nd Test - Day 1 [ENG]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795803145~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=38bf3c66b4fc9ab910d2adf0f0e65fd3060060a1869818e191ea5527f223c74b"
     }
   ]
 }
