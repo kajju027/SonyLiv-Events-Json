@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 10:44:12 am",
+  "updatedAt": "27/11/2026, 10:54:27 am",
   "total_matches": 10,
   "live_matches": 7,
   "matches": [
@@ -14,22 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29"
-    },
-    {
-      "match_id": "1090556868_ENG",
-      "event_name": "AO Asia Pacific Wildcard Playoffs 2027",
-      "match_name": "Men's & Women's Singles - Semi-Finals - 27 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Tennis",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694848783427_AO_wildcard_playoffs_2027_Womens_and_Mens_singles_SFs_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85"
     },
     {
       "match_id": "1090556910_ENG",
@@ -40,9 +27,22 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85"
+    },
+    {
+      "match_id": "1090556868_ENG",
+      "event_name": "AO Asia Pacific Wildcard Playoffs 2027",
+      "match_name": "Men's & Women's Singles - Semi-Finals - 27 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Tennis",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694848783427_AO_wildcard_playoffs_2027_Womens_and_Mens_singles_SFs_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85"
     },
     {
       "match_id": "1090556666_HIN",
