@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 7:40:05 am",
+  "updatedAt": "27/11/2026, 7:50:22 am",
   "total_matches": 9,
   "live_matches": 6,
   "matches": [
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893"
     },
     {
       "match_id": "1090556666_TAM",
@@ -53,9 +53,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893"
     },
     {
       "match_id": "1090556666_TEL",
@@ -66,9 +66,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893"
     },
     {
       "match_id": "1090556666_KAN",
@@ -79,9 +79,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795788071~acl=/*~id=71330533328920048758180120604824~hmac=870e312439d9f035ec740a326413b98c73dd0bfff95b93d57d7a02174b13d6b8"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795788681~acl=/*~id=60480897184331597012200244184640~hmac=4feb29ee2ff09a8343cb8c1b35f54b95275a96c5285101e06239f606e5a8e893"
     },
     {
       "match_id": "1090556117",
