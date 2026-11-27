@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 8:53:08 pm",
+  "updatedAt": "27/11/2026, 8:58:16 pm",
   "total_matches": 6,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795841031~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=6f3781c165599ed89c25750ca82057fb1b357c39b0e412eb60cf6610b55ec8aa",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795841031~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=6f3781c165599ed89c25750ca82057fb1b357c39b0e412eb60cf6610b55ec8aa",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795841031~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=6f3781c165599ed89c25750ca82057fb1b357c39b0e412eb60cf6610b55ec8aa"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795842834~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5c8b86f9336eed50f28caa0fbc97d6f233079404e0b2a86d0d9802dbe56ff8af",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795842834~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5c8b86f9336eed50f28caa0fbc97d6f233079404e0b2a86d0d9802dbe56ff8af",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795842834~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5c8b86f9336eed50f28caa0fbc97d6f233079404e0b2a86d0d9802dbe56ff8af"
     },
     {
       "match_id": "1090556911_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795834231~acl=/*~id=04635711096119743037520813834470~hmac=3f1954ef5e0440be27a352c785a8b772324fead663dc8fb1bc889f97a61ee7ec",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795834231~acl=/*~id=04635711096119743037520813834470~hmac=3f1954ef5e0440be27a352c785a8b772324fead663dc8fb1bc889f97a61ee7ec",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795834231~acl=/*~id=04635711096119743037520813834470~hmac=3f1954ef5e0440be27a352c785a8b772324fead663dc8fb1bc889f97a61ee7ec"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795836034~acl=/*~id=28722285099792093646439736961131~hmac=0f0883be78dc4cd17923c273d0d99125479378ced59128011cc80abf9119d252",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795836034~acl=/*~id=28722285099792093646439736961131~hmac=0f0883be78dc4cd17923c273d0d99125479378ced59128011cc80abf9119d252",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795836034~acl=/*~id=28722285099792093646439736961131~hmac=0f0883be78dc4cd17923c273d0d99125479378ced59128011cc80abf9119d252"
     },
     {
       "match_id": "1090556922_HIN",
