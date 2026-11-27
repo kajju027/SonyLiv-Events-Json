@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 3:56:13 pm",
+  "updatedAt": "27/11/2026, 4:21:47 pm",
   "total_matches": 4,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795817974~acl=/*~id=67121209055712936975261769970341~hmac=ad9b0d291a835ae541acbf612cba924a8cbb01a7055b8b46d35b0cc9b4ec0eaf",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795817974~acl=/*~id=67121209055712936975261769970341~hmac=ad9b0d291a835ae541acbf612cba924a8cbb01a7055b8b46d35b0cc9b4ec0eaf",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795817974~acl=/*~id=67121209055712936975261769970341~hmac=ad9b0d291a835ae541acbf612cba924a8cbb01a7055b8b46d35b0cc9b4ec0eaf"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795819797~acl=/*~id=06627040925163024626196216838162~hmac=b934728ef2094045e03a82b4370d2f2244cd7ce4ed7290a39d30388f7c0ff5cb",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795819797~acl=/*~id=06627040925163024626196216838162~hmac=b934728ef2094045e03a82b4370d2f2244cd7ce4ed7290a39d30388f7c0ff5cb",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795819797~acl=/*~id=06627040925163024626196216838162~hmac=b934728ef2094045e03a82b4370d2f2244cd7ce4ed7290a39d30388f7c0ff5cb"
     },
     {
       "match_id": "1090556117",
@@ -52,7 +52,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026531/1792220168107930_Indian_Super_League_Football_Landscape_Thumb_Dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030151/1795770436416187_ISL_East_Bngal_vs_Mohun_Bagan_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
