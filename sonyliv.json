@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 9:44:23 pm",
+  "updatedAt": "27/11/2026, 9:54:38 pm",
   "total_matches": 6,
   "live_matches": 3,
   "matches": [
-    {
-      "match_id": "1090556911_ENG",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795837501~acl=/*~id=60215560071248828109168747877156~hmac=6ba711f648641ba284f4d1d3c7564c02183daf6dd949dcc1e72494c342ce3712",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795837501~acl=/*~id=60215560071248828109168747877156~hmac=6ba711f648641ba284f4d1d3c7564c02183daf6dd949dcc1e72494c342ce3712",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795837501~acl=/*~id=60215560071248828109168747877156~hmac=6ba711f648641ba284f4d1d3c7564c02183daf6dd949dcc1e72494c342ce3712"
-    },
     {
       "match_id": "1090556922_ENG",
       "event_name": "MG Indian Super League 2026-27",
@@ -27,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795844597~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=dbf46ede2d7a4ea21da9d17a6f880bf4992c3f7ac38d9bfa18480a689079cd59",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795844597~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=dbf46ede2d7a4ea21da9d17a6f880bf4992c3f7ac38d9bfa18480a689079cd59",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795844597~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=dbf46ede2d7a4ea21da9d17a6f880bf4992c3f7ac38d9bfa18480a689079cd59"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795846321~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1c3e32beee53937eb56026bb6833a512738ddf86669e8ba8ccc9ea4c214683c1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795846321~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1c3e32beee53937eb56026bb6833a512738ddf86669e8ba8ccc9ea4c214683c1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795846321~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1c3e32beee53937eb56026bb6833a512738ddf86669e8ba8ccc9ea4c214683c1"
+    },
+    {
+      "match_id": "1090556911_ENG",
+      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
+      "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795839522~acl=/*~id=67315873451649988779556598032966~hmac=0b4e615595c8e259c5a2e256bc586cea5032659a2eeb389d7cc554f5319779a0",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795839522~acl=/*~id=67315873451649988779556598032966~hmac=0b4e615595c8e259c5a2e256bc586cea5032659a2eeb389d7cc554f5319779a0",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795839522~acl=/*~id=67315873451649988779556598032966~hmac=0b4e615595c8e259c5a2e256bc586cea5032659a2eeb389d7cc554f5319779a0"
     },
     {
       "match_id": "1090556922_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795839103~acl=/*~id=55260907919889369886816844932738~hmac=efb19c726e54c30b7da23807aa019c8ac1e7c81f109d68e434597eb3646ab432",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795839103~acl=/*~id=55260907919889369886816844932738~hmac=efb19c726e54c30b7da23807aa019c8ac1e7c81f109d68e434597eb3646ab432",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795839103~acl=/*~id=55260907919889369886816844932738~hmac=efb19c726e54c30b7da23807aa019c8ac1e7c81f109d68e434597eb3646ab432"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795839711~acl=/*~id=98409874952567147150579010085251~hmac=1fc1ee17456c80fc667f58bc4ed141795824da6d290dc73e083c836e4a12fb60",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795839711~acl=/*~id=98409874952567147150579010085251~hmac=1fc1ee17456c80fc667f58bc4ed141795824da6d290dc73e083c836e4a12fb60",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795839711~acl=/*~id=98409874952567147150579010085251~hmac=1fc1ee17456c80fc667f58bc4ed141795824da6d290dc73e083c836e4a12fb60"
     },
     {
       "match_id": "1090547508",
