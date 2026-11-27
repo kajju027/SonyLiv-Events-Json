@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 8:07:01 pm",
+  "updatedAt": "27/11/2026, 8:17:16 pm",
   "total_matches": 6,
   "live_matches": 3,
   "matches": [
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795833010~acl=/*~id=32515740783511759360313646525390~hmac=c2162f976020499f92a9486658face116f806778eb514c02296bad9132c94318",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795833010~acl=/*~id=32515740783511759360313646525390~hmac=c2162f976020499f92a9486658face116f806778eb514c02296bad9132c94318",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795833010~acl=/*~id=32515740783511759360313646525390~hmac=c2162f976020499f92a9486658face116f806778eb514c02296bad9132c94318"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795833621~acl=/*~id=58782302750720994492668927462788~hmac=c40c760c230da281f8c7dafef56cf4d4e05c34093c7b2e17cecc79ab85ed91d1",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795833621~acl=/*~id=58782302750720994492668927462788~hmac=c40c760c230da281f8c7dafef56cf4d4e05c34093c7b2e17cecc79ab85ed91d1",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795833621~acl=/*~id=58782302750720994492668927462788~hmac=c40c760c230da281f8c7dafef56cf4d4e05c34093c7b2e17cecc79ab85ed91d1"
     },
     {
       "match_id": "1090547508",
