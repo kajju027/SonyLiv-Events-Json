@@ -1,17 +1,17 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 12:06:07 pm",
+  "updatedAt": "27/11/2026, 12:16:20 pm",
   "total_matches": 5,
   "live_matches": 2,
   "matches": [
     {
-      "match_id": "1090556910_ENG",
+      "match_id": "live_2118865_ENG",
       "event_name": "DP World Tour",
-      "match_name": "BMW Australian PGA Championship - Day 2 - 27 Nov 2026 [ENG]",
+      "match_name": "BMW Australian PGA Championship - Day 2 [ENG]",
       "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg",
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795810433~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=801febd7b7f8786c67db1af3f49abd3df90e249bd4fdb305a6cb5ce3b54e29be",
