@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 11:55:55 am",
-  "total_matches": 10,
-  "live_matches": 7,
+  "updatedAt": "27/11/2026, 12:06:07 pm",
+  "total_matches": 5,
+  "live_matches": 2,
   "matches": [
     {
       "match_id": "1090556910_ENG",
@@ -30,71 +30,6 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795810433~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=801febd7b7f8786c67db1af3f49abd3df90e249bd4fdb305a6cb5ce3b54e29be",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795810433~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=801febd7b7f8786c67db1af3f49abd3df90e249bd4fdb305a6cb5ce3b54e29be",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795810433~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=801febd7b7f8786c67db1af3f49abd3df90e249bd4fdb305a6cb5ce3b54e29be"
-    },
-    {
-      "match_id": "1090556666_ENG",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd Test - Day 1 - 27 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119931/cricodi_2611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e"
-    },
-    {
-      "match_id": "1090556666_HIN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd Test - Day 1 - 27 Nov 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119921/cricodi_2611/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e"
-    },
-    {
-      "match_id": "1090556666_TAM",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd Test - Day 1 - 27 Nov 2026 [TAM]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119951/cricodi_2611/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e"
-    },
-    {
-      "match_id": "1090556666_TEL",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd Test - Day 1 - 27 Nov 2026 [TEL]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119941/cricodi_2611/TEL/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e"
-    },
-    {
-      "match_id": "1090556666_KAN",
-      "event_name": "India Tour of New Zealand 2026",
-      "match_name": "2nd Test - Day 1 - 27 Nov 2026 [KAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2119782/cricodi_2611/KAN/std_lrh-800300010.m3u8?hdnea=exp=1795803919~acl=/*~id=46612531824706058159523223485131~hmac=7845dba48b6d41ef092d7b9e0452539d62cb3dc8cd4461a86bf347c6dc84f78e"
     },
     {
       "match_id": "1090556117",
