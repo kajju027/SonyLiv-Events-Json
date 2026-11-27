@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 7:50:22 am",
+  "updatedAt": "27/11/2026, 7:55:30 am",
   "total_matches": 9,
   "live_matches": 6,
   "matches": [
-    {
-      "match_id": "1090556910_ENG",
-      "event_name": "DP World Tour",
-      "match_name": "BMW Australian PGA Championship - Day 2 - 27 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952"
-    },
     {
       "match_id": "1090556666_ENG",
       "event_name": "India Tour of New Zealand 2026",
@@ -27,9 +14,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795794226~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5fbdb7cca7e9745826975b0ff5e63199d002ee75d3dc08577bcc78d51ed16952"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795796028~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d33de056813ebd7c16c1e451789c63e32589b0f5a88f11177c9e193149ebf952",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795796028~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d33de056813ebd7c16c1e451789c63e32589b0f5a88f11177c9e193149ebf952",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795796028~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d33de056813ebd7c16c1e451789c63e32589b0f5a88f11177c9e193149ebf952"
+    },
+    {
+      "match_id": "1090556910_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "BMW Australian PGA Championship - Day 2 - 27 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795796028~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d33de056813ebd7c16c1e451789c63e32589b0f5a88f11177c9e193149ebf952",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795796028~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d33de056813ebd7c16c1e451789c63e32589b0f5a88f11177c9e193149ebf952",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795796028~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d33de056813ebd7c16c1e451789c63e32589b0f5a88f11177c9e193149ebf952"
     },
     {
       "match_id": "1090556666_HIN",
