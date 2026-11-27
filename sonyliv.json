@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 2:58:59 pm",
+  "updatedAt": "27/11/2026, 2:59:57 pm",
   "total_matches": 5,
   "live_matches": 2,
   "matches": [
@@ -19,12 +19,12 @@
       "video_url": "https://sonydaime.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795821232~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=c619d70cdd675804ddb86ce7025a8a42e456edf6b85e65995461acbbd7f2bf3c"
     },
     {
-      "match_id": "1090556911_ENG",
+      "match_id": "live_2120299_ENG",
       "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
+      "match_name": "Pakistan A vs Bangladesh A - Semi-Final [ENG]",
       "status": "Live",
       "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
+      "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795814432~acl=/*~id=03028719362836718699102298873974~hmac=7d1de365584060b9fb2b8d7860123eb8cfbdb24d65c51eea8ca8cc6ce9f6f198",
