@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 6:24:37 pm",
-  "total_matches": 4,
-  "live_matches": 1,
+  "updatedAt": "27/11/2026, 6:39:55 pm",
+  "total_matches": 6,
+  "live_matches": 3,
   "matches": [
     {
       "match_id": "1090556911_ENG",
@@ -17,6 +17,32 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795826755~acl=/*~id=48277575595520682983251574162462~hmac=79b46315408201bdff58d719b70023333f06f96b8a628ea30e02074afb791608",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795826755~acl=/*~id=48277575595520682983251574162462~hmac=79b46315408201bdff58d719b70023333f06f96b8a628ea30e02074afb791608",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795826755~acl=/*~id=48277575595520682983251574162462~hmac=79b46315408201bdff58d719b70023333f06f96b8a628ea30e02074afb791608"
+    },
+    {
+      "match_id": "1090556922_ENG",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "KSHI vs Churchill Brothers FC - 27 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795828146~acl=/*~id=42215560377975039418605811440776~hmac=618c55a9fb107e05a490e35b57b7a02502690c09e461de171ca1d74a026937d7",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795828146~acl=/*~id=42215560377975039418605811440776~hmac=618c55a9fb107e05a490e35b57b7a02502690c09e461de171ca1d74a026937d7",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795828146~acl=/*~id=42215560377975039418605811440776~hmac=618c55a9fb107e05a490e35b57b7a02502690c09e461de171ca1d74a026937d7"
+    },
+    {
+      "match_id": "1090556922_HIN",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "KSHI vs Churchill Brothers FC - 27 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795828146~acl=/*~id=42215560377975039418605811440776~hmac=618c55a9fb107e05a490e35b57b7a02502690c09e461de171ca1d74a026937d7",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795828146~acl=/*~id=42215560377975039418605811440776~hmac=618c55a9fb107e05a490e35b57b7a02502690c09e461de171ca1d74a026937d7",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795828146~acl=/*~id=42215560377975039418605811440776~hmac=618c55a9fb107e05a490e35b57b7a02502690c09e461de171ca1d74a026937d7"
     },
     {
       "match_id": "1090547508",
