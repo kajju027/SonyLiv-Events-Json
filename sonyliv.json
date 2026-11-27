@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 7:15:46 pm",
+  "updatedAt": "27/11/2026, 7:26:00 pm",
   "total_matches": 6,
   "live_matches": 3,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795835632~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3f364f24b4deb9c9d6d8b4273f42cf44ed59e0a29380bcf20d7b253969d38fc0",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795835632~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3f364f24b4deb9c9d6d8b4273f42cf44ed59e0a29380bcf20d7b253969d38fc0",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795835632~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3f364f24b4deb9c9d6d8b4273f42cf44ed59e0a29380bcf20d7b253969d38fc0"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795837430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=eb6ea9538dc65aa3d196fdb3a08a6ef0544c1843f1b647d5fb464c1bd6b45631",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795837430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=eb6ea9538dc65aa3d196fdb3a08a6ef0544c1843f1b647d5fb464c1bd6b45631",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795837430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=eb6ea9538dc65aa3d196fdb3a08a6ef0544c1843f1b647d5fb464c1bd6b45631"
     },
     {
       "match_id": "1090556911_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795828833~acl=/*~id=11865425634165465817401055618486~hmac=c4964aebdf6dc0d3d0be592cfb496d3db03cf52adf0661634ac40d220549086e",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795828833~acl=/*~id=11865425634165465817401055618486~hmac=c4964aebdf6dc0d3d0be592cfb496d3db03cf52adf0661634ac40d220549086e",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795828833~acl=/*~id=11865425634165465817401055618486~hmac=c4964aebdf6dc0d3d0be592cfb496d3db03cf52adf0661634ac40d220549086e"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795830630~acl=/*~id=20578819920586301480310219131986~hmac=b5af4b8a651f24b2048e79aa92a73527da43ba96ded05607543db03ad43294c5",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795830630~acl=/*~id=20578819920586301480310219131986~hmac=b5af4b8a651f24b2048e79aa92a73527da43ba96ded05607543db03ad43294c5",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795830630~acl=/*~id=20578819920586301480310219131986~hmac=b5af4b8a651f24b2048e79aa92a73527da43ba96ded05607543db03ad43294c5"
     },
     {
       "match_id": "1090556922_HIN",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795829966~acl=/*~id=24613820995424933772484012306466~hmac=ac1889e783333ba592d654b5b1f610a9cb9af12b5be24aac0d6ef7bf8138e061",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795829966~acl=/*~id=24613820995424933772484012306466~hmac=ac1889e783333ba592d654b5b1f610a9cb9af12b5be24aac0d6ef7bf8138e061",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795829966~acl=/*~id=24613820995424933772484012306466~hmac=ac1889e783333ba592d654b5b1f610a9cb9af12b5be24aac0d6ef7bf8138e061"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795830573~acl=/*~id=18130880269827097256162924351092~hmac=281d20e1d82d8bbabf4bfab5a0f7a78b3bdced052245c9c918e6bd7833f38f3c",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795830573~acl=/*~id=18130880269827097256162924351092~hmac=281d20e1d82d8bbabf4bfab5a0f7a78b3bdced052245c9c918e6bd7833f38f3c",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/Footlive2711/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795830573~acl=/*~id=18130880269827097256162924351092~hmac=281d20e1d82d8bbabf4bfab5a0f7a78b3bdced052245c9c918e6bd7833f38f3c"
     },
     {
       "match_id": "1090547508",
