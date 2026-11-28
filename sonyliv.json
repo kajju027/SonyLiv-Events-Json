@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/11/2026, 9:50:45 am",
+  "updatedAt": "28/11/2026, 9:55:53 am",
   "total_matches": 8,
   "live_matches": 5,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795887833~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=171a832fdb0ce674f69038e5ce032ca89a077ccd42c30cb3f2d86788446a8a0a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795887833~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=171a832fdb0ce674f69038e5ce032ca89a077ccd42c30cb3f2d86788446a8a0a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795887833~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=171a832fdb0ce674f69038e5ce032ca89a077ccd42c30cb3f2d86788446a8a0a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795889629~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=db942169d7c9d32696d05c56237b7f85cfeeb08e2987f06185528143faa8e625",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795889629~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=db942169d7c9d32696d05c56237b7f85cfeeb08e2987f06185528143faa8e625",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795889629~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=db942169d7c9d32696d05c56237b7f85cfeeb08e2987f06185528143faa8e625"
     },
     {
       "match_id": "1090556990_HIN",
