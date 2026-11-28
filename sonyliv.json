@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/11/2026, 8:55:04 pm",
+  "updatedAt": "28/11/2026, 9:00:15 pm",
   "total_matches": 6,
   "live_matches": 3,
   "matches": [
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795922252~acl=/*~id=26490201264154089484183057165163~hmac=716f40c1596df5be6b744a668e6cb29e5802e476a54533bb1e4d189b55bd063c",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795922252~acl=/*~id=26490201264154089484183057165163~hmac=716f40c1596df5be6b744a668e6cb29e5802e476a54533bb1e4d189b55bd063c",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795922252~acl=/*~id=26490201264154089484183057165163~hmac=716f40c1596df5be6b744a668e6cb29e5802e476a54533bb1e4d189b55bd063c"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795922859~acl=/*~id=64037662608710775507635086058392~hmac=a1e4121f9978463b123d479f618593b00241c10bbe8928e2ee012367cda8bb9b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795922859~acl=/*~id=64037662608710775507635086058392~hmac=a1e4121f9978463b123d479f618593b00241c10bbe8928e2ee012367cda8bb9b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795922859~acl=/*~id=64037662608710775507635086058392~hmac=a1e4121f9978463b123d479f618593b00241c10bbe8928e2ee012367cda8bb9b"
     },
     {
       "match_id": "1090557001_TAM",
@@ -40,9 +40,9 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "TAMIL",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030150/1795772821080275_ISL26_ChennaiyinFC_vs_MumbaiCityFC_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795922252~acl=/*~id=26490201264154089484183057165163~hmac=716f40c1596df5be6b744a668e6cb29e5802e476a54533bb1e4d189b55bd063c",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795922252~acl=/*~id=26490201264154089484183057165163~hmac=716f40c1596df5be6b744a668e6cb29e5802e476a54533bb1e4d189b55bd063c",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795922252~acl=/*~id=26490201264154089484183057165163~hmac=716f40c1596df5be6b744a668e6cb29e5802e476a54533bb1e4d189b55bd063c"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795922859~acl=/*~id=64037662608710775507635086058392~hmac=a1e4121f9978463b123d479f618593b00241c10bbe8928e2ee012367cda8bb9b",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795922859~acl=/*~id=64037662608710775507635086058392~hmac=a1e4121f9978463b123d479f618593b00241c10bbe8928e2ee012367cda8bb9b",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120306/Footlive2811/TAM/std_lrh-800300010.m3u8?hdnea=exp=1795922859~acl=/*~id=64037662608710775507635086058392~hmac=a1e4121f9978463b123d479f618593b00241c10bbe8928e2ee012367cda8bb9b"
     },
     {
       "match_id": "1090557192",
