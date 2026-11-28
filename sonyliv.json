@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/11/2026, 11:17:43 am",
+  "updatedAt": "28/11/2026, 11:22:50 am",
   "total_matches": 9,
   "live_matches": 6,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795894970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=846b210a0d6dcae2dbcfd433e1c2274fec5f79ba9df3c44f21a5bbe3cc2a2559",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795894970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=846b210a0d6dcae2dbcfd433e1c2274fec5f79ba9df3c44f21a5bbe3cc2a2559",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795894970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=846b210a0d6dcae2dbcfd433e1c2274fec5f79ba9df3c44f21a5bbe3cc2a2559"
     },
     {
       "match_id": "1090556990_ENG",
@@ -27,9 +27,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a"
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795894970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=846b210a0d6dcae2dbcfd433e1c2274fec5f79ba9df3c44f21a5bbe3cc2a2559",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795894970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=846b210a0d6dcae2dbcfd433e1c2274fec5f79ba9df3c44f21a5bbe3cc2a2559",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795894970~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=846b210a0d6dcae2dbcfd433e1c2274fec5f79ba9df3c44f21a5bbe3cc2a2559"
     },
     {
       "match_id": "1090556990_HIN",
