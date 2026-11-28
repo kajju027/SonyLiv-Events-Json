@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/11/2026, 1:25:27 pm",
+  "updatedAt": "28/11/2026, 1:56:10 pm",
   "total_matches": 5,
   "live_matches": 1,
   "matches": [
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795902229~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=db26581aa570d96ac45655c7e14c4fe5b83ae82e6a9b6efee161ad0237901c76",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795902229~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=db26581aa570d96ac45655c7e14c4fe5b83ae82e6a9b6efee161ad0237901c76",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795902229~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=db26581aa570d96ac45655c7e14c4fe5b83ae82e6a9b6efee161ad0237901c76"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795904030~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f6fd412b0d271ab70c0b4f71b9b420f834319a503f2b5016ac25ae508dcd333b",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795904030~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f6fd412b0d271ab70c0b4f71b9b420f834319a503f2b5016ac25ae508dcd333b",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795904030~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=f6fd412b0d271ab70c0b4f71b9b420f834319a503f2b5016ac25ae508dcd333b"
     },
     {
       "match_id": "1090557192",
