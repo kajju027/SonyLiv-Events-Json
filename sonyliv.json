@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/11/2026, 3:53:39 pm",
-  "total_matches": 5,
-  "live_matches": 2,
+  "updatedAt": "28/11/2026, 3:58:46 pm",
+  "total_matches": 4,
+  "live_matches": 1,
   "matches": [
     {
       "match_id": "1090557000_ENG",
@@ -17,19 +17,6 @@
       "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795911233~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=68eb9cbaaeb7ef227ac555b49e7225cdac1d713e5e348f19cd2256dbd0a461c3",
       "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795911233~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=68eb9cbaaeb7ef227ac555b49e7225cdac1d713e5e348f19cd2256dbd0a461c3",
       "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795911233~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=68eb9cbaaeb7ef227ac555b49e7225cdac1d713e5e348f19cd2256dbd0a461c3"
-    },
-    {
-      "match_id": "1090556998_ENG",
-      "event_name": "AO Asia Pacific Wildcard Playoffs 2027",
-      "match_name": "Men's & Women's Singles - Final - 28 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Tennis",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795904072~acl=/*~id=04550205305839139532108941418913~hmac=a5217c38911403ef2a32acc71c3363efa724fe982cc10ec704e06ffc335a0bb6",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795904072~acl=/*~id=04550205305839139532108941418913~hmac=a5217c38911403ef2a32acc71c3363efa724fe982cc10ec704e06ffc335a0bb6",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795904072~acl=/*~id=04550205305839139532108941418913~hmac=a5217c38911403ef2a32acc71c3363efa724fe982cc10ec704e06ffc335a0bb6"
     },
     {
       "match_id": "1090557192",
